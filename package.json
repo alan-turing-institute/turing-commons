@@ -1,140 +1,106 @@
-# Configuration
-theme:
-  name: null
-  custom_dir: !ENV [THEME_DIR, "material"]
-
-  # Static files
-  static_templates:
-    - 404.html
-
-  # Don't include MkDocs' JavaScript
-  include_search_page: false
-  search_index_only: true
-
-  # Default values, taken from mkdocs_theme.yml
-  language: en
-  features:
-    - announce.dismiss
-    - content.code.annotate
-    # - content.tabs.link
-    # - header.autohide
-    # - navigation.expand
-    - navigation.indexes
-    # - navigation.instant
-    - navigation.sections
-    - navigation.tabs
-    # - navigation.tabs.sticky
-    - navigation.top
-    - navigation.tracking
-    - search.highlight
-    - search.share
-    - search.suggest
-    - toc.follow
-    # - toc.integrate
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
-    - scheme: slate
-      primary: red
-      accent: red
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to light mode
-  font:
-    text: Roboto
-    code: Roboto Mono
-  favicon: assets/favicon.png
-  icon:
-    logo: logo
-
-# Plugins
-plugins:
-  - search:
-      separator: "[\\s\\-,:!=\\[\\]()\"/]+|\\.(?!\\d)|&[lg]t;|(?!\\b)(?=[A-Z][a-z])"
-  - social
-  - redirects:
-      redirect_maps:
-        changelog/insiders.md: insiders/changelog.md
-        conventions.md: philosophy.md
-        reference/meta-tags.md: reference/index.md
-        reference/variables.md: https://mkdocs-macros-plugin.readthedocs.io/
-        sponsorship.md: insiders/index.md
-        upgrading.md: upgrade.md
-  - minify:
-      minify_html: true
-
-# Customization
-extra:
-  analytics:
-    provider: google
-    property: !ENV GOOGLE_ANALYTICS_KEY
-    feedback:
-      title: Was this page helpful?
-      ratings:
-        - icon: material/emoticon-happy-outline
-          name: This page was helpful
-          data: 1
-          note: Thanks for your feedback!
-        - icon: material/emoticon-sad-outline
-          name: This page could be improved
-          data: 0
-          note: >-
-            Thanks for your feedback! Help us improve this page by
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSe8L5YDggZiVjgvBKfv-XCdbQAEJrseRh8MBh-jS92TU2aqzw/viewform?usp=pp_url&entry.853143515={url}" target=_blank>telling us what you're missing</a>.
-
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/squidfunk
-    - icon: fontawesome/brands/gitter
-      link: https://gitter.im/squidfunk/mkdocs-material
-    - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/r/squidfunk/mkdocs-material/
-    - icon: fontawesome/brands/python
-      link: https://pypi.org/project/mkdocs-material/
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/squidfunk
-
-# Extensions
-markdown_extensions:
-  - abbr
-  - admonition
-  - attr_list
-  - def_list
-  - footnotes
-  - meta
-  - md_in_html
-  - toc:
-      permalink: true
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-      emoji_index: !!python/name:materialx.emoji.twemoji
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.magiclink:
-      repo_url_shorthand: true
-      user: squidfunk
-      repo: mkdocs-material
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.tabbed:
-      alternate_style: true
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
+{
+  "name": "mkdocs-material",
+  "version": "8.2.8+insiders-4.12.0",
+  "description": "A Material Design theme for MkDocs",
+  "keywords": [
+    "mkdocs",
+    "documentation",
+    "theme"
+  ],
+  "homepage": "https://squidfunk.github.io/mkdocs-material/",
+  "bugs": {
+    "url": "https://github.com/squidfunk/mkdocs-material/issues",
+    "email": "martin.donath@squidfunk.com"
+  },
+  "license": "MIT",
+  "private": true,
+  "author": {
+    "name": "Martin Donath",
+    "email": "martin.donath@squidfunk.com"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/squidfunk/mkdocs-material.git"
+  },
+  "scripts": {
+    "build": "rimraf material && ts-node -T tools/build --optimize",
+    "build:dirty": "ts-node -T tools/build --dirty",
+    "clean": "rimraf material",
+    "check": "run-p check:*",
+    "check:build": "tsc --noEmit",
+    "check:style": "run-p check:style:*",
+    "check:style:scss": "stylelint \"src/**/*.scss\"",
+    "check:style:ts": "eslint --cache \"src/**/*.ts\"",
+    "start": "ts-node -T tools/build --verbose --dirty --watch",
+    "upgrade": "run-s upgrade:*",
+    "upgrade:bump": "ncu --upgrade --filterVersion \"/^\\^/\"",
+    "upgrade:install": "npm install"
+  },
+  "dependencies": {
+    "array-flat-polyfill": "^1.0.1",
+    "clipboard": "^2.0.10",
+    "escape-html": "^1.0.3",
+    "focus-visible": "^5.2.0",
+    "fuzzaldrin-plus": "^0.6.0",
+    "iframe-worker": "^0.2.4",
+    "lunr": "^2.3.9",
+    "lunr-languages": "^1.9.0",
+    "resize-observer-polyfill": "^1.5.1",
+    "rxjs": "^7.5.5",
+    "unfetch": "^4.2.0",
+    "url-polyfill": "^1.1.12"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.1",
+    "@mdi/svg": "^6.6.96",
+    "@primer/octicons": "^17.0.0",
+    "@types/clipboard": "^2.0.7",
+    "@types/css-modules": "^1.0.2",
+    "@types/escape-html": "1.0.1",
+    "@types/fuzzaldrin-plus": "^0.6.2",
+    "@types/html-minifier": "^4.0.2",
+    "@types/lunr": "^2.3.4",
+    "@types/node": "^17.0.23",
+    "@types/resize-observer-browser": "^0.1.7",
+    "@types/sass": "^1.43.1",
+    "@typescript-eslint/eslint-plugin": "^5.17.0",
+    "@typescript-eslint/parser": "^5.17.0",
+    "autoprefixer": "^10.4.4",
+    "chokidar": "^3.5.3",
+    "cssnano": "5.1.0",
+    "esbuild": "^0.14.31",
+    "eslint": "^8.12.0",
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jsdoc": "^38.1.6",
+    "eslint-plugin-no-null": "^1.0.2",
+    "github-types": "^1.0.0",
+    "gitlab": "^14.2.2",
+    "google-fonts-complete": "^2.1.1",
+    "html-minifier": "^4.0.0",
+    "material-design-color": "^2.3.2",
+    "material-shadows": "^3.0.1",
+    "npm-check-updates": "^12.5.7",
+    "npm-run-all": "^4.1.5",
+    "postcss": "^8.4.12",
+    "postcss-dir-pseudo-class": "^6.0.4",
+    "postcss-inline-svg": "^5.0.0",
+    "postcss-logical": "^5.0.4",
+    "preact": "^10.7.0",
+    "rimraf": "^3.0.2",
+    "sass": "^1.49.11",
+    "stylelint": "^14.6.1",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-recommended": "^7.0.0",
+    "stylelint-config-standard-scss": "^3.0.0",
+    "stylelint-scss": "^4.2.0",
+    "svgo": "^2.8.0",
+    "tiny-glob": "^0.2.9",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  },
+  "engines": {
+    "node": ">= 16"
+  }
+}
