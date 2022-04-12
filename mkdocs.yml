@@ -1,0 +1,224 @@
+# Copyright (c) 2016-2022 Martin Donath <martin.donath@squidfunk.com>
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to
+# deal in the Software without restriction, including without limitation the
+# rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+# sell copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in
+# all copies or substantial portions of the Software.
+
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+# FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+# IN THE SOFTWARE.
+
+# Project information
+site_name: Turing Commons
+site_url: https://turing-commons.netlify.app
+repo_url: https://github.com/alan-turing-institute/turing-commons
+repo_name: alan-turing-institute/turing-commons
+site_description: >-
+  An online platform to support open dialogue and reflection about the responsible design, development, and deployment of data-driven technologies.
+
+# Configuration
+theme:
+  name: null
+  custom_dir: !ENV [THEME_DIR, "material"]
+
+  # Static files
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  features:
+    - announce.dismiss
+    - content.code.annotate
+    # - content.tabs.link
+    # - header.autohide
+    # - navigation.expand
+    - navigation.indexes
+    # - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+  palette:
+    - scheme: default
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/logo.png
+  icon:
+    logo: material/vector-circle
+    admonition:
+      bug: octicons/database-16
+
+# Plugins
+plugins:
+  - search:
+      separator: "[\\s\\-,:!=\\[\\]()\"/]+|\\.(?!\\d)|&[lg]t;|(?!\\b)(?=[A-Z][a-z])"
+  - mkdocs-jupyter
+
+# Customization
+extra:
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >-
+            Thanks for your feedback! Help us improve this page by
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSe8L5YDggZiVjgvBKfv-XCdbQAEJrseRh8MBh-jS92TU2aqzw/viewform?usp=pp_url&entry.853143515={url}" target=_blank>telling us what you're missing</a>.
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+extra_css:
+  - stylesheets/extra.css
+
+# Page tree
+nav:
+  - Home: index.md
+  - Welcome: welcome.md
+  - Responsible Research and Innovation:
+    - About this Course: rri/index.md
+    - Introduction: rri/intro/index.md
+    - What is Responsible Research and Innovation: 
+      - Introduction: rri/chapter1/index.md
+      - What is Responsibility: rri/chapter1/responsibility.md
+      - A Short History of RRI: rri/chapter1/history.md
+      - Science, Technology, and Society: rri/chapter1/sts.md
+      - Science and Technology Studies Timeline: rri/chapter1/timeline.md
+    - Responsible Data Science and AI:
+      - Introduction: rri/chapter2/index.md
+      - What is Responsible Data Science and AI: rri/chapter2/responsible_ds.md
+      - Introducing the Project Lifecycle: rri/chapter2/project_lifecycle.md
+      - Roles and Responsibilities: rri/chapter2/roles_responsibility.md
+      - Understanding Bias: rri/chapter2/understanding_bias.md
+    - The Project Lifecycle:
+      - Introduction: rri/chapter3/index.md
+      - Case Studies: rri/chapter3/case_studies.md
+      - Project Planning: rri/chapter3/project_design/planning.md
+      - Problem Formulation: rri/chapter3/project_design/problem.md
+      - Data Extraction or Procurement: rri/chapter3/project_design/data_extraction.md
+      - Data Analysis: rri/chapter3/project_design/data_analysis.ipynb
+      - Preprocessing and Feature Engineering: rri/chapter3/model_development/preprocessing.md
+      - Model Selection and Training: rri/chapter3/model_development/model_selection.md
+      - Model Testing and Validation: rri/chapter3/model_development/model_testing.md
+      - Model Reporting: rri/chapter3/model_development/model_reporting.md
+      - Model Productionalisation: rri/chapter3/system_deployment/model_productionalisation.md
+      - User Training: rri/chapter3/system_deployment/user_training.md
+      - System Use and Monitoring: rri/chapter3/system_deployment/system_use.ipynb
+      - Model Updating or Deprovisioning: rri/chapter3/system_deployment/model_updating.md
+      - Next Steps: rri/chapter3/summary.md
+    - Responsible Communication:
+      - Introduction: rri/chapter4/index.md
+      - What is Argument-Based Assurance: rri/chapter4/assurance.md
+      - Assurance and Responsible Communication: rri/chapter4/communication.md
+      - Goals, Properties, and Evidence: rri/chapter4/gpe.md
+    - Conclusion: rri/conclusion/index.md
+    - Resources:
+      - Additional Resources: rri/resources/index.md
+      - Further Reading: rri/resources/further-reading.md
+      - Course Participants: rri/resources/participants.md
+
+  - Public Engagement of Data Science and AI:
+    - About this Course: ped/index.md
+    - What is Public Engagement?:
+      - Introduction: ped/chapter1/index.md
+      - Climbing the Ladder: ped/chapter1/ladder.md
+      - Goals of Public Engagement: ped/chapter1/goals.md
+    - The Value(s) of Public Engagement:
+      - Introduction: ped/chapter2/index.md
+      - Deliberative Values: ped/chapter2/deliberation.md
+      - Responsible Public Engagement: ped/chapter2/responsible.md
+    - Facilitating Public Engagement:
+      - Introduction: ped/chapter3/index.md
+      - How should you engage: ped/chapter3/how.md
+      - When should you engage: ped/chapter3/when.md
+    - Practical Guidance:
+      - Introduction: ped/chapter4/index.md
+      - Storytelling with Data: ped/chapter4/storytelling.md
+      - Communicating Uncertainty: ped/chapter4/uncertainty.md
+    - Public Trust and Assurance:
+      - Introduction: ped/chapter5/index.md
+      - Public Trust in Science and Technology: ped/chapter5/trust.md
