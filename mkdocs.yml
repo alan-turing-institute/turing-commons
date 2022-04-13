@@ -151,6 +151,8 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
 
 extra_css:
   - stylesheets/extra.css
@@ -213,8 +215,8 @@ nav:
       - Responsible Public Engagement: ped/chapter2/responsible.md
     - Facilitating Public Engagement:
       - Introduction: ped/chapter3/index.md
-      - How should you engage: ped/chapter3/how.md
       - When should you engage: ped/chapter3/when.md
+      - How should you engage: ped/chapter3/how.md
     - Practical Guidance:
       - Introduction: ped/chapter4/index.md
       - Storytelling with Data: ped/chapter4/storytelling.md
