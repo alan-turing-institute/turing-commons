@@ -108,3 +108,50 @@ The following 12 preattentive attributes are well-known among designers, and oft
     1. If all you have is a hammer, everything look's like a nail. Make sure you choose the right tool for the job.
     2. Your audience are likely to be easily distracted and have a limited attention span.
     3. You're not Tolstoy, and you're not writing *War and Peace*. It's better to tell a cogent story with a clear narrative than the whole story.
+
+
+#### Unused Material
+
+Consider the following visual communication from the Education Endowment Foundation—an independent charity with the goal of improving educational attainment of the poorest pupils in English schools.
+
+![The Teaching and Learning Toolkit—Educational Endowment Foundation](../../assets/images/graphics/education.png)
+
+The goal of this visual communication is to clearly summarise the evidence base for different education interventions, by focusing on three properties:
+
+- Cost
+- Strength of Evidence
+- Impact
+
+Obviously there is a lot more behind these three properties, but they serve as an accessible overview to help direct the attention of the audience.
+
+Already, we have identified several key principles for how to communicate effectively:
+
+- Know your audience
+- Identify the goals of communication
+- Have a clear and targeted message
+- Use supporting visuals
+
+[Northeastern University](https://www.northeastern.edu/graduate/blog/tips-for-effective-science-communication/) also identify several of these principles, while also offering additional ones:
+
+!!! example "10 Principles for How to Communicate Effectively"
+
+   1. *Know your audience*
+   2. *Identify the goals of communication*
+   3. Start with the most important information
+   4. Avoid jargon
+   5. Be relatable
+   6. *Provide visuals*
+   7. Stick to three points
+   8. Talk about the scientific process
+   9. Focus on the bigger impact
+   10. Develop an elevator pitch
+
+We'll come back to this final principle in the activity at the end of this section.
+
+!!! info "Further Resources"
+
+    The following resources expand on these initial points and are tailored to specific goals and communities:
+
+    - [Communicating with the public through social media](https://www.publicengagement.ac.uk/sites/default/files/publication/what_works_engaging_the_public_through_social_media_november_2018.pdf)
+    - [Communication with policy-makers](https://www.bennettinstitute.cam.ac.uk/wp-content/uploads/2020/12/How_to_communicate_effectively_to_policy_makers.pdf)
+    - [Communicating with other researchers](https://www.nature.com/articles/d41586-018-07780-5)
