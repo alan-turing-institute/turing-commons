@@ -78,7 +78,7 @@ The following 12 preattentive attributes are well-known among designers, and oft
 
     ![Graph B with colour](../../assets/images/graphics/colourb.png)
 
-=== "Graph using colour to build hierarchuy"
+=== "Graph using colour to build hierarchy"
 
     ![Graph C using colour to build hierarchy](../../assets/images/graphics/colourc.png)
 
@@ -91,6 +91,15 @@ The following 12 preattentive attributes are well-known among designers, and oft
     2. Select an effective data visualisation type. If you're stuck for ideas, take a look at the Seaborn examples above. 
     3. Choose one (or more) preattentive attributes that will help engage your audience's attention.
     4. Construct a clear narrative to communicate with your audience. 
+
+    To help you with this process, consider these questions designed to help you build a compelling narrative:
+
+    1.  Has an opportunity arisen that your audience ought to know about?
+    2.  Is this because of a change in behaviour or policy?
+    3.  How does your data support this message?
+    4.  Who has been involved with your project?
+    5.  Is there a new technology, method of working, or service that your audience would benefit from?
+    6.  What other positive outcomes are associated with your project?
 
     In doing so, remember the following:
 

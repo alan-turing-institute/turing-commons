@@ -44,13 +44,6 @@ And, some engagement can be very creative. Consider the following two examples o
 
 ## Communication of Science and Technology
 
-Regardless of the type of engagement, a core part of understanding how to engage is knowing who you want to engage.
-
-!!! check "Important"
-
-    Ask "who" before "how"!
-
-The significance of this mandate is easy to appreciate in the context of communication of scientific findings and helps connect our engagement plans back to the goals and values considered in the previous chapters.
 Consider the following cases:
 
 === ":octicons-log-16: Policymakers"

@@ -18,15 +18,15 @@ With the conceptual foundations laid, we now turn towards the more practical sid
 
 !!! info "Chapter Summary"
 
-    This chapter begins by reviewing two models that can help us locate activities and methods for public engagement within a broader project lifecycle for data science and AI. 
+    This chapter begins by reviewing two frameworks that can help us locate activities and methods for public engagement within a broader project lifecycle for data science and AI.
     The objective is to use these models to support informed answers to the following questions:
     
-    - How should you engage?
     - When should you engage? 
+    - How should you engage?
 
 !!! example "Learning Objectives"
 
-    By the end of this chapter you should have a strong comprehension of the project lifecycle model and be able to use this to scaffold your own project planning activities to help answer
+    By the end of this chapter you should have a strong comprehension of a) a stakeholder analysis process, b) a model of a typical data science or AI project lifecycle, and c) a variety of methods for public engagement. Collectively, these will enable you to scaffold your own project planning activities to help answer
     
     - How should you engage?
     - When should you engage? 
