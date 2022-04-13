@@ -3,17 +3,54 @@
 There are many different methods for engagement in data science and AI.
 If you recall the discussion from [chapter 1](../chapter1/index.md), these range from the one-sided processes of 'informing' to the more empowering types of engagement that strengthen the capabilities of the public and enable them to participate in and contribute to more diverse forms of science and technology.
 
-We are going to look at three types of engagement:
+The following table summarises a wide range of salient methods:
 
-1. Communication of science and technology
-2. Public deliberation
-3. Participatory design
 
-The guidance offered in this section is not exhaustive—there are many more methods of engagement than we can cover in a single course.
+| Mode of Engagement   | Description | Degree of Engagement  | Practical Strengths | Practical Weaknesses |
+| ---------- | ------------ | ---------------------- | ------------------- | -------------------- |
+| :material-email: **Newsletters** (email) | Regular emails (e.g.: fortnightly or monthly) that contain updates, relevant news, and calls to action in an inviting format. | `INFORM` | Can reach many people; can contain large amount of relevant information; can be made accessible and visually engaging. | Might not reach certain portions of the population; can be demanding to design and produce with some periodicity; easily forwarded to spam/junk folders without project team knowing (leading to overinflated readership stats). |
+| :material-mailbox: **Letters** (post) | Regular letters (e.g.: monthly) that contain the latest updates, relevant news and calls to action. | `INFORM` | Can reach parts of the population with no internet or digital access; can contain large amount of relevant information; can be made accessible and visually engaging. | Might not engage certain portions of the population; Slow delivery and interaction times hampers the effective flow of information and the organisation of further engagement. |
+| :material-square-rounded-badge-outline: **App notifications** | Projects can rely on the design of apps that are pitched to stakeholders who are notified on their phone with relevant updates. | `INFORM` | Easy and cost-effective to distribute information to large numbers of people; Rapid information flows bolster the provision of relevant and timely news and updates. | More significant initial investment in developing an app; will not be available to people without smartphones. |
+| :fontawesome-solid-people-group: **Community fora** | Events in which panels of experts share their knowledge on issues and then stakeholders can ask questions. | `INFORM` | Can inform people with more relevant information by providing them with the opportunity to ask questions; brings community together in a shared space of public communication. |  More time-consuming and resource intensive to organise; might attract smaller numbers of people and self-selecting groups rather than representative subsets of the population; effectiveness is constrained by forum capacity. |
+| :fontawesome-solid-list-check: **Online Surveys** | Survey sent via email, embedded in a website, shared via social media, etc. | `CONSULT` | Cost-effective; simple mass- distribution. | Risk of pre-emptive evaluative framework when designing questions; Does not reach those without internet connection or computer/smartphone access.|
+| :material-phone-in-talk: **Phone Interviews** | Structured or semi-structured interviews held over the phone. | `CONSULT` `PARTNER`| Opportunity for stakeholders to voice concerns more openly. | Risk of pre-emptive evaluative framework when designing questions; Might exclude portions of the populations without phone access or with habits of infrequent phone use.                     |
+| :fontawesome-solid-door-closed: **Door-to-door interviews** | Structured or semi-structured interviews held in-person at people’s houses. | `CONSULT` `PARTNER` | Opportunity for stakeholders to voice concerns more openly; can allow participants the opportunity to form connections through empathy and face-to- face communication. | Potential for limited interest
+to engage with interviewers; time-consuming; can be seen by interviewees as intrusive or burdensome.|
+| :fontawesome-solid-people-arrows-left-right: **In-person interviews** | Short interviews conducted in- person in public spaces. | `CONSULT` `PARTNER` | Can reach many people and a representative subset of the population if stakeholders are appropriately defined and sortition is used.  | Less targeted; pertinent stakeholders must be identified by area; little time/interest to engage with interviewer; can be viewed by interviewees as time- consuming and burdensome. |
+| :material-selection-search: **Focus Groups** | A group of stakeholders brought together and asked their opinions on a particular issue. Can be more or less formally structured. | `CONSULT` `PARTNER` | Can gather in-depth information; Can lead to new insights and directions that were not anticipated by the project team. | Subject to hazards of group think or peer pressure; complex to facilitate; can be steered by dynamics of differential power among participants.|
+| :fontawesome-solid-users-between-lines: **Online Workshops** | Workshops using digital tools such as collaborative platforms. | `CONSULT` | Opportunity to reach stakeholders across regions, increased accessibility depending on digital access. | Potential barriers to accessing tools required for participation, potential for disengagement.|
+| :fontawesome-solid-building-columns: **Citizen panel or assembly** | Large groups of people (dozens or even thousands) who are representative of a town/region. | `INFORM` `CONSULT` `PARTNER` `EMPOWER` | Provides an opportunity for co-production of outputs; can produce insights and directions that were not anticipated by the project team; can provide an information base for conducting further outreach (surveys, interviews, focus groups, etc.); can be broadly representative; can bolster a community’s sense of democratic agency and solidarity. |  Participant rolls must be continuously updated to ensure panels or assemblies remains representative of the population throughout their lifespan; resource-intensive for establishment and maintenance; subject to hazards of group think or peer pressure; complex to facilitate; can be steered by dynamics of differential power among participants.|
+| :material-account-group: **Citizen jury**  | A small group of people (between 12 and 24), representative of the demographics of a given area, come together to deliberate on an issue (generally one clearly framed set of questions), over the period of 2 to 7 days ([Involve.org.uk](http://involve.org.uk). | `INFORM` `CONSULT` `PARTNER` `EMPOWER` |  Can gather in-depth information; can produce insights and directions that were not anticipated by the project team; can bolster participants’ sense of democratic agency and solidarity. |  Subject to hazards of group think; complex to facilitate; risk of pre-emptive evaluative framework; small sample of citizens involved risks low representativeness of wider range of public opinions and beliefs. |
+
+Let's look at a couple of these methods in more detail.
+
+## Mini Publics
+
+!!! quote "Consensus Statement on Public Involvement and Engagement with Data Intensive Health Research"
+
+    the public should not be characterised as a problem to be overcome but a key part of the solution to establish socially beneficial data-intensive health research for all. (Aitken et al. 2019)
+
+[...]
+
+<!-- https://www.opengovpartnership.org/wp-content/uploads/2019/05/Deliberation_Series_Volume-2_Informed_Participation-Guide.pdf -->
+
+<!-- - What are the acceptable uses of patient data in health research?
+
+!!! bug "Types of Health Data"
+
+    - Data from patient records;
+    - Administrative data (e.g. from social care, housing or education); • Data from registries;
+    - Genomic data (e.g. from biobanks);
+    - Data generated through use of apps;
+    - Social media data. -->
+
+## Education and Outreach
+
+The table at the start of this section outlines several methods for `informing`, but these are not the only ones that are relevant in the context of science and technology education and outreach.
+Other examples include,
 
 !!! example "Education and Outreach"
 
-    - Education or outreach
     - Websites and social media
     - Presentations
     - Posters and displays
@@ -21,7 +58,7 @@ The guidance offered in this section is not exhaustive—there are many more met
     - Theatre, Film, and Documentaries
     - Festivals
 
-And, some engagement can be very creative. Consider the following two examples of science outreach:
+And, some forms of education and outreach can be very creative. Consider the following two examples:
 
 === "Deadinburgh"
 
@@ -42,8 +79,7 @@ And, some engagement can be very creative. Consider the following two examples o
     [(Clarke, 2021)](https://www.scienceopen.com/hosted-document?doi=10.14324/RFA.05.2.03)
     </div>
 
-## Communication of Science and Technology
-
+As with all forms of engagement, deciding on the best method requires awareness of your audience.
 Consider the following cases:
 
 === ":octicons-log-16: Policymakers"
@@ -65,77 +101,4 @@ Consider the following cases:
     **Communication Goal: to advance academic career by gaining experience of presenting conference papers and also generating interest in a novel data science method
 
 A common need with all of the above cases is the tailoring of the communication strategy to the engagement goal. And, in all cases, a clear message is vital.
-
-Consider the following visual communication from the Education Endowment Foundation—an independent charity with the goal of improving educational attainment of the poorest pupils in English schools.
-
-![The Teaching and Learning Toolkit—Educational Endowment Foundation](../../assets/images/graphics/education.png)
-
-The goal of this visual communication is to clearly summarise the evidence base for different education interventions, by focusing on three properties:
-
-- Cost
-- Strength of Evidence
-- Impact
-
-Obviously there is a lot more behind these three properties, but they serve as an accessible overview to help direct the attention of the audience.
-
-Already, we have identified several key principles for how to communicate effectively:
-
-- Know your audience
-- Identify the goals of communication
-- Have a clear and targeted message
-- Use supporting visuals
-
-[Northeastern University](https://www.northeastern.edu/graduate/blog/tips-for-effective-science-communication/) also identify several of these principles, while also offering additional ones:
-
-!!! example "10 Principles for How to Communicate Effectively"
-
-   1. *Know your audience*
-   2. *Identify the goals of communication*
-   3. Start with the most important information
-   4. Avoid jargon
-   5. Be relatable
-   6. *Provide visuals*
-   7. Stick to three points
-   8. Talk about the scientific process
-   9. Focus on the bigger impact
-   10. Develop an elevator pitch
-
-We'll come back to this final principle in the activity at the end of this section.
-
-!!! info "Further Resources"
-
-    The following resources expand on these initial points and are tailored to specific goals and communities:
-
-    - [Communicating with the public through social media](https://www.publicengagement.ac.uk/sites/default/files/publication/what_works_engaging_the_public_through_social_media_november_2018.pdf)
-    - [Communication with policy-makers](https://www.bennettinstitute.cam.ac.uk/wp-content/uploads/2020/12/How_to_communicate_effectively_to_policy_makers.pdf)
-    - [Communicating with other researchers](https://www.nature.com/articles/d41586-018-07780-5)
-
-## Public Deliberation
-
-https://www.opengovpartnership.org/wp-content/uploads/2019/05/Deliberation_Series_Volume-2_Informed_Participation-Guide.pdf
-
-!!! quote "Consensus Statement on Public Involvement and Engagement with Data Intensive Health Research"
-
-    the public should not be characterised as a problem to be overcome but a key part of the solution to establish socially beneficial data-intensive health research for all. (Aitken et al. 2019)
-
-- What are the acceptable uses of patient data in health research?
-
-!!! bug "Types of Health Data"
-
-    - Data from patient records;
-    - Administrative data (e.g. from social care, housing or education); • Data from registries;
-    - Genomic data (e.g. from biobanks);
-    - Data generated through use of apps;
-    - Social media data.
-
-## Participatory Design
-
-https://www.designkit.org/methods/33?ref=guidetouxr.com 
-
-!!! activity "Developing an Elevator Pitch"
-
-    In groups, you are going to draft an elevator pitch for the case study you are developing.
-    This pitch should be *audience agnostic*.
-    In other words, it should be accessible for anyone who you may bump into "in the elevator".
-
-    Once you've developed the elevator pitch, you are then going to pick one of the following groups and consider how you would revise the pitch if you knew you were discussing the project with th
+This topic (and others) will be the focus of the next section.
