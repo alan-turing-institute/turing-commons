@@ -93,7 +93,7 @@ Regardless of the type of engagement, a core part of any public engagement is kn
 
 This section will explore a three-step process, which begins with 'Project Planning' and is designed to help you identify and understand your audience (or, stakeholders), summarised in the following graphic.
 
-![Three steps of stakeholder analysis](../../assets/images/graphics/stakeholder-analysis.png)
+![Three steps of stakeholder analysis](../../assets/images/graphics/stakeholder-analysis.png){ width="75%"}
 
 !!! warning "Principle of Proportionality"
 
@@ -126,7 +126,7 @@ Social scientists have long referred to this kind of self-locating reflection as
 When team members take their own positionalities into account, and make this explicit, they can better grasp how the influence of their respective social and cultural positions may affect the engagement process.
 The following 'positionality matrix' is designed to help with this process:
 
-![Positionality matrix](../../assets/images/graphics/positionality-matrix.png)
+![Positionality matrix](../../assets/images/graphics/positionality-matrix.png){ width="75%"}
 
 An example of how an individual's or group's characteristics may affect a research or innovation project is if a project team fail to identify how their own educational backgrounds enable them to understand and comprehend technical or complex concepts with comparative ease, or how the lack of cultural diversity in the team prevent them from recognising the significance of alternative values (e.g., prioritising technological policies that support social cohesion over individual autonomy). 
 
@@ -136,13 +136,13 @@ The final step is to establish *engagement objectives* that enable the appropria
 
 If we think back to the first chapter, and the different models of participation (e.g., Arnstein's ladder of engagement), then we can identify the following four goals that can help us specify our project's objectives:
 
-![Four engagement goals](../../assets/images/graphics/engagement-goals.png)
+![Four engagement goals](../../assets/images/graphics/engagement-goals.png){ width="75%" }
 
 The use of these goals to support the identification of engagement objectives should also be informed by a) the following variations on participation, and also b) the methods of participation available to you and those who you are engaging (see [next chapter](how.md))
 
 | Degree of Participation | Description | Means of Participation | Level of Agency |
 | --- | --- | --- | --- |
-| **INFORM** :material-information: | Stakeholders are made aware of decisions and developments.    | External input is not sought out. Information flows in one direction. This an be done through newsletters, the post, app notifications or community forums.    | `LOW` :material-battery-low: Stakeholders are considered information subjects rather than active agents.|
-| **CONSULT** :octicons-comment-discussion-16: | Stakeholders can voice their views on pre-determined areas of focus, which are considered in decision-making. | Engagement occurs through online surveys or short phone interviews, door-to- door or in public spaces. Broader listening events can support consultations. | `LOW` :material-battery-low: Stakeholders are included as sources of information input under narrow, highly controlled conditions of participation.|
-| **PARTNER** :material-handshake: | Stakeholders and teams share agency over the determination of areas of focus and decision making. | External input is sought out for collaboration and co- production. Stakeholders are collaborators in projects. They are engaged trough focus groups. | `MODERATE` :material-battery-medium: Stakeholders exercise a moderate level of agency in helping to set agendas through collaborative decision making.|
-| **EMPOWER** :material-podium: | Stakeholders are engaged with as decision-makers and are expected to gather pertinent information and be proactive in co-operation.| Co-production exercises occur through citizens’ juries, citizens’ assemblies, and participatory co-design. Teams provide support for stakeholders’ decision making. | `HIGH` :material-battery-high: Stakeholders exercise a high level of agency and control over agenda-setting and decision making.|
+| :material-information: **INFORM**  | Stakeholders are made aware of decisions and developments.    | External input is not sought out. Information flows in one direction. This an be done through newsletters, the post, app notifications or community forums. | :material-battery-low: `LOW` Stakeholders are considered information subjects rather than active agents.|
+| :octicons-comment-discussion-16: **CONSULT** | Stakeholders can voice their views on pre-determined areas of focus, which are considered in decision-making. | Engagement occurs through online surveys or short phone interviews, door-to- door or in public spaces. Broader listening events can support consultations. | :material-battery-low: `LOW` Stakeholders are included as sources of information input under narrow, highly controlled conditions of participation.|
+| :material-handshake: **PARTNER** | Stakeholders and teams share agency over the determination of areas of focus and decision making. | External input is sought out for collaboration and co- production. Stakeholders are collaborators in projects. They are engaged trough focus groups. | :material-battery-medium: `MODERATE`  Stakeholders exercise a moderate level of agency in helping to set agendas through collaborative decision making.|
+| :material-podium: **EMPOWER**  | Stakeholders are engaged with as decision-makers and are expected to gather pertinent information and be proactive in co-operation.| Co-production exercises occur through citizens’ juries, citizens’ assemblies, and participatory co-design. Teams provide support for stakeholders’ decision making. | :material-battery-high: `HIGH` Stakeholders exercise a high level of agency and control over agenda-setting and decision making.|
