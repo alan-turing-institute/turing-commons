@@ -170,3 +170,7 @@ However, public engagement can help determine whether a project that is legal is
 
 For example, if a research project uses a basis of informed consent to collect and process personal data, are the participants able to opt-out at a later stage and are their processes to make this decision easy and accessible for participants.
 Whether this is the case will, invariably, be a matter of working with participants to determine.
+
+!!! activity "Case Study"
+
+    This is an [example case study](../../assets/pdfs/case-study-1.pdf).
