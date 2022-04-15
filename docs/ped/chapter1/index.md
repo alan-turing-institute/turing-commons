@@ -28,3 +28,5 @@ The purpose of this section is to develop a more careful and extensive understan
     
     - Learn what is meant by the term ‘public engagement’.
     - Identify and explore some of the different approaches to public engagement and the goals associated with them.
+
+--8<-- "includes/abbreviations.md"
