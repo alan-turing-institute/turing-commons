@@ -1,6 +1,6 @@
 # The Value(s) of Public Engagement
 
-![Image by Johnny Lighthands](../../assets/images/illustrations/hi_res/deliberation.png)
+![Image by Johnny Lighthands](../../assets/images/illustrations/deliberation.png)
 
 ## Introduction
 
