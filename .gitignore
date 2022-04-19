@@ -1,5 +1,7 @@
 .DS_Store
 
+*.key
+
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
