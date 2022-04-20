@@ -30,11 +30,11 @@ But on the other hand, if we see improved knowledge as an intrinsic good, then a
 
 ## Public Deliberation
 
-This second goal is often associated with Jurgen Habermas—a German philosopher and social theorist—who developed the theory of discourse ethics and focused on communicative values such as mutual understanding, understood as,
+This second goal is often associated with Jurgen Habermas—a German philosopher and social theorist—who developed the theory of discourse ethics and saw deliberation as
 
 !!! quote
 
-    final unanimity wrought by a time-consuming process of mutual enlightenment, for the ‘general interest’ on the basis of which alone a rational agreement between publicly competing opinions could freely be reached
+    a time-consuming process of mutual enlightenment, for the ‘general interest’ on the basis of which alone a rational agreement between publicly competing opinions could freely be reached
 
 The general idea is that deliberation aims at consensus, such that the latter emerges from the sharing of public reasons and a drive towards mutual understanding between those engaged in dialogue.
 Here, consensus could involve a shared belief and agreement about the benefits or harms of some scientific or technological development.
