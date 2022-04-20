@@ -92,13 +92,13 @@ Consider the following cases:
 
     As part of an education outreach campaign to improve digital literacy among adolescents, a mental health charity are running workshops with secondary school students. They wish to communicate recent evidence about the impact of over-using social media on mental health. Rather than communicating complicated statistical information about the methods used in their study, the team develop a more accessible form of their findings and link these findings to practical steps that the students can take to protect themselves online.
 
-    **Communication Goal: to build awareness of possible risks associated with excessive social media usage and support behavioural change strategies
+    **Communication Goal:** to build awareness of possible risks associated with excessive social media usage and support behavioural change strategies
 
 === ":octicons-beaker-16: Researchers"
 
     A PhD student working in a Physics department has results from a recent study that developed and tested a new method for the large-scale data mining of astronomical data. The PhD student wish to present this new method and the validation study at an upcoming international conference for data science. The audience will be technically literate, but will not have specialist expertise in astronomy. Therefore, the PhD student describes the method in the context of its original study buy also emphasises the generalisability for other sciences (e.g. genomics).
 
-    **Communication Goal: to advance academic career by gaining experience of presenting conference papers and also generating interest in a novel data science method
+    **Communication Goal**: to advance academic career by gaining experience of presenting conference papers and also generating interest in a novel data science method
 
 A common need with all of the above cases is the tailoring of the communication strategy to the engagement goal. And, in all cases, a clear message is vital.
 This topic (and others) will be the focus of the next section.
