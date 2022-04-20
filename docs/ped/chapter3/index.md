@@ -11,18 +11,16 @@ In the previous chapters we discussed the following topics:
 
 With the conceptual foundations laid, we now turn towards the more practical side of public engagement.
 
+This chapter begins by reviewing two frameworks that can help us locate activities and methods for public engagement within a broader project lifecycle for data science and AI.
+The objective is to use these models to support informed answers to the following questions:
+
+- When should you engage?
+- How should you engage?
+
 ## Chapter Outline
 
 - [When should you engage?](when.md)
 - [How should you engage?](how.md)
-
-!!! info "Chapter Summary"
-
-    This chapter begins by reviewing two frameworks that can help us locate activities and methods for public engagement within a broader project lifecycle for data science and AI.
-    The objective is to use these models to support informed answers to the following questions:
-    
-    - When should you engage? 
-    - How should you engage?
 
 !!! example "Learning Objectives"
 
