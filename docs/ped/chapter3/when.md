@@ -89,7 +89,7 @@ Regardless of the type of engagement, a core part of any public engagement is kn
 
 !!! check "Important"
 
-    Ask "who" and "why" before "when" or "how"!
+    Ask "who" before "how"!
 
 This section will explore a three-step process, which begins with 'Project Planning' and is designed to help you identify and understand your audience (or, stakeholders), summarised in the following graphic.
 
