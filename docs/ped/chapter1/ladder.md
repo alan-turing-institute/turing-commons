@@ -122,9 +122,7 @@ Once we understand these different activities, it becomes clear that public part
 In other words, the people that participate are not making decisions on behalf of researchers, but their voices should be listened to insofar as they are impacted by the consequences of a research or innovation project.
 
 This is because scientific research and the design, development, and deployment of technology embody particular values that may not be shared by those who are directly or indirectly affected by the consequences of such activities.
-Obvious examples include military science and technology, but there are also more subtle examples:
-
-[Include examples in panels. Phrenology, genetics, facial recognition.]
+Obvious examples include military science and technology. Can you think of others?
 
 The field of science and technology studies has been critically examining scientific research and practice for several decades, exposing many latent value structures and biases in the process.[^timeline]
 An awareness of such structures and biases is vital to understanding the goals of public engagement.
@@ -132,3 +130,10 @@ We will explore this value laden nature of science and technology in relation to
 However, with this additional understanding of public engagement, let us now take a closer look at the goals of objectives of public engagement.
 
 [^timeline]: For an overview of key developments in science and technology studies, see [this timeline](https://turing-commons.netlify.app/rri/chapter2/timeline.html)
+
+!!! warning "Who (or what) are the "Public"?"
+    
+    Before going any further, we should also stop to address a conceptual point about what the concept 'the Public' actually references.
+    It is easy to fall into the trap of treating "the public" as some monolithic or homogenous entity, because of how its usage as a mass noun affects our judgement.
+    However, as we all know, the public are a wonderfully diverse set of people, communities, and groups, of which we are a part.
+    The more we can keep this in the forefront of our minds going forward, the less likely we will be to fall prey to myopic assumptions about public engagement.
