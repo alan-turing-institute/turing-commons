@@ -1,6 +1,6 @@
 # What is Public Engagement?
 
-![Image by Johnny Lighthands](../../assets/images/illustrations/hi_res/participatory-design.png)
+![Image by Johnny Lighthands](../../assets/images/illustrations/participatory-design.png)
 
 You may think that the answer to this question is so obvious that it is not worth asking the question in the first place.
 Or, perhaps you would give an answer along these lines:
