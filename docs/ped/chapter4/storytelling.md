@@ -93,33 +93,6 @@ The following 12 preattentive attributes are well-known among designers, and oft
 
     ![Graph C using colour to build hierarchy](../../assets/images/graphics/colourc.png)
 
-!!! activity "Designing an Effective Visual (Activity 2.2)"
-
-    In this activity, you will design a data visual that supports a goal relevant to your case study.
-    You will need to do the following:
-
-    1. Create some fictional data that supports a positive message that you want to communicate to a group of stakeholders. 
-    2. Select an effective data visualisation type. If you're stuck for ideas, take a look at the Seaborn examples above. 
-    3. Choose one (or more) preattentive attributes that will help engage your audience's attention.
-    4. Construct a clear narrative to communicate with your audience. 
-
-    To help you with this process, consider these questions designed to help you build a compelling narrative:
-
-    1.  Has an opportunity arisen that your audience ought to know about?
-    2.  Is this because of a change in behaviour or policy?
-    3.  How does your data support this message?
-    4.  Who has been involved with your project?
-    5.  Is there a new technology, method of working, or service that your audience would benefit from?
-    6.  What other positive outcomes are associated with your project?
-
-    In doing so, remember the following:
-
-    !!! note "Guidance"
-
-    1. If all you have is a hammer, everything look's like a nail. Make sure you choose the right tool for the job.
-    2. Your audience are likely to be easily distracted and have a limited attention span.
-    3. You're not Tolstoy, and you're not writing *War and Peace*. It's better to tell a cogent story with a clear narrative than the whole story.
-
 ## Constructing Narrative Structure
 
 The Hero's journey is a well-known template in literature and story-telling more generally.
@@ -177,3 +150,30 @@ Although not a replacement for the Hero's journey, the following set of principl
    8. **Talk about the scientific process**
    9. **Focus on the bigger impact**
    10. Develop an elevator pitch
+
+<!-- !!! activity "Designing an Effective Visual (Activity 2.2)"
+
+    In this activity, you will design a data visual that supports a goal relevant to your case study.
+    You will need to do the following:
+
+    1. Create some fictional data that supports a positive message that you want to communicate to a group of stakeholders. 
+    2. Select an effective data visualisation type. If you're stuck for ideas, take a look at the Seaborn examples above. 
+    3. Choose one (or more) preattentive attributes that will help engage your audience's attention.
+    4. Construct a clear narrative to communicate with your audience. 
+
+    To help you with this process, consider these questions designed to help you build a compelling narrative:
+
+    1.  Has an opportunity arisen that your audience ought to know about?
+    2.  Is this because of a change in behaviour or policy?
+    3.  How does your data support this message?
+    4.  Who has been involved with your project?
+    5.  Is there a new technology, method of working, or service that your audience would benefit from?
+    6.  What other positive outcomes are associated with your project?
+
+    In doing so, remember the following:
+
+    !!! note "Guidance"
+
+    1. If all you have is a hammer, everything look's like a nail. Make sure you choose the right tool for the job.
+    2. Your audience are likely to be easily distracted and have a limited attention span.
+    3. You're not Tolstoy, and you're not writing *War and Peace*. It's better to tell a cogent story with a clear narrative than the whole story. -->
