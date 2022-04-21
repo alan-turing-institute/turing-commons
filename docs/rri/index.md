@@ -4,11 +4,11 @@ hide:
   - toc
 ---
 
-# About this Guidebook
+# About this Course
 
 <div class="result" markdown>
 
-  ![Illustration by Johnny Lighthands](../assets/images/illustrations/RRI_cover.jpg){ align="right" width="50%"}
+  ![Illustration by Johnny Lighthands](../assets/images/illustrations/rri-cover.jpg){ align="right" width="50%"}
 
   Responsible scientific research and technological innovation (RRI) is a vital component of a flourishing and fair society.
   As an area of study and mode of enquiry, RRI plays a central role within academic, public, private, and third-sector organisations.
@@ -84,6 +84,6 @@ This guidebook has the following learning objectives:
 
     The concluding chapter looks forwards and points to further resources for those interested in embedding RRI into their own work.
 
-    [:octicons-arrow-right-24: Go to chapter](chapter5/index.md)
+    [:octicons-arrow-right-24: Go to chapter](conclusion/index.md)
 
 </div>
