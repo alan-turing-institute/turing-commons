@@ -87,7 +87,7 @@ We will reference this model and its constituent stages repeatedly as we continu
 
 Regardless of the type of engagement, a core part of any public engagement is knowing your audience.
 
-!!! check "Important"
+!!! warning "Important"
 
     Ask "who" before "how"!
 
