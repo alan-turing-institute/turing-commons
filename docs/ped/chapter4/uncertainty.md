@@ -1,5 +1,17 @@
 # Communicating Uncertainty
 
+There are many forms of uncertainty that we have to consider when planning and facilitating forms of public engagement.
+
+- There is the *conceptual uncertainty* involved with key terms that are necessary for shared knowledge and understanding (e.g. what does 'intelligence' mean in the context of AI?).
+- There is the *normative uncertainty* that is implicated when deliberating about or choosing on the right or best course of action (e.g. citizen juries).
+- And, there is the *statistical uncertainty* associated with data analysis, experiments, and scientific knowledge.[^epistemic]
+
+[^epistemic]: We can split this into both *epistemic* and *aleatory* uncertainty, where the former relates to our uncertain knowledge of the world, and the latter refers to fundamental indeterminacy of the world itself. In this section we will only consider the former (i.e. epistemic uncertainty).
+
+In this section, we are just going to look at the final option, but it's good to be aware of the other two.
+
+## Scientific Uncertainty
+
 >Roll up! Roll up! Come and see a true scientific mystery: the marvelous, mystifying marmokreb!
 
 ![A picture of a marmorkreb](../../assets/images/graphics/marmorkreb.jpeg)
