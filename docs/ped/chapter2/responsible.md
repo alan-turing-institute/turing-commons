@@ -50,9 +50,9 @@ Two comments can be made:
 1. We should exercise caution in assenting to such a belief too rapidly given the many examples in the history of science that show how unintended consequences can arise as a result of advances in some scientific discipline that even experts could not foresee (see [this example](/rri/chapter1/history.md)).
 2. Although principles of RRI may apply more strongly in some areas of application or research, there are also principles (e.g. [FAIR principles](https://www.go-fair.org/fair-principles/)) that support responsible public engagement that ought to apply universally (e.g. research integrity, promotion of equality, diversity, and inclusivity among researchers).
 
-!!! check "Differences of Public Engagement in Data Science and AI (Activity 2.3)"
+!!! question "Question"
 
-    In what other ways does public engagement in data science and AI differ from public engagement in traditional scientific research or technological innovation
+    How else does public engagement in data science and AI differ from public engagement in traditional scientific research or technological innovation?
 
 ## The Burden of Responsibility
 
