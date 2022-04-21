@@ -52,7 +52,13 @@ And this can lead to a breakdown in communication and trust.
 
 ## Scientific Uncertainty, Public Understanding, and the COVID-19 Pandemic
 
-### Cognitive Biases
+[...in progress] 
+
+<!-- You may wonder why there is this level of distrust in science and technology, and why members of the public may have high levels of skepticism about the honest acknowledgement of scientific unknowns.
+We will cover this in more detail in the next chapter.
+For now, let's consider one important explanatory factor that also affects the judgement and decision-making of researchers and developers. -->
+
+## Cognitive Biases
 
 Our modern understanding of cognitive biases has been most heavily influenced by research conducted by the psychologists Daniel Kahneman and Amos Tversky.
 
@@ -125,6 +131,14 @@ To see how, try the following two activities.
     
     1.  P. C. Wason (1968) Reasoning about a rule, The Quarterly Journal of Experimental Psychology, 20:3, 273-281, DOI: [10.1080/14640746808400161](https://journals.sagepub.com/doi/10.1080/14640746808400161)
 
+Experiments like this reveal something important about all human individuals.[^kahneman]
+Our judgement and decision-making falls short of the normative standards set by our formal methods and frameworks (e.g. rational choice theory).
 
+In the context of public engagement, this is important for two reasons:
 
+1. When communicating statistical information, there is a risk that your message or results may be affected negatively by a wide variety of cognitive biases.
+2. The process of research and development that you communicate to stakeholder may also be impacted by a myriad of cognitive biases (e.g., confirmation bias).
 
+It is beyond the scope of this course to set out all the possible ways in which cognitive (as well as statistical and social) biases can affect the process of research, innovation, and public engagement. However, [see our course on RRI for more details and further resources](../../rri/chapter2/understanding_bias.md).
+
+[^kahneman]: Daniel Kahneman even acknowledged that despite studying congitive biases for the majority of his career, he still finds himself falling prey to their effects.
