@@ -148,9 +148,9 @@ Each of these three elements helps to build and communicate a clear narrative:
 
 1. Our research has uncovered a variety of interventions and policy options for improving education.
 2. These options differ in three ways:
-   1. Their cost
-   2. The strength of their supporting evidence
-   3. The potential impact from implementing the chosen policy
+   - Their cost
+   - The strength of their supporting evidence
+   - The potential impact from implementing the chosen policy
 3. The information we have gathered and organised can support evidence-based policy making
 
 Obviously there is a lot more behind these three properties, but they serve as an accessible overview to help direct the attention of the audience.
