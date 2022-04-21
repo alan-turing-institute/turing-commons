@@ -163,7 +163,7 @@ nav:
   - Home: index.md
   - Welcome: welcome.md
   - Responsible Research and Innovation:
-    - About this Course: rri/index.md
+    - (RRI) About this Course: rri/index.md
     - Introduction: rri/intro/index.md
     - What is Responsible Research and Innovation: 
       - Introduction: rri/chapter1/index.md
@@ -205,7 +205,7 @@ nav:
       - Course Participants: rri/resources/participants.md
 
   - Public Engagement of Data Science and AI:
-    - About this Course: ped/index.md
+    - (PED) About this Course: ped/index.md
     - What is Public Engagement?:
       - Introduction: ped/chapter1/index.md
       - Climbing the Ladder: ped/chapter1/ladder.md
