@@ -1,7 +1,7 @@
 # Responsible Data Science and AI
 
 <figure markdown>
-  ![Illustration by Johnny Lighthands](../../assets/images/illustrations/ai.png){ align="center" }
+  ![Illustration by Johnny Lighthands](../../assets/images/illustrations/ai-squares.png){ align="center" }
   <figcaption>Illustration by [Johnny Lighthands](https://www.johnnylighthands.co.uk))</figcaption>
 </figure>
 
