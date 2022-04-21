@@ -1,5 +1,7 @@
 # Practical Guidance
 
+![Image by Johnny Lighthands](../../assets/images/illustrations/assurance.png)
+
 ## Introduction
 
 This chapter builds on the guidance for planning and facilitating different types of public engagement by delving deeper into some of the practical tools and methods.

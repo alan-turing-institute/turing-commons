@@ -1,5 +1,7 @@
 # Facilitating Public Engagement for Data Science and AI
 
+![Image by Johnny Lighthands](../../assets/images/illustrations/participatory-design.png)
+
 ## Introduction
 
 In the previous chapters we discussed the following topics:
