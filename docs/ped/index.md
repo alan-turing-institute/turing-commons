@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# About this Guidebook
+# About this Course
 
 <div class="result" markdown>
 
