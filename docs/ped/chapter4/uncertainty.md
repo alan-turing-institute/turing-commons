@@ -139,7 +139,7 @@ There are, however, some interesting tools that link back to the first section i
 
     <div class="result" markdown>
 
-    ![Animation of a hypothetical outcome plot](../../assets/images/animations/Regression_animation.gif){ align=right width=300 }
+    ![Animation of a hypothetical outcome plot](../../assets/images/animations/regression.gif){ align=right width=300 }
     
     One method is to use packages built into software like Python and R to generate visual animations that explicitly depict alternate or hypothetical outcomes alongside, say, the most likely model of the data generation process. See [this page for more details](uncertainty_example.ipynb).
 
