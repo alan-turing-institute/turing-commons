@@ -222,7 +222,7 @@ nav:
       - Introduction: ped/chapter4/index.md
       - Storytelling with Data: ped/chapter4/storytelling.md
       - Communicating Uncertainty: ped/chapter4/uncertainty.md
-      - Visualising Uncertainty: ped/chapter4/uncertainty.ipynb
+      - Visualising Uncertainty: ped/chapter4/uncertainty_example.ipynb
     - Public Trust and Assurance:
       - Introduction: ped/chapter5/index.md
       - Public Trust in Science and Technology: ped/chapter5/trust.md
