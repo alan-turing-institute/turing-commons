@@ -1,6 +1,6 @@
 # Climbing the Ladder: From Informing to Empowering
 
-In 1969, Sherry Arnstein published 'A Ladder of Citizen Participation'.
+In 1969, Sherry Arnstein published 'A Ladder of Citizen Participation' [@arnstein1969].
 The eponymous ladder was a typology of different forms of public participation in science and research, which was intended to be both "provocative" and also facilitate clearer dialogue on the objectives of different forms of public engagement[^participation-engagement].
 
 [^participation-engagement]: A note on the terms 'participation' and 'engagement': in some cases these terms can be used interchangeably. For instance, public participation is a form of engagement. However, the reverse is not always true, as Arnstein's ladder demonstrates. For instance, informing members of the public about novel scientific results or findings through print communication is best seen as engagement, rather than than participation. This is because the reader is unable to participate in the scientific process, even if they have been engaged in the later stages (i.e. scientific communication). Throughout this guide, we will default to the use of 'engagement' where an inclusive usage is appropriate.
@@ -56,7 +56,7 @@ That is, there may be cases where increased citizen control is neither desirable
 
 As conscientious and responsible researchers, however, we may still wish to do better than mere tokenism and also avoid complete non-participation.
 In such cases, it is important to have a clear understanding of what our goal for public engagement ought to be.
-In an article reviewing different approaches to science and technology communication, Lewinstein identifies four models, which can help us to better understand the goals of public engagement:
+In an article reviewing different approaches to science and technology communication, Bruce Lewinstein identifies four models, which can help us to better understand the goals of public engagement [@lewenstein2003]:
 
 - The Deficit Model
 - The Contextual Model
