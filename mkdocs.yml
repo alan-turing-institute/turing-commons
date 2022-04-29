@@ -86,6 +86,8 @@ plugins:
   - search:
       separator: "[\\s\\-,:!=\\[\\]()\"/]+|\\.(?!\\d)|&[lg]t;|(?!\\b)(?=[A-Z][a-z])"
   - mkdocs-jupyter
+  - bibtex:
+      bib_dir: "docs/assets/bibliographies/"
 
 # Customization
 extra:
