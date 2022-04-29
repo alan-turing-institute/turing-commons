@@ -203,8 +203,8 @@ nav:
     - Conclusion: rri/conclusion/index.md
     - Resources:
       - Additional Resources: rri/resources/index.md
+      - Synthetic Data Generation: rri/resources/synthetic_data_generation.ipynb
       - Further Reading: rri/resources/further-reading.md
-      - Course Participants: rri/resources/participants.md
 
   - Public Engagement of Data Science and AI:
     - (PED) About this Course: ped/index.md
