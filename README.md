@@ -14,7 +14,7 @@
 | **Cite** | [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5747126.svg)](https://doi.org/10.5281/zenodo.5747126) |
 | **License** | [![CC BY 4.0][cc-by-shield]][cc-by] |
 
-Welcome to the GitHub repository for the Ethics Theme's (Alan Turing Institute) online training resources, known as Turing Commons.
+Welcome to the GitHub repository for the Ethics and Responsible Innovation Team's (Alan Turing Institute) online training resources, known as Turing Commons.
 At present, the repository is used to host a collection of guidebooks on the following topics:
 
 - [Responsible Research and Innovation (RRI)](https://turing-commons.netlify.app/rri/index.html)
