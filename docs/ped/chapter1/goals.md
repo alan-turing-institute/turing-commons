@@ -73,7 +73,7 @@ Universal agreement on whether a medical intervention is a net positive in terms
 
 ## Safeguarding and Supporting Human Rights
 
-Consider the following text from the United Nation's Universal Declaration of Human Rights:[@nations22]
+Consider the following text from the United Nation's Universal Declaration of Human Rights:[@nations2022]
 
 !!! abstract "Article 27"
 
