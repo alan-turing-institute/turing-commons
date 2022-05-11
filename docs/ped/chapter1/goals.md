@@ -96,7 +96,7 @@ The term 'citizen science' is defined by Vayena and Tasioulas as,
 
 This inclusive definition makes room for myriad scientific activities, ranging from astronomy to zoology, or from self-tracking and experimentation through smart devices (e.g. wearables and smartphones) to participation in distributed forms of environment data collection and mapping[^colouring].
 
-[^colouring]: see the Colouring London project as one visually-appealing example of crowdsourced data-science.
+[^colouring]: see the [Colouring London project](https://colouringlondon.org/) as one visually-appealing example of crowdsourced data-science.
 
 The unprecedented technological means available to members of the public has undoubtedly played a significant role in increasing the participation in citizen science projects.
 However, the fact that access to science and technology remains unequally distributed throughout society suggests that technological means alone are insufficient for universally establishing the aforementioned human right.
