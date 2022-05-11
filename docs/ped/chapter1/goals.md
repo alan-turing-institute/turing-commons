@@ -34,13 +34,13 @@ This second goal is often associated with Jurgen Habermas—a German philosopher
 
 !!! quote
 
-    a time-consuming process of mutual enlightenment, for the ‘general interest’ on the basis of which alone a rational agreement between publicly competing opinions could freely be reached
+    a time-consuming process of mutual enlightenment, for the ‘general interest’ on the basis of which alone a rational agreement between publicly competing opinions could freely be reached [@habermas1989]
 
 The general idea is that deliberation aims at consensus, such that the latter emerges from the sharing of public reasons and a drive towards mutual understanding between those engaged in dialogue.
 Here, consensus could involve a shared belief and agreement about the benefits or harms of some scientific or technological development.
 
 In practice, consensus does not have to involve unanimous agreement on a final outcome.
-Rather, it can also include acceptable domains or preferences and ranges of competing options, the credibility of disputed beliefs, and the legitimacy of competing values (Dryzek and Niemeyer, 2006).
+Rather, it can also include acceptable domains or preferences and ranges of competing options, the credibility of disputed beliefs, and the legitimacy of competing values.[@dryzek2006]
 This avoids the misplaced criticism that deliberation aimed at consensus building results in the flattening of the range of options or covers up dissent and legitimate disagreement or difference.
 
 ## Establishing Trust, Legitimacy, and Social License
@@ -50,13 +50,13 @@ Closely connected with the goal of consensus building or formation is the goal o
 As a socially-embedded process, science and technology development can often depend on the support of members of the public.
 This is especially true where science and technology research and development is publicly funded and administered.
 
-A clear example of this is the recent case of contact-tracing apps used across the globe in response to the COVID-19 pandemic.
+A clear example of this is the recent case of contact-tracing apps used across the globe in response to the COVID-19 pandemic.[@leslie2020]
 Many formal healthcare organisations supported contact tracing because of its potential to support epidemiological research.
 However, the success of the public health programmes depended upon whether members of the public trusted the scientific process, including whether their personal data were handled in a responsible and ethical fashion.
 
 The choice of whether to use contact-tracing apps was, therefore, dependant upon a) how *trustworthy* the app was judged to be, b) whether the operator of the app had *perceived legitimacy* in the eyes of the public, and c) whether there was broad *social license* for the app in the first place.
 
-Public engagement was seen by many as crucial to establishing trust, legitimacy, and social license {cite}.
+Public engagement was seen by many as crucial to establishing trust, legitimacy, and social license.[@aitken2020]
 Although this may be a valid goal, it is also important to note that like the first goal, it can be treated as an instrumentally valuable goal insofar as it supports subsequent goals, such as improving health outcomes or supporting epidemiological research.
 
 ## Improving Social Welfare
@@ -73,7 +73,7 @@ Universal agreement on whether a medical intervention is a net positive in terms
 
 ## Safeguarding and Supporting Human Rights
 
-Consider the following text from the United Nation's Universal Declaration of Human Rights:
+Consider the following text from the United Nation's Universal Declaration of Human Rights:[@nations22]
 
 !!! abstract "Article 27"
 
@@ -92,11 +92,11 @@ The term 'citizen science' is defined by Vayena and Tasioulas as,
 
 !!! quote
     
-    [...] any form of active non-professional participation in science that goes beyond human subject research conducted by professional researchers.
+    [...] any form of active non-professional participation in science that goes beyond human subject research conducted by professional researchers.[@vayena2015]
 
 This inclusive definition makes room for myriad scientific activities, ranging from astronomy to zoology, or from self-tracking and experimentation through smart devices (e.g. wearables and smartphones) to participation in distributed forms of environment data collection and mapping[^colouring].
 
-[^colouring]: see the [Colouring London project](https://colouringlondon.org/) as one visually-appealing example of crowdsourced data-science.
+[^colouring]: see the [Colouring London project](https://colouringlondon.org) as one visually-appealing example of crowdsourced data-science.
 
 The unprecedented technological means available to members of the public has undoubtedly played a significant role in increasing the participation in citizen science projects.
 However, the fact that access to science and technology remains unequally distributed throughout society suggests that technological means alone are insufficient for universally establishing the aforementioned human right.
