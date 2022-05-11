@@ -10,3 +10,5 @@
 !.vscode/*.code-snippets
 
 *.code-workspace
+
+/admin
