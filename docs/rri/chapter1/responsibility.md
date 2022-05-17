@@ -7,7 +7,7 @@ In an oft-cited article, Von Schomberg defines RRI as follows:
 
 !!! quote
 
-    “Responsible Research and Innovation is a transparent, interactive process by which societal actors and innovators become mutually responsive to each other with a view on the (ethical) acceptability, sustainability and societal desirability of the innovation process and its marketable products (in order to allow a proper embedding of scientific and technological advances in our society).” {cite:p}`vonschomberg2011`
+    “Responsible Research and Innovation is a transparent, interactive process by which societal actors and innovators become mutually responsive to each other with a view on the (ethical) acceptability, sustainability and societal desirability of the innovation process and its marketable products (in order to allow a proper embedding of scientific and technological advances in our society).”[@vonschomberg2011]
 
 This is a helpful definition, but it can be challenging to grasp its meaning on first glance, so let's break it down.
 

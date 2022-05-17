@@ -16,9 +16,9 @@ The following three case studies help to provide illustrations of these points, 
   <figcaption>Doctor drawing blood from a patient as part of the Tuskegee Syphilis Study (Reprinted from Wikimedia Commons—https://commons.wikimedia.org/wiki/File:Tuskegee-syphilis-study_doctor-injecting-subject.jpg).</figcaption>
 </figure>
 
-Starting in 1932, the U.S. Public Health Service ran a study of “untreated syphilis in the male Negro”, which affected almost 400 African-American men with the disease {cite:p}`reverby2001`.
+Starting in 1932, the U.S. Public Health Service ran a study of “untreated syphilis in the male Negro”, which affected almost 400 African-American men with the disease.[@reverby2001]
 As we know today, Syphilis can cause many symptoms including sores, blindness, hair loss, stroke, heart failure, and even death if left untreated.
-However, aside from the risk that these men were exposed to, a particularly abusive aspect of the study was that it was carried out on _impoverished individuals_, affected by the Great Depression, all while telling them they were being “treated” for their “bad blood” {cite:p}`reverby2001`.
+However, aside from the risk that these men were exposed to, a particularly abusive aspect of the study was that it was carried out on _impoverished individuals_, affected by the Great Depression, all while telling them they were being “treated” for their “bad blood”.[@reverby2001]
 
 The study created a massive outcry but, nevertheless, continued for 40 years until 1972.
 In this time, syphilis became treatable as a result of the increased availability of penicillin, and funding for the study was withdrawn.
@@ -26,19 +26,19 @@ However, as one of the participants states,
 
 !!! quote
 
-    ''The thing that disturbs me now is that they found a cure,'' Shaw told the Baltimore Sun. ''They found penicillin. And they never gave it to us. It vexed me awfully sadly.'' {cite:p}`duff-brown2017`
+    ''The thing that disturbs me now is that they found a cure,'' Shaw told the Baltimore Sun. ''They found penicillin. And they never gave it to us. It vexed me awfully sadly.''[@duffbrown2017]
 
 By the time the study ended, 128 participants had died from syphilis or related complications.
 Moreover, 40 of the participants’ spouses had been infected, and 19 children were born with congenital syphilis.
-It should be obvious why this case study is infamous and well-rehearsed in courses on research ethics or biomedical ethics {cite:p}`beauchamp2013`.
+It should be obvious why this case study is infamous and well-rehearsed in courses on research ethics or biomedical ethics.[@beauchamp2013]
 However, there are many reasons for the study's continued infamy that have direct relevance to RRI, including the need to continually reflect on the structural biases that exist in society and create forms of racial discrimination that researchers should not ignore.
-One specific consideration is the fact that the study directly influenced a landmark event in the ethical importance of informed consent: the 1979 Belmont Report {cite:p}`nationalcommission1979`.
+One specific consideration is the fact that the study directly influenced a landmark event in the ethical importance of informed consent: the 1979 Belmont Report.[@nationalcommission1979]
 
 This report, produced by the US National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research, set out a variety of guidelines for clinical research, including the requirement for participants to have an understanding of the research being conducted, in order to provide informed consent.
 
 !!! quote
 
-    Respect for persons requires that subjects, to the degree that they are capable, be given the opportunity to choose what shall or shall not happen to them. This opportunity is provided when adequate standards for informed consent are satisfied.
+    Respect for persons requires that subjects, to the degree that they are capable, be given the opportunity to choose what shall or shall not happen to them. This opportunity is provided when adequate standards for informed consent are satisfied.[@nationalcommission1979]
 
 The conditions that need to be satisfied are,
 
@@ -63,16 +63,16 @@ At the time, the US Department of Energy's Health and Environmental Research Adv
 
 !!! quote
 
-    to commit to a large, long-term, multidisciplinary, technological undertaking to order and sequence the human genome {cite:p}`barnhart1989`
+    to commit to a large, long-term, multidisciplinary, technological undertaking to order and sequence the human genome.[@barnhart1989]
 
 Nearly 20 years and 2.7 billion dollars later, on April 14, 2003, the project was formally announced as complete.
 The project had been an international effort to identify all of our ~20,500 genes and determine the sequences of nearly 3 billion chemical base pairs make up our DNA.
 The scale of the project and the magnitude of the technological accomplishments should be praised in their own rights.
-But even more impressive is the continuing impact that this project has had on research projects, collaborative practices, and technological advancements {cite:p}`mcguire2020`.
+But even more impressive is the continuing impact that this project has had on research projects, collaborative practices, and technological advancements.[@mcguire2020]
 
 Even from the very beginning of the project, it was clear that expanding our knowledge of genetics and genomics would have profound impacts on society—not all of which would be positive.
 For example, concerns were voiced about whether the knowledge could be used to further discriminate against certain individuals or sub-groups of the human population, raising the spectre of past injustices caused by the practice of eugenics [^gattaca].
-Therefore, in 1990, the National Human Genome Research Institute founded a program to specifically oversee and study the project's ethical, legal, and social implications, known as the ELSI program {cite:p}`nhgri2021`.
+Therefore, in 1990, the National Human Genome Research Institute founded a program to specifically oversee and study the project's ethical, legal, and social implications, known as the ELSI program.[@nhgri2021]
 
 [^gattaca]: This concern became the centrepiece for the 1997 dystopian sci-fi, Gattaca, which takes its title from the four letters of the nucleobases of DNA.
 
@@ -80,7 +80,7 @@ Writing several years after the completion of the project, the manager of the EL
 
 !!! quote
 
-    The qualifications to do bioethics analysis are straightforward: familiarity with, and ability to analyze, the relevant _facts and values_. No discipline or profession has a monopoly on these skills or should dominate the process. Of the major disciplines engaged in bioethics, philosophy is useful in raising questions and providing rationale, but the actual resolution of bioethics issues – deciding which course of action to take or recommend – generally relies most heavily on factual analysis and seldom on philosophical insight alone. Law sometimes resolves bioethics issues but in most cases establishes only what is _socially permissible_, not what is most desirable, or merely imposes procedural requirements rather than a substantive result. The ethics traditions of medicine and science pervade bioethics and provide much guidance, but these professional perspectives have built-in conflicts that practitioners may not recognize when _balancing the rights and interests of others_. Social science is an obvious source of empirical information about both facts and values, but just as other fields play limited roles in bioethics, social science must be integrated in the broad policymaking process. To be useful in this process, social science must view bioethics policymaking as the goal, not the object, of its study. ({cite:t}`yesley2008`, emphasis mine)
+    The qualifications to do bioethics analysis are straightforward: familiarity with, and ability to analyze, the relevant _facts and values_. No discipline or profession has a monopoly on these skills or should dominate the process. Of the major disciplines engaged in bioethics, philosophy is useful in raising questions and providing rationale, but the actual resolution of bioethics issues – deciding which course of action to take or recommend – generally relies most heavily on factual analysis and seldom on philosophical insight alone. Law sometimes resolves bioethics issues but in most cases establishes only what is _socially permissible_, not what is most desirable, or merely imposes procedural requirements rather than a substantive result. The ethics traditions of medicine and science pervade bioethics and provide much guidance, but these professional perspectives have built-in conflicts that practitioners may not recognize when _balancing the rights and interests of others_. Social science is an obvious source of empirical information about both facts and values, but just as other fields play limited roles in bioethics, social science must be integrated in the broad policymaking process. To be useful in this process, social science must view bioethics policymaking as the goal, not the object, of its study.[@yesley2008] (emphasis mine) 
 
 Three things stand out about this quotation.
 First, Yesley is acutely aware of the complex relationship between both facts and values, but also between competing value perspectives when analysing and determining what is desirable from scientific research or technological innovation.
@@ -112,16 +112,16 @@ This included, where available, the various “Likes” of the users; their age,
 
 The purpose of gathering this information was to see whether psychological traits could be predicted from social media data.
 In short, could the results from the user's psychometric tests be inferred from the data gathered from their social media profiles.
-The results were mixed and gave rise to many questions about validity, reliability, and generalisability {cite:p}`burr2019`.
+The results were mixed and gave rise to many questions about validity, reliability, and generalisability.[@burr2019]
 However, the results or these related questions are not our present concern.
 
 Almost four years after the publication of their research paper, in 2017, Donald Trump was inaugurated as President of the United States and the United Kingdom gave formal notice of its intent to withdraw from the EU following the Brexit referendum.
 In an attempt to make sense of these surprising events, a large number of investigative journalists started contacting the three researchers enquiring about their links to a political consulting firm known as Cambridge Analytica.
-Despite having never worked with Cambridge Analytica, and refusing their requests, the method the researchers described in their 2013 paper led the firm to work with another Cambridge University researcher to develop their own app {cite:p}`weaver2018`.
-It was later revealed that this app enabled Cambridge Analytica to access the data of up to 87 million Facebook users without their knowledge or permission due to poor data privacy and protection policies on the platform {cite:p}`kang2018`.
-The firm subsequently used this data to develop and sell predictive analytics services to the Trump administration, influencing the outcomes of the US election, and also attempt to court the Leave.EU Brexit campaign {cite:p}`ball2020`.
+Despite having never worked with Cambridge Analytica, and refusing their requests, the method the researchers described in their 2013 paper led the firm to work with another Cambridge University researcher to develop their own app.[@weaver2018]
+It was later revealed that this app enabled Cambridge Analytica to access the data of up to 87 million Facebook users without their knowledge or permission due to poor data privacy and protection policies on the platform.[@kang2018]
+The firm subsequently used this data to develop and sell predictive analytics services to the Trump administration, influencing the outcomes of the US election, and also attempt to court the Leave.EU Brexit campaign.[@ball2020]
 
-The events that surround the Cambridge Analytica data scandal read as though they were plucked from a novel about espionage, information warfare, and PSYOPS, carefully woven together and exposed by the tireless efforts of investigative journalists {cite:p}`cadwalladr2017`.
+The events that surround the Cambridge Analytica data scandal read as though they were plucked from a novel about espionage, information warfare, and PSYOPS, carefully woven together and exposed by the tireless efforts of investigative journalists.[@cadwalladr2017]
 Our interest in the case study is, unfortunately, less glamorous.
 It can be captured by a single question:
 

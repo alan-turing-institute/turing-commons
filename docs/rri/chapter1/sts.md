@@ -6,7 +6,7 @@ Three months later the Manhattan project dropped the first of their three atomic
 
 ![A 3d rendering of an atomic bomb](../../assets/images/graphics/bomb.jpeg){ align="center" }
 
-{cite:p}`bridgstock1998` draws attention to this story because it was used originally by Polanyi, in his essay, 'The Republic of Science' {cite:p}`polanyi1962`, to suggest that the practical and societal outcomes of pure scientific research are often unforeseen and unintended.
+Bridgstock[@bridgstock1998] draws attention to this story because it was used originally by Polanyi, in his essay, 'The Republic of Science' [@polanyi1962], to suggest that the practical and societal outcomes of pure scientific research are often unforeseen and unintended.
 The problem with this suggestion is that it implies that scientists cannot be held accountable or exercise any real responsibility for the consequences of their research—a troubling implication if true!
 
 However, the definitions we have already encountered suggest that science, technology, and society are closely interconnected, and that RRI requires reflection upon the myriad ways that science and technology can impact and shape social norms and practices.
@@ -58,16 +58,16 @@ This is a primary objective for the entire course, but we can introduce some of 
 
 ## Risk and Impact Assessments
 
-At the [start of this chapter](responsibility.md) we looked at a definition of RRI from {cite:p}`vonschomberg2011`.
+At the [start of this chapter](responsibility.md) we looked at a definition of RRI from.[@vonschomberg2011] 
 Let's look at another one, this time from the European Commission:
 
 === "European Commission"
 
-    Responsible research and innovation is an approach that anticipates and assesses potential implications and societal expectations with regard to research and innovation, with the aim to foster the design of inclusive and sustainable research and innovation. {cite:p}`europeancommission2014`
+    Responsible research and innovation is an approach that anticipates and assesses potential implications and societal expectations with regard to research and innovation, with the aim to foster the design of inclusive and sustainable research and innovation.[@europeancommission2014]
 
 === "René von Schomberg"
 
-    Responsible Research and Innovation is a transparent, interactive process by which societal actors and innovators become mutually responsive to each other with a view on the (ethical) acceptability, sustainability and societal desirability of the innovation process and its marketable products (in order to allow a proper embedding of scientific and technological advances in our society). {cite:p}`vonschomberg2011`
+    Responsible Research and Innovation is a transparent, interactive process by which societal actors and innovators become mutually responsive to each other with a view on the (ethical) acceptability, sustainability and societal desirability of the innovation process and its marketable products (in order to allow a proper embedding of scientific and technological advances in our society).[@vonschomberg2011] 
 
 There are many similarities between the two definitions, but they also emphasise different aspects through their choice of terminology.
 For instance, the definition from the European Commission mentions _anticipation_ and _assessment_, as a means for highlighting the importance of associated activities such as risk or impact assessments.
@@ -118,13 +118,13 @@ And, to be clear, it is a _right_—one which is captured in Article 27 of the U
 
 !!! quote
 
-    Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits.
+    Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits.[@un48]
 
 RRI relies on both the organic and creative nature of the human mind as much as it does the meticulous standards of the scientific method.
 Involving diverse stakeholders in creative forms of participation can prevent a sort of _cognitive staleness_ or group-think arising within teams when it comes to problem solving.
 But more importantly, participation in research and innovation can improve trust, buy-in, and promote scientific understanding and literacy.
 This goes beyond a narrow instrumental value to a broader social and ethical value.
-It is also, arguably, part of the motivation behind famous ladder of public engagement {cite:p}`arnstein1969`.
+It is also, arguably, part of the motivation behind famous ladder of public engagement.[@arnstein1969]
 
 <figure markdown>
   ![Sherry Arnstein's Ladder of Engagement](../../assets/images/graphics/ladder.jpeg){ align="center" }
