@@ -28,7 +28,7 @@ There are numerous examples that illustrate this point.
 === "Clinical decision support systems"
 
     Clinical decision support systems  can contribute to existing forms of [racial bias in access to healthcare](https://www.nature.com/articles/d41586-019-03228-6).
-    A study conducted in the US found that an algorithm that used health costs as a proxy for health needs was ''less likely to refer black people than white people who were equally sick to programmes that aim to improve care for patients with complex medical needs''. {cite:p}`obermeyer2019`
+    A study conducted in the US found that an algorithm that used health costs as a proxy for health needs was ''less likely to refer black people than white people who were equally sick to programmes that aim to improve care for patients with complex medical needs''.[@obermeyer2019]
 
 A commonly heard response to such examples is the claim that the underlying problem is that the training data used to develop the algorithms or models were insufficiently representative.
 In other words,''*it was the data that were biased*''.
@@ -38,13 +38,13 @@ Unfortunately, *at best* this response is only partially true, but *at worst* it
 It is important to remember that most decisions that drive the project lifecycle are made by the project team.
 A choice to design a study in a particular way, or to deploy a system in a context that is characterised by patterns of historical discrimination, cannot simply be blamed on poor data.
 
-[^solutionism]: The term 'technological solutionism' is often used to refer to the belief (or, "faith") that technology can be used to solve a problem that was likely caused by technology in the first place. {cite}`morozov2013`
+[^solutionism]: The term 'technological solutionism' is often used to refer to the belief (or, "faith") that technology can be used to solve a problem that was likely caused by technology in the first place.[@morozov2013]
 
 ## Statistical Bias
 
 If you are a data scientist, or use techniques from data science in your research or development, then it is likely that your understanding of bias is influenced by statistical concepts.
 
-Jeff Aronson explores the etymology of the term 'bias' in a series of interesting blog articles, which emphasise the statistical understanding of bias {cite}`aronson2018`.
+Jeff Aronson explores the etymology of the term 'bias' in a series of interesting blog articles, which emphasise the statistical understanding of bias.[@aronson2018]
 He begins by tracing it back to the game of bowls, where the curved trajectory of the bowl as it ran along the green reflected the asymmetric shape of the bowl (i.e., its bias).
 However, according to Aronson, the term was not used in statistics until around the start of the 20th Century where it was used to refer to a systematic deviation from an expected statistical result that arises due to the influence of some additional factor.
 This understanding is common in observational studies where bias can arise in the process of sampling or measurement.
@@ -107,7 +107,7 @@ However, those who adopt a view known as 'ecological rationality' argue that suc
 This alternative account, made famous by Herbert Simon, and later developed by Gerd Gigerenzer reframes a lot of human judgement and decision-making as underpinned by “fast and frugal” heuristics, which are highly adaptive and support decision-making in complex and uncertain environments.
 It's not necessary to delve into this debate for the present purposes, but it is an interesting tangent for those interested in exploring how the choice to present statistical information in different ways (e.g., as probabilities versus frequencies) can affect comprehension and understanding.[^debate]
 
-[^debate]: For those who want to reconstruct the debate between Kahneman, Tversky, and Gigerenzer, the following papers can be read in order: (1) {cite}`tversky1974`, (2) {cite}`gigerenzer1991`, (3) {cite}`kahneman1996`, (4) {cite}`gigerenzer1996`
+[^debate]: For those who want to reconstruct the debate between Kahneman, Tversky, and Gigerenzer, the following papers can be read in order: (1) Tsversky, (1974)[@tversky1974], (2) Gigerenzer, (1991)[@gigerenzer1991], (3) Kahneman, (1996)[@kahneman1996], (4) Gigerenzer, (1996)[@gigerenzer1996]
 
 When carrying out research and innovation in data science and AI, cognitive biases can impact the processes and outcome of the project lifecycle in myriad ways.
 There is, after all, a [large list](https://en.wikipedia.org/wiki/List_of_cognitive_biases) of cognitive biases to consider.

@@ -15,7 +15,7 @@ The following offers a stylised illustration of the project lifecycle, introduce
 ![A stylised illustration of the project lifecycle model](../../assets/images/illustrations/lifecycle.png)
 
 A key benefit of this illustration is that is helps us reflect on the way that individual roles and responsibilities within the project team interconnect.
-For instance, the developers or software engineers, in virtue of their expertise in implementing models and designing software tools may have a better understanding of how UX/UI elements will affect the decision-making of the end user, perhaps in virtue of their impact on cognitive biases {cite:p}`burton2020`.
+For instance, the developers or software engineers, in virtue of their expertise in implementing models and designing software tools may have a better understanding of how UX/UI elements will affect the decision-making of the end user, perhaps in virtue of their impact on cognitive biases.[@burton2020]
 As such, they may recognise the need to ensure that any output of an automated decision support system should be accompanied by a graphical representation that helps explain how an algorithm reached any particular decision.
 
 Therefore, reducing individual project members to their *functional* role devalues their creative and reflective potential.
