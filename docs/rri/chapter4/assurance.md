@@ -2,19 +2,19 @@
 
 !!! note "Reference"
 
-    This section is based on {cite}`burr2021a`, which provides a more thorough account of the argument-based assurance methodology and how it applies to responsible research and innovation in data science and AI.
+    This section is based on Burr[@burr2021], which provides a more thorough account of the argument-based assurance methodology and how it applies to responsible research and innovation in data science and AI.
 
 The method we will explore that serves the role of facilitating responsible communication is known as *argument-based assurance* (ABA).
 We can define ABA as:
 
 > a process of using structured argumentation to provide assurance to another party (or parties) that a particular claim (or set of related claims) about a property of a system is warranted given the available evidence.
 
-As a structured method for communication, ABA is already widely used in safety-critical domains or industries where manufacturing and development processes are required to comply with strict regulatory standards and support industry-recognised best practices {cite}`hawkins2021`.
+As a structured method for communication, ABA is already widely used in safety-critical domains or industries where manufacturing and development processes are required to comply with strict regulatory standards and support industry-recognised best practices.[@hawkins2021]
 
 However, ABA is useful for more than just demonstrating regulatory compliance.
 It can also
 
-- assist internal **reflection** and **deliberation** by providing a systematic and structured means for evaluating how the development of systems or products can fulfil certain normative goals (e.g. safety or robustness), according to certain well-defined properties (e.g. software hazards identified) and criteria (e.g. risk reduction thresholds met)
+- assist internal **reflection** and **deliberation** by providing a systematic and structured means for evaluating how the development of systems or products can fulfil certain normative goals (e.g. safety or robustness), according to certain well-defined properties (e.g. software hazards identified) and criteria (e.g. risk reduction thresholds met);
 - provide a deliberate means for the **anticipation** and **pre-emption** of potential risks and adverse impacts through mechanisms of end-to-end assessment and redress;
 - facilitate **transparent communication** between developers and affected stakeholders;
 - support mechanisms and processes of **documentation** (or, reporting) to **ensure accountability** (e.g. audits, compliance);
@@ -32,7 +32,7 @@ This is not an argument in the antagonistic sense of the term, but rather a stru
 
 The scope and content of what we can call an 'assurance case' is determined by the relevant details of the project in question, and what the project team need to provide assurance for. For example, if a project team needs to communicate the processes by which they have ensured the *interpretability* of their model, they may need to develop an *interpretability case*, which could look something like the following:
 
-![A template of an assurance case that focuses on providing assurance for the interpretability of a machine learning model. Reprinted from {cite}`ward2020`](../../assets/images/graphics/interpretability-case.png)
+![A template of an assurance case that focuses on providing assurance for the interpretability of a machine learning model. Reprinted from Ward[@ward2020]](../../assets/images/graphics/interpretability-case.png)
 
 Here, the assurance case is represented in a graphical format.
 The top-level claim is a goal that is supported by the lower level claims, which in turn further specify what it means to say "The {ML model} is sufficiently {interpretable} in the intended {context}".
