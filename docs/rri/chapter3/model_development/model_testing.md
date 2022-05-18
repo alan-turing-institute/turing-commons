@@ -1,6 +1,6 @@
 # Model Training, Testing and Validation
 
-Before training a model, the data need to be split into 'training' and 'testing' sets to avoid model overfitting.[^overfitting^]
+Before training a model, the data need to be split into 'training' and 'testing' sets to avoid model overfitting.[^overfitting]
 
 [^overfitting]: In short, overfitting occurs when a model is fit too closely to a specific set of data, likely leading to unnecessary complexity (e.g., too many features or parameters when compared to the number of observations). The model may perform very well on the training data, but perform poorly when presented with new observations.
 

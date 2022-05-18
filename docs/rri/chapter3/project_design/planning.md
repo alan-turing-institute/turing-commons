@@ -18,7 +18,7 @@ This can help to avoid a myopic focus on a narrow class of technology-based "sol
 
 Project planning, therefore, can comprise a wide variety of tasks, including, but not limited to:
 
-- an assessment of whether developing or using data-driven technology is the right approach given available resources and data, existing technologies and processes already in place, the complexity of the use-contexts involved, and the nature of the policy or social problem that needs to be solved (Leslie et al 2021a);
+- an assessment of whether developing or using data-driven technology is the right approach given available resources and data, existing technologies and processes already in place, the complexity of the use-contexts involved, and the nature of the policy or social problem that needs to be solved[@leslie2021a];
 - a discussion with an *ethics committee* or *internal review board* to help evaluate the ethical credentials of the project;
 - an analysis of *user needs* in relation to the prospective model and whether a solution involving the latter provides appropriate affordances in keeping with user needs and related functional desiderata;
 - identification and mapping of key stages in the project to support *project governance* and business tasks (e.g. scenario planning);
