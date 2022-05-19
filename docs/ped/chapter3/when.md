@@ -134,7 +134,7 @@ An example of how an individual's or group's characteristics may affect a resear
 
 The final step is to establish *engagement objectives* that enable the appropriate degree of stakeholder engagement and co-production in project evaluation, and *methods* that support the achievement of defined objectives. We will look at the latter of these in detail in the next section, so let's just address the former here.
 
-If we think back to the first chapter, and the different models of participation (e.g., Arnstein's ladder of engagement), then we can identify the following four goals that can help us specify our project's objectives:
+If we think back to the first chapter, and the different models of participation (e.g., Arnstein's ladder of engagement)[@arnstein1969], then we can identify the following four goals that can help us specify our project's objectives:
 
 ![Four engagement goals](../../assets/images/graphics/engagement-goals.png){ width="75%" }
 
