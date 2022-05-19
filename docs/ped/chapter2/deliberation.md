@@ -4,7 +4,7 @@ Let's begin with a simple definition of 'deliberation':
 
 !!! quote
 
-    We define deliberation minimally to mean *mutual communication* that involves *weighing and reflecting* on preferences, values, and interests regarding matters of common concern. (Bachtiger et al. 2018, p. 12, emphasis added)
+    We define deliberation minimally to mean *mutual communication* that involves *weighing and reflecting* on preferences, values, and interests regarding matters of common concern.[@bachtiger2018] (p. 12, emphasis added)
 
 As defined, deliberation is separate to (but consistent with) processes such as decision-making, polling, and voting—processes that are common components of public engagement.
 However, deliberation is a process that aims at mutual understanding and building consensus, prior to decision-making.
@@ -41,7 +41,7 @@ Instead, by focusing on the values inherent to communication and deliberation, w
 
 ## Identifying Values for Effective Deliberation
 
-In reviewing the literature on such values, Bachtiger et al. identify two generations of *standards for good deliberation*—the latter of which have grown out of and developed upon the first.
+In reviewing the literature on such values, Bachtiger et al.[@bachtiger2018] identify two generations of *standards for good deliberation*—the latter of which have grown out of and developed upon the first.
 
 | First Generation        | Second Generation                                                                        |
 | ----------------------- | ---------------------------------------------------------------------------------------- |
@@ -74,9 +74,10 @@ However, deliberation that upholds the standards above can also increase trust a
     
     1. reflectively recognises shared needs and interests,
     2. produces the best solutions to the problems involved in meeting those needs and interests,
-    3. brings individual into a close and fulfilling relationship with a community (Chambers, Oxford Handbook, p).
+    3. brings individual into a close and fulfilling relationship with a community.[@chambers2018]
+    <!-- Check whether this chambers ref is the correct one -->
 
-As with the remaining standards identified by Bachtiger et al., the above two express important values that are enacted through effective deliberation and public engagement.
+As with the remaining standards identified by Bachtiger et al.,[@bachtiger2018] the above two express important values that are enacted through effective deliberation and public engagement.
 However, there are myriad barriers that can prevent such values from being realised. These include:
 
 - Unbalanced relationships of power
@@ -115,7 +116,7 @@ First, as researchers, it is always important to ensure that an ideal does not e
 Values are often expressed as ethical principles that prescribe *what we ought to do under ideal circumstances* (e.g. as rational agents with perfect information).
 While potentially valid as evaluative criteria (i.e. as post hoc means for determining what is right or wrong after the fact), they often fail to translate well as decision procedures. Nevertheless, they can still serve action-guiding roles in steering us towards ethical actions or behaviours.
 
-Second, as Bachtiger et al. acknowledge, there are often good reasons to strive harder in pursuit of some values over others.
+Second, as Bachtiger et al.[@bachtiger2018] acknowledge, there are often good reasons to strive harder in pursuit of some values over others.
 This allows a team to prioritise values that are particularly relevant for their project (e.g. those that matter to their stakeholder or affected users).
 For instance, perhaps a team of epidemiologists are concerned with understanding the social and environmental risk factors associated with a specific disease that disproportionately affects those from disadvantaged backgrounds.
 In this case, the research team would be justified in prioritising values that promote health equity or amplify the voices of marginalised stakeholders, even if pursuing such values is to the neglect of others.  
