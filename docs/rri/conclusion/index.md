@@ -1,5 +1,5 @@
 <figure markdown>
-  ![Illustration by Johnny Lighthands](../../assets/images/illustrations/sociotechnical_2){ align="center" }
+  ![Illustration by Johnny Lighthands](../../assets/images/illustrations/sociotechnical_2.png){ align="center" }
   <figcaption>Illustration by [Johnny Lighthands](https://www.johnnylighthands.co.uk))</figcaption>
 </figure>
 

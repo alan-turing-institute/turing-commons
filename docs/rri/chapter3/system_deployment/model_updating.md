@@ -21,14 +21,10 @@ However, there is also the option of entirely *de-provisioning* (i.e., stopping 
 
 As you may recall, the project lifecycle image showed this final stage connected to the first stage of '[Project Planning](../project_design/planning.md)' in a circular manner.
 
-```{figure} /images/graphics/project-lifecycle.png
----
-align: center
-name: project-lifecycle-2
-alt: The Project Lifecycle. 
----
-The Project Lifecycle. 
-```
+<figure markdown>
+![The Project Lifecycle. ](../../../assets/images/graphics/project-lifecycle.png){ align="center" }
+ <figcaption>The Project Lifecycle.]</figcaption>
+</figure>
 
 The reason for this should now be clearer.
 Depending on the choices made at this stage, it may be necessary to start planning for a new project.

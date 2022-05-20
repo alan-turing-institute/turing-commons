@@ -16,14 +16,11 @@ For instance, a linear regression model is easy to understand because of the str
 However, a neural network, at the other end of the extreme is often described as a ''black box model" because the relationship between the input features and the output is often too difficult to interpret without the use of ad hoc methods[@ico2020].
 The trade-off for this lower interpretability can be greater performance in terms of accuracy or predictive power.
 
-```{figure} /images/graphics/interpretability.png
----
-align: center
-name: interpretability
-alt: A schematic showing the trade-off between model interpretability and model performance
----
-A schematic showing the trade-off between model interpretability and model performance. [@diop2019]
-```
+<figure markdown>
+  ![A schematic showing the trade-off between model interpretability and model performance](../../../assets/images/graphics/interpretability.png){ align="center" }
+  <figcaption>A schematic showing the trade-off between model interpretability and model performance[@diop2019] </figcaption>
+</figure>
+
 
 This trade-off has important normative considerations though.
 For instance, consider the decision to deploy an algorithmic decision support system in criminal courts to help a judge decide on a sentence.
@@ -36,14 +33,10 @@ Therefore, such a decision is inescapably value-laden and inherently about exerc
 
 ### Supervised Learning
 
-```{figure} /images/illustrations/deep-learning.png
----
-align: center
-name: deep-learning
-alt: An illustration of a neural network classifying an image of a dog correctly.
----
-An illustration of a neural network classifying an image of a dog correctly (by [Johnny Lighthands](https://www.johnnylighthands.co.uk)).
-```
+<figure markdown>
+  ![An illustration of a neural network classifying an image of a dog correctly.](../../../assets/images/illustrations/deep-learning.png){ align="center" }
+  <figcaption>An illustration of a neural network classifying an image of a dog correctly.</figcaption>
+</figure>
 
 Supervised learning involves training a model using a set of examples, which are pairs of input data and corresponding labels.
 For example, learning to classify labelled images as pictures of 'cats' or 'dogs', in order to then classify new (unlabelled) instances.

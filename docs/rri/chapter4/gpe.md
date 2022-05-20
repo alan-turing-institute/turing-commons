@@ -1,7 +1,7 @@
 # Goals, Properties, and Evidence
 
 In the previous section, we looked at the reflect, act, and justify procedure, which was used to help develop and draw together the constitutive elements of an assurance case.
-To summarise, {ref}`reflect-act-justify` presents a simple illustration of the above process with reference to the three core elements.
+To summarise, [reflect-act-justify](./assurance.md#reflect-act-justify) presents a simple illustration of the above process with reference to the three core elements.
 
 ![A schematic that depicts the reflect, act and justify process.](../../assets/images/graphics/raj.png)
 

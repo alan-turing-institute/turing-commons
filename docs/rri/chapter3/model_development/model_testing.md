@@ -4,14 +4,12 @@ Before training a model, the data need to be split into 'training' and 'testing'
 
 [^overfitting]: In short, overfitting occurs when a model is fit too closely to a specific set of data, likely leading to unnecessary complexity (e.g., too many features or parameters when compared to the number of observations). The model may perform very well on the training data, but perform poorly when presented with new observations.
 
-```{figure} /images/graphics/overfitting.png
----
-align: center
-name: overfitting
-alt: An example of overfitting, underfitting and the appropriate balance.
----
-An example of overfitting, underfitting and the appropriate balance {cite}`bronshtein2020`
-```
+
+<figure markdown>
+![An example of overfitting, underfitting and the appropriate balance.](../../../assets/images/graphics/overfitting.png){ align="center" }
+ <figcaption>An example of overfitting, underfitting and the appropriate balance.[@bronshtein2020]</figcaption>
+</figure>
+
 
 The *training set* is the one used, as the name suggests, to train the model, whereas the *testing set* is a hold-out sample that is used to evaluate the fit of the ML model to the underlying data distribution.
 The testing set is kept separate while training the model to provide an less biased evaluation of the model once it has been fit to the training dataset.
@@ -32,14 +30,10 @@ At the end, an average is taken from the *k* models and this is tested against t
 The following graphic should help you visualise this.
 
 
-```{figure} /images/graphics/cross-validation.png
----
-align: center
-name: cross-validation
-alt: A simple representation of the K-Folds Cross Validation Process
----
-A simple representation of the K-Folds Cross Validation Process.
-```
+<figure markdown>
+![A simple representation of the K-Folds Cross Validation Process](../../../assets/images/graphics/cross-validation.png){ align="center" }
+ <figcaption>A simple representation of the K-Folds Cross Validation Process</figcaption>
+</figure>
 
 This type of validation is also known as 'internal validation', to distinguish it from external validation, and, in a similar way to choices made about the original training-testing split, the manner in which it is approached can have critical consequences for how the performance of a system is measured against the real-world conditions that it will face when operating “in the wild.”
 

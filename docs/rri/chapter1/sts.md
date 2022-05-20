@@ -4,7 +4,10 @@ In April 1945, Michael Polanyi—a chemist and sociologist of science—and Bert
 They were asked whether the formula had any practical applications for society, but neither could provide an answer.
 Three months later the Manhattan project dropped the first of their three atomic bombs!
 
+<figure markdown>
 ![A 3d rendering of an atomic bomb](../../assets/images/graphics/bomb.jpeg){ align="center" }
+<figcaption>A 3d rendering of an atomic bomb</figcaption>
+</figure>
 
 Bridgstock[@bridgstock1998] draws attention to this story because it was used originally by Polanyi, in his essay, 'The Republic of Science' [@polanyi1962], to suggest that the practical and societal outcomes of pure scientific research are often unforeseen and unintended.
 The problem with this suggestion is that it implies that scientists cannot be held accountable or exercise any real responsibility for the consequences of their research—a troubling implication if true!
