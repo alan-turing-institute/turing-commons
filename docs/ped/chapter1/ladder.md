@@ -71,7 +71,7 @@ Public surveys are often cited in support of such a view, including claims such 
 !!! quote
     
     [...] only 10 percent of Americans can define "molecule," and that more than half believe that humans and dinosaurs lived on the Earth at the same time.
-
+<!-- citation for this quote -->
 From this starting point, those who adhere to the deficit model presume that attempts to improve public knowledge are invariably a good thing.
 
 But are they?
