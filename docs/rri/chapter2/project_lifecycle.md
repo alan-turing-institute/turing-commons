@@ -1,10 +1,10 @@
 # Introducing the Project Lifecycle (A Sociotechnical Approach)
 
 There are many ways of carving up the lifecycle for a data science or AI project (hereafter, ‘project lifecycle’).[^assurance]
-For instance, {cite:p}`sweenor2020` break it into four stages: Build, Manage, Deploy & Integrate, Monitor.[^mlops]
-{cite:t}`ashmore2019` also identify four stages, which have a more specific focus on data science: data management, model learning, model verification, and model deployment.
+For instance,[@sweenor2020] break it into four stages: Build, Manage, Deploy & Integrate, Monitor.[^mlops]
+Ashmore[@ashmore2019] also identify four stages, which have a more specific focus on data science: data management, model learning, model verification, and model deployment.
 
-[^assurance]: The following text is adapted from a publication titled, 'Ethical Assurance: A practical approach to the responsible design, development, and deployment of data-driven technologies' {cite:p}`burr2021a`.
+[^assurance]: The following text is adapted from a publication titled, 'Ethical Assurance: A practical approach to the responsible design, development, and deployment of data-driven technologies'.[@burr2021]
 
 [^mlops]: These four stages are influenced by an ‘ML OPs’ perspective.
 The term ‘MLOps’ refers to the application of DevOps practices to ML pipelines.

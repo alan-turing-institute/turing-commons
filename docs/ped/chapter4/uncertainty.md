@@ -18,7 +18,7 @@ In this section, we are just going to look at the final option, but it's good to
 
 Alright, it's not much to look at, but it is a true scientific mystery in one respect.
 
-As Michael Blastland recounts in *The Hidden Half*, the marmorkrebs caused quite the stir in the late 20th Century when it was discovered that lone females were able to lay eggs without fertilisation.
+As Michael Blastland[@blastland2020] recounts in *The Hidden Half*, the marmorkrebs caused quite the stir in the late 20th Century when it was discovered that lone females were able to lay eggs without fertilisation.
 In short, the marmorkrebs did not need to mate, such that offspring were natural clones of their mothers—a process known as *parthogenesis*.
 However, it was not the parthogenic property—unique among the ~15,000 species of decapod—that baffled the scientific establishment.
 Rather, the mystery lay in what the marbled marmokrebs meant[^tongue] for the nature-nurture debate.
@@ -44,16 +44,16 @@ At this point, you may be considering possible explanations for the cause of the
 We won't go into each possible causal explanation here, though I do suggest you read Blastland's book in case you find yourself over-confident that you know the answer!
 The purpose of mentioning this case of the confounding crayfish is to emphasise that there is a lot in science that we simply do not know.
 Sometimes, this uncertainty can be accounted for by following the scientific method and conducting ongoing experimentation.
-At other times, the observable phenomena place too much stress on the dominant scientific paradigm, causing the scientific community to rethink core assumptions—a sociological process brought to light by the philosopher of science, Thomas Kuhn.
+At other times, the observable phenomena place too much stress on the dominant scientific paradigm, causing the scientific community to rethink core assumptions—a sociological process brought to light by the philosopher of science, Thomas Kuhn.[@kuhn1970]
 
 As researchers and developers trained in the scientific method, you are likely familiar with a variety of methods and tools for navigating scientific uncertainty.
 But when it comes to communicating this uncertainty to different stakeholders, the knowledge and understanding of these methods cannot be assumed.
 And this can lead to a breakdown in communication and trust.
-This is where the systematic framework from van der Bles et al. (2019) comes in handy.
+This is where the systematic framework from van der Bles et al. (2019)[@vanderbles2019] comes in handy.
 
 ## A Framework for Communicating Uncertainty
 
-The framework presented in (van der Bles et al., 2019) is grounded in a review of the, admittedly "scattered" empirical evidence pertaining to the psychological and behaviour effects of communicating uncertainty.
+The framework presented in (van der Bles et al., 2019)[@vanderbles2019] is grounded in a review of the, admittedly "scattered" empirical evidence pertaining to the psychological and behaviour effects of communicating uncertainty.
 Their framework comprises five stages that are summarised as follows:
 
 1. Who communicates
@@ -105,13 +105,13 @@ However, as the diagram shows, it can sometimes spill over into forms of explici
 ### To whom
 
 In [chapter 2](../chapter2/deliberation.md) we saw how the relationship between researchers and the public can embody a variety of communicative values, but also prevent obstacles when imbalances of power arise.
-Similar characteristics are present in the framework from van der Bles et al. (2019).
+Similar characteristics are present in the framework from van der Bles et al. (2019)[@vanderbles2019].
 
 - characteristics of the audience (e.g. data literacy, relevant demographic variables)
 - relationship of the audience to what is being communicated (e.g. skeptical attitude)
 - relationship of the audience to the people doing the communication (e.g. trustworthy or credible relationship)
 
-As an example, van der Bles et al. (2019) cite a study from Dieckmann et al. (2017) that found evidence of varying responses to ambiguous information about average global surface temperatures.
+As an example, van der Bles et al. (2019)[@vanderbles2019] cite a study from Dieckmann et al. (2017)[@dieckmann2017] that found evidence of varying responses to ambiguous information about average global surface temperatures.
 For audiences, who were more accepting of climate change, they took the information to be evidence of a normal distribution where higher values of surface temperature were likely.
 Whereas, for audiences who were less accepting of climate change, the same information was taken to reflect a uniform distribution where lower temperatures were more likely.
 

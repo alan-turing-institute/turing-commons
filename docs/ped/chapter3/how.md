@@ -99,6 +99,6 @@ And, some forms of education and outreach can be very creative. Consider the fol
 
     Billennium was a mobile augmented reality (AR) project that took place in Bristol, UK in 2018. Participants used mobile devices to be guided on an AR tour, not of their city in the present day, but of possible architectural futures. The tour was designed to help promote members of the public engage in discussion and futures thinking about how their city could be design together.
 
-    [(Clarke, 2021)](https://www.scienceopen.com/hosted-document?doi=10.14324/RFA.05.2.03)
+    [(Clarke, 2021)](https://www.scienceopen.com/hosted-document?doi=10.14324/RFA.05.2.03)[@clarke2021]
     </div>
 

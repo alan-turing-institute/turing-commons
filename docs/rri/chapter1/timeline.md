@@ -7,12 +7,12 @@
 
 Science and technology studies (STS) is the interdisciplinary study of how science and technology shape, structure, affect and interact with society, politics, and cultural knowledge and values.
 Because of its inherent interdisciplinarity, it arose as the result of the convergence of different ideas and areas of interest, each of which have their own distinct histories.
-However, many of these intertwined ideas shared important themes, such as (a) viewing science as a social institution with a distinct normative structure (e.g., values of prioritising novel research; ethos and community of peers), (b)) treating science and technology as socially situated practices, and (c) the belief that technology and society co-constitute and mutually shape each other, including the way that scientific facts and technological artefacts are understood and conceptualised {cite}`merton1973`.
+However, many of these intertwined ideas shared important themes, such as (a) viewing science as a social institution with a distinct normative structure (e.g., values of prioritising novel research; ethos and community of peers), (b)) treating science and technology as socially situated practices, and (c) the belief that technology and society co-constitute and mutually shape each other, including the way that scientific facts and technological artefacts are understood and conceptualised.[@merton1973]
 As Rohracher notes:
 
 !!! quote
 
-    Facts and artifacts are but temporarily stable outcomes of heterogeneous activities of scientists and engineers and their entanglement in wider social and political relations. {cite:t}`rohracher2015`
+    Facts and artifacts are but temporarily stable outcomes of heterogeneous activities of scientists and engineers and their entanglement in wider social and political relations.[@rohracher2015]
 
 Because of these themes, the concerns of STS overlap closely with the concerns of RRI.
 Therefore, the following potted (and incomplete) history of STS provides a reference to some notable publications and events that you may find interesting to explore.

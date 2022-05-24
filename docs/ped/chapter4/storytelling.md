@@ -16,12 +16,12 @@ Now, ask yourself the following questions:
     1. What story do you think this graph is trying to tell?
     2. Which part of the graph caught your attention initially?
 
-Cole Nussbaumer Knaflic's excellent book, *Storytelling with Data* is full of examples such as this one, in which badly designed or ordinary graphs are transformed into engaging and insightful visualisations that help tell a story and realise various goals.
+Cole Nussbaumer Knaflic's excellent book, *Storytelling with Data* is full of examples such as this one, in which badly designed or ordinary graphs are transformed into engaging and insightful visualisations that help tell a story and realise various goals.[@knaflic2015]
 The previous graph, for example, is altered into the following one, where a) more supportive messaging helps explain how a new program improved children's interest and engagement in science, and b) better use of colours help to direct the audience's attention to the values of significance (i.e., the increased percentages of children who were either 'interested' or 'excited' in science following the intervention).
 
 ![Image of graphic](../../assets/images/graphics/storytellingb.png)
 
-In this section, we are going to look at three lessons (based on Knaflic's book) to help tell more engaging stories with data:
+In this section, we are going to look at three lessons (based on Knaflic's book)[@knaflic2015] to help tell more engaging stories with data:
 
 1. Choose the right tool for the job
 2. Understand the limits of attention

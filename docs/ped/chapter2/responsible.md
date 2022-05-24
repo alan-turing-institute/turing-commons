@@ -2,7 +2,7 @@
 
 !!! quote
 
-    The public have to live with the consequences of science and technology. As such, RRI is above all "an opportunity for truly collective stewardship of our highly technologized future." (Sebastian Pfotenhauer quoted in Pain, 2017)
+    The public have to live with the consequences of science and technology. As such, RRI is above all "an opportunity for truly collective stewardship of our highly technologized future." (Sebastian Pfotenhauer quoted in Pain, 2017)[@pain2017]
 
 The above quote helps to motivate a need to consider our responsibility, as researchers, to the societal impact of science and technology. The practical tools and methods we will explore in subsequent chapters will help us meet our various obligations. However, before we shift to the practical considerations, there is one final question to consider:
 
@@ -73,7 +73,7 @@ However, consider the following quotation:
 
 !!! quote
 
-    The lack of diverse jobs after a PhD, a shrinking funding budget and lack of public support all seem daunting to graduate students. In the face of these major hurdles, many scientists isolate themselves from these issues and focus on their own research. A recent study has shown, however, that increased interaction with reporters and the more Twitter mentions a study receives correlate with a higher _h_-index of the author, a metric for measuring the scientific impact of a publication. To determine whether media coverage of a published science article is causative of increased citations, a 1991 study looked at journal articles that would have been covered by the New York Times, but due to a writer’s strike in the late 1970s, were not. Researchers found that the journal articles that were not covered had consistently less citations than other research articles covered by the Times. There is clear value for the science research community to publicise new findings to the public. (Pham, 2016)
+    The lack of diverse jobs after a PhD, a shrinking funding budget and lack of public support all seem daunting to graduate students. In the face of these major hurdles, many scientists isolate themselves from these issues and focus on their own research. A recent study has shown, however, that increased interaction with reporters and the more Twitter mentions a study receives correlate with a higher _h_-index of the author, a metric for measuring the scientific impact of a publication. To determine whether media coverage of a published science article is causative of increased citations, a 1991 study looked at journal articles that would have been covered by the New York Times, but due to a writer’s strike in the late 1970s, were not. Researchers found that the journal articles that were not covered had consistently less citations than other research articles covered by the Times. There is clear value for the science research community to publicise new findings to the public.[@pham2016]
 
 While this is only one form of engagement (i.e. communication) it serves as a pragmatic reason for pursuing public engagement.
 However, there are also ethical reasons for pursuing public engagement in data science, in spite of the aforementioned barriers.
@@ -126,7 +126,7 @@ The following quote is a nice reflection point for the values contained within t
 
 !!! quote
 
-    Sometimes we want everyone’s voice to be heard because we think that will make a better decision as a result, and sometimes we want everyone’s voice to be heard simply because we think that everyone has a right to be heard (MacGilvray, Democratic Doubts: Pragmatism and the Epistemic Defense of Democracy, 2013, 106)
+    Sometimes we want everyone’s voice to be heard because we think that will make a better decision as a result, and sometimes we want everyone’s voice to be heard simply because we think that everyone has a right to be heard.[@macgilvray2014]
 
 ### Fairness
 
@@ -134,7 +134,7 @@ Consider the following statistic:
 
 !!! quote
 
-    15 per cent of scientists come from working class backgrounds; and in the US, children from the top 1 per cent of richest families (by income) are ten times as likely to have filed for a patent as those from families in the bottom half of the income distribution (Nesta/Saunders, 2018, p. 1)
+    15 per cent of scientists come from working class backgrounds; and in the US, children from the top 1 per cent of richest families (by income) are ten times as likely to have filed for a patent as those from families in the bottom half of the income distribution.[@saunders2018]
 
 While much has been done in the past decade to improve access to science and technology, there is, of course, still a lot more that needs to be done to ensure all individuals have an equal opportunity to participate in a core part of society.
 This is, ultimately, a matter of fairness.
@@ -161,8 +161,8 @@ On this second point, public engagement can support evaluation and determination
 
 Data quality, integrity, protection and privacy must all be established to be confident that a research or innovation project has been designed, developed, and deployed in a responsible manner.
 
-- ‘Data Quality’ captures the static properties of data, such as whether they are (a) _relevant_ to and _representative_ of the domain and use context, (b) _balanced_ and _complete_ in terms of how well the dataset represents the underlying data generating process, and (c) _up-to-date_ and _accurate_ as required by the project.
-- ‘Data Integrity’ refers to more dynamic properties of data stewardship, such as how a dataset evolves over the course of a project lifecycle. In this manner, data integrity requires (a) _contemporaneous_ and _attributable_ records from the start of a project (e.g., process logs; research statements), (b) ensuring _consistent_ and _verifiable_ means of data analysis or processing during development, and (c) taking steps to establish _findable_, _accessible_, _interoperable_, and _reusable_ records towards the end of a project’s lifecycle.
+- ‘Data Quality’ captures the static properties of data, such as whether they are a) _relevant_ to and _representative_ of the domain and use context, b) _balanced_ and _complete_ in terms of how well the dataset represents the underlying data generating process, and c) _up-to-date_ and _accurate_ as required by the project.
+- ‘Data Integrity’ refers to more dynamic properties of data stewardship, such as how a dataset evolves over the course of a project lifecycle. In this manner, data integrity requires a) _contemporaneous_ and _attributable_ records from the start of a project (e.g., process logs; research statements), b) ensuring _consistent_ and _verifiable_ means of data analysis or processing during development, and c) taking steps to establish _findable_, _accessible_, _interoperable_, and _reusable_ records towards the end of a project’s lifecycle.
 - ‘Data protection and privacy’ reflect ongoing developments and priorities as set out in relevant legislation and regulation of data practices as they pertain to fundamental rights and freedoms, democracy, and the rule of law. For example, the right for data subjects to have inaccurate personal data rectified or erased.
 
 These final properties are, typically, more technical than the others (e.g., requiring legal expertise to determine if a project violates any data protection laws).

@@ -13,22 +13,19 @@ One notable factor is the inherent interpretability of the model.
 
 Certain learning algorithms produce models that are inherently less interpretable than others.
 For instance, a linear regression model is easy to understand because of the straightforward connection between input variables and the learned weights that alter how much influence the individual variables have on the outputs.
-However, a neural network, at the other end of the extreme is often described as a ''black box model" because the relationship between the input features and the output is often too difficult to interpret without the use of ad hoc methods {cite}`ico2020`.
+However, a neural network, at the other end of the extreme is often described as a ''black box model" because the relationship between the input features and the output is often too difficult to interpret without the use of ad hoc methods[@ico2020].
 The trade-off for this lower interpretability can be greater performance in terms of accuracy or predictive power.
 
-```{figure} /images/graphics/interpretability.png
----
-align: center
-name: interpretability
-alt: A schematic showing the trade-off between model interpretability and model performance
----
-A schematic showing the trade-off between model interpretability and model performance. Reprinted from {cite}`diop2019` 
-```
+<figure markdown>
+  ![A schematic showing the trade-off between model interpretability and model performance](../../../assets/images/graphics/interpretability.png){ align="center" }
+  <figcaption>A schematic showing the trade-off between model interpretability and model performance[@diop2019] </figcaption>
+</figure>
+
 
 This trade-off has important normative considerations though.
 For instance, consider the decision to deploy an algorithmic decision support system in criminal courts to help a judge decide on a sentence.
 A more accurate model could reduce the number of unfair decisions (e.g., someone being given a prison sentence rather than community service), but the judge may not be able to understand why a particular decision is recommend by the model and thus be unable to explain their decision to the defendant.
-As transparency and accessibility are vital parts of judicial decision-making and the rule of law, the use of a black-box model, in spite of the greater accuracy, may be deemed unlawful and unjust {cite}`bingham2011`.
+As transparency and accessibility are vital parts of judicial decision-making and the rule of law, the use of a black-box model, in spite of the greater accuracy, may be deemed unlawful and unjust.[@bingham2011]
 The trade-off is in almost all non-trivial cases, unavoidable.
 Therefore, such a decision is inescapably value-laden and inherently about exercising ethical reflection and responsible deliberation—likely in conjunction with [affected stakeholders](../project_design/planning.md).
 
@@ -36,14 +33,10 @@ Therefore, such a decision is inescapably value-laden and inherently about exerc
 
 ### Supervised Learning
 
-```{figure} /images/illustrations/deep-learning.png
----
-align: center
-name: deep-learning
-alt: An illustration of a neural network classifying an image of a dog correctly.
----
-An illustration of a neural network classifying an image of a dog correctly (by [Johnny Lighthands](https://www.johnnylighthands.co.uk)).
-```
+<figure markdown>
+  ![An illustration of a neural network classifying an image of a dog correctly.](../../../assets/images/illustrations/deep-learning.png){ align="center" }
+  <figcaption>An illustration of a neural network classifying an image of a dog correctly.</figcaption>
+</figure>
 
 Supervised learning involves training a model using a set of examples, which are pairs of input data and corresponding labels.
 For example, learning to classify labelled images as pictures of 'cats' or 'dogs', in order to then classify new (unlabelled) instances.
@@ -83,4 +76,4 @@ Commonly used unsupervised learning algorithms include:
 
 Finally, we have reinforcement learning (RL). RL algorithms try to learn an optimal policy that has the goal of maximising some value function when interacting within a particular environment. For example, an intelligent agent that has the goal of scoring the highest number of points in a video game by learning what actions to perform in response to visual feedback from a screen.
 
-RL algorithms can be split into *model-free* or *model-based* methods, where the latter tries to build a model of its environment on which to choose the optimal policy. {cite}`ai2019`
+RL algorithms can be split into *model-free* or *model-based* methods, where the latter tries to build a model of its environment on which to choose the optimal policy.[@ai2019]

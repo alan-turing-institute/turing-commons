@@ -1,7 +1,7 @@
 # Goals, Properties, and Evidence
 
 In the previous section, we looked at the reflect, act, and justify procedure, which was used to help develop and draw together the constitutive elements of an assurance case.
-To summarise, {ref}`reflect-act-justify` presents a simple illustration of the above process with reference to the three core elements.
+To summarise, [reflect-act-justify](./assurance.md#reflect-act-justify) presents a simple illustration of the above process with reference to the three core elements.
 
 ![A schematic that depicts the reflect, act and justify process.](../../assets/images/graphics/raj.png)
 
@@ -12,7 +12,7 @@ And, how do you evaluate and determine if you have sufficient **evidence** to su
 By now, you will probably find it unsurprising to hear that a reflective, inclusive, and socially embedded process of stakeholder engagement is key.
 Consider again the original definition of responsible research and innovation presented in [Chapter 2](../chapter1/responsibility.md):
 
-> “Responsible Research and Innovation is a transparent, interactive process by which societal actors and innovators become mutually responsive to each other with a view on the (ethical) acceptability, sustainability and societal desirability of the innovation process and its marketable products (in order to allow a proper embedding of scientific and technological advances in our society).” {cite:p}`vonschomberg2011`
+> “Responsible Research and Innovation is a transparent, interactive process by which societal actors and innovators become mutually responsive to each other with a view on the (ethical) acceptability, sustainability and societal desirability of the innovation process and its marketable products (in order to allow a proper embedding of scientific and technological advances in our society).”[@vonschomberg2011]
 
 But even though stakeholder engagement is necessary, a project team still need a springboard to help facilitate communication and deliberation with stakeholders.
 That is, they need a starting point, grounded in an informed understanding of the potential harms that can arise from the misuse of data science and AI.

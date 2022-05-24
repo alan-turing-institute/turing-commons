@@ -10,16 +10,16 @@ These principles can help us identify what is unique to responsible data science
 
 ## SAFE-D Principles
 
-According to {cite:t}`mittelstadt2019`, in 2019 there were at least 84 statements that provided ''high-level principles, values and other tenets to guide the ethical development, deployment and governance of AI''.
+According to Mittelstadt [@mittelstadt2019], in 2019 there were at least 84 statements that provided ''high-level principles, values and other tenets to guide the ethical development, deployment and governance of AI''.
 By now there are surely many, many more!
 
-In response to this proliferation of principles, some have attempted to distil and condense the myriad documents, in order to identify commonalities and extract a unified list of shared principles {cite:p}`jobin2019,floridi2019`.
+In response to this proliferation of principles, some have attempted to distil and condense the myriad documents, in order to identify commonalities and extract a unified list of shared principles.[@jobin2019][@floridi2019]
 However, regardless of which set of principles we start with, one thing remains the same: good principles should support ongoing reflection and deliberation; they are not decision procedures in their own right.
 
 ![An illustration of a man standing in front of a branching pathway of moral decisions and considerations](../../assets/images/illustrations/deliberation.png){ align="center" }
 
 This point is sometimes lost in the ensuing debate about *which set* of principles should be used or adhered to, or which set is best.
-However, what matters is that the set of principles should (a) be responsive to the actual harms and benefits that matter to the communities of affected individuals, (b) be underwritten by a set of shared values, which support and motivate dialogue between stakeholders[^values], and (c) serve as *starting points* in a wider process of reflection and deliberation.
+However, what matters is that the set of principles should a) be responsive to the actual harms and benefits that matter to the communities of affected individuals, b) be underwritten by a set of shared values, which support and motivate dialogue between stakeholders[^values], and c) serve as *starting points* in a wider process of reflection and deliberation.
 
 [^values]: We won't say much about ethical values in this course. However, the course on [AI Ethics & Governance](https://turing-commons.netlify.app/aeg/index.html) focuses on them directly.
 
@@ -31,7 +31,7 @@ With these points in mind, we will make use of the following set of principles k
 - Explainability
 - Data Quality, Integrity, Protection and Privacy
 
-These principles are grounded in comprehensive research and understanding of human rights and data protection law, as well as applied ethics of data and AI. {cite}`leslie2021`
+These principles are grounded in comprehensive research and understanding of human rights and data protection law, as well as applied ethics of data and AI.[@leslie2021a]
 
 You can click through the following illustrative examples to get an idea of some of the social harms associated with data-driven technologies:
 
@@ -104,9 +104,9 @@ Explainability goes beyond the ability to merely interpret specific aspects of a
 
 Data quality, integrity, protection and privacy must all be established to be confident that a research or innovation project has been designed, developed, and deployed in a responsible manner.
 
-- 'Data Quality' captures the static properties of data, such as whether they are (a) *relevant* to and *representative* of the domain and use context, (b) *balanced* and *complete* in terms of how well the dataset represents the underlying data generating process, and (c) *up-to-date* and *accurate* as required by the project.
-- ‘Data Integrity' refers to more dynamic properties of data stewardship, such as how a dataset evolves over the course of a project lifecycle. In this manner, data integrity requires (a) *contemporaneous* and *attributable* records from the start of a project (e.g., process logs; research statements), (b) ensuring *consistent* and *verifiable* means of data analysis or processing during development, and (c) taking steps to establish *findable*, *accessible*, *interoperable*, and *reusable* records towards the end of a project’s lifecycle.[^FAIR]
-- ‘Data protection and privacy' reflect ongoing developments and priorities as set out in relevant legislation and regulation of data practices as they pertain to fundamental rights and freedoms, democracy, and the rule of law. For example, the right for data subjects to have inaccurate personal data rectified or erased.{cite:p}`ico2021`
+- 'Data Quality' captures the static properties of data, such as whether they are a) *relevant* to and *representative* of the domain and use context, b) *balanced* and *complete* in terms of how well the dataset represents the underlying data generating process, and c) *up-to-date* and *accurate* as required by the project.
+- ‘Data Integrity' refers to more dynamic properties of data stewardship, such as how a dataset evolves over the course of a project lifecycle. In this manner, data integrity requires a) *contemporaneous* and *attributable* records from the start of a project (e.g., process logs; research statements), b) ensuring *consistent* and *verifiable* means of data analysis or processing during development, and c) taking steps to establish *findable*, *accessible*, *interoperable*, and *reusable* records towards the end of a project’s lifecycle.[^FAIR]
+- ‘Data protection and privacy' reflect ongoing developments and priorities as set out in relevant legislation and regulation of data practices as they pertain to fundamental rights and freedoms, democracy, and the rule of law. For example, the right for data subjects to have inaccurate personal data rectified or erased.[@ico2021]
 
 [^FAIR]: These are known as the FAIR principles ([read more here](https://www.go-fair.org/fair-principles/)).
 
@@ -129,5 +129,5 @@ Should it instead be used for the most vulnerable and worse off in society?
 [^ped]: In our guidebook on [public engagement of data science and AI](https://turing-commons.netlify.app/ped/index.html) we formalise this notion of an ethical goal in relation to a method known as argument-based assurance. Here, the goals are supported by specific properties that must be established in a project, in order to provide justifiable assurance to stakeholders that the respective goal has been realised.
 
 Questions such as these have no straightforward answer and are heavily context-dependant.
-Even if consensus were to be reached for a specific model used, say, in the diagnosis of lung cancer {cite}`svoboda2020`, this would be no guarantee of a similar answer in a different area of healthcare (e.g., paediatrics, mental healthcare), or even for another diagnostic model in radiology (e.g., MRI instead of CT scans).
+Even if consensus were to be reached for a specific model used, say, in the diagnosis of lung cancer,[@svoboda2020] this would be no guarantee of a similar answer in a different area of healthcare (e.g., paediatrics, mental healthcare), or even for another diagnostic model in radiology (e.g., MRI instead of CT scans).
 Therefore, starting in the next section we will look at a model for helping us get a clear grasp of the situated and sociotechnical context under consideration in research and innovation projects.

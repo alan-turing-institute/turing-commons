@@ -3,7 +3,7 @@
 ![An image depicting several people and digital avatars with varying levels of fidelity.](../../../assets/images/illustrations/representation-background.png)
 
 Ideally, the project team should have a clear idea in mind (from the planning and problem formulation stages) of what data are needed prior to collection, extraction, or procurement.
-This can help mitigate risks associated with over-collection of data (e.g. increased privacy or security concerns) and help align the project with values such as *data minimisation* {cite:p}`ico2020`.
+This can help mitigate risks associated with over-collection of data (e.g. increased privacy or security concerns) and help align the project with values such as *data minimisation*.[@ico2020]
 Of course, this stage may need to be revisited after carrying out subsequent tasks (e.g. data analysis, preprocessing, model testing) if it is clear that insufficient or imbalanced data were collected to achieve the project's goals.
 
 Where data is procured, questions about provenance arise (e.g. legal issues, concerns about informed consent of human data subjects).
@@ -43,4 +43,4 @@ In summary, data should be,
 > The ultimate goal of FAIR is to optimise the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings.
 
 We won't delve into these principles in any further detail, as it is beyond the scope of this course.
-However, there is more information on the [Go-FAIR website](https://www.go-fair.org/fair-principles/) and a great guide over on the [Turing Way](https://the-turing-way.netlify.app/welcome.html) {cite}`community2019`.
+However, there is more information on the [Go-FAIR website](https://www.go-fair.org/fair-principles/) and a great guide over on the [Turing Way](https://the-turing-way.netlify.app/welcome.html).[@community2019]
