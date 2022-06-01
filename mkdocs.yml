@@ -181,7 +181,7 @@ nav:
       - Understanding Bias: rri/chapter2/understanding_bias.md
     - The Project Lifecycle:
       - Introduction: rri/chapter3/index.md
-      - Case Studies: rri/chapter3/case_studies.md
+      # - Case Studies: rri/chapter3/case_studies.md
       - Project Planning: rri/chapter3/project_design/planning.md
       - Problem Formulation: rri/chapter3/project_design/problem.md
       - Data Extraction or Procurement: rri/chapter3/project_design/data_extraction.md
