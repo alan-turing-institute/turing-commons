@@ -10,10 +10,10 @@ These principles can help us identify what is unique to responsible data science
 
 ## SAFE-D Principles
 
-According to Mittelstadt [@mittelstadt2019], in 2019 there were at least 84 statements that provided ''high-level principles, values and other tenets to guide the ethical development, deployment and governance of AI''.
+According to Mittelstadt[@mittelstadt2019], in 2019 there were at least 84 statements that provided ''high-level principles, values and other tenets to guide the ethical development, deployment and governance of AI''.
 By now there are surely many, many more!
 
-In response to this proliferation of principles, some have attempted to distil and condense the myriad documents, in order to identify commonalities and extract a unified list of shared principles.[@jobin2019][@floridi2019]
+In response to this proliferation of principles, some have attempted to distil and condense the myriad documents, in order to identify commonalities and extract a unified list of shared principles.[@jobin2019]<sup>-</sup>[@floridi2019]
 However, regardless of which set of principles we start with, one thing remains the same: good principles should support ongoing reflection and deliberation; they are not decision procedures in their own right.
 
 ![An illustration of a man standing in front of a branching pathway of moral decisions and considerations](../../assets/images/illustrations/deliberation.png){ align="center" }
