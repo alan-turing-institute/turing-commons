@@ -18,7 +18,7 @@ The trade-off for this lower interpretability can be greater performance in term
 
 <figure markdown>
   ![A schematic showing the trade-off between model interpretability and model performance](../../../assets/images/graphics/interpretability.png){ align="center" }
-  <figcaption>A schematic showing the trade-off between model interpretability and model performance[@diop2019] </figcaption>
+  <figcaption>A schematic showing the trade-off between model interpretability and model performance. Reprinted from <a href="https://towardsdatascience.com/explainable-ai-the-data-scientists-new-challenge-f7cac935a5b4"> (Diop, 2019)</a></figcaption>
 </figure>
 
 
