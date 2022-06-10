@@ -13,7 +13,7 @@ search:
 
 # Blog
 
-## Public Engagement of Data Science and AI
+## [Public Engagement of Data Science and AI]
 
 __In April 2022, we ran our first week-long course on Public Engagement of Data Science and AI with 25 fantastic researchers from across the globe.__
 
@@ -35,4 +35,4 @@ The first attempt at running our new course on Public Engagement of Data Science
 
   [:octicons-arrow-right-24: Continue reading][Public Engagement of Data Science and AI]
 
-  [Public Engagement of Data Science and AI]: 2022/public-engagement.md
+  [Public Engagement of Data Science and AI]: 2022/10-06-2022-public-engagement.md
