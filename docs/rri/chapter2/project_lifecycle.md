@@ -13,7 +13,7 @@ The term is often used in an inclusive manner to incorporate traditional statist
 The multiplicity of approaches is likely a product of the evolution of diverse methods in data mining/analytics, the significant impact of ML on research and innovation, and the specific practices and considerations inherent to each of the various domains where ML techniques are applied.
 While there are many benefits of existing frameworks, they do not tend to focus on the wider social or ethical aspects that interweave throughout the various stages of a ML lifecycle.
 
-{numref}`project-lifecycle`, therefore, presents a model of a *typical* lifecycle for a project involving data science or the production of an ML/AI system.
+[Project-lifecycle](../chapter3/index.md), therefore, presents a model of a *typical* lifecycle for a project involving data science or the production of an ML/AI system.
 We have designed this model to support the ethical reflection and deliberation that is characteristic of responsible data science and AI, while remaining faithful to the technical details.
 However, it is important to note that the model is a heuristic for reflection and deliberation.
 Therefore, it is not intended to be perfectly capture of describe the processes for all data science or AI projects.

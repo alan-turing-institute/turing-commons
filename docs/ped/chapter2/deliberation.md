@@ -4,7 +4,7 @@ Let's begin with a simple definition of 'deliberation':
 
 !!! quote
 
-    We define deliberation minimally to mean *mutual communication* that involves *weighing and reflecting* on preferences, values, and interests regarding matters of common concern.[@bachtiger2018] (p. 12, emphasis added)
+    We define deliberation minimally to mean *mutual communication* that involves *weighing and reflecting* on preferences, values, and interests regarding matters of common concern.[@bachtiger2018] (emphasis added)
 
 As defined, deliberation is separate to (but consistent with) processes such as decision-making, polling, and voting—processes that are common components of public engagement.
 However, deliberation is a process that aims at mutual understanding and building consensus, prior to decision-making.
