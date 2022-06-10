@@ -1,5 +1,10 @@
-# Peeling Back the Layers of Science and Technology: Public Engagement of Data Science and AI
-###### authors: `Claudia Fischer` and `Christopher Burr`
+# Peeling Back the Layers of Science and Technology
+**authors:** `Claudia Fischer` and `Christopher Burr`
+
+<video width="80%" autoplay loop muted>
+    <source src="https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/animations/phone_peel.mp4" type="video/mp4"/>
+            Your browser does not support the video tag.
+</video>
 
 > "Any sufficiently advanced technology is indistinguishable from magic."
 
@@ -7,11 +12,6 @@ Arthur C. Clarke's phrase was made famous in the context of his science fiction 
 But the advances of science and technological innovation that we see all around us in our everyday lives can also seem magical at times, as well as feeling bewildering and obscure.
 For many researchers and developers, a key goal of public engagement is about supporting people to dispel the feeling of bewilderment through increased knowledge and understanding, while still maintaining a feeling of enthusiasm and excitement about the many possibilities and opportunities to use science and technology to improve society.
 This is no easy task!
-
-<video width="80%" autoplay loop muted>
-    <source src="../../assets/images/animations/phone_peel.mp4" type="video/mp4"/>
-            Your browser does not support the video tag.
-</video>
 
 ## Course Summary
 
