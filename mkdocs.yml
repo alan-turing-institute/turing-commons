@@ -181,7 +181,7 @@ nav:
       - Understanding Bias: rri/chapter2/understanding_bias.md
     - The Project Lifecycle:
       - Introduction: rri/chapter3/index.md
-      - Case Studies: rri/chapter3/case_studies.md
+      # - Case Studies: rri/chapter3/case_studies.md
       - Project Planning: rri/chapter3/project_design/planning.md
       - Problem Formulation: rri/chapter3/project_design/problem.md
       - Data Extraction or Procurement: rri/chapter3/project_design/data_extraction.md
@@ -228,3 +228,9 @@ nav:
     - Public Trust and Assurance:
       - Introduction: ped/chapter5/index.md
       - Public Trust in Science and Technology: ped/chapter5/trust.md
+
+  - Blog:
+    - blog/index.md
+    - 2022:
+      - blog/2022/10-06-2022-public-engagement.md
+
