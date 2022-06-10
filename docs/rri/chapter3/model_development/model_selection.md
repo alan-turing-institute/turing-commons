@@ -21,7 +21,6 @@ The trade-off for this lower interpretability can be greater performance in term
   <figcaption>A schematic showing the trade-off between model interpretability and model performance. Reprinted from <a href="https://towardsdatascience.com/explainable-ai-the-data-scientists-new-challenge-f7cac935a5b4"> (Diop, 2019)</a></figcaption>
 </figure>
 
-
 This trade-off has important normative considerations though.
 For instance, consider the decision to deploy an algorithmic decision support system in criminal courts to help a judge decide on a sentence.
 A more accurate model could reduce the number of unfair decisions (e.g., someone being given a prison sentence rather than community service), but the judge may not be able to understand why a particular decision is recommend by the model and thus be unable to explain their decision to the defendant.
