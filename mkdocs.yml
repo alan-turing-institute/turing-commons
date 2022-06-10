@@ -228,3 +228,9 @@ nav:
     - Public Trust and Assurance:
       - Introduction: ped/chapter5/index.md
       - Public Trust in Science and Technology: ped/chapter5/trust.md
+
+  - Blog:
+    - blog/index.md
+    - 2022:
+      - blog/2022/10-06-2022-public-engagement.md
+
