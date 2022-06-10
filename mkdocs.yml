@@ -26,6 +26,7 @@ site_description: >-
 
 repo_name: alan-turing-institute/turing-commons
 repo_url: https://github.com/alan-turing-institute/turing-commons
+edit_uri: edit/main/docs/
 
 # Copyright
 copyright: Copyright &copy; 2022 Public Policy Programme, Alan Turing Institute
