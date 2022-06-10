@@ -21,10 +21,14 @@
 # Project information
 site_name: Turing Commons
 site_url: https://turing-commons.netlify.app
-repo_url: https://github.com/alan-turing-institute/turing-commons
-repo_name: alan-turing-institute/turing-commons
 site_description: >-
   An online platform to support open dialogue and reflection about the responsible design, development, and deployment of data-driven technologies.
+
+repo_name: alan-turing-institute/turing-commons
+repo_url: https://github.com/alan-turing-institute/turing-commons
+
+# Copyright
+copyright: Copyright &copy; 2022 Public Policy Programme, Alan Turing Institute
 
 # Configuration
 theme:
