@@ -16,6 +16,25 @@ hide:
 
   Following this general introduction, the course pivots to introduce and discuss practical methods of public engagement, including deliberative activities that help build consensus among stakeholder; transparent and explainable methods of data governance to support project activities; methods of data visualisation to support the communication of science and technology; and an awareness of social and psychological biases, which can negatively affect the goals of responsible public engagement.
 
+## Who is this Guidebook For?
+
+Primarily, this guidebook is for researchers with an active interest in public engagement, specifically in the context of data science and artificial intelligence.
+This doesn't mean you have *to be* a data scientist, or use Python to develop machine learning algorithms.
+You could also be an ethicist, sociologist, or someone with an interest in law and public policy.
+
+This course has practical, and sometimes hands-on activities that are designed to a) encourage critical reflection and b) help you build practical understanding of the processes associated with effective and responsible public engagement in data science and AI.
+While they can be carried out as part of individual and self-directed learning, they are most suited to group discussion.
+
+## Learning Objectives
+
+This guidebook has the following learning objectives:
+
+- Critically examine what 'public engagement' is, the goals associated with different types of public engagement, and to identify the associated values.
+- Understand the different stages of public engagement as they apply to the typical activities of a data science or AI research/innovation project.
+- Explore practical methods and activities that can help build more effective forms of public engagement.
+- Identify the elements of public engagement that help build a more trustworthy data and AI ecosystem.
+
+
 </div>
 
 ## Table of Contents
@@ -64,20 +83,3 @@ hide:
 
 </div>
 
-## Who is this Guidebook For?
-
-Primarily, this guidebook is for researchers with an active interest in public engagement, specifically in the context of data science and artificial intelligence.
-This doesn't mean you have *to be* a data scientist, or use Python to develop machine learning algorithms.
-You could also be an ethicist, sociologist, or someone with an interest in law and public policy.
-
-This course has practical, and sometimes hands-on activities that are designed to a) encourage critical reflection and b) help you build practical understanding of the processes associated with effective and responsible public engagement in data science and AI.
-While they can be carried out as part of individual and self-directed learning, they are most suited to group discussion.
-
-## Learning Objectives
-
-This guidebook has the following learning objectives:
-
-- Critically examine what 'public engagement' is, the goals associated with different types of public engagement, and to identify the associated values.
-- Understand the different stages of public engagement as they apply to the typical activities of a data science or AI research/innovation project.
-- Explore practical methods and activities that can help build more effective forms of public engagement.
-- Identify the elements of public engagement that help build a more trustworthy data and AI ecosystem.

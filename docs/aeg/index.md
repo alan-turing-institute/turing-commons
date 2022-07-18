@@ -16,6 +16,26 @@ hide:
 
   Thoughout the course we will have time for Q&A, group discussions, case studies, and structured activities to further the discussion and understanding of these concepts.
   
+## Who is this Guidebook For?
+
+Primarily, this guidebook is for researchers with an active interest the ethics and governance of data science and AI. 
+This doesn't mean you have *to be* a data scientist, or use Python to develop machine learning algorithms.
+You could also be an ethicist, sociologist, or someone with an interest in law and public policy.
+
+This course has practical, and sometimes hands-on activities that are designed to a) encourage critical reflection and b) help you build practical understanding of the processes associated with effective and responsible engagement with AI systems.
+While they can be carried out as part of individual and self-directed learning, they are most suited to group discussion.
+
+## Learning Objectives
+
+This guidebook has the following learning objectives:
+
+- Get familiar with some key concepts in practical ethics. In particular, understand the different positions in metaethics (objectivism, relativism, and proceduralism), as well as the three main strands of normative theories (consequentialist, deontological, and virtue ethics.)
+- Understand the different kinds of harms that AI systems can create.
+- Explore the different values that underpin the thinking and reflection behind issues in AI ethics
+- Understand the importance of AI sustainability and anticipatory reflection through a comprehension of the stakeholder engagement process (SEP) and stakeholder impact assessment (SIA).
+- Explore the different some of the ethical issues around AI systems, such as: fairness & bias mitigation, explainability & transparency, and governance.
+- Learn the importance and use of the CARE & ACT principles in developing AI systems where ethics is considered throughout the process and in an iterative fashion.
+
 
 </div>
 
@@ -63,23 +83,3 @@ hide:
     [:octicons-arrow-right-24: Go to chapter](chapter5/index.md)
 
 </div>
-
-## Who is this Guidebook For?
-
-Primarily, this guidebook is for researchers with an active interest the ethics and governance of data science and AI. 
-This doesn't mean you have *to be* a data scientist, or use Python to develop machine learning algorithms.
-You could also be an ethicist, sociologist, or someone with an interest in law and public policy.
-
-This course has practical, and sometimes hands-on activities that are designed to a) encourage critical reflection and b) help you build practical understanding of the processes associated with effective and responsible engagement with AI systems.
-While they can be carried out as part of individual and self-directed learning, they are most suited to group discussion.
-
-## Learning Objectives
-
-This guidebook has the following learning objectives:
-
-- Get familiar with some key concepts in practical ethics. In particular, understand the different positions in metaethics (objectivism, relativism, and proceduralism), as well as the three main strands of normative theories (consequentialist, deontological, and virtue ethics.)
-- Understand the different kinds of harms that AI systems can create.
-- Explore the different values that underpin the thinking and reflection behind issues in AI ethics
-- Understand the importance of AI sustainability and anticipatory reflection through a comprehension of the stakeholder engagement process (SEP) and stakeholder impact assessment (SIA).
-- Explore the different some of the ethical issues around AI systems, such as: fairness & bias mitigation, explainability & transparency, and governance.
-- Learn the importance and use of the CARE & ACT principles in developing AI systems where ethics is considered throughout the process and in an iterative fashion.
