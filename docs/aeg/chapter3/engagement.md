@@ -1,23 +1,28 @@
 # Stakeholder Engagement Process
 
-A crucial component of AI Sustainability is conducting an appropriate Stakeholder Engagement Process (SEP), which is a process with three core steps. But first, what is a stakeholder?
+<figure markdown>
+  ![Sustainabilitycycle](../../assets/images/graphics/sustainability-cycle.png){ align="center" }
+</figure>
+
+A crucial component of AI Sustainability is conducting an appropriate Stakeholder Engagement Process (SEP). But before we delve into the process itself, we must ask, what is a stakeholder?
 
 !!! info "Key Concept: Stakeholder"
-    Scholars and practitioners from areas as diverse as public policy, land use, environmental and natural resource management, international development, and public health have offered many different definitions of “stakeholders” over the past several decades. Even so, these definitions have converged around a few common characteristics. Stakeholders are individuals or groups that (1) have interests or rights that may be affected by the past, present, and future decisions and activities of an organisations; (2) may have the power or authority to influence the outcome of such decisions and activities; (3) possess relevant characteristics that put them in positions of advantage or vulnerability with regard to those decisions and activities.
+    Stakeholders are individuals or groups that (1) have interests or rights that may be affected by the past, present, and future decisions and activities of an organisations; (2) may have the power or authority to influence the outcome of such decisions and activities; (3) possess relevant characteristics that put them in positions of advantage or vulnerability with regard to those decisions and activities.
 
-
+The SEP is an iterative process with three core steps: 
 <figure markdown>
   ![SEP](../../assets/images/graphics/sep.png){ align="center" }
 </figure>
 
-## Preliminary Project Scoping and Stakeholder Analysis
+## **Preliminary Project Scoping and Stakeholder Analysis**
 
 This is the first activity within the SEP process. It involves four sub-steps:
+
 1. **Outlining project, use context, domain, and data:** Outline a high-level description of the prospective system, the domain in which it will operate, the contexts in which it will be used, and the data on which it will be trained. During this initial project scoping activity, you should draw on organisational documents (i.e., the project business case, proof of concept, or project charter), project team collaboration, and desk research (if necessary) to complete the description.
 
 2. **Identifying stakeholders:** Building on this contextual understanding, identify who may be affected by, or may affect, your innovation project.
 
-3. **Scoping potential stakeholder impacts:** Carry out a preliminary evaluation of the potential impacts of the prospective AI system on affected individuals and communities. At this initial stage of reflection, members of your project team should review the SUM values, and the corresponding ethical concerns, rights and freedoms, and then consider which of these could be impacted by the design, development and deployment of the prospective AI system and how.
+3. **Scoping potential stakeholder impacts:** Carry out a preliminary evaluation of the potential impacts of the prospective AI system on affected individuals and communities. At this initial stage of reflection, members of your project team should review the XX values, and the corresponding ethical concerns, rights and freedoms, and then consider which of these could be impacted by the design, development and deployment of the prospective AI system and how.
 
 4. **Analysing stakeholder salience:** Assess the relevance of each identified stakeholder group to your project and to its use contexts. Assess the relative interests, rights, vulnerabilities, and advantages of identified stakeholders as these interests, rights, vulnerabilities, and advantages may be impacted by, or may impact, the AI system your team is planning to develop and deploy. When identifying stakeholders, your team should also consider organisational stakeholders, whose input will likewise strengthen the openness, inclusivity, and diversity of your project.
 
@@ -31,7 +36,7 @@ In addition to providing these important supports for building public trust, sta
 
 Public engagement and community involvement, however, are only one part of the measures your team needs to take to ensure the objectivity, reflexivity, reasonableness, and robustness of its stakeholder analysis, impact assessment, and decision-making, more generally. Apart from outward-facing community participation, processes inward-facing reflection should also inform the way your team approaches to these challenges.
 
-## Positionality Reflection
+## **Positionality Reflection**
 
 All individual human beings come from unique places, experiences, and life contexts that have shaped their thinking and perspectives. Reflecting on these is important insofar as it can help us understand how our viewpoints might differ from those around us and, more importantly, from those who have diverging cultural and socioeconomic backgrounds and life experiences. Identifying and probing these differences can enable individuals to better understand how their own backgrounds, for better or worse, frame the way they see others, the way they approach and solve problems, and the way they carry out research and engage in innovation. By undertaking such efforts to recognise social position and differential privilege, they may gain a greater awareness of their own personal biases and unconscious assumptions. This then can enable them to better discern the origins of these biases and assumption and to confront and challenge them in turn. 
 
@@ -43,7 +48,7 @@ When taking positionality into account, your team members should reflect on thei
   ![Positionality Matrix](../../assets/images/graphics/Positionality-Matrix-2.png){ align="center" }
 </figure>
 
-## Stakeholder Engagement Objective and Method
+## **Stakeholder Engagement Objective and Method**
 Stakeholder engagement may be carried out in a variety of ways that involve more-orless stakeholder involvement. This spectrum of options ranges from analyses carried out exclusively by a project team without active community engagement to analyses built around the inclusion of community-led participation and co-design from the earliest stages of stakeholder identification. The degree of stakeholder involvement will vary from project to project and take into account a preliminary assessment of the potential risks and hazards of the model or tool under consideration. Low-stakes AI applications that are not safety-critical, do not directly impact the lives of people, and do not process potentially sensitive social and demographic data may need less proactive stakeholder engagement than high-stakes projects. Similarly, you and your project team will need to take into account your assessment of positionality.
 
 When weighing these three factors, your team should prioritise the establishment of a clear and explicit stakeholder engagement objective and document this. This is crucial, because all stakeholder engagement processes can run the risk either of being cosmetic tools employed to legitimate projects without substantial and meaningful participation or of being insufficiently participative, i.e. of being one-way information flows or nudging exercises that serve as public relations instruments. The purpose of stakeholder involvement in sustainable AI projects is just the opposite: to amplify the participatory agency of affected individuals and organisations in impact assessment, risk management,
@@ -62,3 +67,24 @@ To avoid such hazards of superficiality, your team should shore up its proportio
 <figure markdown>
   ![methods](../../assets/images/graphics/methods.png){ align="center" }
 </figure>
+
+As with all forms of engagement, deciding on the best method requires awareness of your audience.
+Consider the following cases:
+
+=== ":octicons-log-16: Policymakers"
+
+    A research team has released results from an economics study that could have a positive impact on public policy. They decide to share these results with policymakers. The goal is to directly influence policy. Therefore, the results need to be clearly communicated and also connected to the policy goal. This connection is important to help ensure that policy-makers are able to evaluate the wider implications of the scientific findings. 
+
+    **Communication Goal:** to demonstrate how scientific findings can support evidence-based policy impact
+
+=== ":octicons-people-16: General Public"
+
+    As part of an education outreach campaign to improve digital literacy among adolescents, a mental health charity are running workshops with secondary school students. They wish to communicate recent evidence about the impact of over-using social media on mental health. Rather than communicating complicated statistical information about the methods used in their study, the team develop a more accessible form of their findings and link these findings to practical steps that the students can take to protect themselves online.
+
+    **Communication Goal:** to build awareness of possible risks associated with excessive social media usage and support behavioural change strategies
+
+=== ":octicons-beaker-16: Researchers"
+
+    A PhD student working in a Physics department has results from a recent study that developed and tested a new method for the large-scale data mining of astronomical data. The PhD student wish to present this new method and the validation study at an upcoming international conference for data science. The audience will be technically literate, but will not have specialist expertise in astronomy. Therefore, the PhD student describes the method in the context of its original study buy also emphasises the generalisability for other sciences (e.g. genomics).
+
+    **Communication Goal**: to advance academic career by gaining experience of presenting conference papers and also generating interest in a novel data science method
