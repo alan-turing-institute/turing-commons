@@ -3,7 +3,8 @@
 ## What is Metaethics? 
 Metaethics, as its name suggest, attempts to understand the various aspects (metaphysical, epistemological, semantic, and psychological) that make up the presuppositions and commitments of moral thought, talk and practice.[@sep-metaethics2014]
 
-What does this mean? Metaethics tries to answer many (quite difficult and relevant) questions?
+What does this mean? Metaethics tries to answer many (quite difficult and relevant) questions, such as the following:
+
 - Is there anything such an objective moral truth? Or is morality more a matter of taste?
 - Are all cultural moral standards equally valid or true?
 - Are there moral facts? And if they exist, what is their origin?
