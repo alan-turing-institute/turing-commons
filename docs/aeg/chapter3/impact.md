@@ -12,6 +12,12 @@ The purpose of carrying out an SIA is multidimensional. SIAs can serve several p
 - Underwrite well-informed decision-making and transparent innovation practices.
 - Demonstrate forethought and due diligence not only within your organisation but also to the wider public.
 
+!!! info  "Key Concept: Stakeholder Impact Assessment"
+    Over the past few years, several different types of “impact assessment” have become relevant for public sector AI innovation projects. Data Protection Law requires data protection impact assessments (DPIAs) to be carried out in cases where the processing of personal data is likely to result in a high risk to individuals. DPIAs assess the necessity and proportionality of the processing of personal data, identify risks that may emerge in that processing, and present measures taken to mitigate those risks. Equality impact assessments (EIAs) assist public authorities to fulfil the requirements of the equality duties (specifically regarding race, gender, and disability equality), and they identify the ways government can proactively promote equality.
+
+    While both DPIAs and EIAs provide relevant insights with respect to the ethical stakes of AI innovation projects, they go only part of the way in identifying and assessing the full range of potential individual and societal impacts of the design, development, and deployment of AI and data-intensive technologies. Reaching a comprehensive assessment of these impacts is the purpose of stakeholder impact assessments (SIAs). SIAs are tools that create a procedure for, and a means of documenting, the collaborative evaluation and reflective anticipation of the possible harms and benefits of AI innovation projects. SIAs are not intended to replace DPIAs or EIAs, which are obligatory. Rather, SIAs are meant to be integrated into the wider impact assessment regime as a way to demonstrate that sufficient attention has been paid to the ethical permissibility, transparency, accountability, and equity of AI innovation projects.
+
+
 Your team should convene to evaluate the social impact and sustainability of your AI project through the SIA at three critical points in the project delivery lifecycle:
 
 === ":octicons-log-16: Design"
@@ -19,21 +25,15 @@ Your team should convene to evaluate the social impact and sustainability of you
     Carry out an initial Stakeholder Impact Assessment (SIA) to determine the ethical permissibility of the project. Refer to the SUM Values as a starting point for the considerations of the possible effects of your project on individual wellbeing and public welfare. You should include a stakeholder engagement and involvement component in your initial SIA through methods established in your initial Project Summary Report (PS Report), so public views can be considered in ways that are proportional to potential project impacts and appropriate to team positionality. This will bolster the inclusion of a diversity of voices and opinions into the design and development process through the participation of a more representative range of stakeholders. The Design Phase SIA includes a revisitation of the Project Summary Report, where engagement objectives and methods for the Development Phase SIA were first established. These, and other relevant project revisions should be reflected in an update to the PS Report.
 
 
-    === ":octicons-log-16: Develop"
+=== ":material-developer-board: Develop"
     
     Once your model has been trained, tested, and validated, you and your team should revisit your initial SIA to confirm that the AI system to be implemented is still in line with the evaluations and conclusions of your original assessment. This check-in should be logged on the Development Phase section of the SIA with any applicable changes added and discussed. The method of stakeholder engagement that accompanies the SIA process will have been initially established in the PS report and revisited in the Design Phase SIA. This report should revisited again during the Development Phase SIA and updated where needed. At this point you must also set a timeframe for re-assessment once the system is in operation. Timeframes for these re-assessments should be decided by your team on a case-by-case basis but should be proportional to the scale of the potential impact of the system on the individuals and communities it will affect.
 
 
-=== ":octicons-log-16: Deploy"
+=== ":material-network-pos: Deploy"
     
     After your AI system has gone live, your team should iteratively revisit and re-evaluate your SIA. These checkins should be logged on the Deployment Phase section of the SIA with any applicable changes added and discussed. Deployment-Phase SIAs should focus both on evaluating the existing SIA against real world impacts and on considering how to mitigate the unintended consequences that may have ensued in the wake of the deployment of the system. As with each SIA iteration, the PS report is revisited at this point, when objectives, methods, and timeframes for the next Deployment Phase SIA are established.
     
-
-!!! info  "Key Concept: Stakeholder Impact Assessment"
-    Over the past few years, several different types of “impact assessment” have become relevant for public sector AI innovation projects. Data Protection Law requires data protection impact assessments (DPIAs) to be carried out in cases where the processing of personal data is likely to result in a high risk to individuals. DPIAs assess the necessity and proportionality of the processing of personal data, identify risks that may emerge in that processing, and present measures taken to mitigate those risks. Equality impact assessments (EIAs) assist public authorities to fulfil the requirements of the equality duties (specifically regarding race, gender, and disability equality), and they identify the ways government can proactively promote equality.
-
-    While both DPIAs and EIAs provide relevant insights with respect to the ethical stakes of AI innovation projects, they go only part of the way in identifying and assessing the full range of potential individual and societal impacts of the design, development, and deployment of AI and data-intensive technologies. Reaching a comprehensive assessment of these impacts is the purpose of stakeholder impact assessments (SIAs). SIAs are tools that create a procedure for, and a means of documenting, the collaborative evaluation and reflective anticipation of the possible harms and benefits of AI innovation projects. SIAs are not intended to replace DPIAs or EIAs, which are obligatory. Rather, SIAs are meant to be integrated into the wider impact assessment regime as a way to demonstrate that sufficient attention has been paid to the ethical permissibility, transparency, accountability, and equity of AI innovation projects.
-
 
 ## Skills for Conducting SIA's
 ### Weighing the values and considering trade-Offs
