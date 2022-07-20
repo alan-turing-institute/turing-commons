@@ -1,4 +1,4 @@
-# Introduction to Normative Theories
+# Introduction to Normative Ethical Theories
 
 ## Consequentialist Theories
 

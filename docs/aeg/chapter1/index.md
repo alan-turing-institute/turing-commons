@@ -8,7 +8,7 @@
 ## Chapter Outline
 
 - [Introduction to Metaethics](metaethics.md)
-- [Introduction to Normative Theories](normative.md)
+- [Introduction to Normative Ethical Theories](normative.md)
 
 
 !!! abstract "Chapter Summary"
@@ -22,7 +22,7 @@
     
     - Learn about the concept of practical ethics.
     - Familiarise yourself with the main positions in metaethics: objectivism, relativism, and proceduralism.
-    - Learn about the main normative theories: consequentialist theories, deontological theories, and virtue ethics, with a special focus on the first two.
+    - Learn about the main normative ethical theories: consequentialist theories, deontological theories, and virtue ethics, with a special focus on the first two.
     - Reflect on how these concepts in practical ethics create the wider ethical landscape on which AI ethics develops.
     - Add Activity. 
 
