@@ -1,20 +1,20 @@
 # Introduction to Normative Ethical Theories
 
-A normative ethical theory attempts to give an answer to the question of what makes someone ethical, or what makes certain actions morally permissible or not. 
-There is no shortage of ethical theories which come in different flavours, but here we will group them into three general families.
+In contrast with metaethics, which is concerned with the nature of ethics, normative ethics is concerned with the content of ethical theories. Normative ethical theories attempt to give an answer to the question of what makes someone ethical, or what makes certain actions morally permissible or not. 
+There is no shortage of ethical theories which come in different flavours. Here we will group them into the three main families of theories.
 
 ## Consequentialist Theories
 Consequence-based theories are normative theories which, as the name suggests, define whether an action is morally permissible in terms of the consequences it brings about. 
 Therefore, given a metric for what good consequences are (as well as a way of ranking better and worse  consequences), it then states that in any situation, the morally aproppriate way to act is to choose the action (among the existing possibilities) that brings about the best consequence.
 
-One very influential flavour of consequentialism is utilitarianism, which specifies that the best consequence is just whatever brings about the highest total utility.[^utility]
-[^utility]: The question as to what utility exactly is and how one goes about measuring it poses all sorts of complications which are beyond the scope of this introduction.
+One very influential flavour of consequentialism is utilitarianism, which specifies that the way we should rank consequences is by how much total (aggregate) utlity they bring about (where more utlity is better).[^utility]
+[^utility]: The question as to what exactly utility is and how one goes about measuring it poses all sorts of complications which are beyond the scope of this introduction.
 
 ## Deontological Theories
 
 Deontological theories in contrast, take a different approach. Morality is not to be measured by the consequences actions bring about, but instead morality dictates that one should follow a set of rules or principles regardless of what the consequences are.
 
-The most famous proponent of deontological theories is Immanuel Kant, who was a firm believer in rule or duty-based morality, and who went as far as to define the maxim or principle to be followed in order to act morally which we called the Categorical Imperative. This rule roughly states that one must always act as if one’s actions could be willed into a universal rule that everyone follows.
+The most famous proponent of deontological theories is Immanuel Kant, who was a firm believer in rule or duty-based morality, and who went as far as to define the maxim or principle to be followed in order to act morally which we called the Categorical Imperative. This rule roughly states that one must always act as if one’s actions could be willed into a universal rule that everyone  in society follows.
 
 ## Virtue Ethics
 

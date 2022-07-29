@@ -1,7 +1,7 @@
 # Introduction to Metaethics
 
 # What is practical ethics?
-Practical ethics is a branch of philosophy, in particular a branch of ethics which is concerned with examing the aims and principles of moral bheaviour and apply them to various problems of our everyday lives or real-world scenarios in general.[@uehiro]
+Practical ethics is a branch of philosophy, in particular a branch of ethics concerned with examing the aims and principles of moral behaviour and apply them to various problems of our everyday lives or real-world scenarios in general.[@uehiro]
 
 In this course, we will look at issues in practical ethics which arise from our use of AI systems and the prevalence of data in our lives. To do so, we will introduce some key concepts in metaethics and some of the most relevant ethical theories in use today.
 
@@ -27,9 +27,9 @@ Clearly, none of these questions will have straightforward or easy answers, and 
 
 ## Moral realism or objectivism 
 
-Roughly speaking, being an objectivist about morality requires believing that objective moral facts do exist (and most likely also known by us humans). Objective moral truths also imply that things like subjectivity, context, or culture are not relevant when evaluating the morality of a person or an act.
+Roughly speaking, being an objectivist about morality requires believing that objective moral facts do exist (and most likely can also be known by us humans). Objective moral truths also imply that things like subjectivity, context, or culture are not relevant when evaluating the morality of a person or an act.
 
-The existence of objective moral truths clearly begs the question: where do these facts come from? Traditionally, they have been thought to be derived divinely. 
+The existence of objective moral truths clearly begs the question: where do these facts come from? This is what is known as the 'grounding problem'.  One way this question has been traditionally answered is that these facts are derived divinely.
 
 ## Relativism
 On the contrary, relativism negates that moral facts do exist in an objective way, detached from any subjective individual or collective experiences, cultures, and contexts.
