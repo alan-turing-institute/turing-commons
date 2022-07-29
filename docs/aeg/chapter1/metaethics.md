@@ -1,5 +1,11 @@
 # Introduction to Metaethics
 
+# What is practical ethics?
+Practical ethics is a branch of philosophy, in particular a branch of ethics which is concerned with examing the aims and principles of moral bheaviour and apply them to various problems of our everyday lives or real-world scenarios in general.[@uehiro]
+
+In this course, we will look at issues in practical ethics which arise from our use of AI systems and the prevalence of data in our lives. To do so, we will introduce some key concepts in metaethics and some of the most relevant ethical theories in use today.
+
+
 ## What is Metaethics? 
 Metaethics, as its name suggest, attempts to understand the various aspects (metaphysical, epistemological, semantic, and psychological) that make up the presuppositions and commitments of moral thought, talk and practice.[@sep-metaethics2014]
 
@@ -19,7 +25,7 @@ Clearly, none of these questions will have straightforward or easy answers, and 
 
 
 
-## Objectivism
+## Moral realism or objectivism 
 
 Roughly speaking, being an objectivist about morality requires believing that objective moral facts do exist (and most likely also known by us humans). Objective moral truths also imply that things like subjectivity, context, or culture are not relevant when evaluating the morality of a person or an act.
 
@@ -32,5 +38,3 @@ It does not neceserarily negate that moral facts might exist in some capacity, b
 
 
 ## Proceduralism
-
-For the purposes of the rest of the course…

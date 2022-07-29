@@ -1,14 +1,14 @@
 # Introduction to Normative Ethical Theories
 
 A normative ethical theory attempts to give an answer to the question of what makes someone ethical, or what makes certain actions morally permissible or not. 
-There are many different theories which come in different flavours, but we can group most of them in three main families. 
+There is no shortage of ethical theories which come in different flavours, but here we will group them into three general families.
 
 ## Consequentialist Theories
 Consequence-based theories are normative theories which, as the name suggests, define whether an action is morally permissible in terms of the consequences it brings about. 
 Therefore, given a metric for what good consequences are (as well as a way of ranking better and worse  consequences), it then states that in any situation, the morally aproppriate way to act is to choose the action (among the existing possibilities) that brings about the best consequence.
 
 One very influential flavour of consequentialism is utilitarianism, which specifies that the best consequence is just whatever brings about the highest total utility.[^utility]
-[^utility]: the question as to what utility exactly is and how one goes about measuring it poses all sorts of complications which are beyond the scope of this introduction).
+[^utility]: The question as to what utility exactly is and how one goes about measuring it poses all sorts of complications which are beyond the scope of this introduction.
 
 ## Deontological Theories
 
@@ -18,8 +18,6 @@ The most famous proponent of deontological theories is Immanuel Kant, who was a 
 
 ## Virtue Ethics
 
-Unlike the last two, virtue ethics is not so much concerned about how people should act in a particular situation, but instead on what kind of people they are. Virtue ethicists believe that morality requires one to have a certain character, which is achieved by cultivating certain moral virtues.
-
-ADD
+Unlike the last two, virtue ethics is not so much concerned about how people should act in a particular situation, but instead on what kind of people they are. Virtue ethicists emphasise that morality has to do with having a certain moral character which is achieved by cultivating virtues.
 
 For the purposes of the rest of the course we will focus mostly on the first two families of theories, with a particular focus on principles-based approaches to ethics.
