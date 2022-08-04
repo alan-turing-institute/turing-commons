@@ -14,7 +14,6 @@ copyright: Copyright &copy; 2022 Public Policy Programme, Alan Turing Institute
 # Configuration
 theme:
   name: material
-  custom_dir: overrides
 
   # Static files
   static_templates:
