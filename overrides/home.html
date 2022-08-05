@@ -1,0 +1,81 @@
+{% extends "main.html" %} {% block tabs %} {{ super() }}
+
+<style>
+  .md-content {
+    display: none;
+  }
+  @media screen and (min-width: 60em) {
+    .md-sidebar--secondary {
+      display: none;
+    }
+  }
+  @media screen and (min-width: 76.25em) {
+    .md-sidebar--primary {
+      display: none;
+    }
+  }
+
+  @media screen and (max-width: 800px) {
+
+    .md-sidebar--secondary {
+      display: none;
+    }
+    .md-content {
+    display: none;
+  }
+    .md-container {
+        box-sizing: unset;
+    }
+    .grid {
+      width: 100%;
+      display: flex;
+      flex-direction: column-reverse;
+      box-sizing: unset;
+    }
+    .hero-animation {
+      width: 100%;
+      align-self: center;
+    }
+    .hero-text {
+      width: 100%;
+    }
+  }
+
+  .grid {
+    display: flex;
+    padding: 20px 120px 0 120px;
+    justify-content: center;
+  }
+
+  .hero-text {
+    width: 40%;
+    align-self: center;
+  }
+  .hero-animation {
+    width: 60%;
+    align-self: center;
+  }
+</style>
+
+<section class="md-container">
+  <div class="grid md-typeset">
+    <div class="hero-text">
+      <h1>Welcome to the Turing Commons</h1>
+      <p>{{ config.site_description }}</p>
+      <a
+        href="{{ page.next_page.url | url }}"
+        title="{{ page.next_page.title | e }}"
+        class="md-button md-button--primary"
+      >
+        Get Started
+      </a>
+    </div>
+    <div class="hero-animation">
+      <video autoplay loop muted>
+        <source src="assets/images/animations/hero.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  </div>
+</section>
+{% endblock %}
