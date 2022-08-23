@@ -4,11 +4,14 @@ In contrast with metaethics, which is concerned with the nature of ethics, norma
 There is no shortage of ethical theories which come in different flavours. Here we will group them into the three main families of theories.
 
 ## Consequentialist Theories
-Consequence-based theories are normative theories which, as the name suggests, define whether an action is morally permissible in terms of the consequences it brings about. 
-Therefore, given a metric for what good consequences are (as well as a way of ranking better and worse  consequences), it then states that in any situation, the morally aproppriate way to act is to choose the action (among the existing possibilities) that brings about the best consequence.
+Consequence-based theories are normative theories which, as the name suggests, define whether an action is morally permissible in terms of the consequences it brings about. In simple terms, they define morality as a matter of maximising the *best possible consequences* in any given situation.
+This then begs the question, what are the best cosnequences to be maximised? Consequentialists have given different answers to this questions.
 
-One very influential flavour of consequentialism is utilitarianism, which specifies that the way we should rank consequences is by how much total (aggregate) utlity they bring about (where more utlity is better).[^utility]
+One very influential flavour of consequentialism is utilitarianism, which specifies that the way we should rank consequences is by how much total (aggregate) utlity they bring about (where more utlity is better).[^utility] Other important consequentialist theories are hedonism, act conseuquentialism, and rule consequentialism.[^kinds]
 [^utility]: The question as to what exactly utility is and how one goes about measuring it poses all sorts of complications which are beyond the scope of this introduction.
+[^kinds]: For a list of different kinds of consequentialist theories see the Stanford Encyclopedia of Philosophy's entry on Consequentialism[@sep-consequentialism].
+However, what makes a normative ethical theory consequentialist is that, given a metric for what good consequences are (as well as a way of ranking better and worse  consequences), it then states that in any situation, the morally aproppriate way to act is to choose the action (among the existing possibilities) that brings about the best consequence.
+
 
 ## Deontological Theories
 
