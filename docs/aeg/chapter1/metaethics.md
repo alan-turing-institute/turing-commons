@@ -9,7 +9,7 @@ In this course, we will look at issues in practical ethics which arise from our 
 ## What is Metaethics? 
 Metaethics, as its name suggest, attempts to understand the various aspects (metaphysical, epistemological, semantic, and psychological) that make up the presuppositions and commitments of moral thought, talk and practice.[@sep-metaethics2014]
 
-What does this mean? Metaethics deals with a variety of quite complex, yet relevant questions, such as the following:
+What does this mean? Metaethics deals with a variety of quite complex, yet relevant questions such as the following:
 
 - Is there anything such an objective moral truth? Or is morality more a matter of taste?
 - Are all cultural moral standards equally valid or true?
