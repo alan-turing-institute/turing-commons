@@ -20,6 +20,7 @@ To avoid such hazards of superficiality, team members should shore up a proporti
 
 
 !!! abstract "Factors that affect stakeholder engagement objective"
+
     1. Assessment of risks of adverse impacts: As we have stressed throughout this course, stakeholder involvement in projects should be proportionate to the scope of their potential risks and hazards.
 
     2. Assessment of positionality: Stakeholder involvement should address positionality limitations. For instance, in cases where the identity characteristics of team members do not sufficiently reflect or represent significantly impacted groups, stakeholder participation can “fill gaps” in knowledge, domain expertise, and lived experience.
