@@ -16,8 +16,8 @@
 
    In this chapter we explore various 
 
-   In this chapter, we will explore different issues that arise with AI systems. We will look at the different elements of AI fairness, and bias mitigation. We will also delve into the importance of transparency and explainability in AI systems (as well as the differences between them). Finally, we will touch upon what AI governance is, and how it can be integrated into the AI project lifecycle.
+   In this chapter, we will explore different issues that arise with AI systems. We will look at the elements of AI fairness, and the strategies to conduct bias mitigation. We will also delve into the importance of transparency and explainability in AI systems. Finally, we will touch upon what AI governance is, and how it can be integrated into the AI project lifecycle.
 
 !!! example "Learning Objectives"
 
-   -ADD
+   

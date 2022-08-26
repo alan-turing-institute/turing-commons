@@ -13,11 +13,11 @@
 
 !!! abstract "Chapter Summary"
 
-   In this chapter we take an in-depth look at AI Sustainability through the processes of stakeholder engagement and impact assessment. We start by unpacking the concept of social and AI sustainability, and what the process of anticipatory reflection has to do with it.
+   In this chapter we take an in-depth look at AI Sustainability through the processes of stakeholder engagement and impact assessment. We start by unpacking the concept of social and AI sustainability, and the role of anticipatory reflection. 
 
-   Then, we look at the role stakeholders play in sustainability through stakeholder engagement processes (SEP) as well as stakeholder impact asssessments (SIA). The former is a three-staged process with the following core steps: (i) stakeholder analysis and salience, (ii) positionality reflection, and (iii) stakeholder engagement objective and method selection. 
+   Then, we look at the importance of stakeholders in sustainability through what is known as the stakeholder engagement processes (SEP) as well as the stakeholder impact asssessment (SIA). The former is a three-staged process with the following core steps: (i) stakeholder analysis and salience, (ii) positionality reflection, and (iii) stakeholder engagement objective and method selection. 
    
-   The latter goes beyond the SEP and is designed to ensure a project can remains sustainable, as well as support the sustainability of impacted communities, throughout time. Beyond development and initial deployment, an AI system requires continuous monitoring to ensure that the long-term transformative effects and impacts of the project are not only well-understood, but accepted and beneficial for impacted individual and communities.
+   The latter goes beyond the SEP and is designed to ensure a project can not only remain sustainable, but also support the sustainability of impacted communities throughout time. Beyond development and initial deployment, an AI system requires continuous monitoring to ensure that the long-term transformative effects and impacts of the project are not only well-understood, but accepted and beneficial for impacted individual and communities.
 
 
 !!! example "Learning Objectives"
