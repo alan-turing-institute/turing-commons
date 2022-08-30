@@ -470,3 +470,8 @@ Outcome-based explanations:
 Although impact explanations are mainly about demonstrating that appropriate forethought has been given into the potential ‘big picture’ effects, it is also important to consider how to help recipients understand 
 the impact of the AI-assisted decisions that specifically affect them. For instance, one might explain the consequences for the individual of the different possible decision outcomes and how, in some cases, changes in their behaviour would have brought about a different outcome with more positive impacts. This use of counterfactual assessment would help decision recipients make changes that could lead to a different outcome in the future or allow them to challenge the decision.
 
+## Putting the Principle of Transparency and Explainability into Practice
+
+There are a number of tasks both to help in the design and deployment of appropriately transparent and explainable AI systems and to assist in providing clarification of the results these systems produce to a range of impacted stakeholders (from operators, implementers, and auditors to decision recipients).
+These tasks make up Transparency and Explainability Assurance Management for AI projects, offering a systematic approach to:
+Designing, developing, and deploying AI projects in a transparent and explanation-aware fashion; and selecting, extracting and delivering explanations that are differentiated according to the needs and skills of the different audiences they are directed at.
