@@ -35,11 +35,14 @@ Meeting the special requirements of accountability, which are born out of these 
     
     Auditability also has to do with traceability; It refers to the process by which all stages of the AI innovation lifecycle from data collection and model selection to system deployment, updating, and deprovisioning are documented in a way that is accessible and easily understood.
     
-    The project team must ensure that every step of the process of designing and implementing an AI project is accessible for audit, oversight, and review by appropriate parties. Successful auditability requires builders and implementers of algorithmic systems
+The project team must ensure that every step of the process of designing and implementing an AI project is accessible for audit, oversight, and review by appropriate parties. Successful auditability requires builders and implementers of algorithmic systems
 to:
     • keep records and to make available information that enables monitoring of the soundness and diligence of the innovation processes that produced these systems
+
     • keep track of the accountable parties within an organisation’s project team and others involved in the supply chain (where system components are procured)
+
     • keep track of the governance actions taken across the entire AI innovation workflow
+    
     • keep records and make accessible information that enables monitoring of data provenance and analysis from the stages of collection, pre-processing, and modelling to training, testing, and deploying. This is the purpose of the Dataset Factsheet.
 
 
@@ -97,43 +100,52 @@ The central importance of the end-to-end operability of good governance practice
 
 ### Maintaining professional and institutional transparency
 
-At every stage of the design and implementation of your AI project, team members should be held to rigorous standards of conduct that secure and maintain professionalism and institutional transparency. These standards should include the core values of selflessness, integrity, honesty, accountability, openness, sincerity, neutrality, objectivity, impartiality, and leadership. All professionals involved in the research, development, production, and implementation of AI technologies are, first and foremost, acting as fiduciaries of the public interest and must, in keeping with these core values of the Civil Service, put the obligations to serve that interest above any other concerns. For helpful guidance on professionalism and good conduct for public office holders, see the Seven Principles of Public Life (also known as the Nolan Principles).
+At every stage of the design and implementation of your AI project, team members should be held to rigorous standards of conduct that secure and maintain professionalism and institutional transparency. These standards should include the core values of selflessness, integrity, honesty, accountability, openness, sincerity, neutrality, objectivity, impartiality, and leadership. 
 
-Furthermore, from start to finish of the AI project lifecycle, the design, development, and deployment process should be as transparent and as open to public scrutiny as possible with restrictions on accessibility to relevant information limited to the reasonable protection of justified public sector confidentiality and of analytics that may tip off bad actors to methods of gaming the system of service provision.
+<!-- All professionals involved in the research, development, production, and implementation of AI technologies are, first and foremost, acting as fiduciaries of the public interest and must, in keeping with these core values of the Civil Service, put the obligations to serve that interest above any other concerns. For helpful guidance on professionalism and good conduct for public office holders, see the Seven Principles of Public Life (also known as the Nolan Principles). -->
+
+Furthermore, from start to finish of the AI project lifecycle, the design, development, and deployment process should be as transparent and as open to public scrutiny as possible with restrictions on accessibility to relevant information limited to the reasonable protection of justified confidentiality and of analytics that may tip off bad actors to methods of gaming the system of service provision or otherwise taking advantage of their insight to the detriment of the system's performance or the rest of the users.
 
 ### Process-based governance framework
+We have looked at some of the most important values and princciples necessary for establishing responsible innovation practices in the AI project lifecycle.
 
-So far, this workbook series has presented some of the main values principles necessary for establishing responsible innovation practices in your AI project. Perhaps the most vital of these measures is the effective operationalisation of these practices.The recently-adopted standard, ISO 37000, defines governance as ‘the system by which the whole organisation is directed, controlled, and held accountable to achieve its core purpose in the long run’. 
-Establishing a diligent and well-conceived governance framework that covers the entire design, development, and deployment process will provide the foundation for your team to effectively establish needed practical actions and controls, exhaustively distribute roles and responsibilities, and operationalise answerability and auditability throughout the AI lifecycle. By organising all of your governance actions into a PBG Framework, you will be better able to accomplish this task.
+Perhaps the most vital of these measures is the effective operationalisation of these practices.The recently-adopted standard, ISO 37000, defines governance as ‘the system by which the whole organisation is directed, controlled, and held accountable to achieve its core purpose in the long run’. 
+
+Establishing a diligent and well-conceived governance framework that covers the entire design, development, and deployment process will provide the foundation for effectively establishing needed practical actions and controls, exhaustively distributing roles and responsibilities, and operationalising answerability and auditability throughout the AI lifecycle. Organising all of the governance actions into a PBG Framework is a way to better accomplish this task.
 
 The purpose of a PBG Framework is to provide a template for the integrations of the norms, values, and principles, which motivate and steer responsible innovation, with the actual processes that characterise the AI design and development pipeline. Establishing a PBG framework creates the baseline conditions for ensuring that the goal of instituting an AI innovation process that is accountable-by-design is achieved.
 
 A PBG Framework should give the team a landscape view of the governance actions that are organising the control structures of the project workflow. Constructing a good PBG Framework will provide the team with a big picture of:
 
 • The relevant stages of the workflow in which actions are necessary to meet governance goals
+
 • The relevant team members and roles involved in each governance action
+
 • Explicit timeframes for any necessary follow-up actions, re-assessments, and continual monitoring
+
 • Clear and well-defined protocols for logging activity and for instituting mechanisms to assure end-to-end auditability and appropriate documentation
 
 The PBG framework asks that teams not only outline the governance actions established for individual projects, but also roles involved in each action, timeframes for follow-up actions, and logging protocols.
 
-ADD TEMPLATE
+ADD TEMPLATES FROM PSGW ON ACCOUNTABILITY
 
 ### Establishing proportional governance actions
 
-Just as with the determination of proportionate stakeholder involvement, the establishment of proportionate governance protocols should involve a preliminary assessment of the potential risks and hazards of the model or tool under consideration. Low-stakes AI applications that are not safety critical, do not directly impact the lives of people, and do not process potentially sensitive social and demographic data may need less proactive governance controls and processes than high-stakes projects. By completing the Project Summary Report and Stakeholder Impact Assessments, you and your project team will need to carry out evaluations of the scope of the possible risks that could arise from your project and of the potential hazards it poses to affected individuals and groups. These assessments of the dangers posed to individual wellbeing and public welfare will help you formulate proportionate governance actions to be outlined in your PBG framework.
+Just as with the determination of proportionate stakeholder involvement, the establishment of proportionate governance protocols should involve a preliminary assessment of the potential risks and hazards of the model or tool under consideration. Low-stakes AI applications that are not safety critical, do not directly impact the lives of people, and do not process potentially sensitive social and demographic data may need less proactive governance controls and processes than high-stakes projects. 
 
-Notwithstanding the importance of the need for this reasonable application of proportionate governance actions, you should take care to establish a strong regime of accountability-by-design across your project lifecycle. It may be the case that your assessment of potential risks and adverse impacts do not sufficiently anticipate the full range of possible harms. In instances where such unforeseen harms do arise, you will want to have in place proper mechanisms of anticipatory accountability and corresponding documentation protocols, so that the best practices of your project team are demonstrable.
+By completing the Project Summary Report and Stakeholder Impact Assessments, the project team will need to carry out evaluations of the scope of the possible risks that could arise from the project and of the potential hazards it poses to affected individuals and groups. These assessments of the dangers posed to individual wellbeing and public welfare will help formulate proportionate governance actions to be outlined in the PBG framework.
+
+Notwithstanding the importance of the need for this reasonable application of proportionate governance actions, acstrong regime of accountability-by-design across your project lifecycle should nonetheless be established. It may be the case that the assessment of potential risks and adverse impacts does not sufficiently anticipate the full range of possible harms. In instances where such unforeseen harms do arise,  proper mechanisms of anticipatory accountability and corresponding documentation protocols should already be in place, so that the best practices of the project team are demonstrable.
 
 ADD IMAGES
 
 ### Accountability across the workflow
-The task of establishing a PBG framework for your project should be initially undertaken in the project planning step of your project alongside your Project Summary Report (Please refer to the AI Sustainability in Practice Part I Workbook for details on the full process of creating your PS Report.) The results of your Stakeholder Analysis (particularly, the scoping of potential stakeholder impacts) should inform a proportional selection of governance actions within your PBG framework. At this stage, your PBG framework will provide a prospective and provisional plotting of governance actions, roles, and responsibilities for your project. This preliminary outline of governance structures will provide the necessary information for answering the Governance Framework Reflection questions within the PS Report.
+The task of establishing a PBG framework for the project should be initially undertaken in the project planning step of the project alongside the Project Summary Report (WHERE WILL WE TALK ABOUT THIS IN DETAIL IN AEG COURSE?). The results of the Stakeholder Analysis (particularly, the scoping of potential stakeholder impacts) should inform a proportional selection of governance actions within the PBG framework. At this stage, the PBG framework will provide a prospective and provisional plotting of governance actions, roles, and responsibilities for the project. This preliminary outline of governance structures will provide the necessary information for answering the Governance Framework Reflection questions within the PS Report.
 
 In the PS Report, the task of reflecting on your governance framework on your involves answering the following questions:
 
 ADD IMAGES
 
-These questions (alongside the rest of the PS Report) are to be revisited and updated as part of completing each iteration of the Stakeholder Impact Assessment, at each point informing any necessary updates to your project’s governance structure (and PBG framework). Your PBG Framework is therefore a live document reflecting a governance structure that responds to the emerging needs across the design, development, and deployment lifecycle. It is to be updated after each revisitation of the PS report to reflect the project’s current governance structure.
+These questions (alongside the rest of the PS Report) are to be revisited and updated as part of completing each iteration of the Stakeholder Impact Assessment, at each point informing any necessary updates to the project’s governance structure (and PBG framework). The PBG Framework is therefore a live document reflecting a governance structure that responds to the emerging needs across the design, development, and deployment lifecycle. It is to be updated after each revisitation of the PS report to reflect the project’s current governance structure.
 
-The process by which you answer these questions should be as collaborative and inclusive as possible. You should aim to involve all relevant members of your project team (and any other relevant managers, operators, or vendors), so that all people involved in the workflow can share input and come to understand expectations about their roles and responsibilities. Any future revisions or updates of this part of the PS Report should likewise include all affected parties.
+The process by which these questions are answered should be as collaborative and inclusive as possible. The aim is to involve all relevant members of the project team (and any other relevant managers, operators, or vendors), so that all people involved in the workflow can share input and come to understand expectations about their roles and responsibilities. Any future revisions or updates of this part of the PS Report should likewise include all affected parties.
