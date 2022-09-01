@@ -474,4 +474,88 @@ the impact of the AI-assisted decisions that specifically affect them. For insta
 
 There are a number of tasks both to help in the design and deployment of appropriately transparent and explainable AI systems and to assist in providing clarification of the results these systems produce to a range of impacted stakeholders (from operators, implementers, and auditors to decision recipients).
 These tasks make up Transparency and Explainability Assurance Management for AI projects, offering a systematic approach to:
-Designing, developing, and deploying AI projects in a transparent and explanation-aware fashion; and selecting, extracting and delivering explanations that are differentiated according to the needs and skills of the different audiences they are directed at.
+- Designing, developing, and deploying AI projects in a transparent and explanation-aware fashion; and
+
+selecting, extracting and delivering explanations that are differentiated according to the needs and skills of the different audiences they are directed at.
+
+**Task 1 (Project Planning): Select priority explanations by considering the domain, use case and potential impacts**
+
+- Understanding the different types of explanation will serve to identify the dimensions of an explanation that decision recipients will find useful. 
+In most cases, explaining AI-assisted decisions involves identifying what is happening in the AI system and who is responsible. That means prioritising the rationale and responsibility explanation types.
+
+- The setting and the sector are important in figuring out what kinds of explanation one should be able to provide. Therefore considering the domain context and use case is crucial to prioritise which explanations the team should be prepared to give.
+
+- In addition, consider the potential impacts of the particular use of the AI system to determine which other types of explanation should be provided. This will also help in thinking about how much information is required, and how comprehensive it should be.
+
+- Choosing what to prioritise is not an exact science. Hopefully the explanations prioritised will coincide with what the majority of the people impacted want to know, but it is unlikely that every individual will have all their questions answered. Having a clear and documented rationale for the explanations prioritised will probably also be useful for your own accountability or auditing purposes.
+
+**Task 2 (Data Extraction or Procurement, Data Analysis): Collect and pre-process data in an explanation-aware manner**
+
+The data collected and pre-processed before inputting it into the system has an important role to play in the ability to derive each explanation type. Careful labelling and selection of input data can help provide information for your rationale explanation.
+
+Providing details about who is responsible at each stage of data collection and pre-processing is part of being more transparent. This is part of the responsibility explanation (information can be drawn from Workflow Governance Map, covered in the AI accountability section of this course).
+
+Drawing from the dataset factsheet can aid in providing data explanations, including the following information:
+
+- the source of the training data;
+- how it was collected;
+- assessments about its quality; and
+- steps taken to address quality issues, such as completing or removing data
+
+Check the data used within the model to ensure it is sufficiently representative of those it is making decisions about. Another issue to consider is whether pre-processing techniques, such as re-weighting, are required.  These decisions should be documented in the Bias Self-Assessments, and will help construct the fairness explanation.
+
+
+**Task 3 (Model Selection): Build a system that is able to extract relevant information for a range of explanation types**
+
+Deriving the rationale explanation is key to understanding an AI system (as well as complying with parts of the GDPR).
+It requires looking ‘under the hood’ and helps in gathering the information needed for some of the other explanations, such as safety and fairness. 
+
+However, this is a complex task that requires knowing when to use more and less interpretable models and how to understand their outputs.
+To choose the right AI model for the particular explanation needs, one should think about the domain the system will be working in, and the potential impact of the system.
+
+When selecting a model for an AI project, it is important to consider whether:
+
+- there are costs and benefits of using a newer and potentially less explainable AI model;
+- the data used requires a more or less explainable system;
+- the use case and domain context encourage choosing an inherently interpretable system; 
+- the processing needs lead to the selection of a ‘black box’ model; and
+- the supplementary interpretability tools that help  explain a ‘black box’ model (if chosen) are appropriate given the context.
+
+To extract explanations from inherently interpretable models, look at the logic of the model’s mapping function by exploring it and its results directly.
+On the other hand, there are many techniques used to extract explanations from ‘black box’ systems. Make sure that they provide a reliable and accurate representation of the system’s behaviour.
+
+
+**Task 4 (Model Reporting): Translate the rationale of the system’s results into useable and easily understandable reasons**
+ 
+Once the rationale of the underlying logic of the AI model has been extracted, the statistical output needs to be incorporated into the wider decision-making process.
+
+Implementers of the outputs from the AI system will need to recognise the factors that they see as legitimate determinants of the outcome they are considering.
+
+Decision recipients should be able to easily understand how the statistical result has been applied to their particular case.
+ 
+**Task 5: (User Training) Prepare implementers to deploy the AI system**
+
+In cases where decisions are not fully automated, implementers need to be meaningfully involved.
+
+This means that they need to be appropriately trained to use the model’s results responsibly and fairly.
+
+Their training should cover:
+- the basics of how machine learning works;
+- the limitations of AI and automated decision-support technologies;
+- the benefits and risks of deploying these systems to assist decision-making, particularly how they help humans come to judgements rather than replacing that judgement; and
+- how to manage cognitive biases, including both decision-automation bias and automation-distrust bias.
+ 
+**Task 6 (Model Reporting): Consider how to build and present an explanation**
+Gathering together the information gained when implementing Tasks 1-4 is the first step towards building an explanation. This includes reviewing the information and determine how this provides an evidence base for the process-based or outcome-based explanations.
+
+Additionally, it is important to revisit the contextual factors to establish which explanation types should be prioritised.
+
+The way an explanation is presented depends on the way AI-assisted decisions are made, and on how people might expect those responsible for the AI system to deliver explanations without using AI.
+
+Explanations can la 'layered' by proactively providing individuals with the prioritised explanations first and making additional explanations available in further layers. This helps to avoid information (or explanation) overload.
+
+Delivering explanations should be thought of as a conversation, rather than a one-way process. People should be able to discuss a decision with a competent human being.
+
+Providing an explanation at the right time is also important. Proactively engaging with customers by making information available on how the AI system is used and how it aids in making decisions, can increase the trust and awareness.
+
+
