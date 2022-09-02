@@ -25,16 +25,26 @@ Clearly, none of these questions will have straightforward or easy answers, and 
 
 
 
-## Moral realism or objectivism 
+## Moral realism 
+Moral realists, roughly speaking, accept the following two statements:
+1. There are such things as moral facts or properties; and;
+2. These are independent of human attitudes towards them (this is called attitude independence).
 
-Roughly speaking, being an objectivist about morality requires believing that objective moral facts do exist (and most likely can also be known by us humans). Objective moral truths also imply that things like subjectivity, context, or culture are not relevant when evaluating the morality of a person or an act.
+In practice, these means that moral realists believe that objective moral facts do exist, and there is only one "set" of these facts. Objective moral truths also imply that things like subjectivity, or culture are not relevant when evaluating whether an act is good or bad. Moral realism is, in and of itself, neutral on what it is exactly that makes something good or bad; it just is prepared that **facts about this exist**. 
 
-The existence of objective moral truths clearly begs the question: where do these facts come from? This is what is known as the 'grounding problem'.  One way this question has been traditionally answered is that these facts are derived divinely.
+Of course, this does not mean that subjectivity or culture play no role in what people think is good or bad. However, the moral realist is prepared that those differences, and any human attitude over what makes something good or bad, is irrelevant when evaluating moral facts. That is, the reason why some things are good or bad do not hinge on whehther people, culture, or society evaluate them as good or bad.
 
-## Relativism
-On the contrary, relativism negates that moral facts do exist in an objective way, detached from any subjective individual or collective experiences, cultures, and contexts.
-It does not neceserarily negate that moral facts might exist in some capacity, but there may be a multiplicity of them, which might contradict each other, and are always contingent on a specific context and culture.
+The existence of objective moral truths clearly begs the question: where do these facts come from? This is what is known as the 'grounding problem'.  One way this question has been traditionally answered is that these facts are derived divinely; by one God or multiple deities. There are also views which 
 
+## Moral anti-realism
+The opposite of a moral realist is an anti-realist. As the name suggest, a moral anti-realist is prepared to declare either:
 
+1. There are no objective moral facts.
+2. There are moral facts, but they are not independent of human attitudes towards them.
 
+### Constructivism
 ## Proceduralism
+### Relativism
+
+
+

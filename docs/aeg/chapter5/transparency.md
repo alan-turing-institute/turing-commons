@@ -559,3 +559,4 @@ Delivering explanations should be thought of as a conversation, rather than a on
 Providing an explanation at the right time is also important. Proactively engaging with customers by making information available on how the AI system is used and how it aids in making decisions, can increase the trust and awareness.
 
 
+****** Question, should we include the template on transparency and explainality assurance?
