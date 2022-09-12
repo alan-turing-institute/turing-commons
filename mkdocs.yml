@@ -73,6 +73,11 @@ plugins:
   - mkdocs-jupyter
   - bibtex:
       bib_dir: "docs/assets/bibliographies/"
+  - blog: 
+      post_date_format: medium
+      post_url_date_format: YYYY/MM/dd
+      post_url_format: "{slug}"
+      post_readtime: true
 
 # Customization
 
