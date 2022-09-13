@@ -60,7 +60,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/logo.png
+  # favicon: assets/logo.png
   icon:
     logo: material/vector-circle
     admonition:
@@ -159,14 +159,14 @@ nav:
       - Project Planning: rri/chapter3/project_design/planning.md
       - Problem Formulation: rri/chapter3/project_design/problem.md
       - Data Extraction or Procurement: rri/chapter3/project_design/data_extraction.md
-      # - Data Analysis: rri/chapter3/project_design/data_analysis.ipynb
+      - Data Analysis: rri/chapter3/project_design/data_analysis.ipynb
       - Preprocessing and Feature Engineering: rri/chapter3/model_development/preprocessing.md
       - Model Selection and Training: rri/chapter3/model_development/model_selection.md
       - Model Testing and Validation: rri/chapter3/model_development/model_testing.md
       - Model Reporting: rri/chapter3/model_development/model_reporting.md
       - Model Productionalisation: rri/chapter3/system_deployment/model_productionalisation.md
       - User Training: rri/chapter3/system_deployment/user_training.md
-      # - System Use and Monitoring: rri/chapter3/system_deployment/system_use.ipynb
+      - System Use and Monitoring: rri/chapter3/system_deployment/system_use.ipynb
       - Model Updating or Deprovisioning: rri/chapter3/system_deployment/model_updating.md
       - Next Steps: rri/chapter3/summary.md
     - Responsible Communication:
@@ -177,7 +177,7 @@ nav:
     - Conclusion: rri/conclusion/index.md
     - Resources:
       - Additional Resources: rri/resources/index.md
-      # - Synthetic Data Generation: rri/resources/synthetic_data_generation.ipynb
+      - Synthetic Data Generation: rri/resources/synthetic_data_generation.ipynb
       - Further Reading: rri/resources/further-reading.md
 
   - Public Engagement of Data Science and AI:
@@ -198,7 +198,7 @@ nav:
       - Introduction: ped/chapter4/index.md
       - Storytelling with Data: ped/chapter4/storytelling.md
       - Communicating Uncertainty: ped/chapter4/uncertainty.md
-      # - Visualising Uncertainty: ped/chapter4/uncertainty_example.ipynb
+      - Visualising Uncertainty: ped/chapter4/uncertainty_example.ipynb
     - Public Trust and Assurance:
       - Introduction: ped/chapter5/index.md
       - Public Trust in Science and Technology: ped/chapter5/trust.md
