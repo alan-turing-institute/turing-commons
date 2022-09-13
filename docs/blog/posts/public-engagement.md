@@ -6,8 +6,8 @@ categories:
   - public engagement
   - course
 authors:
-  - Clau
-  - Chris
+  - clau
+  - chris
 ---
 
 # Peeling Back the Layers of Science and Technology
