@@ -47,6 +47,7 @@ But, similar to the hammer analogy, it's easy to end up with choice paralysis in
     4. [Google Charts](https://developers.google.com/chart): another free option for embedding (many different) charts into webpages
     5. [Datawrapper](https://www.datawrapper.de): a popular option among cvommunicators (e.g. journalists) with a good range of interactive and responsive charts
     6. [Bokeh](https://docs.bokeh.org/en/latest/docs/gallery.html): an Python library for creating interactive visualisations with a variant for [R](https://hafen.github.io/rbokeh/)
+    7. [Flourish](https://flourish.studio): easily turn your data into animated charts, maps, and interactive stories.
 
 So, how do you choose the right tool?
 How do you select the right visualisation?
