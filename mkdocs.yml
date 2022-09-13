@@ -72,7 +72,7 @@ plugins:
       separator: "[\\s\\-,:!=\\[\\]()\"/]+|\\.(?!\\d)|&[lg]t;|(?!\\b)(?=[A-Z][a-z])"
   - mkdocs-jupyter
   - bibtex:
-      bib_dir: "docs/assets/bibliographies/"
+      bib_files: "https://api.zotero.org/groups/4441221/items?format=bibtex"
   - blog: 
       post_date_format: medium
       post_url_date_format: YYYY/MM/dd
@@ -204,6 +204,3 @@ nav:
 
   - Blog:
     - blog/index.md
-    - 2022:
-      - blog/2022/10-06-2022-public-engagement.md
-
