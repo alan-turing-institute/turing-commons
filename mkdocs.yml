@@ -72,7 +72,7 @@ plugins:
       separator: "[\\s\\-,:!=\\[\\]()\"/]+|\\.(?!\\d)|&[lg]t;|(?!\\b)(?=[A-Z][a-z])"
   - mkdocs-jupyter
   - bibtex:
-      bib_files: "https://api.zotero.org/groups/4441221/items?format=bibtex"
+      bib_file: "https://api.zotero.org/groups/4441221/items?format=bibtex"
   - blog: 
       post_date_format: medium
       post_url_date_format: YYYY/MM/dd
