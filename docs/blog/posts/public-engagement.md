@@ -1,5 +1,21 @@
+---
+draft: false 
+date: 2022-06-10
+categories:
+  - news
+  - public engagement
+  - course
+authors:
+  - Clau
+  - Chris
+---
+
 # Peeling Back the Layers of Science and Technology
-**authors:** `Claudia Fischer` and `Christopher Burr`
+
+In April 2022, we ran our first week-long course on Public Engagement of Data Science and AI with 25 fantastic researchers from across the globe.
+
+<!-- more -->
+...
 
 <video width="80%" autoplay loop muted>
     <source src="https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/animations/phone_peel.mp4" type="video/mp4"/>
