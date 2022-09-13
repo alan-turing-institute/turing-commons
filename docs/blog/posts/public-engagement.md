@@ -3,8 +3,8 @@ draft: false
 date: 2022-06-10
 categories:
   - news
+tags:
   - public engagement
-  - course
 authors:
   - clau
   - chris
@@ -12,10 +12,11 @@ authors:
 
 # Peeling Back the Layers of Science and Technology
 
-In April 2022, we ran our first week-long course on Public Engagement of Data Science and AI with 25 fantastic researchers from across the globe.
+**In April 2022, we ran our first week-long course on [Public Engagement of Data Science and AI](../../ped/index.md) with 25 fantastic researchers from across the globe.**
+
+This post explores why we developed the course, outlines the activities we ran with the course participants, and concludes with next steps.
 
 <!-- more -->
-...
 
 <video width="80%" autoplay loop muted>
     <source src="https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/animations/phone_peel.mp4" type="video/mp4"/>
