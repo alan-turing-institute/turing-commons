@@ -7,9 +7,9 @@
 
 | Information | Links |
 | :--- | :--- |
-| **Project** | [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://turing-commons.netlify.app)|
+| **Project** | [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://alan-turing-institute.github.io/turing-commons/)|
 | **Chat** | [![Read the book](https://img.shields.io/badge/Join%20Slack-yellow.svg)](https://join.slack.com/t/turingcommons/shared_invite/zt-x4a2w041-Lxh1WDQni43M4PTelPFGUQ) |
-| **Build** | [![Netlify Status](https://api.netlify.com/api/v1/badges/b463a745-891d-4779-bea6-e04c26a983ed/deploy-status)](https://app.netlify.com/sites/turing-commons/deploys)|
+| **Build** | ![GitHub Pages Deployment](https://github.com/alan-turing-institute/turing-commons/actions/workflows/ci.yaml/badge.svg) |
 |**Binder**|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chrisdburr/turing-commons/HEAD)|
 | **Cite** | [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5747126.svg)](https://doi.org/10.5281/zenodo.5747126) |
 | **License** | [![CC BY 4.0][cc-by-shield]][cc-by] |
