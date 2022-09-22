@@ -1,8 +1,8 @@
 ---
 name: "\U+274C Typo report"
 about: "Create a report to help us fix a typo or other issue relate to our website's content"
-title: "[BUG]"
-labels: 'bug'
+title: "[TYPO]"
+labels: 'typo'
 assignees: ''
 ---
 <!-- Use this template to raise issues about the content in the Turing Commons. If you would like to raise an issue about fixing bug or code issues, please use the Bug Report template. -->
