@@ -1,5 +1,5 @@
 ---
-name: "\U+274C Typo report"
+name: "Typo report"
 about: "Create a report to help us fix a typo or other issue relate to our website's content"
 title: "[TYPO]"
 labels: 'typo'
