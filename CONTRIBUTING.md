@@ -49,7 +49,7 @@ There are five types of posts that can be written and published on the Turing Co
 - **Feature**: A longer or more in-depth post that explores or presents a topic or idea that would not fit within an existing module or skill track.
 - **Engagement**: a post oriented towards a wider audience, which serves as some form of engagement (e.g. a 'top 10' list that serves as a hook for new readers)
 
-For new contributors, the **Digest**, **Feature**, or **Engagement** categories are likely the best fit.
+For new contributors, the `Digest`, `Feature`, or `Engagement` categories are likely the best fit.
 If you'd like to see some ideas of blog posts we are interested in, visit our [idea backlog](https://hackmd.io/L64mlF-aSU6Y2WC-Jkxbyw?edit) and feel free to submit a proposal for one of those!
 
 #### What to send us
