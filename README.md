@@ -14,12 +14,16 @@
 | **Cite** | [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5747126.svg)](https://doi.org/10.5281/zenodo.5747126) |
 | **License** | [![CC BY 4.0][cc-by-shield]][cc-by] |
 
-Welcome to the GitHub repository for the Ethics and Responsible Innovation Team's (Alan Turing Institute) online training resources, known as Turing Commons.
-At present, the repository is used to host a collection of guidebooks on the following topics:
+Welcome to the GitHub repository for the Turing Commons.
+The Turing Commons is an online platform with resources to support open dialogue and reflection about the responsible design, development, and deployment of data-driven technologies.
+This repository primarily exists to host and support a [series of online courses](https://alan-turing-institute.github.io/turing-commons/) on the following topics:
 
-- [Responsible Research and Innovation (RRI)](https://turing-commons.netlify.app/rri/index.html)
-- [Public Engagement of Data Science and AI (PED)](https://turing-commons.netlify.app/ped/index.html)
-- [AI Ethics & Governance (AEG)](https://turing-commons.netlify.app/aeg/index.html)
+- [Responsible Research and Innovation (RRI)](https://alan-turing-institute.github.io/turing-commons/rri/index.html)
+- [Public Engagement of Data Science and AI (PED)](https://alan-turing-institute.github.io/turing-commons/ped/index.html)
+- AI Ethics & Governance (AEG) (Coming soon!)
+- Citizen's Guide to Data: Ethical, Social, and Legal Issues (Coming soon!)
+
+If you wish to contribute and join our community, please see [this guidance](CONTRIBUTING.md) on how to do so!
 
 ## Contributors ✨
 
