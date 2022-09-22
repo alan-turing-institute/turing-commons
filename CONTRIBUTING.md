@@ -112,7 +112,7 @@ We encourage intentional, inclusive actions from contributors. Here are a few ex
 We welcome and recognise all kinds of contributions, from fixing small errors, to developing documentation, maintaining the project infrastructure, writing chapters or reviewing existing resources.
 _The Turing Commons_ follows the [all-contributors][all-contributors] specifications.
 The all-contributors bot usage is described [here](https://allcontributors.org/docs/en/bot/usage).
-You can see a list of current contributors [here](https://github.com/alan-turing-institute/turing-commons/blob/master/contributors.md). 😍
+You can see a list of current contributors [here](https://github.com/alan-turing-institute/turing-commons#contributors-). 😍
 
 To add yourself or someone else as a contributor, comment on the relevant Issue or Pull Request with the following:
 
@@ -126,13 +126,11 @@ The bot will then create a Pull Request to add the contributor and reply with th
 **PLEASE NOTE: Only one contributor can be added with the bot at a time!**
 Add each contributor in turn, merge the pull request and delete the branch (`all-contributors/add-<username>`) before adding another one.
 Otherwise, you can end up with dreaded [merge conflicts][github-mergeconflicts].
-Therefore, please check the open pull requests first to make sure there aren't any [open requests from the bot](https://github.com/alan-turing-institute/turing-commons/pulls/app%2Fallcontributors) before adding another.
+Therefore, please check the open pull requests first to make sure there aren't any open requests from the bot before adding another.
 
 What happens if you accidentally run the bot before the previous run was merged and you got those pesky merge conflicts?
 (Don't feel bad, we have all done it! 🙈)
 Simply close the pull request and delete the branch (`all-contributors/add-<username>`).
-
-Finally, don't forget to add yourself to the list of contributors [here](https://github.com/alan-turing-institute/turing-commons/blob/master/contributors.md)!
 
 ---
 
