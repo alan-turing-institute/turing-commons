@@ -4,6 +4,7 @@
   ],
   "imageSize": 100,
   "commit": false,
+  "commitConvention": "angular",
   "contributors": [
     {
       "login": "chrisdburr",
@@ -18,6 +19,25 @@
         "tool",
         "tutorial"
       ]
+    },
+    {
+      "login": "ClauFischer",
+      "name": "ClauFischer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104078689?v=4",
+      "profile": "https://github.com/ClauFischer",
+      "contributions": [
+        "blog",
+        "business",
+        "code",
+        "content",
+        "data",
+        "doc",
+        "design",
+        "example",
+        "eventOrganizing",
+        "ideas",
+        "projectManagement"
+        ]
     },
     {
       "login": "RoaPowell",

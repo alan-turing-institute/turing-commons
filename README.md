@@ -1,4 +1,7 @@
 # Turing Commons
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 *Total Contributors:*
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
@@ -28,13 +31,16 @@ If you wish to contribute and join our community, please see [this guidance](CON
 ## Contributors ✨
 
 A big shout-out to the [Turing Way Community](https://the-turing-way.netlify.app/welcome), whose work is a continual source of inspiration.
+
 In addition, thanks goes to these wonderful people for contributing to the course in a variety of ways ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
     <td align="center"><a href="https://github.com/chrisdburr"><img src="https://avatars.githubusercontent.com/u/63010234?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Christopher Burr</b></sub></a><br /><a href="https://github.com/chrisdburr/turing-commons/commits?author=chrisdburr" title="Code">💻</a> <a href="#content-chrisdburr" title="Content">🖋</a> <a href="https://github.com/chrisdburr/turing-commons/commits?author=chrisdburr" title="Documentation">📖</a> <a href="#projectManagement-chrisdburr" title="Project Management">📆</a> <a href="#tool-chrisdburr" title="Tools">🔧</a> <a href="#tutorial-chrisdburr" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/ClauFischer"><img src="https://avatars.githubusercontent.com/u/104078689?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ClauFischer</b></sub></a><br /><a href="#blog-ClauFischer" title="Blogposts">📝</a> <a href="#business-ClauFischer" title="Business development">💼</a> <a href="https://github.com/alan-turing-institute/turing-commons/commits?author=ClauFischer" title="Code">💻</a> <a href="#content-ClauFischer" title="Content">🖋</a> <a href="#data-ClauFischer" title="Data">🔣</a> <a href="https://github.com/alan-turing-institute/turing-commons/commits?author=ClauFischer" title="Documentation">📖</a> <a href="#design-ClauFischer" title="Design">🎨</a> <a href="#example-ClauFischer" title="Examples">💡</a> <a href="#eventOrganizing-ClauFischer" title="Event Organizing">📋</a> <a href="#ideas-ClauFischer" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-ClauFischer" title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/RoaPowell"><img src="https://avatars.githubusercontent.com/u/92020648?v=4?s=100" width="100px;" alt=""/><br /><sub><b>RoaPowell</b></sub></a><br /><a href="#userTesting-RoaPowell" title="User Testing">📓</a> <a href="https://github.com/chrisdburr/turing-commons/pulls?q=is%3Apr+reviewed-by%3ARoaPowell" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/nbarlowATI"><img src="https://avatars.githubusercontent.com/u/33832774?v=4?s=100" width="100px;" alt=""/><br /><sub><b>nbarlowATI</b></sub></a><br /><a href="https://github.com/chrisdburr/turing-commons/commits?author=nbarlowATI" title="Code">💻</a> <a href="#content-nbarlowATI" title="Content">🖋</a> <a href="#data-nbarlowATI" title="Data">🔣</a></td>
     <td align="center"><a href="https://github.com/tedarbyshire"><img src="https://avatars.githubusercontent.com/u/23381580?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tessa Darbyshire</b></sub></a><br /><a href="#tutorial-tedarbyshire" title="Tutorials">✅</a></td>
