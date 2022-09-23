@@ -114,23 +114,16 @@ _The Turing Commons_ follows the [all-contributors][all-contributors] specificat
 The all-contributors bot usage is described [here](https://allcontributors.org/docs/en/bot/usage).
 You can see a list of current contributors [here](https://github.com/alan-turing-institute/turing-commons#contributors-). 😍
 
-To add yourself or someone else as a contributor, comment on the relevant Issue or Pull Request with the following:
+To add yourself or someone else as a contributor, comment on [this issue](https://github.com/alan-turing-institute/turing-commons/issues/16) using the following statement:
 
 ```
 @all-contributors please add <username> for <contributions>
 ```
 
-You can see the [Emoji Key (Contribution Types Reference)](https://allcontributors.org/docs/en/emoji-key) for a list of valid `<contribution>` types.
+You will need to edit this accordingly followign the instructions on [the @all-contributors guide](https://allcontributors.org/docs/en/bot/usage), including the relevant contribution type. See [Emoji Key (Contribution Types Reference)](https://allcontributors.org/docs/en/emoji-key) for a list of valid `<contribution>` types.
 The bot will then create a Pull Request to add the contributor and reply with the pull request details.
 
 **PLEASE NOTE: Only one contributor can be added with the bot at a time!**
-Add each contributor in turn, merge the pull request and delete the branch (`all-contributors/add-<username>`) before adding another one.
-Otherwise, you can end up with dreaded [merge conflicts][github-mergeconflicts].
-Therefore, please check the open pull requests first to make sure there aren't any open requests from the bot before adding another.
-
-What happens if you accidentally run the bot before the previous run was merged and you got those pesky merge conflicts?
-(Don't feel bad, we have all done it! 🙈)
-Simply close the pull request and delete the branch (`all-contributors/add-<username>`).
 
 ---
 
