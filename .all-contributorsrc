@@ -37,7 +37,7 @@
         "eventOrganizing",
         "ideas",
         "projectManagement"
-        ]
+      ]
     },
     {
       "login": "RoaPowell",
@@ -185,11 +185,22 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "camirincon",
+      "name": "camirincon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80523623?v=4",
+      "profile": "https://github.com/camirincon",
+      "contributions": [
+        "content",
+        "ideas",
+        "projectManagement"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "turing-commons",
-  "projectOwner": "chrisdburr",
+  "projectOwner": "alan-turing-institute",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
