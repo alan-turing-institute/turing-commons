@@ -1,0 +1,208 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "chrisdburr",
+      "name": "Christopher Burr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63010234?v=4",
+      "profile": "https://github.com/chrisdburr",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "projectManagement",
+        "tool",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "ClauFischer",
+      "name": "ClauFischer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104078689?v=4",
+      "profile": "https://github.com/ClauFischer",
+      "contributions": [
+        "blog",
+        "business",
+        "code",
+        "content",
+        "data",
+        "doc",
+        "design",
+        "example",
+        "eventOrganizing",
+        "ideas",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "RoaPowell",
+      "name": "RoaPowell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92020648?v=4",
+      "profile": "https://github.com/RoaPowell",
+      "contributions": [
+        "userTesting",
+        "review"
+      ]
+    },
+    {
+      "login": "nbarlowATI",
+      "name": "nbarlowATI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33832774?v=4",
+      "profile": "https://github.com/nbarlowATI",
+      "contributions": [
+        "code",
+        "content",
+        "data"
+      ]
+    },
+    {
+      "login": "tedarbyshire",
+      "name": "Tessa Darbyshire",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23381580?v=4",
+      "profile": "https://github.com/tedarbyshire",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "fatemehnj",
+      "name": "fatemehnj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57012821?v=4",
+      "profile": "https://github.com/fatemehnj",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "aragn",
+      "name": "Andrea",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93764134?v=4",
+      "profile": "https://github.com/aragn",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "ejmoss",
+      "name": "ejmoss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93876346?v=4",
+      "profile": "https://github.com/ejmoss",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "GregorMilliganUoN",
+      "name": "GregorMilliganUoN",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93982636?v=4",
+      "profile": "https://github.com/GregorMilliganUoN",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "mayaracarneiro2",
+      "name": "mayaracarneiro2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93540980?v=4",
+      "profile": "https://github.com/mayaracarneiro2",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "dingaaling",
+      "name": "Jennifer Ding",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5104098?v=4",
+      "profile": "http://jending.com",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "emmavestesson",
+      "name": "Emma Vestesson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31949401?v=4",
+      "profile": "https://emmavestesson.netlify.com/",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "GeorgiaHCA",
+      "name": "Georgia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46889966?v=4",
+      "profile": "https://github.com/GeorgiaHCA",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "anandkumaresh",
+      "name": "anandkumaresh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23694493?v=4",
+      "profile": "https://www.linkedin.com/in/anandkumaresh/",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "AusteSimkute",
+      "name": "AusteSimkute",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93768855?v=4",
+      "profile": "https://github.com/AusteSimkute",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "AshmitaRandhawa",
+      "name": "AshmitaRandhawa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93534798?v=4",
+      "profile": "https://github.com/AshmitaRandhawa",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "Ismael-KG",
+      "name": "Ismael-KG",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64027166?v=4",
+      "profile": "https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "mikekatell",
+      "name": "Michael Katell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80757940?v=4",
+      "profile": "https://github.com/mikekatell",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "camirincon",
+      "name": "camirincon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80523623?v=4",
+      "profile": "https://github.com/camirincon",
+      "contributions": [
+        "content",
+        "ideas",
+        "projectManagement",
+        "blog"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "turing-commons",
+  "projectOwner": "alan-turing-institute",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
