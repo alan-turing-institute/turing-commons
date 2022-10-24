@@ -38,7 +38,7 @@ After completing the course, participants should have an understanding of the fo
 - the key elements of transparent and explainable AI;
 - what the CARE & ACT principles are and how to apply them in their own research.
 
-![data-maze](../../assets/images/illustrations/data-maze.png)
+![representation](../../assets/images/illustrations/representation.png)
 
 The course will be delivered online using Zoom, and to ensure effective group discussion will be limited to 30 participants.
 Following the live workshops, recordings of the taught components will be made available to all (along with relevant materials) for asynchronous self-study. **Apply [here](https://www.eventsforce.net/turingevents/frontend/reg/tregistration.csp?pageID=81528&ef_sel_menu=1171&eventID=232&tempPersonID=171164)**. 
