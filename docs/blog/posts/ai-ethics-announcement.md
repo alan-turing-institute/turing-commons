@@ -20,7 +20,7 @@ authors:
 
 However fascinating they may be, we are not yet at a stage where we need to grapple with these considerations. But this does not mean that we should not care about AI ethics. Quite the contrary. As our society becomes increasingly reliant on algorithms and other data-driven technologies, their functionings and outcomes have immense consequences on individuals, communities, and society at large.
 
-![bias](../../assets/images/illustrations/bias.png)
+![bias](../../assets/images/illustrations/bias.png | width=100)
 
 There is no shortage of concerns, and these keep expanding as our uses of technology multiply. What do privacy and autonomy mean in a datafied society? How do we define and implement fair, non-biased outcomes when using AI systems? And what should the requirments of explainability and transparency be as AI and machine learning become increasingly complex and opaque? These are just some of the ethical questions that the ubiquity of AI gives rise to.
 
