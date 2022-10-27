@@ -11,16 +11,22 @@ authors:
 
 # Course Announcement: AI Ethics and Governance
 
-![data-maze](../../assets/images/illustrations/data-maze.png)
+
 
 **What do we mean when we talk about the ethics of artificial intelligence?** If guided by popular culture and science fiction, we would probably turn to images of seemingly sentient robots and questions on the ethics of our (mis)treatment of them.[^examples]
 
+
 [^examples]: Some recent(ish) examples are the novels [Machines like Me](http://www.ianmcewan.com/books/machines.html) by Ian McEwan, [Klara and the Sun](https://www.klaraandthesun.com) by Kazuo Ishiguro, and the HBO TV show [Westworld](https://www.hbo.com/westworld).
+
+<!-- more -->
+
+![data-maze](../../assets/images/illustrations/data-maze.png)
+
 
 However fascinating they may be, we are not yet at a stage where we need to grapple with these considerations. But this does not mean that we should not care about AI ethics. Quite the contrary. As our society becomes increasingly reliant on algorithms and other data-driven technologies, their functionings and outcomes have immense consequences on individuals, communities, and society at large.
 
 <img src="../../assets/images/illustrations/bias.png" width=60% height=60%>
-*Figure 1. Illustration representing three types of bias—social, statisticalm, and cognitive—that can affect the design, development, and deployment of AI systems.
+*Figure 1. Illustration representing three types of bias—social, statistical, and cognitive—that can affect the design, development, and deployment of AI systems.
 
 There is no shortage of concerns, and these keep expanding as our uses of technology multiply. What do privacy and autonomy mean in a datafied society? How do we define and implement fair, non-biased outcomes when using AI systems? And what should the requirments of explainability and transparency be as AI and machine learning become increasingly complex and opaque? These are just some of the ethical questions that the ubiquity of AI gives rise to.
 
@@ -42,8 +48,8 @@ After completing the course, participants should have an understanding of the fo
 
 Following the live workshops, recordings of the taught components will be made available to all (along with relevant materials) for asynchronous self-study. 
 
-Applications are now [open for registration](https://www.eventsforce.net/turingevents/frontend/reg/tregistration.csp?pageID=81528&ef_sel_menu=1171&eventID=232&tempPersonID=171164). If you have any queries, please reach out to the Turing Commons project organiser, [Claudia Fischer](mailto:cfischer@turing.ac.uk).
+Applications are now [open for registration](https://www.eventsforce.net/turingevents/frontend/reg/tregistration.csp?pageID=81528&ef_sel_menu=1171&eventID=232&tempPersonID=171164). Application deadline is November 7th. If you have any queries, please reach out to the Turing Commons project organiser, [Claudia Fischer](mailto:cfischer@turing.ac.uk).
 
 We look forward to seeing you in AI Ethics and Governance soon!
 
-![representation](../../assets/images/illustrations/representation.png)
+
