@@ -11,8 +11,6 @@ authors:
 
 # Course Announcement: AI Ethics and Governance
 
-
-
 **What do we mean when we talk about the ethics of artificial intelligence?** If guided by popular culture and science fiction, we would probably turn to images of seemingly sentient robots and questions on the ethics of our (mis)treatment of them.[^examples]
 
 <!-- more -->
