@@ -47,7 +47,7 @@ The benefit of these small but important changes was clear in the feedback from 
 
 !!! quote “Participant Feedback”
 
-    “The activities and group work helped understand the course content really well so I would say that the activities are the highlights.”
+    The activities and group work helped understand the course content really well so I would say that the activities are the highlights.
 
 Being responsive to the changing needs of our course participants is a key objective for us, and is central to the above goal of creating high quality (and needs driven) resources. However, designing content and resources that are valuable for *all of our participants* has been challenging given the multi-disciplinary setting of our courses. For example, if we provided an illustrative example to help explain a key concept, those participants who happened to have a background in the respective area (e.g. healthcare) were able to grasp the idea more readily. Addressing this challenge leads us to the first of our new objectives.
 
@@ -58,7 +58,7 @@ Being responsive to the changing needs of our course participants is a key objec
 At present, we are revisiting the content of our three courses and focusing on the following set of objectives:
 
 !!! success “First Objectives”
-    
+
     1. Revise the content of each course based on what worked well, what did not, and what needs updating.
     2. Modularise the courses to allow more flexibility for participants who are unable or do not wish to take a 5-day long course.
     3. Design a more flexible set of materials and resources that can be tailored to different disciplines.
@@ -102,7 +102,7 @@ Our current website is hosted by GitHub pages, and uses the fantastic [Material 
 !!! success “Second Objective”
 
     Create an open platform that supports interactive and self-directed learning approaches, customisable to different users and groups.
-    
+
 As mentioned in the previous section a key milestone on our project’s roadmap is the development of domain-specfic case studies that enable users to tailor our core modules to their domain (e.g. robotics or journalism). Another milestone for our future roadmap is to develop a case study repository and API to build additional functionality into our website. Doing so will allow users to better tailor skills tracks to their needs by using the available case studies and modules that ground the content of the modules. 
 
 And, where there are gaps in our resources, an open API will allow partners to more easily integrate their own contributions into the platform, in turn supporting and caring for the commons.
@@ -149,7 +149,7 @@ The following list contains examples of groups who we also wish to build resourc
 
 While there are topics in our current resources that will be of interest to some of these groups (e.g. public engagement for journalists; AI fairness for regulators), we cannot assume that the needs of the academic community will be met by our current offerings. Therefore, in the near future we have plans to work with these groups to co-design materials and resources that make the ethical, social, and legal issues of data-driven technologies clear and accessible to all. 
 
-We have also recently taken part in a workshop with the [UK Government’s Science and Innovation Network](https://www.gov.uk/world/organisations/uk-science-and-innovation-network), organised by the Turing’s International team. The purpose of this workshop was to identify ways that we can work with international partners to support the global community and in turn co-create bidrectional forms of value. 
+We have also recently taken part in a workshop with the [UK Government’s Science and Innovation Network](https://www.gov.uk/world/organisations/uk-science-and-innovation-network), organised by the Turing’s International team. The purpose of this workshop was to identify ways that we can work with international partners to support the global community and in turn co-create bidrectional forms of value.
 
 By expanding the scope of the Turing Commons in the above ways, we hope that our first objective also feeds into a wider-reaching goal.
 
