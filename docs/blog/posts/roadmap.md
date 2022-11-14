@@ -11,7 +11,7 @@ authors:
 
 # Turing Commons Roadmap
 
-This blog post sets out a general roadmap and explores a series of objectives for the Turing Commons as we head into 2023. 
+This blog post sets out a general roadmap and explores a series of objectives for the Turing Commons as we head into 2023.
 
 <!-- more -->
 
@@ -19,13 +19,11 @@ This blog post sets out a general roadmap and explores a series of objectives fo
 
 The Turing Commons started out, as all good projects do, with a name (:tophat: to Christina Hitrova).
 
-With the important decision out of the way, our plan was to build a community platform (the “commons”) to host and support a set of resources that were freely open and accessible to all people with an interest in the ways that data-driven technologies are changing society. 
+With the important decision out of the way, our plan was to build a community platform (the “commons”) to host and support a set of resources that were freely open and accessible to all people with an interest in the ways that data-driven technologies are changing society.
 
-Those who are familiar with Garret Hardin’s influential analysis of the ‘Tragedy of the Commons’[^tragedy], will appreciate why the “commons” cannot be left unmanaged if it is to serve a sustainable and collective benefit. However, such governance or curation should not occur in the dark, in case it ends up serving the vested interests of a small minority. 
+Those who are familiar with Garret Hardin’s influential analysis of the ‘Tragedy of the Commons’[^tragedy], will appreciate why the “commons” cannot be left unmanaged if it is to serve a sustainable and collective benefit. However, such governance or curation should not occur in the dark, in case it ends up serving the vested interests of a small minority.
 
 So, in the spirit of transparency and openness, this post sets out our current roadmap for how and where we plan to develop the Turing Commons, and how we will work with others to ensure that the resources are co-designed to serve genuine needs and challenges.
-
-[^tragedy]: Hardin, G. (1968). The Tragedy of the Commons. Science, 162(3859), 1243–1248. http://www.jstor.org/stable/1724745
 
 ## Goals and Objectives
 
@@ -37,7 +35,7 @@ From the start of this project, a key goal has been to develop high-quality reso
 
 For each course we started by hosting a series of workshops with 10-15 researchers to identify the topics, questions, and issues which were most important to them. The feedback we received from these workshops was used to develop our original courses.
 
-We have learned a lot from planning and delivering these courses. Following the delivery of our first course on [Responsible Research and Innovation][rri], we sought feedback from the participants, including a specific request for recommendations for improvements. 
+We have learned a lot from planning and delivering these courses. Following the delivery of our first course on [Responsible Research and Innovation][rri], we sought feedback from the participants, including a specific request for recommendations for improvements.
 
 Several participants suggested *more time* to explore the new ideas being presented. In response, we redesigned our second course to have a better balance between time spent delivering new material and time spent exploring the material during activities or group discussion. Others recommended *closer integration of our activities* with the core material. For this, we ensured that our next course has a clear thread which ran through each of the days, progressively building up to a capstone activity.[^ped-course]
 
@@ -46,7 +44,7 @@ Several participants suggested *more time* to explore the new ideas being presen
 The benefit of these small but important changes was clear in the feedback from our second course:
 
 !!! quote “Participant Feedback”
-
+    
     The activities and group work helped understand the course content really well so I would say that the activities are the highlights.
 
 Being responsive to the changing needs of our course participants is a key objective for us, and is central to the above goal of creating high quality (and needs driven) resources. However, designing content and resources that are valuable for *all of our participants* has been challenging given the multi-disciplinary setting of our courses. For example, if we provided an illustrative example to help explain a key concept, those participants who happened to have a background in the respective area (e.g. healthcare) were able to grasp the idea more readily. Addressing this challenge leads us to the first of our new objectives.
@@ -58,7 +56,7 @@ Being responsive to the changing needs of our course participants is a key objec
 At present, we are revisiting the content of our three courses and focusing on the following set of objectives:
 
 !!! success “First Objectives”
-
+    
     1. Revise the content of each course based on what worked well, what did not, and what needs updating.
     2. Modularise the courses to allow more flexibility for participants who are unable or do not wish to take a 5-day long course.
     3. Design a more flexible set of materials and resources that can be tailored to different disciplines.
@@ -85,7 +83,7 @@ While this sets out our general approach, there is an important component missin
 
 ### Participatory Design and User Engagement
 
-Developing domain-specific case studies that can be used to tailor core modules to the needs of researchers in different disciplines requires domain-specific expertise. Therefore, the redesign and redevelopment of our content and resources has to be conducted in a participatory manner. 
+Developing domain-specific case studies that can be used to tailor core modules to the needs of researchers in different disciplines requires domain-specific expertise. Therefore, the redesign and redevelopment of our content and resources has to be conducted in a participatory manner.
 
 Recently, we have started collaborating with the [UKRI CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai) (University of Edinburgh) and the [UKRI CDT in AI for the study of Environmental Risks](https://ai4er-cdt.esc.cam.ac.uk) (University of Cambridge) to develop and evaluate two of our newly designed core modules for Responsible Research and Innovation. This participatory design work will include the co-creation of tailored case studies for their respective domains (e.g. predictive diagnostics for healthcare, earth monitoring and surveillance technologies). It will also allow us to work with domain experts to identify the most pressing needs and challenges related to skills and training gaps in responsible research and innovation.
 
@@ -100,10 +98,10 @@ Although limited to two domains during our pilot phase, we intend to explore fur
 Our current website is hosted by GitHub pages, and uses the fantastic [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) as a static-site generator. This set-up has allowed us to focus on creating written content using Markdown, rather than worrying about web development. However, there are limitations to static sites, and some of these limitations also serve as barriers to our next objective:
 
 !!! success “Second Objective”
-
+    
     Create an open platform that supports interactive and self-directed learning approaches, customisable to different users and groups.
 
-As mentioned in the previous section a key milestone on our project’s roadmap is the development of domain-specfic case studies that enable users to tailor our core modules to their domain (e.g. robotics or journalism). Another milestone for our future roadmap is to develop a case study repository and API to build additional functionality into our website. Doing so will allow users to better tailor skills tracks to their needs by using the available case studies and modules that ground the content of the modules. 
+As mentioned in the previous section a key milestone on our project’s roadmap is the development of domain-specfic case studies that enable users to tailor our core modules to their domain (e.g. robotics or journalism). Another milestone for our future roadmap is to develop a case study repository and API to build additional functionality into our website. Doing so will allow users to better tailor skills tracks to their needs by using the available case studies and modules that ground the content of the modules.
 
 And, where there are gaps in our resources, an open API will allow partners to more easily integrate their own contributions into the platform, in turn supporting and caring for the commons.
 
@@ -135,7 +133,7 @@ Implementing these features will take time and resources, and we hope to ensure 
 ![An illustration of a participatory design workshop. Illustration by Jonny Lighthands.](https://raw.githubusercontent.com/alan-turing-institute/trustworthy-assurance/main/docs/assets/images/ch4-header.jpg)
 
 !!! success “Third Objective ”
-
+    
     To further build on our current resources to meet the needs of additional groups and communities.
 
 Many of the topics and issues we have explored in our courses so far have importance beyond the academic community. We know this from some of our own [public engagement work](https://www.turing.ac.uk/blog/camdens-data-charter-why-good-data-governance-being-parent), as well as from discussions we have had with partners from the public, private and third sectors. Although we have started with an academic audience, this is not our end point.
@@ -163,6 +161,7 @@ At the moment, we are still working on creating structured forms of support to a
 
 For the time being, the best way to get involved is to just to reach out to us and start a conversation. Do you have an idea for a case study? Do you want to take part in one of our evaluations? Do you have time to help us maintain the current GitHub repository?
 
+[^tragedy]: Hardin, G. (1968). The Tragedy of the Commons. Science, 162(3859), 1243–1248. http://www.jstor.org/stable/1724745
 [tc-website]: https://alan-turing-institute.github.io/turing-commons/
 [rri]: https://alan-turing-institute.github.io/turing-commons/rri/
 [ped]: https://alan-turing-institute.github.io/turing-commons/ped/
