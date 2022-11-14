@@ -4,7 +4,7 @@ date: 2022-14-11
 categories:
   - news
 tags:
-  - project update
+  - objectives
 authors:
   - chris
 ---
