@@ -11,6 +11,10 @@ authors:
 
 # Turing Commons Roadmap
 
+This blog post sets out a general roadmap and explores a series of objectives for the Turing Commons as we head into 2023. 
+
+<!-- more -->
+
 ![Abstract illustration of two people making ethical decisions as they walk along a digital road towards a more responsible digital society. Illustration by Jonny Lighthands.](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/rri-cover.jpg)
 
 The Turing Commons started out, as all good projects do, with a name (:tophat: to Christina Hitrova).
