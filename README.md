@@ -23,6 +23,8 @@ This repository primarily exists to host and support a [series of online courses
 - AI Ethics & Governance (AEG) (Coming soon!)
 - Citizen's Guide to Data: Ethical, Social, and Legal Issues (Coming soon!)
 
+You can read more about the Turing Commons in our [blog](https://alan-turing-institute.github.io/turing-commons/blog/).
+
 If you wish to contribute and join our community, please see [this guidance](CONTRIBUTING.md) on how to do so!
 
 ## Contributors ✨
