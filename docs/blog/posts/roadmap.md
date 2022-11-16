@@ -17,7 +17,7 @@ This blog post sets out a general roadmap and explores a series of objectives fo
 
 ![Abstract illustration of two people making ethical decisions as they walk along a digital road towards a more responsible digital society. Illustration by Jonny Lighthands.](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/rri-cover.jpg)
 
-The Turing Commons started out, as all good projects do, with a name (:tophat: to Christina Hitrova).
+The Turing Commons started out, as all good projects do, with an idea and a name, presented to the Turing's Data Ethics Group in the Winter of 2019 (:tophat: to David Leslie and Christina Hitrova).
 
 With the important decision out of the way, our plan was to build a community platform (the “commons”) to host and support a set of resources that were freely open and accessible to all people with an interest in the ways that data-driven technologies are changing society.
 
