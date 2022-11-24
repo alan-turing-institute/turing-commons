@@ -219,15 +219,17 @@ nav:
       - AI Sustainability and Anticipatory Reflection: aeg/chapter3/sustainability.md
       - Stakeholder Engagement Process: aeg/chapter3/engagement.md
       - Stakeholder Impact Assessment: aeg/chapter3/impact.md
-    - Fairness & Bias Mitigation, Transparency & Explainability, and Governance:
+    - Fairness & Bias Mitigation, Accountability, and Governance:
       - Introduction: aeg/chapter4/index.md
-      - AI Fairness: aeg/chapter4/fairness.md
+      - Introduction to Fairness: aeg/chapter4/fairness.md
+      - AI Fairness: aeg/chapter4/aifairness.md
       - Bias Mitigation: aeg/chapter4/bias.md
-      - Transparency & Explainability: aeg/chapter4/transparency.md
+      - Accountability: aeg/chapter4/accountability.md
       - AI Governance: aeg/chapter4/governance.md
-    - CARE & ACT Principles: 
+    - Transparency, Explainability and CARE & ACT Principles: 
       - Introduction: aeg/chapter5/index.md
-      - Consider Context: aeg/chapter5/context.md
+      - Transparency & Explainability: aeg/chapter5/transparency.md
+      - Consider Context: aeg/chapter5/consider.md
       - Anticipate Impacts: aeg/chapter5/anticipate.md
       - Reflect on Purpose, Positionality, and Power: aeg/chapter5/reflect.md
       - Engage Inclusively: aeg/chapter5/engage.md
