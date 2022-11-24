@@ -219,7 +219,7 @@ nav:
       - AI Sustainability and Anticipatory Reflection: aeg/chapter3/sustainability.md
       - Stakeholder Engagement Process: aeg/chapter3/engagement.md
       - Stakeholder Impact Assessment: aeg/chapter3/impact.md
-- Fairness & Bias Mitigation, Accountability, and Governance:
+    - Fairness & Bias Mitigation, Accountability, and Governance:
       - Introduction: aeg/chapter4/index.md
       - Introduction to Fairness: aeg/chapter4/fairness.md
       - AI Fairness: aeg/chapter4/aifairness.md
