@@ -68,7 +68,7 @@ theme:
 
 # Plugins
 plugins:
-  - social
+  # - social
   - search:
       separator: "[\\s\\-,:!=\\[\\]()\"/]+|\\.(?!\\d)|&[lg]t;|(?!\\b)(?=[A-Z][a-z])"
   - mkdocs-jupyter
