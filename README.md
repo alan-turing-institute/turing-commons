@@ -20,7 +20,7 @@ This repository primarily exists to host and support a [series of online courses
 
 - [Responsible Research and Innovation (RRI)](https://alan-turing-institute.github.io/turing-commons/rri/index.html)
 - [Public Engagement of Data Science and AI (PED)](https://alan-turing-institute.github.io/turing-commons/ped/index.html)
-- AI Ethics & Governance (AEG) (Coming soon!)
+- [AI Ethics & Governance (AEG)](https://alan-turing-institute.github.io/turing-commons/aeg/index.html)
 - Citizen's Guide to Data: Ethical, Social, and Legal Issues (Coming soon!)
 
 You can read more about the Turing Commons in our [blog](https://alan-turing-institute.github.io/turing-commons/blog/).

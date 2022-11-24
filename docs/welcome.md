@@ -19,7 +19,7 @@ These guidebooks are themselves being updated and added to, so may be in differe
 
 - [Responsible Research and Innovation (RRI)](rri/index.md)
 - [Public Engagement of Data Science and AI (PED)](ped/index.md)
-<!-- - [AI Ethics & Governance (AEG)]() -->
+- [AI Ethics & Governance (AEG)](aeg/index.md)
 - [Citizen's Guide to Data: Ethical, Social and Legal Issues](https://zenodo.org/record/5568861#.YWfmRS8w1hE)
 
 ## Contributing
