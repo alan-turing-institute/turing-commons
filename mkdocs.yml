@@ -204,7 +204,7 @@ nav:
       - Introduction: ped/chapter5/index.md
       - Public Trust in Science and Technology: ped/chapter5/trust.md
 
- - AI Ethics and Governance:
+  - AI Ethics and Governance:
     - (AEG) About this course: aeg/index.md
     - Practical Ethics: 
       - Introduction: aeg/chapter1/index.md
@@ -216,7 +216,6 @@ nav:
       - AI Values: aeg/chapter2/values.md
     - AI Sustainability:
       - Introduction: aeg/chapter3/index.md
-      - AI Sustainability and Anticipatory Reflection: aeg/chapter3/sustainability.md
       - Stakeholder Engagement Process: aeg/chapter3/engagement.md
       - Stakeholder Impact Assessment: aeg/chapter3/impact.md
     - Fairness & Bias Mitigation, Accountability, and Governance:
@@ -234,7 +233,6 @@ nav:
       - Reflect on Purpose, Positionality, and Power: aeg/chapter5/reflect.md
       - Engage Inclusively: aeg/chapter5/engage.md
       - Act Responsibly: aeg/chapter5/act.md
-
 
   - Blog:
     - blog/index.md
