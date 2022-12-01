@@ -18,7 +18,7 @@ Social scientists have long referred to this site of self-locating reflection as
 When taking positionality into account, team members should reflect on their own positionality matrix. They should ask: To what extent do my personal characteristics, group identifications, socioeconomic status, educational, training, & work background, team composition, & institutional frame represent sources of power and advantage or sources of marginalisation and disadvantage? How does this positionality influence the team's ability to identify & understand affected stakeholders and the potential impacts of the project? Answering these questions involves probing several other areas of self-ascription related to each researcher’s contextual attributes:
 
 <figure markdown>
-  ![Positionality matrix](../../assets/images/graphics/Positionality-Matrix-2.png){ align="center" }
+  ![Positionality matrix](../../assets/images/graphics/positionality-matrix-2.png){ align="center" }
 </figure>
 
 A solid grasp on positionality allows team members to better interrogate and reflect on the power dynamics that could unduly influence research purposes and trajectories. Such reflections on power should involve an investigation of how power operates, and where it manifests, both across the  project lifecycle and in the real-world environments the project is situated. Leslie et al., propose a series of guiding questions that can be used as a reflective tool to help make potentially noxious power dynamics explicit:[@lesliedavid2022]
