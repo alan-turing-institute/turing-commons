@@ -1,4 +1,4 @@
-# [INDEX] Responsible Research and Innovation Skills Tracks
+# Responsible Research and Innovation Skills Tracks
 ###### tags: `rri-core-module`
 
 :::info
