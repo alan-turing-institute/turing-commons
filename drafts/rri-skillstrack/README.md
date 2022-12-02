@@ -1,4 +1,4 @@
-# Responsible Research and Innovation Skills Tracks
+# Responsible Research and Innovation Skills Track
 ###### tags: `rri-core-module`
 
 :::info
@@ -63,6 +63,10 @@ This document serves as an index (or, table of contents) for all of the notes re
 :::
 
 ## Additional Information
+
+### Script for Video
+
+To draft.
 
 ### Slides on HackMD
 
