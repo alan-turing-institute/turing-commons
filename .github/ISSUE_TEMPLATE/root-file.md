@@ -1,3 +1,10 @@
+---
+name: "New Root File"
+about: "Use this template to announce a new root file and keep track of tasks."
+title: "[New Root File]"
+labels: 'new root file'
+---
+
 The following root file has been created:
 
 - Title: <!-- add section title -->
