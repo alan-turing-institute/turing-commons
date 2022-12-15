@@ -1,6 +1,6 @@
 ### Introduction: What is Responsible Research and Innovation?
 
-!!! success
+::: success
 **Module Information**
 * ID: RRI-100
 * Core Module: true
