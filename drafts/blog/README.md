@@ -12,7 +12,7 @@ You can also contribute to new ideas for the blog by [INSERT].
 Our posts are usually around 500 words long and they are published every [X time].
 Below you can find our publishing schedule.
 
-For any other queries, please contact @ClauFischer (cfischer@turing.ac.uk) who is in charge of the blog. 
+For any other queries, please contact @ClauFischer (cfischer@turing.ac.uk) who manages the blog. 
 
 ## Ideas, Drafts, and Publishing Schedule
 
