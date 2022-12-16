@@ -3,6 +3,17 @@
 > **About this Document**
 > This document is to track blog posts, including initial ideas, current drafts, and a schedule of publishing.
 
+The Turing Commons blog is a space to promote, discuss, and explore new ideas and topics related to responsible research and innovation, public engagement, and AI ethics and governance.
+
+We love to hear from the Turing Commons community and welcome contributions to our blog! 
+If you are interested in writing a blogpost for us, you can [INSERT].
+You can also contribute to new ideas for the blog by [INSERT].
+
+Our posts are usually around 500 words long and they are published every [X time].
+Below you can find our publishing schedule.
+
+For any other queries, please contact @ClauFischer (cfischer@turing.ac.uk) who is in charge of the blog. 
+
 ## Ideas, Drafts, and Publishing Schedule
 
 ### Ideas
