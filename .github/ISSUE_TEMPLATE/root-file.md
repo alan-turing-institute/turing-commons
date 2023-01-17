@@ -14,10 +14,11 @@ The following root file has been created:
 
 ## Tasks
 
-- [ ] Review root file
-- [ ] Draft web version
-- [ ] Review web version 
-- [ ] Create slides
-- [ ] Review slides and draft script
+- [ ] Review root file (Clau)
+- [ ] Answer comments (Chris)
+- [ ] Draft web version (Clau)
+- [ ] Review web version (Chris)
+- [ ] Create slides (Chris)
+- [ ] Review slides and draft script (Clau)
 
 Link to file: <!-- add GH link to file -->
