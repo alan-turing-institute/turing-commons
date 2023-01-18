@@ -6,6 +6,8 @@ hide:
 
 # Welcome
 
+![](../assets/images/illustrations/artificial-intelligence.png){width="50%"}
+
 Hello 👋
 This is the Turing Commons—a home for resources and tools to help you reflect, discuss, and take responsibility for the design, development, and use of data-driven technologies.
 
