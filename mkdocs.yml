@@ -1,3 +1,4 @@
+INHERIT: images.yml
 # Project information
 site_name: Turing Commons
 site_url: https://alan-turing-institute.github.io/turing-commons/
@@ -52,6 +53,14 @@ plugins:
   - search:
       separator: "[\\s\\-,:!=\\[\\]()\"/]+|\\.(?!\\d)|&[lg]t;|(?!\\b)(?=[A-Z][a-z])"
   - tags
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
 
 # Extensions
 markdown_extensions:
