@@ -14,8 +14,7 @@ copyright: Copyright &copy; 2022 Alan Turing Institute
 theme:
   name: material
   custom_dir: overrides
-  icon:
-    logo: assets/favicon.png
+  logo: assets/favicon.png
   favicon: assets/favicon.png
   language: en
   palette:
@@ -41,6 +40,7 @@ theme:
     - navigation.sections
     - navigation.path
     - navigation.top
+    - navigation.footer
 
 # Plugins
 plugins:
@@ -52,8 +52,6 @@ plugins:
   - search:
       separator: "[\\s\\-,:!=\\[\\]()\"/]+|\\.(?!\\d)|&[lg]t;|(?!\\b)(?=[A-Z][a-z])"
   - tags
-
-# Customization
 
 # Extensions
 markdown_extensions:
@@ -98,7 +96,6 @@ markdown_extensions:
   - pymdownx.snippets
 
 extra_javascript:
-  - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
