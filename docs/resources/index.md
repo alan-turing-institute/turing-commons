@@ -10,12 +10,11 @@ The following list is a collection of resources that either support our skills t
 
     ---
 
-    ~~An interactive and searchable gallery of the illustrations used throughout our platform.~~
-    Coming soon.
+    An interactive and searchable gallery of the illustrations used throughout our platform.
 
     [:octicons-arrow-right-24: Go to resource](gallery.md)
 
--   :fontawesome-solid-book:{ .lg .middle } __Curated Bibliographies__
+-   :fontawesome-solid-book:{ .lg .middle } __Bibliographies__
 
     ---
 
