@@ -1,4 +1,5 @@
 # Project information
+INHERIT: images.yml
 site_name: Turing Commons
 site_url: https://alan-turing-institute.github.io/turing-commons/
 site_description: >-
@@ -69,11 +70,16 @@ plugins:
       post_url_date_format: YYYY/MM/dd
       post_url_format: "{slug}"
       post_readtime: true
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
   - search:
       separator: "[\\s\\-,:!=\\[\\]()\"/]+|\\.(?!\\d)|&[lg]t;|(?!\\b)(?=[A-Z][a-z])"
-  - mkdocs-jupyter
-  - bibtex:
-      bib_file: "https://api.zotero.org/groups/4441221/items?format=bibtex"
   - tags
 
 # Customization
@@ -129,6 +135,7 @@ extra_javascript:
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/gallery.css
 
 # Page tree
 nav:
