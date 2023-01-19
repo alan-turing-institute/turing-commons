@@ -1,0 +1,34 @@
+{% extends "main.html" %} {% block content %} {{ super() }}
+
+<section class="cards-grid">
+  {% for item in config.images %}
+  <article class="card">
+    <div class="card-image-container">
+      <a
+        class="glightbox"
+        href="{{ item.url }}"
+        data-height="auto"
+        data-width="100%"
+      >
+        <img
+          src="{{ item.url }}"
+          alt="{{ item.caption }}"
+          class="card-image"
+        />
+      </a>
+    </div>
+      <div class="card-body">
+        <h2 class="card-title">{{ item.title }}</h2>
+        <p class="card-text">{{ item.caption }}</p>
+        <hr>
+        <div class="tags-container">
+          {% for tag in item.tags %}
+          <span class="card-tag"># {{ tag }}</span>
+          {% endfor %}
+        </div>
+      </div>
+  </article>
+  {% endfor %}
+</div>
+
+{% endblock %}
