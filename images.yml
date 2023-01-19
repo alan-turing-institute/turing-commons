@@ -217,8 +217,7 @@ images:
       - tag 2
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/limit-reached.png
     caption: "Insert Caption"
-  
-  
+    
 
 # Template
 
