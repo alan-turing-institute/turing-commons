@@ -141,99 +141,31 @@ extra_css:
 nav:
   - Home: index.md
   - Welcome: welcome.md
-  - Responsible Research and Innovation:
-      - (RRI) About this Course: rri/index.md
-      - Introduction: rri/intro/index.md
-      - What is Responsible Research and Innovation:
-          - Introduction: rri/chapter1/index.md
-          - What is Responsibility: rri/chapter1/responsibility.md
-          - A Short History of RRI: rri/chapter1/history.md
-          - Science, Technology, and Society: rri/chapter1/sts.md
-          - Science and Technology Studies Timeline: rri/chapter1/timeline.md
-      - Responsible Data Science and AI:
-          - Introduction: rri/chapter2/index.md
-          - What is Responsible Data Science and AI: rri/chapter2/responsible_ds.md
-          - Introducing the Project Lifecycle: rri/chapter2/project_lifecycle.md
-          - Roles and Responsibilities: rri/chapter2/roles_responsibility.md
-          - Understanding Bias: rri/chapter2/understanding_bias.md
-      - The Project Lifecycle:
-          - Introduction: rri/chapter3/index.md
-          - Case Studies: rri/activities/case_studies.md
-          - Project Planning: rri/chapter3/project_design/planning.md
-          - Problem Formulation: rri/chapter3/project_design/problem.md
-          - Data Extraction or Procurement: rri/chapter3/project_design/data_extraction.md
-          - Data Analysis: rri/chapter3/project_design/data_analysis.ipynb
-          - Preprocessing and Feature Engineering: rri/chapter3/model_development/preprocessing.md
-          - Model Selection and Training: rri/chapter3/model_development/model_selection.md
-          - Model Testing and Validation: rri/chapter3/model_development/model_testing.md
-          - Model Reporting: rri/chapter3/model_development/model_reporting.md
-          - Model Productionalisation: rri/chapter3/system_deployment/model_productionalisation.md
-          - User Training: rri/chapter3/system_deployment/user_training.md
-          - System Use and Monitoring: rri/chapter3/system_deployment/system_use.ipynb
-          - Model Updating or Deprovisioning: rri/chapter3/system_deployment/model_updating.md
-          - Next Steps: rri/chapter3/summary.md
-      - Responsible Communication:
-          - Introduction: rri/chapter4/index.md
-          - What is Argument-Based Assurance: rri/chapter4/assurance.md
-          - Assurance and Responsible Communication: rri/chapter4/communication.md
-          - Goals, Properties, and Evidence: rri/chapter4/gpe.md
-      - Conclusion: rri/conclusion/index.md
-      - Resources:
-          - Additional Resources: rri/resources/index.md
-          - Synthetic Data Generation: rri/resources/synthetic_data_generation.ipynb
-          - Further Reading: rri/resources/further-reading.md
-
-  - Public Engagement of Data Science and AI:
-      - (PED) About this Course: ped/index.md
-      - What is Public Engagement?:
-          - Introduction: ped/chapter1/index.md
-          - Climbing the Ladder: ped/chapter1/ladder.md
-          - Goals of Public Engagement: ped/chapter1/goals.md
-      - The Value(s) of Public Engagement:
-          - Introduction: ped/chapter2/index.md
-          - Deliberative Values: ped/chapter2/deliberation.md
-          - Responsible Public Engagement: ped/chapter2/responsible.md
-      - Facilitating Public Engagement:
-          - Introduction: ped/chapter3/index.md
-          - When should you engage: ped/chapter3/when.md
-          - How should you engage: ped/chapter3/how.md
-      - Practical Guidance:
-          - Introduction: ped/chapter4/index.md
-          - Storytelling with Data: ped/chapter4/storytelling.md
-          - Communicating Uncertainty: ped/chapter4/uncertainty.md
-          - Visualising Uncertainty: ped/chapter4/uncertainty_example.ipynb
-      - Public Trust and Assurance:
-          - Introduction: ped/chapter5/index.md
-          - Public Trust in Science and Technology: ped/chapter5/trust.md
-
-  - AI Ethics and Governance:
-      - (AEG) About this course: aeg/index.md
-      - Practical Ethics:
-          - Introduction: aeg/chapter1/index.md
-          - Introduction to Metaethics: aeg/chapter1/metaethics.md
-          - Introduction to Normative Theories: aeg/chapter1/normative.md
-      - AI Harms and Values:
-          - Introduction: aeg/chapter2/index.md
-          - AI Harms: aeg/chapter2/harms.md
-          - AI Values: aeg/chapter2/values.md
-      - AI Sustainability:
-          - Introduction: aeg/chapter3/index.md
-          - Stakeholder Engagement Process: aeg/chapter3/engagement.md
-          - Stakeholder Impact Assessment: aeg/chapter3/impact.md
-      - Fairness & Bias Mitigation, Accountability, and Governance:
-          - Introduction: aeg/chapter4/index.md
-          - Introduction to Fairness: aeg/chapter4/fairness.md
-          - AI Fairness: aeg/chapter4/aifairness.md
-          - Bias Mitigation: aeg/chapter4/bias.md
-          - Accountability: aeg/chapter4/accountability.md
-          - AI Governance: aeg/chapter4/governance.md
-      - Transparency, Explainability and CARE & ACT Principles:
-          - Introduction: aeg/chapter5/index.md
-          - Transparency & Explainability: aeg/chapter5/transparency.md
-          - Consider Context: aeg/chapter5/consider.md
-          - Anticipate Impacts: aeg/chapter5/anticipate.md
-          - Reflect on Purpose, Positionality, and Power: aeg/chapter5/reflect.md
-          - Engage Inclusively: aeg/chapter5/engage.md
-          - Act Responsibly: aeg/chapter5/act.md
+  - Skills Tracks:
+      - skills-tracks/index.md
+      - Responsible Research and Innovation in Data Science and AI:
+          - skills-tracks/rri/index.md
+          - Module 1 (What is Responsible Research and Innovation?):
+              - skills-tracks/rri/rri-100-index.md
+              - Understanding Responsibility: skills-tracks/rri/rri-100-1.md
+              - Collective and Distributed Responsibility: skills-tracks/rri/rri-100-2.md
+              - Defining Responsible Research and Innovation: skills-tracks/rri/rri-100-3.md
+              - The Scope and Horizon of Responsibility: skills-tracks/rri/rri-100-4.md
+          - Module 2 (The Project Lifecycle):
+              - skills-tracks/rri/rri-101-index.md
+              - What is the Project Lifecycle?: skills-tracks/rri/rri-101-1.md
+              - Project Design: skills-tracks/rri/rri-101-2.md
+              - Model Development: skills-tracks/rri/rri-101-3.md
+              - System Deployment: skills-tracks/rri/rri-101-4.md
+      - Public Engagement in Data Science and AI:
+          - skills-tracks/ped/index.md
+      - AI Ethics and Governance:
+          - skills-tracks/aeg/index.md
+  - Resources:
+      - resources/index.md
+      - Gallery: resources/gallery.md
+      - Bibliographies: resources/bibliographies.md
+      - Case Studies: resources/case-studies.md
+      - Activities: resources/activities.md
   - Blog:
       - blog/index.md
