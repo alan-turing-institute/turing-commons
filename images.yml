@@ -1,0 +1,229 @@
+# Base Url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/{image-filename}
+
+images:
+  - title: "Artificial Intelligence (Version 2)"
+    tags:
+      - artificial intelligence
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ai-squares.png
+    caption: "Insert Caption"
+  - title: "Stakeholder Engagement"
+    tags:
+      - participatory design
+      - workshop
+      - engagement
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/stakeholder-engagement.jpg
+    caption: "An image caption."
+  - title: "Imbalanced Classes"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/imbalanced-classes.png
+    caption: "An image caption."
+  - title: "AI Ethics and Governance (Cover Image)"
+    tags:
+      - ai ethics
+      - ai governance
+      - cover image
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/aeg-cover.png
+    caption: "Insert Caption"
+  - title: "Algorithm (Version 1)"
+    tags:
+      - algorithm
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/algorithm1.png
+    caption: "Insert Caption"
+  - title: "Algorithm (Version 2)"
+    tags:
+      - algorithm
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/algorithm2.png
+    caption: "Insert Caption"
+  - title: "Artificial Intelligence (Version 1)"
+    tags:
+      - artificial intelligence
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/artificial-intelligence.png
+    caption: "Insert Caption"
+  - title: "Assurance Case (Small)"
+    tags:
+      - assurance case
+      - argument
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance-case-small.png
+    caption: "Insert Caption"
+  - title: "Assurance Case (Medium)"
+    tags:
+      - assurance case
+      - argument
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance-case-medium.png
+    caption: "Insert Caption"
+  - title: "Assurance Case (Large)"
+    tags:
+      - assurance case
+      - argument
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance-case-large.png
+    caption: "Insert Caption"
+  - title: "Assurance Case (XL)"
+    tags:
+      - assurance case
+      - argument
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance-case-xlarge.png
+    caption: "Insert Caption"
+  - title: "Assurance (Version 1)"
+    tags:
+      - assurance
+      - planning
+      - project design
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance.png
+    caption: "Insert Caption"
+  - title: "Autnomous Vehicle"
+    tags:
+      - autonomous vehicle
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/autonomous-vehicle.png
+    caption: "Insert Caption"
+  - title: "Biases"
+    tags:
+      - statistical bias
+      - cognitive bias
+      - social bias
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/bias.png
+    caption: "Insert Caption"
+  - title: "Co-Designing Assurance"
+    tags:
+      - argument-based assurance
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/building-an-assurance-case.png
+    caption: "Insert Caption"
+  - title: "Chatbot"
+    tags:
+      - chatbot
+      - digital mental health
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/chatbot.png
+    caption: "Insert Caption"
+  - title: "Classification"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/classification.png
+    caption: "Insert Caption"
+  - title: "Construction"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/construction.png
+    caption: "Insert Caption"
+  - title: "Data Maze"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data-maze.png
+    caption: "Insert Caption"
+  - title: "Data Science"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data-science.png
+    caption: "Insert Caption"
+  - title: "Data Security"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data-security.png
+    caption: "Insert Caption"
+  - title: "Big Data Analysis"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dataset.png
+    caption: "Insert Caption"
+  - title: "Deep Learning (Version 1)"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/deep-learning.png
+    caption: "Insert Caption"
+  - title: "Deep Learning (Version 2)"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/deep-learning2.png
+    caption: "Insert Caption"
+  - title: "Moral Deliberation"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/deliberation.png
+    caption: "Insert Caption"
+  - title: "Discrimination"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/discrimination.png
+    caption: "Insert Caption"
+  - title: "Public Deliberation"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/discussion.png
+    caption: "Insert Caption"
+  - title: "Data Divide"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/divides-1.png
+    caption: "Insert Caption"
+  - title: "Explainability in Judicial Decisions"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/explainable.png
+    caption: "Insert Caption"
+  - title: "Facial Recognition"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/facial-recognition.png
+    caption: "Insert Caption"
+  - title: "Data Iceberg"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/iceberg.png
+    caption: "Insert Caption"
+  - title: "Imbalanced Classes"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/imbalanced-classes.png
+    caption: "Insert Caption"
+  - title: "Ladder of Engagement"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ladders.jpg
+    caption: "Insert Caption"
+  - title: "Project Lifecycle (Stylised, Version 1)"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/lifecycle-stylised-alt.png
+    caption: "Insert Caption"
+  - title: "Project Lifecycle (Stylised, Version 2)"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/lifecycle-stylised.png
+    caption: "Insert Caption"
+  - title: "Screen Time Limit"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/limit-reached.png
+    caption: "Insert Caption"
+    
+
+# Template
+
+  # - title: "Image Title"
+  #   tags:
+  #     - tag 1
+  #     - tag 2
+  #   url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/{image-filename}
+  #   caption: "Insert Caption"
