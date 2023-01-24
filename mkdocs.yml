@@ -81,6 +81,7 @@ plugins:
   - search:
       separator: "[\\s\\-,:!=\\[\\]()\"/]+|\\.(?!\\d)|&[lg]t;|(?!\\b)(?=[A-Z][a-z])"
   - tags
+  # - social (disabled when running locally due to library issues)
 
 # Customization
 
