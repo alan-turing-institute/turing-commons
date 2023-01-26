@@ -72,11 +72,11 @@ plugins:
   - search:
       separator: "[\\s\\-,:!=\\[\\]()\"/]+|\\.(?!\\d)|&[lg]t;|(?!\\b)(?=[A-Z][a-z])"
   - tags
-  - blog: 
-      post_date_format: medium
-      post_url_date_format: YYYY/MM/dd
-      post_url_format: "{slug}"
-      post_readtime: true
+  # - blog: 
+  #     post_date_format: medium
+  #     post_url_date_format: YYYY/MM/dd
+  #     post_url_format: "{slug}"
+  #     post_readtime: true
 
 # Customization
 
