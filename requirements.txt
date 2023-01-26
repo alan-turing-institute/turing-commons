@@ -1,5 +1,5 @@
 # Requirements for additional plugins
-mkdocs-jupyter>=0.21.0
-mkdocs-bibtex>=2.8.3
 pillow>=9.2.0
 CairoSVG>=2.5.2
+mkdocs-glightbox>=0.2.0
+mkdocs-material>=9.0.6
