@@ -1,9 +1,9 @@
 {% extends "main.html" %} {% block content %} {{ super() }}
 
-<section class="cards-grid">
+<div id="gallery-container" class="flexbox-container">
   {% for item in config.images %}
-  <article class="card">
-    <div class="card-image-container">
+  <div class="flexbox-item">
+    <div class="card">
       <a
         class="glightbox"
         href="{{ item.url }}"
@@ -13,25 +13,25 @@
         <img
           src="{{ item.url }}"
           alt="{{ item.caption }}"
-          class="card-image"
+          class="card-img-top"
         />
       </a>
-    </div>
       <div class="card-body">
         <h2 class="card-title">{{ item.title }}</h2>
         <p class="card-text">{{ item.caption }}</p>
-        <hr>
-        <div class="tags-container">
+        <div class="tags">
           {% for tag in item.tags %}
-          <span class="card-tag"># {{ tag }}</span>
+          <span class="tag"># {{ tag }}</span>
           {% endfor %}
         </div>
-        <hr>
         <div class="copy-button-container">
-			    <button class="copy-button" data-link="{{ item.url }}">Copy image URL</button>
-		    </div>
+          <button class="copy-button" data-link="{{ item.url }}">
+            Copy image URL
+          </button>
+        </div>
       </div>
-  </article>
+    </div>
+  </div>
   {% endfor %}
 </div>
 
