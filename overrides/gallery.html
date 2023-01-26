@@ -26,6 +26,10 @@
           <span class="card-tag"># {{ tag }}</span>
           {% endfor %}
         </div>
+        <hr>
+        <div class="copy-button-container">
+			    <button class="copy-button" data-link="{{ item.url }}">Copy image URL</button>
+		    </div>
       </div>
   </article>
   {% endfor %}
