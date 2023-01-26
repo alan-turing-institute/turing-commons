@@ -71,9 +71,6 @@ plugins:
   # - social
   - search:
       separator: "[\\s\\-,:!=\\[\\]()\"/]+|\\.(?!\\d)|&[lg]t;|(?!\\b)(?=[A-Z][a-z])"
-  - mkdocs-jupyter
-  - bibtex:
-      bib_file: "https://api.zotero.org/groups/4441221/items?format=bibtex"
   - tags
   - blog: 
       post_date_format: medium
