@@ -1,19 +1,18 @@
 /*-- JG: Unnecessary on real page --*/
+	.md-sidebar{
+		display:none!important;
+	}
 
-.md-sidebar{
-	display:none!important;
-}
-
-.flexbox-container{
-	display:flex;
-	align-items:stretch;
-	flex-wrap:wrap;
-}
+	.flexbox-container{
+		display:flex;
+		align-items:stretch;
+		flex-wrap:wrap;
+	}
 
 	.flexbox-item{
 		max-width: 100%;
 		width: 100%;
-    margin-bottom: 20px;
+		margin-bottom: 20px;
 	}
 	
 	.card img{
@@ -21,21 +20,21 @@
 		object-fit: contain;
 		width: 100%;
 		height: auto;
-    max-height: 90vw;
+		max-height: 70vw;
 	}
 		
 
 @media screen and (min-width:600px){
 
 	.flexbox-item{
-		max-width: 49%;
+		max-width:calc(50% - 20px);
 		margin-right: 20px;
-    width:calc(50%-20px);
+		width:calc(50% - 20px);
 	}
 
 	.card img{
 		height: 30vw;
-    max-height: 30vw;
+		max-height: 30vw;
 	}
 		
 
@@ -46,14 +45,14 @@
 @media screen and (min-width:992px){
 
 	.flexbox-item{
-		max-width: 32%;
+		max-width:calc(33% - 20px);
 		margin-right: 20px;
-    width:calc(33%-20px);
+		width:calc(33% - 20px);
 	}
 
 	.card img{
 		height: 20vw;
-    max-height: 20vw;
+		max-height: 20vw;
 	}
 	
 	
@@ -62,15 +61,15 @@
 
 @media screen and (min-width:1080px){
 	.flexbox-item{
-		max-width:calc(25%-20px);
+		max-width:calc(25% - 20px);
 		margin-right: 20px;
-    width:calc(25%-20px);
+		width:calc(25% - 20px);
 	}
 	
 
 	.card img{
 		height: 15vw;
-    max-height: 15vw;
+		max-height: 15vw;
 	}	
 }
 
@@ -160,3 +159,4 @@
 .copy-button-container button{
 	color:var(--md-primary-fg-color);
 }
+
