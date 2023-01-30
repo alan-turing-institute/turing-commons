@@ -17,10 +17,17 @@
 
 .card img {
   max-width: 100%;
-  object-fit: cover;
   width: 100%;
   height: auto;
   max-height: 70vw;
+}
+
+.card img.landscape{
+	object-fit:contain;
+}
+
+.card img.portrait{
+	object-fit:cover;
 }
 
 @media screen and (min-width: 600px) {
