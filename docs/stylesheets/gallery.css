@@ -20,15 +20,17 @@
   width: 100%;
   height: auto;
   max-height: 70vw;
+  object-fit:cover;
 }
 
 .card img.landscape{
-	object-fit:contain;
+	object-fit:contain!important;
 }
 
 .card img.portrait{
-	object-fit:cover;
+	object-fit:cover!important;
 }
+
 
 @media screen and (min-width: 600px) {
   .flexbox-item {
