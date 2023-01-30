@@ -1,12 +1,527 @@
 # Base Url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/{image-filename}
 
 images:
+  - title: "AI Ethics and Governance (Cover Image)"
+    tags:
+      - ai ethics
+      - ai governance
+      - cover image
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/aeg-cover.png
+    caption: "Illustration cover for AI Ethics and Governance skills track"
+    orientation: portrait
+  - title: "Artificial Intelligence (Version 1)"
+    tags:
+      - artificial intelligence
+      - sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/artificial-intelligence.png
+    caption: "Illustration showing different images related to sociotechnical AI systems, represented in clouds connected to a central brain"
+    orientation: landscape
   - title: "Artificial Intelligence (Version 2)"
     tags:
       - artificial intelligence
+      - sociotechnical systems
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ai-squares.png
+    caption: "Six squares showing different images related to sociotechnical AI systems "
+    orientation: landscape
+  - title: "Algorithm (Version 1)"
+    tags:
+      - algorithm
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/algorithm1.png
+    caption: "Abstract representation of an algorithm (version 1)"
+    orientation: portrait
+  - title: "Algorithm (Version 2)"
+    tags:
+      - algorithm
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/algorithm2.png
+    caption: "Abstract representation of an algorithm (version 1)"
+  - title: "Assurance (Version 1)"
+    tags:
+      - assurance
+      - planning
+      - project design
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance.png
+    caption: "Illustration showing a developer building an assurance case for her project (version 1)"
+    orientation: landscape
+  - title: "Assurance (Version 2)"
+    tags:
+      - assurance
+      - argument
+      - project design
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance-alt.png
+    caption: "Illustration showing a developer building an assurance case for her project (version 2)"
+    orientation: landscape
+  - title: "Assurance Case (Large)"
+    tags:
+      - assurance case
+      - argument
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance-case-large.png
+    caption: "Abstract representation of an assurance case (large version)"
+    orientation: landscape
+  - title: "Assurance Case (Medium)"  
+    tags:
+      - assurance case
+      - argument
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance-case-medium.png
+    caption: "Abstract representation of an assurance case (medium version)"
+    orientation: landscape
+  - title: "Assurance Case (Small)"
+    tags:
+      - assurance case
+      - argument
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance-case-small.png
+    caption: "Abstract representation of an assurance case (small version)"
+    orientation: portrait
+  - title: "Assurance Case (XL)"
+    tags:
+      - assurance case
+      - argument
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance-case-xlarge.png
+    caption: "Abstract representation of an assurance case (XL version)"
+    orientation: portrait
+  - title: "Autnomous Vehicle"
+    tags:
+      - autonomous vehicle
+      - sociotechnical systems
+      - artificial intelligence
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/autonomous-vehicle.png
+    caption: "Illustration showing the deployment of an autonomous vehicle, from its assembly, through its inspection, to its usage"
+    orientation: portrait
+  - title: "Biases"
+    tags:
+      - statistical bias
+      - cognitive bias
+      - social bias
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/bias.png
+    caption: "Illustration depicting the three main categories of biases found in AI systems: social, statistical, and cognitive"
+    orientation: landscape
+  - title: "Co-Designing Assurance"
+    tags:
+      - argument-based assurance
+      - participatory design
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/building-an-assurance-case.png
+    caption: "An image showing the collaborative process of building an assurance case. It is a participatory process which requires stakeholder engagement as well as co-designing by project team members"
+    orientation: portrait
+  - title: "Digital Mental Health Chatbot"
+    tags:
+      - chatbot
+      - digital mental health
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/chatbot.png
+    caption: "Image showing a woman using digital mental health service by interacting with a mental health chatbot"
+    orientation: landscape
+  - title: "Citizen Engagement"
+    tags:
+      - participatory design
+      - workshop
+      - engagement
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/citizen-engagement.png
+    caption: "Poster depicting an app which allows citizens to give feedback on a community transportation system"
+    orientation: landscape
+  - title: "Classification"
+    tags:
+      - artificial intelligence
+      - algorithm
+      - machine learning
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/classification.png
+    caption: "Image showing the output of a classification task: separating the dataset into images of cats and images of dogs"
+    orientation:  landscape
+  - title: "Construction"
+    tags:
+      - sociotechnical systems
+      - construction
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/construction.png
+    caption: "Two men working at a construction site"
+    orientation: lanscape
+  - title: "Crime monitoring"
+    tags:
+     - sociotechnical systems
+     - policing
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/crime-monitoring.png
+    caption: "A policeman using a crime monitoring system (a software that depicts real-time criminal activity in the city) while patroling the city"
+    orientation: landscape
+  - title: "Crime prediction"
+    tags:
+     - sociotechnical systems
+     - policing
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/crime-prediction.png
+    caption: "A policeman using crime prediction system (a software which uses an AI system to predict the most likely spots for criminal activity in the city) while patroling the city"
+    orientation: landscape
+  - title: "Data Maze"
+    tags:
+      - data
+      - 
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data-maze.png
+    caption: "Data maze formed by the data emanating from different servers"
+    orientation: landscape
+  - title: "Data Science"
+    tags:
+      - data
+      - data science
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data-science.png
+    caption: "Illustration showing several connected uses of data: data flows from its extraction, through its analysis by a data scientist, to its presentation and use"
+    orientation: landscape
+  - title: "Data Security"
+    tags:
+      - data
+      - data-leak
+      - data protection
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data-security.png
+    caption: "An image depicting a data leak produced by a flaw in security which leads bad actors to access the sensitive dataset"
+    orientation: landscape
+  - title: "Big Data Analysis (version 1)"
+    tags:
+      - data
+      - data science
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data.png
+    caption: "Data scientists analysing big datasets (version 1)"
+    orientation: portrait
+  - title: "Big Data Analysis (version 2)"
+    tags:
+      - data
+      - data science
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data-alt.png
+    caption: "Data scientists analysing big datasets (version 2)"
+    orientation: portrait
+  - title: "Deep Learning (Version 1)"
+    tags:
+      - artificial intelligence
+      - algorithm
+      - machine learning
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/deep-learning.png
+    caption: "Representation of how a deep learning model works to classify images (version 1)"
+    orientation: landscape
+  - title: "Deep Learning (Version 2)"
+    tags:
+      - artificial intelligence
+      - algorithm
+      - machine learning
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/deep-learning2.png
+    caption: "Representation of how a deep learning model works to classify images (version 2)"
+    orientation: landscape
+  - title: "Moral Deliberation"
+    tags:
+      - deliberation
+      - project design
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/deliberation.png
+    caption: "Representation on the process of moral deliberation depicting a man considering different aspects of a project, process, or idea"
+    orientation: portrait
+  - title: "Diagnosis"
+    tags:
+      - data
+      - machine learning
+      - algorithm
+      - sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/diagnosis.png
+    caption: "Illustration showing a hospital waiting room with a man uploading a photo of his skin condition so that it can be diagnosed by an AI system while he is queueing"
+    orientation: landscape  
+  - title: "Discrimination"
+    tags:
+      - artificial intelligence
+      - data science
+      - biases
+      - sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/discrimination.png
+    caption: "Cartoonish depiction of how AI systems can produce discriminatory outomes because of the properties of the datasets they are trained on. Models are being trained to recognise language, but because the datasets are mostly in English, the models' outcomes end up biased against other languages"
+    orientation: landscape
+  - title: "Public Deliberation"
+    tags:
+      - deliberation
+      - workshop
+      - engagement
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/discussion.png
+    caption: "Illustration showing discussion and deliberation between various members of the public"
+    orientation: landscape
+  - title: "Data Divide"
+    tags:
+      - data 
+      - data science
+      - biases
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/divides-1.png
+    caption: "Illustration depicting the unequal distributon of datasets across regions worldwide. In particular, it depicts researchers from more affluent countries or regions extracting data from less well-funded regions and using it with little regards for the people in those regions"
+    orientation: landscape
+  - title: "Satellite Earth Monitoring"
+    tags:
+      - data
+      - sensors
+      - surveillance
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/earth-monitoring.jpg
+    caption: "Image of satellite and ground sensors monitoring cities, forests, and the sea across the globe. Data generated is stored in mutliple cloud servers all over the world"
+    orientation: landscape
+  - title: "Explainability in Judicial Decisions"
+    tags:
+      - sociotechnical systems
+      - artificial intelligence
+      - machine learning
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/explainable.png
+    caption: "Illustration showing how AI systems can be used to influence judicial decisions, often without an adequate explanation to those being affected by these decisions"
+    orientation: landscape
+  - title: "Facial Recognition"
+    tags:
+      - machine learning
+      - artificial intelligence
+      - sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/facial-recognition.png
+    caption: "Illustration representing a facial recognition algorithm being used by capturing and detecting a particular face in a crowd"
+    orientation: landscape
+  - title: "Scientific fraud"
+    tags:
+      - data science
+      - fraud
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/fraud.png
+    caption: "Cartoon depicting a scientist fabricating data (commiting scientific fraud). While at first he gets promoted, he gets caught thanks to the replication and scrutiny processes carried out by other scientists, and loses his job"
+    orientation: landscape
+  - title: "Climbing to a goal"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/goals.png
     caption: "Insert Caption"
     orientation: landscape
+  - title: "Data Iceberg"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/iceberg.png
+    caption: "An image of a data iceberg"
+    orientation: landscape
+  - title: "Imbalanced Classes"
+    tags:
+      - data
+      - data science
+      - algorithm
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/imbalanced-classes.png
+    caption: "Illustration depicting how having imbalanced classes in datasets can lead to poor or suboptimal model performance. Two models are trying to achieve optimal model performance, but only the one with balanced classess is successful"
+    orientation: landscape
+  - title: "Ladder of Engagement"
+    tags:
+      - engagement
+      - participation
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ladders.jpg
+    caption: "Image showing different levels of public engagement or participation through their standing on ladders"
+    orientation: portrait
+  - title: "Project Lifecycle (Stylised, Version 1)"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/lifecycle-stylised-alt.png
+    caption: "An image depicting the three over-arching stages of the AI project lifecycle: project design, model development, and system deployment"
+    orientation: landscape
+  - title: "Project Lifecycle (Stylised, Version 2)"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/lifecycle-stylised.png
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Screen Time Limit App"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/limit-reached.png
+    caption: "An image depicting a man using an app which restricts one's access to a phone by setting screen time limits and then blocking the phone"
+    orientation: landscape
+  - title: "Metaethics and morality"
+    tags:
+      - ethics
+      - plural values
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/{image-filename}
+    caption: "An abstract representation of two ways of answering the question: where does morality come from? On the left, morality is depicted as coming from one true, external source, while on the right, morality is depicted as something subjective, with individuals having or creating their own moralities"
+    orientation: landscape or portrait
+  - title: "Missing Data"
+    tags:
+      - data
+      - data analysis
+      - biases
+      - statistical bias
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/missing-data.png
+    caption: "A cartoonish depiction of the problem of having missing data in your dataset. The illustration shows a wanted poster for the missing data and the reward is optimal model performance"
+    orientation: portrait
+  - title: "Model Development"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/model-development.png
+    caption: "Close up of the second stage of the project lifecycle: model development. Data scientists are preparing the data, training the model, and testing it for biases, among others. "
+    orientation: landscape
+  - title: "NLP"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/nlp-decision-support.png
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Online Grooming Detection"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/online-grooming-detection.jpg
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Decision Automation Bias"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/over-compliance.png
+    caption: "Illustration depicting overcompliance with AI automated decisions. A doctor diagnoses a patient with Alzheimer because the AI system suggested it, even though there are no other symptoms"
+    orientation: landscape
+  - title: "Over Reliance"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/over-reliance.png
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Overwhelmed"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/overwhelmed.png
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Participatory Design"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/participatory-design.png
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Pathways"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/pathways.jpg
+    caption: "Insert Caption"
+    orientation: portrait
+  - title: "Public Engagement of Data Science and AI (Cover Image)"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ped-cover.jpg
+    caption: "Insert Caption"
+    orientation: portrait
+  - title: "Peer Support"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/peer-support.png
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Phone Peel (Version 1)"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/phone-peel-background.png
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Phone Peel (Version 2)"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/phone-peel.png
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Principles versus Consequences"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/principles-consequences.png
+    orientation: portrait
+  - title: "Prioritising Principles versus Prioritising Consequences"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/prioritising-principles-consequences.png
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Prison Surveillance"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/prison-surveillance.png
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Project Design"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/project-design.png
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Protest"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/protest.png
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Public Trust in Sience"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/public-trust.png
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Recommender System"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/recommender-system.png
+    orientation: landscape
+  - title: "Reinforcement Learning"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/reinforcement-learning.png
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Representation (Version 1)"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/representation-background.png
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Representation (Version 2)"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/representation.png
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Responsible Research and Innovation (Cover Image)"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/rri-cover.jpg
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Smart City (Version 1)"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/smart-city-bg.png
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Smart City (Version 2)"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/smart-city.png
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Smart Planning"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/smart-planning.png
+    caption: "Insert Caption"
+    orientation: landscape
+  - title: "Social Care"
+    tags:
+      - tag 1
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/social-care.png
+    caption: "Insert Caption"
+    orientation: portrait
   - title: "Stakeholder Engagement"
     tags:
       - participatory design
@@ -15,215 +530,131 @@ images:
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/stakeholder-engagement.jpg
     caption: "An image caption."
     orientation: landscape
-  - title: "Imbalanced Classes"
+  - title: "Street"
     tags:
       - tag 1
       - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/imbalanced-classes.png
-    caption: "An image caption."
-    orientation: landscape
-  - title: "AI Ethics and Governance (Cover Image)"
-    tags:
-      - ai ethics
-      - ai governance
-      - cover image
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/aeg-cover.png
-    caption: "Insert Caption"
-    orientation: portrait
-  - title: "Algorithm (Version 1)"
-    tags:
-      - algorithm
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/algorithm1.png
-    caption: "Insert Caption"
-    orientation: portrait
-  - title: "Algorithm (Version 2)"
-    tags:
-      - algorithm
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/algorithm2.png
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/street.png
     caption: "Insert Caption"
     orientation: landscape
-  - title: "Artificial Intelligence (Version 1)"
-    tags:
-      - artificial intelligence
-      - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/artificial-intelligence.png
-    caption: "Insert Caption"
-  - title: "Assurance Case (Small)"
-    tags:
-      - assurance case
-      - argument
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance-case-small.png
-    caption: "Insert Caption"
-  - title: "Assurance Case (Medium)"
-    tags:
-      - assurance case
-      - argument
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance-case-medium.png
-    caption: "Insert Caption"
-  - title: "Assurance Case (Large)"
-    tags:
-      - assurance case
-      - argument
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance-case-large.png
-    caption: "Insert Caption"
-  - title: "Assurance Case (XL)"
-    tags:
-      - assurance case
-      - argument
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance-case-xlarge.png
-    caption: "Insert Caption"
-  - title: "Assurance (Version 1)"
-    tags:
-      - assurance
-      - planning
-      - project design
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance.png
-    caption: "Insert Caption"
-  - title: "Autnomous Vehicle"
-    tags:
-      - autonomous vehicle
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/autonomous-vehicle.png
-    caption: "Insert Caption"
-  - title: "Biases"
-    tags:
-      - statistical bias
-      - cognitive bias
-      - social bias
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/bias.png
-    caption: "Insert Caption"
-  - title: "Co-Designing Assurance"
-    tags:
-      - argument-based assurance
-      - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/building-an-assurance-case.png
-    caption: "Insert Caption"
-  - title: "Chatbot"
-    tags:
-      - chatbot
-      - digital mental health
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/chatbot.png
-    caption: "Insert Caption"
-  - title: "Classification"
+  - title: "Student Wellbeing"
     tags:
       - tag 1
       - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/classification.png
-    caption: "Insert Caption"
-  - title: "Construction"
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/student-wellbeing.png
+    caption: "Caption"
+    orientation: landscape
+  - title: "Sum Values (Version 1)"
     tags:
       - tag 1
       - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/construction.png
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/sum-values-alt.png
     caption: "Insert Caption"
-  - title: "Data Maze"
+    orientation: portrait
+  - title: "Sum Values (Version 2)"
     tags:
       - tag 1
       - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data-maze.png
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/sum-values.png
     caption: "Insert Caption"
-  - title: "Data Science"
+    orientation: portrait
+  - title: "Sustainability"
     tags:
       - tag 1
       - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data-science.png
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/sustainability.png
     caption: "Insert Caption"
-  - title: "Data Security"
+    orientation: landscape
+  - title: "System deployment"
     tags:
       - tag 1
       - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data-security.png
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/system-deployment.png
     caption: "Insert Caption"
-  - title: "Big Data Analysis"
+    orientation: landscape
+  - title: "Titanic 1"
     tags:
       - tag 1
       - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dataset.png
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/titanic-1.png
     caption: "Insert Caption"
-  - title: "Deep Learning (Version 1)"
+    orientation: landscape
+  - title: "Titanic 2"
     tags:
       - tag 1
       - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/deep-learning.png
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/titanic-2.png
     caption: "Insert Caption"
-  - title: "Deep Learning (Version 2)"
+    orientation: landscape
+  - title: "Titanic 3"
     tags:
       - tag 1
       - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/deep-learning2.png
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/titanic-3.png
     caption: "Insert Caption"
-  - title: "Moral Deliberation"
+    orientation: landscape
+  - title: "Titanic Fullpage"
     tags:
       - tag 1
       - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/deliberation.png
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/titanic-fullpage.png
     caption: "Insert Caption"
-  - title: "Discrimination"
+    orientation: portrait
+  - title: "Trust Blue"
     tags:
       - tag 1
       - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/discrimination.png
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/trust-blue.png
     caption: "Insert Caption"
-  - title: "Public Deliberation"
+    orientation: landscape
+  - title: "Image Title"
     tags:
       - tag 1
       - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/discussion.png
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/trust-yellow.png
     caption: "Insert Caption"
-  - title: "Data Divide"
+    orientation: landscape
+  - title: "Unsupervised Learning"
     tags:
       - tag 1
       - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/divides-1.png
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/unsupervised-learning.png
     caption: "Insert Caption"
-  - title: "Explainability in Judicial Decisions"
+    orientation: landscape
+  - title: "Visa Application"
     tags:
       - tag 1
       - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/explainable.png
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/visa-application.jpg
     caption: "Insert Caption"
-  - title: "Facial Recognition"
+    orientation: portrait
+  - title: "Virtual Reality Therapy"
     tags:
       - tag 1
       - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/facial-recognition.png
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/vr-therapy.png
     caption: "Insert Caption"
-  - title: "Data Iceberg"
-    tags:
-      - tag 1
-      - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/iceberg.png
-    caption: "Insert Caption"
-  - title: "Imbalanced Classes"
-    tags:
-      - tag 1
-      - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/imbalanced-classes.png
-    caption: "Insert Caption"
-  - title: "Ladder of Engagement"
-    tags:
-      - tag 1
-      - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ladders.jpg
-    caption: "Insert Caption"
-  - title: "Project Lifecycle (Stylised, Version 1)"
-    tags:
-      - tag 1
-      - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/lifecycle-stylised-alt.png
-    caption: "Insert Caption"
-  - title: "Project Lifecycle (Stylised, Version 2)"
-    tags:
-      - tag 1
-      - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/lifecycle-stylised.png
-    caption: "Insert Caption"
-  - title: "Screen Time Limit"
-    tags:
-      - tag 1
-      - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/limit-reached.png
-    caption: "Insert Caption"
-    
+    orientation: landscape
+
+
+
+
+
+
+
+  
+ 
+
+
+
+
+ 
+  
+
+
+
+
+
 
 # Template
 
@@ -233,3 +664,4 @@ images:
   #     - tag 2
   #   url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/{image-filename}
   #   caption: "Insert Caption"
+  #   orientation: (landscape or portrait)
