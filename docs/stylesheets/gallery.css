@@ -17,11 +17,20 @@
 
 .card img {
   max-width: 100%;
-  object-fit: cover;
   width: 100%;
   height: auto;
   max-height: 70vw;
+  object-fit:contain;
 }
+
+.card img.contain{
+	object-fit:contain!important;
+}
+
+.card img.cover{
+	object-fit:cover!important;
+}
+
 
 @media screen and (min-width: 600px) {
   .flexbox-item {
