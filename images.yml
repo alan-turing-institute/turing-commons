@@ -6,7 +6,7 @@ images:
       - artificial intelligence
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ai-squares.png
     caption: "Insert Caption"
-    orientation: landscape
+    display: cover
   - title: "Stakeholder Engagement"
     tags:
       - participatory design
@@ -14,14 +14,14 @@ images:
       - engagement
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/stakeholder-engagement.jpg
     caption: "An image caption."
-    orientation: landscape
+    display: cover
   - title: "Imbalanced Classes"
     tags:
       - tag 1
       - tag 2
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/imbalanced-classes.png
     caption: "An image caption."
-    orientation: landscape
+    display: cover
   - title: "AI Ethics and Governance (Cover Image)"
     tags:
       - ai ethics
@@ -29,19 +29,17 @@ images:
       - cover image
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/aeg-cover.png
     caption: "Insert Caption"
-    orientation: portrait
+    display: cover
   - title: "Algorithm (Version 1)"
     tags:
       - algorithm
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/algorithm1.png
     caption: "Insert Caption"
-    orientation: portrait
   - title: "Algorithm (Version 2)"
     tags:
       - algorithm
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/algorithm2.png
     caption: "Insert Caption"
-    orientation: landscape
   - title: "Artificial Intelligence (Version 1)"
     tags:
       - artificial intelligence
