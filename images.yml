@@ -310,12 +310,12 @@ images:
       - tag 2
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/model-development.png
     caption: "Close up of the second stage of the project lifecycle: model development. Data scientists are preparing the data, training the model, and testing it for biases, among others"
-  - title: "NLP"
+  - title: "Natural Language Processing Model Decision Support"
     tags:
       - tag 1
       - tag 2
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/nlp-decision-support.png
-    caption: "Insert Caption"  
+    caption: "A woman using a NLP "  
   - title: "Online Grooming Detection"
     tags:
       - tag 1
