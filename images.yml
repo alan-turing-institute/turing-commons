@@ -362,7 +362,7 @@ images:
   - title: "Peer Support"
     tags:
       - sociotechnical systems
-      - tag 2
+      - digital mental health
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/peer-support.png
     caption: "Image depicting a man using a suport app to support peers with their mental health"
   - title: "Phone Peel (Version 1)"
@@ -424,52 +424,53 @@ images:
     caption: "Depiction of how recommender systems can lead people down (increasingly extreme) rabbit-holes. In this example, a woman starts by searching for video workouts, and quickly ends up beign recommended dieting and fasting videos"
   - title: "Reinforcement Learning"
     tags:
-      - tag 1
-      - tag 2
+      - sociotechnical systems
+      - machine learning
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/reinforcement-learning.png
-    caption: "Insert Caption"
+    caption: "Image depicting reinforcement learning through a self-driving car: the car 'learns' to avoid routes with people or other obstructions through controlled exposure to them"
   - title: "Representation (Version 1)"
     tags:
-      - tag 1
-      - tag 2
+      - sociotechnical systems
+      - dats science
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/representation-background.png
-    caption: "Insert Caption"
+    caption: "Image of people walking with online representations of them on their smart phones. Depending on the amount of data on them, each individual might have a more or less detailed virtual persona (Version 1, with background)"
   - title: "Representation (Version 2)"
     tags:
-      - tag 1
-      - tag 2
+      - sociotechnical systems
+      - dats science
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/representation.png
-    caption: "Insert Caption"
+    caption: "Image of people walking with online representations of them on their smart phones. Depending on the amount of data on them, each individual might have a more or less detailed virtual persona (Version 2, no background)"
   - title: "Responsible Research and Innovation (Cover Image)"
     tags:
-      - tag 1
-      - tag 2
+      - responsible research
+      - data science
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/rri-cover.jpg
-    caption: "Insert Caption"
+    caption: "Cover illustration for Responsible Research and Innovation skills track: image shows people walking on virtual roads made of data"
   - title: "Smart City (Version 1)"
     tags:
-      - tag 1
+      - sociotechnical systems
       - tag 2
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/smart-city-bg.png
-    caption: "Insert Caption"
+    caption: "Image showing a smart city where data is collected and connected from cars, public transport, pedestrians, etc. (Version 1, with background)"
   - title: "Smart City (Version 2)"
     tags:
-      - tag 1
+      - sociotechnical systems
       - tag 2
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/smart-city.png
-    caption: "Insert Caption"
+    caption: "Image showing a smart city where data is collected and connected from cars, public transport, pedestrians, etc. (Version 2, no background)"
   - title: "Smart Planning"
     tags:
-      - tag 1
+      - sociotechnical systems
       - tag 2
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/smart-planning.png
-    caption: "Insert Caption"
+    caption: "Image depicting a system for creating smart data-driven systems across the UK"
   - title: "Social Care"
     tags:
-      - tag 1
-      - tag 2
+      - sociotechnical systems
+      - machine learning
+      - artificial intelligence
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/social-care.png
-    caption: "Insert Caption"
+    caption: "Image depicting a child being classified as 'at risk' by an AI system, which is then used as a reason to separate the child from his family"
     display: cover
   - title: "Stakeholder Engagement"
     tags:
@@ -477,101 +478,104 @@ images:
       - workshop
       - engagement
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/stakeholder-engagement.jpg
-    caption: "An image caption."
+    caption: "Image showing a stakeholder engagement process: stakeholder and project team working together at tables to discuss project design, development, and deployment"
   - title: "Street"
     tags:
-      - tag 1
+      - street
       - tag 2
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/street.png
-    caption: "Insert Caption"
+    caption: "Image of a street with pedestrians walking between buildings"
   - title: "Student Wellbeing"
     tags:
-      - tag 1
-      - tag 2
+      - sociotechnical systems
+      - digital mental health
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/student-wellbeing.png
-    caption: "Caption"
+    caption: "Depiction of mental health in a student centre: some students are meditating, some are quite anxious or stressed, some are sleeping, and some are texting their friends or therapist"
   - title: "Sum Values (Version 1)"
     tags:
-      - tag 1
-      - tag 2
+      - ethics
+      - plural values
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/sum-values-alt.png
-    caption: "Insert Caption"
+    caption: "Image representing the SUM Values: respect, protect, connect, and care (Version 1)"
     display: cover
   - title: "Sum Values (Version 2)"
     tags:
-      - tag 1
-      - tag 2
+      - ethics
+      - plural values
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/sum-values.png
-    caption: "Insert Caption"
+    caption: "Image representing the SUM Values: respect, protect, connect, and care (Version 2)"
     display: cover
   - title: "Sustainability"
     tags:
-      - tag 1
-      - tag 2
+      - participatory design
+      - engagement
+      - sociotechnical systems
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/sustainability.png
-    caption: "Insert Caption"
+    caption: "Image showing a sustainable project through stakeholder engagement and participatory design as an iterative cycle happening multiple times throughout the project"
   - title: "System deployment"
     tags:
-      - tag 1
+      - sociotechnical systems
       - tag 2
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/system-deployment.png
-    caption: "Insert Caption"
-  - title: "Titanic 1"
+    caption: "Close up of the third stage of the project lifecycle: system deployment"
+  - title: "Titanic (Version 1)"
     tags:
       - tag 1
       - tag 2
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/titanic-1.png
-    caption: "Insert Caption"
-  - title: "Titanic 2"
-    tags:
-      - tag 1
-      - tag 2
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/titanic-2.png
-    caption: "Insert Caption"  
-  - title: "Titanic 3"
+    caption: "Image depicting the Titanic sailing towards an iceberg (Version 1)"
+  - title: "Titanic (Version 2)"
     tags:
       - tag 1
       - tag 2
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/titanic-3.png
-    caption: "Insert Caption"
+    caption: "Image depicting the Titanic sailing towards an iceberg (Version 2)"
+  - title: "Titanic Passengers"
+    tags:
+      - machine learning
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/titanic-2.png
+    caption: "Image depicting the Titanic and some passenger information along with a machine learning model for predicting who was saved and who was not"
   - title: "Titanic Fullpage"
     tags:
-      - tag 1
+      - machine learning
       - tag 2
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/titanic-fullpage.png
-    caption: "Insert Caption"
+    caption: "Fullpage depiction of Titanic sailing to the iceberg, a machine learning algorithm for predicting who was saved and who was not, and specific passenger information and outcomes"
     display: cover
-  - title: "Trust Blue"
+  - title: "Trustworthy AI (Version 1)"
     tags:
-      - tag 1
-      - tag 2
+      - trust
+      - algorithm
+      - machine learning
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/trust-blue.png
-    caption: "Insert Caption" 
-  - title: "Image Title"
+    caption: "Abstract representation of a trustworthy AI system (Version 1, blue)" 
+  - title: "Trustworthy AI (Version 2)"
     tags:
-      - tag 1
-      - tag 2
+      - trust
+      - algorithm
+      - machine learning
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/trust-yellow.png
-    caption: "Insert Caption"
+    caption: "Abstract representation of a trustworthy AI system (Version 2, yellow)" 
   - title: "Unsupervised Learning"
     tags:
-      - tag 1
-      - tag 2
+      - machine learning
+      - algorithm
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/unsupervised-learning.png
-    caption: "Insert Caption" 
+    caption: "Illustration representing unsupervised learning in machine learning. The system is given unlabelled data in the form of images of different kinds of fruits, and the system is able to group them into images of bananas, apples, and pairs with no supervision" 
   - title: "Visa Application"
     tags:
-      - tag 1
-      - tag 2
+      - sociotechnical systems
+      - biases
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/visa-application.jpg
-    caption: "Insert Caption"
+    caption: "Cartoon showing differences in visa application processes depending on your country of origin or passport. One woman applies and gets accepted in one day, while another lady gets an appointment four months after application date"
     display: cover
   - title: "Virtual Reality Therapy"
     tags:
-      - tag 1
-      - tag 2
+      - digital mental health
+      - sociotechnical systems
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/vr-therapy.png
-    caption: "Insert Caption"
+    caption: "Woman experiences virtual reality therapy while a doctor monitors"
      
 
 
