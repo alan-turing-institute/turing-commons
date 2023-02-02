@@ -7,7 +7,7 @@ images:
       - ai governance
       - cover image
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/aeg-cover.png
-    caption: "Illustration cover for AI Ethics and Governance skills track"
+    caption: "Cover illustration for AI Ethics and Governance skills track: image depicts a garden of ethical values and principles for AI, with people tending to it"
     display: cover
   - title: "Artificial Intelligence (Version 1)"
     tags:
@@ -334,16 +334,16 @@ images:
     caption: "Insert Caption"
   - title: "Overwhelmed"
     tags:
-      - tag 1
-      - tag 2
+      - algorithm
+      - sociotechnical systems
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/overwhelmed.png
-    caption: "Insert Caption" 
+    caption: "A man is overwhelmed by the by the quantity of messages and notifications he is receiving regarding apps to improve mental health" 
   - title: "Participatory Design"
     tags:
-      - tag 1
-      - tag 2
+      - participatory design
+      - engagement
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/participatory-design.png
-    caption: "Insert Caption"
+    caption: "Triptych showing a participatory design process - where the app being developed is created, tested, and implemented, with the feedback of its users"
   - title: "Pathways"
     tags:
       - tag 1
@@ -353,70 +353,75 @@ images:
     display: cover
   - title: "Public Engagement of Data Science and AI (Cover Image)"
     tags:
-      - tag 1
-      - tag 2
+      - public engagement
+      - sociotechnical systems
+      - engagement
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ped-cover.jpg
-    caption: "Insert Caption"
+    caption: "Cover illustration for Public Engagement of Data Science and AI skills track: image shows various data-driven or AI systems, as well as the social links between developers, users, and other stakeholders"
     display: cover
   - title: "Peer Support"
     tags:
-      - tag 1
+      - sociotechnical systems
       - tag 2
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/peer-support.png
-    caption: "Insert Caption" 
+    caption: "Image depicting a man using a suport app to support peers with their mental health"
   - title: "Phone Peel (Version 1)"
     tags:
-      - tag 1
-      - tag 2
+      - sociotechnical systems
+      - algorithm
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/phone-peel-background.png
-    caption: "Insert Caption"  
+    caption: "A man peeling off the user interface layer off his phone to reveal the algorithms and innner workings underneath (version 1, with background)"  
   - title: "Phone Peel (Version 2)"
     tags:
-      - tag 1
-      - tag 2
+      - sociotechnical systems
+      - algorithm
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/phone-peel.png
-    caption: "Insert Caption"
+    caption: "A man peeling off the user interface layer off his phone to reveal the algorithms and innner workings underneath (version 1, no background)"
   - title: "Principles versus Consequences"
     tags:
-      - tag 1
-      - tag 2
+      - ethics
+      - plural values
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/principles-consequences.png
+    caption: "A man looking through binoculars, depicting two perspectives on which to think about actions and outcomes. One lens is by assessing the consequences of an action and another is by assessing the principles that guide the action"
     display: cover
   - title: "Prioritising Principles versus Prioritising Consequences"
     tags:
-      - tag 1
-      - tag 2
+      - ethics
+      - plural values
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/prioritising-principles-consequences.png
-    caption: "Insert Caption"
+    caption: "Cartoon depicting two ethical perspectives: prioritising principles versus prioritising consequences. In the first cartoon, a man does not take credit for his colleague idea because in principle it is not right, even though he realises how much praise he would get if he did. In the second cartoon, a woman lies when asked if anyone else is home, as it is clear that the man at the door is holding a gun"
   - title: "Prison Surveillance"
     tags:
-      - tag 1
-      - tag 2
+      - sociotechnical systems
+      - data science
+      - surveillance
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/prison-surveillance.png
-    caption: "Insert Caption"
+    caption: "Image depicting prison surveillace with a data scientist working with data collected from images, videos, and other data taken the prison"
   - title: "Project Design"
     tags:
-      - tag 1
-      - tag 2
+      - sociotechnical systems
+      - participatory design
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/project-design.png
-    caption: "Insert Caption"
+    caption: "Close up of the first stage of the project lifecycle: project design. Data scientists are thinking about how to tackle their project: what the problem is, the feasibility of addressing it with a data-driven system, and engaging with potential users or stakeholders to understand their needs"
   - title: "Protest"
     tags:
-      - tag 1
-      - tag 2
+      - sociotechnical systems
+      - protest
+      - engagement
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/protest.png
-    caption: "Insert Caption"
+    caption: "Image depicting street protesters who are asking to be included in decision-making"
   - title: "Public Trust in Sience"
     tags:
-      - tag 1
-      - tag 2
+      - trust
+      - engagement
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/public-trust.png
-    caption: "Insert Caption"
+    caption: "Depiction of a scientist building trust with the public by showing and explaining the processes behind the research's final results"
   - title: "Recommender System"
     tags:
-      - tag 1
-      - tag 2
+      - sociotechnical system
+      - algorithm
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/recommender-system.png
+    caption: "Depiction of how recommender systems can lead people down (increasingly extreme) rabbit-holes. In this example, a woman starts by searching for video workouts, and quickly ends up beign recommended dieting and fasting videos"
   - title: "Reinforcement Learning"
     tags:
       - tag 1
