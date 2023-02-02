@@ -30,7 +30,7 @@ The following list is a collection of resources that either support our skills t
     ~~A repository of case studies that support our skills tracks and modules.~~
     Coming soon.
 
-    [:octicons-arrow-right-24: Go to resource](case-studies.md)
+    [:octicons-arrow-right-24: Go to resource](case-studies/index.md)
 
 -   :material-puzzle:{ .lg .middle } __Activities__
 
