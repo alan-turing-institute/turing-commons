@@ -273,14 +273,12 @@ images:
     display: cover
   - title: "Project Lifecycle (Stylised, Version 1)"
     tags:
-      - tag 1
-      - tag 2
+      - sociotechnical systems
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/lifecycle-stylised-alt.png
     caption: "An image depicting the three over-arching stages of the AI project lifecycle: project design, model development, and system deployment" 
   - title: "Project Lifecycle (Stylised, Version 2)"
     tags:
-      - tag 1
-      - tag 2
+      - sociotechnical systems
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/lifecycle-stylised.png
     caption: "Insert Caption"  
   - title: "Screen Time Limit App"
@@ -306,26 +304,26 @@ images:
     display: cover
   - title: "Model Development"
     tags:
-      - tag 1
-      - tag 2
+      - sociotechnical systems
+      - machine learning
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/model-development.png
     caption: "Close up of the second stage of the project lifecycle: model development. Data scientists are preparing the data, training the model, and testing it for biases, among others"
   - title: "Natural Language Processing Model Decision Support"
     tags:
-      - tag 1
-      - tag 2
+      - machine learning
+      - sociotechnical systems
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/nlp-decision-support.png
-    caption: "A woman using a NLP "  
+    caption: "A woman using an NLP model to process audio"  
   - title: "Online Grooming Detection"
     tags:
       - tag 1
       - tag 2
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/online-grooming-detection.jpg
-    caption: "Insert Caption"
+    caption: "An image depicting an online grooming detection system. People are texting and the system analyses the text but also their locations, ages, gender, etc., and based on this, flags conversations which may involve grooming"
   - title: "Decision Automation Bias"
     tags:
-      - tag 1
-      - tag 2
+      - biases
+      - sociotechnical systems
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/over-compliance.png
     caption: "Illustration depicting overcompliance with AI automated decisions. A doctor diagnoses a patient with Alzheimer because the AI system suggested it, even though there are no other symptoms"
   - title: "Over Reliance"
