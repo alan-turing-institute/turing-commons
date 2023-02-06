@@ -87,6 +87,12 @@ images:
       - social bias
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/bias.png
     caption: "Illustration depicting the three main categories of biases found in AI systems: social, statistical, and cognitive"
+  - title: "Bospheric Harm"
+    tags:
+      - ai ethics
+      - ai harms
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/biospheric-harm.png
+    caption: "Illustration showing that large, data- and compute power- intensive models can generate great harms to our environment and the biopshere in general"
   - title: "Co-Designing Assurance"
     tags:
       - argument-based assurance
@@ -271,6 +277,13 @@ images:
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ladders.jpg
     caption: "Image showing different levels of public engagement or participation through their standing on ladders"
     display: cover
+  - title: "Loss of autonomy"
+    tags:
+      - ai ethics
+      - ai harms
+      - sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/loss-of-autonomy.jpg
+    caption: "Illustration showing that the ubiquitous presence of AI in society can create a loss of autonomy and direction from people who use these technologies" 
   - title: "Project Lifecycle (Stylised, Version 1)"
     tags:
       - sociotechnical systems
