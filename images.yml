@@ -283,8 +283,9 @@ images:
     caption: "Insert Caption"  
   - title: "Screen Time Limit App"
     tags:
-      - tag 1
-      - tag 2
+      - artificial intelligence
+      - data science
+      - digital mental health
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/limit-reached.png
     caption: "An image depicting a man using an app which restricts one's access to a phone by setting screen time limits and then blocking the phone"
   - title: "Metaethics and morality"
@@ -316,8 +317,10 @@ images:
     caption: "A woman using an NLP model to process audio"  
   - title: "Online Grooming Detection"
     tags:
-      - tag 1
-      - tag 2
+      - artificial intelligence
+      - machine learning
+      - data science
+      - sociotechnical systems
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/online-grooming-detection.jpg
     caption: "An image depicting an online grooming detection system. People are texting and the system analyses the text but also their locations, ages, gender, etc., and based on this, flags conversations which may involve grooming"
   - title: "Decision Automation Bias"
@@ -336,6 +339,7 @@ images:
     tags:
       - algorithm
       - sociotechnical systems
+      - digital mental health
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/overwhelmed.png
     caption: "A man is overwhelmed by the by the quantity of messages and notifications he is receiving regarding apps to improve mental health" 
   - title: "Participatory Design"
@@ -356,6 +360,7 @@ images:
       - public engagement
       - sociotechnical systems
       - engagement
+      - cover image
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ped-cover.jpg
     caption: "Cover illustration for Public Engagement of Data Science and AI skills track: image shows various data-driven or AI systems, as well as the social links between developers, users, and other stakeholders"
     display: cover
