@@ -82,7 +82,13 @@ images:
     tags:
       - bias
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/bias.png
-    caption: "Illustration depicting the three main categories of biases that affect AI systems: social, statistical, and cognitive."
+    caption: "Illustration depicting the three main categories of biases found in AI systems: social, statistical, and cognitive"
+  - title: "Bospheric Harm"
+    tags:
+      - ai ethics
+      - ai harms
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/biospheric-harm.png
+    caption: "Illustration showing that large, data- and compute power- intensive models can generate great harms to our environment and the biopshere in general"
   - title: "Co-Designing Assurance"
     tags:
       - argument-based assurance
@@ -259,7 +265,14 @@ images:
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ladders.jpg
     caption: "Image showing different levels of public engagement or participation through their standing on ladders. A reference to Arnstein's famous model of citizen participation."
     display: cover
-  - title: "Project Lifecycle Processes (Version 1)"
+  - title: "Loss of autonomy"
+    tags:
+      - ai ethics
+      - ai harms
+      - sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/loss-of-autonomy.jpg
+    caption: "Illustration showing that the ubiquitous presence of AI in society can create a loss of autonomy and direction from people who use these technologies" 
+  - title: "Project Lifecycle (Stylised, Version 1)"
     tags:
       - sociotechnical systems
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/lifecycle-stylised-alt.png
@@ -271,8 +284,9 @@ images:
     caption: "An image depicting of a project lifecycle, consisting of four interlocking stages."  
   - title: "Screen Time Limit"
     tags:
-      - digital mental healthcare
-      - screen time
+      - artificial intelligence
+      - data science
+      - digital mental health
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/limit-reached.png
     caption: "An image depicting a man using an app which restricts one's access to a phone by setting screen time limits and then blocking the phone."
   - title: "Metaethics and Morality"
@@ -304,8 +318,10 @@ images:
     caption: "A healthcare professional using NLP software that provides automated prompts to help her understand features of a patient's speech patterns for the purpose of supporting her assessment."  
   - title: "Online Grooming Detection"
     tags:
-      - event detection
-      - pattern recognition
+      - artificial intelligence
+      - machine learning
+      - data science
+      - sociotechnical systems
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/online-grooming-detection.jpg
     caption: "An image depicting an online grooming detection system. People are texting and the system analyses the text but also their locations, ages, gender, etc., and based on this, flags conversations which may involve grooming."
   - title: "Decision Automation Bias"
@@ -324,6 +340,7 @@ images:
     tags:
       - information overload
       - sociotechnical systems
+      - digital mental health
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/overwhelmed.png
     caption: "A man is overwhelmed by the by the quantity of messages and notifications he is receiving regarding apps to improve mental health" 
   - title: "Participatory Design"
@@ -344,6 +361,7 @@ images:
       - public engagement
       - sociotechnical systems
       - engagement
+      - cover image
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ped-cover.jpg
     caption: "Cover illustration for Public Engagement of Data Science and AI skills track. The image shows various data-driven or AI systems, as well as the social links between developers, users, and other stakeholders."
     display: cover
