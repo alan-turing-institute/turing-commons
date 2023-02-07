@@ -83,12 +83,12 @@ images:
       - bias
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/bias.png
     caption: "Illustration depicting the three main categories of biases found in AI systems: social, statistical, and cognitive"
-  - title: "Bospheric Harm"
+  - title: "Biospheric Harm"
     tags:
       - ai ethics
-      - ai harms
+      - environment
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/biospheric-harm.png
-    caption: "Illustration showing that large, data- and compute power- intensive models can generate great harms to our environment and the biopshere in general"
+    caption: "Illustration showing that large, data- and compute power- intensive models can generate great harms to our environment and the biosphere in general."
   - title: "Co-Designing Assurance"
     tags:
       - argument-based assurance
