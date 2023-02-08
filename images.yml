@@ -87,7 +87,7 @@ images:
     tags:
       - ai ethics
       - environment
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/biospheric-harm.png
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/biospheric-harm.jpg
     caption: "Illustration showing that large, data- and compute power- intensive models can generate great harms to our environment and the biosphere in general."
   - title: "Co-Designing Assurance"
     tags:
@@ -129,14 +129,14 @@ images:
      - criminal justice
      - sociotechnical systems
      - policing
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/crime-monitoring.png
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/crime-monitoring.jpg
     caption: "A policeman using a crime monitoring system (a software that depicts real-time criminal activity in the city) while patrolling the city."
   - title: "Crime prediction"
     tags:
      - criminal justice
      - sociotechnical systems
      - policing
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/crime-prediction.png
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/crime-prediction.jpg
     caption: "A policeman using crime prediction system (a software which uses an AI system to predict the most likely spots for criminal activity in the city) while patroling the city."
   - title: "Data Maze"
     tags:
@@ -211,7 +211,7 @@ images:
       - data 
       - data science
       - biases
-    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/divides-1.png
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/divides.png
     caption: "Illustration depicting the unequal distributon of datasets across regions worldwide. In particular, it depicts researchers from more affluent countries or regions extracting data from less well-funded regions and using it with little regards for the people in those regions." 
   - title: "Satellite Earth Monitoring"
     tags:
