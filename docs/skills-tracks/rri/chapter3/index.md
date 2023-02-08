@@ -12,7 +12,7 @@
   - [Project Planning](project_design/planning.md)
   - [Problem Formulation](project_design/problem.md)
   - [Data Extraction or Procurement](project_design/data_extraction.md)
-  - [Data Analysis](project_design/data_analysis.ipynb)
+  - [Data Analysis](project_design/data_analysis.md)
 - (Model) Development
   - [Preprocessing and Feature Engineering](model_development/preprocessing.md)
   - [Model Selection](model_development/model_selection.md)
@@ -21,7 +21,7 @@
 - (System) Deployment
   - [Model Productionalisation](system_deployment/model_productionalisation.md)
   - [User Training](system_deployment/user_training.md)
-  - [System Use and Monitoring](system_deployment/system_use.ipynb)
+  - [System Use and Monitoring](system_deployment/system_use.md)
   - [Model Updating or Deprovisioning](system_deployment/model_updating.md)
 - [Next Steps](summary.md)
 

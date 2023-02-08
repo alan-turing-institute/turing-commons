@@ -29,4 +29,3 @@ Project planning, therefore, can comprise a wide variety of tasks, including, bu
 - wider *impact assessments*—both where required by statute and done voluntarily for transparency and best practice (e.g. equality impact assessments, data protection impact assessments, human rights impact assessment, bias assessment).
 
 This can be a lot to undertake at the outset of a project, but the upfront cost can help offset the large technical and ethical debt that may otherwise accumulate from a failure to anticipate or foresee possible challenges.
-Many of the above activities have been tried and tested in a wide variety of domains, and there are many templates or frameworks that can be used to help speed up the process (see [Further Resources](../../resources/index.md)).

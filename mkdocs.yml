@@ -165,7 +165,7 @@ nav:
           - The Project Lifecycle:
               - Introduction: skills-tracks/rri/chapter3/index.md
               - Case Studies: skills-tracks/rri/activities/case_studies.md
-              - Project Planning: rskills-tracks/ri/chapter3/project_design/planning.md
+              - Project Planning: skills-tracks/rri/chapter3/project_design/planning.md
               - Problem Formulation: skills-tracks/rri/chapter3/project_design/problem.md
               - Data Extraction or Procurement: skills-tracks/rri/chapter3/project_design/data_extraction.md
               - Data Analysis: skills-tracks/rri/chapter3/project_design/data_analysis.md
@@ -175,7 +175,7 @@ nav:
               - Model Reporting: skills-tracks/rri/chapter3/model_development/model_reporting.md
               - Model Productionalisation: skills-tracks/rri/chapter3/system_deployment/model_productionalisation.md
               - User Training: skills-tracks/rri/chapter3/system_deployment/user_training.md
-              - System Use and Monitoring: rri/chapter3/system_deployment/system_use.md
+              - System Use and Monitoring: skills-tracks/rri/chapter3/system_deployment/system_use.md
               - Model Updating or Deprovisioning: skills-tracks/rri/chapter3/system_deployment/model_updating.md
               - Next Steps: skills-tracks/rri/chapter3/summary.md
           - Responsible Communication:
@@ -202,7 +202,7 @@ nav:
               - Introduction: skills-tracks/ped/chapter4/index.md
               - Storytelling with Data: skills-tracks/ped/chapter4/storytelling.md
               - Communicating Uncertainty: skills-tracks/ped/chapter4/uncertainty.md
-              - Visualising Uncertainty: skills-tracks/ped/chapter4/uncertainty_example.md
+              - Visualising Uncertainty: skills-tracks/ped/chapter4/uncertainty-example.md
           - Public Trust and Assurance:
               - Introduction: skills-tracks/ped/chapter5/index.md
               - Public Trust in Science and Technology: skills-tracks/ped/chapter5/trust.md

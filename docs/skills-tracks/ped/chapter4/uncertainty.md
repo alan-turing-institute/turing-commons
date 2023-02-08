@@ -141,7 +141,7 @@ There are, however, some interesting tools that link back to the first section i
 
     ![Animation of a hypothetical outcome plot](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/animations/regression.gif){ align=right width=300 }
     
-    One method is to use packages built into software like Python and R to generate visual animations that explicitly depict alternate or hypothetical outcomes alongside, say, the most likely model of the data generation process. See [this page for more details](uncertainty_example.ipynb).
+    One method is to use packages built into software like Python and R to generate visual animations that explicitly depict alternate or hypothetical outcomes alongside, say, the most likely model of the data generation process. See [this page for more details](uncertainty-example.md).
 
     </div>
 
