@@ -8,7 +8,7 @@ hide:
 
 <div class="result" markdown>
 
-  ![Illustration by Johnny Lighthands](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/rri-cover.jpg){ align="right" width="50%"}
+  ![Illustration by Johnny Lighthands](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/rri-cover.jpg){ align="right" width="50%"}
 
   Responsible scientific research and technological innovation (RRI) is a vital component of a flourishing and fair society.
   As an area of study and mode of enquiry, RRI plays a central role within academic, public, private, and third-sector organisations.

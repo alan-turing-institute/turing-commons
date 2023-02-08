@@ -1,6 +1,6 @@
 # Fairness & Bias Mitigation, Transparency, Explainability, and Governance
 <figure markdown>
-  ![Illustration by Johnny Lighthands](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/building-an-assurance-case.png){ align="center" }
+  ![Illustration by Johnny Lighthands](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/building-an-assurance-case.png){ align="center" }
   <figcaption>Illustration by [Johnny Lighthands](https://www.johnnylighthands.co.uk))</figcaption>
 </figure>
 

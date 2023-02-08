@@ -43,7 +43,7 @@ From a biocentric perspective, moral actions are those that preserve the flouris
 For the purposes of the rest of the course we will focus mostly on the first two families of theories.
 
 <figure markdown>
-  ![normative-theories](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/principles-consequences.png){ align="center" }
+  ![normative-theories](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/principles-consequences.png){ align="center" }
 </figure>
 
 !!! example
@@ -55,10 +55,9 @@ However, from a deontological perspective it is not so obvious. If morality is a
 
 [^nuance]: There is a lot more nuance as to what a deontological theory would say in the example just described. However, this simplification helps illustrate a core difference between the two families of theories.
 
-
 Most people would find the second conclusion morally abhorrent. This shows us that in some cases we seem to take a more consequentialist approach to ethics.
 
-However, the converse can also be the case. 
+However, the converse can also be the case.
 
 !!! example
 

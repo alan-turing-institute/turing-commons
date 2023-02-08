@@ -1,17 +1,17 @@
 # Anticipate impacts
 <figure markdown>
-  ![deliberation](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/deliberation.png){ align="center" }
+  ![deliberation](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/deliberation.png){ align="center" }
 </figure>
 
-Anticipating impacts of an AI system involves reflecting on and assessing the potential short-term and long-term effects the system may have on impacted individuals and on affected communities and social groups, more broadly. 
+Anticipating impacts of an AI system involves reflecting on and assessing the potential short-term and long-term effects the system may have on impacted individuals and on affected communities and social groups, more broadly.
 
-Why is this kind of anticipatory reflection important? Its purpose is to safeguard the sustainability of AI projects across the entire project lifecycle instead of taking an approach of dealing with issues as they appear. There is no guarantee that a team will be able to anticipate *all* potential impacts, but dealing with the most relevant ones before they become a problem ensures more sustainable systems overall (it is also a much more efficient use of resources over time). 
+Why is this kind of anticipatory reflection important? Its purpose is to safeguard the sustainability of AI projects across the entire project lifecycle instead of taking an approach of dealing with issues as they appear. There is no guarantee that a team will be able to anticipate *all* potential impacts, but dealing with the most relevant ones before they become a problem ensures more sustainable systems overall (it is also a much more efficient use of resources over time).
 
-How does one  ensure that the activities and outputs of the AI system are socially and environmentally sustainable? Project team members must proceed with a continuous responsiveness to the real-world impacts that their system could have. 
+How does one  ensure that the activities and outputs of the AI system are socially and environmentally sustainable? Project team members must proceed with a continuous responsiveness to the real-world impacts that their system could have.
 
 The way to translate into practice as we have seen, is through concerted and stakeholder-involving exploration of the possible adverse and beneficial effects that could otherwise remain hidden from view if deliberate and structured processes for anticipating downstream impacts were not in place. 
 
-Attending to sustainability, along these lines, also entails the iterative re-visitation and re-evaluation of impact assessments. To be sure, in its general usage, the word “sustainability” refers to the maintenance of and care for an object or endeavour over time. In the context of AI, this implies that building sustainability into a project is not a “one-off” affair. 
+Attending to sustainability, along these lines, also entails the iterative re-visitation and re-evaluation of impact assessments. To be sure, in its general usage, the word “sustainability” refers to the maintenance of and care for an object or endeavour over time. In the context of AI, this implies that building sustainability into a project is not a “one-off” affair.
 
 Rather, carrying out an initial impact assessment at the inception of a project is only a first, albeit critical, step in a much longer, end-to-end process of responsive re-evaluation and re-assessment. Such an iterative approach ensures that continuous attention is payed both to the dynamic and changing character of the project lifecycle and to the shifting conditions of the real-world environments in which studies are embedded.
 

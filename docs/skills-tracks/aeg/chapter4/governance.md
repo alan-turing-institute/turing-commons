@@ -22,9 +22,9 @@ Furthermore, from start to finish of the AI project lifecycle, the design, devel
 
 ### Process-based governance framework
 
-We have looked at some of the most important values and princciples necessary for establishing responsible innovation practices in the AI project lifecycle.
+We have looked at some of the most important values and principles necessary for establishing responsible innovation practices in the AI project lifecycle.
 
-Perhaps the most vital of these measures is the effective operationalisation of these practices.The recently-adopted standard, ISO 37000, defines governance as ‘the system by which the whole organisation is directed, controlled, and held accountable to achieve its core purpose in the long run’. 
+Perhaps the most vital of these measures is the effective operationalisation of these practices.The recently-adopted standard, ISO 37000, defines governance as ‘the system by which the whole organisation is directed, controlled, and held accountable to achieve its core purpose in the long run’.
 
 Establishing a diligent and well-conceived governance framework that covers the entire design, development, and deployment process will provide the foundation for effectively establishing needed practical actions and controls, exhaustively distributing roles and responsibilities, and operationalising answerability and auditability throughout the AI lifecycle. Organising all of the governance actions into a PBG Framework is a way to better accomplish this task.
 
@@ -45,15 +45,15 @@ The PBG framework asks that teams not only outline the governance actions establ
 
 
 <figure markdown>
-  ![pbgf](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/pbgf-template.png){ align="center" }
+  ![pbgf](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/pbgf-template.png){ align="center" }
 </figure>
 
 <figure markdown>
-  ![pbgf2](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/pbgf-template2.png){ align="center" }
+  ![pbgf2](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/pbgf-template2.png){ align="center" }
 </figure>
 
 <figure markdown>
-  ![pbgf3](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/pbgf-template3.png){ align="center" }
+  ![pbgf3](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/pbgf-template3.png){ align="center" }
 </figure>
 
 ### Establishing proportional governance actions
@@ -66,7 +66,7 @@ Notwithstanding the importance of the need for this reasonable application of pr
 
 **Here is a summary picture of where all possible governance actions fit across the project workflow:**
 <figure markdown>
-  ![pbg](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/pbg.png){ align="center" }
+  ![pbg](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/pbg.png){ align="center" }
 </figure>
 
 Each principle can be operationalised through specific processes:

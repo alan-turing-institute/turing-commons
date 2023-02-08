@@ -1,7 +1,7 @@
 # Introduction to the principle of fairness
 
 <figure markdown>
-  ![divides](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/assurance.png){ align="center" }
+  ![divides](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance.png){ align="center" }
 </figure>
 
 In this section, we will explore the complicated landscape of AI fairness definition as a preliminary step towards understanding the ways in which existing biases manifest in the design, development, and deployment of AI systems. Understanding how concepts of fairness are used in the field of AI ethics and governance is a crucial prerequisite to understanding where and how unfair biases arise across AI project lifecycles, because relevant notions of fairness operate both as ethical and legal criteria based upon which biases can be identified across the AI project workflow and as normative yardsticks against which they can be measured and then appropriately mitigated.  
@@ -73,7 +73,7 @@ It is important to note, regarding this final question on indirect discriminatio
 ## Discriminatory non-harm
 
 <figure markdown>
-  ![divides](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/explainable.png){ align="center" }
+  ![divides](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/explainable.png){ align="center" }
 </figure>
 
 While there are different ways to characterise or define fairness in the design and use of AI systems, you should consider the principle of discriminatory non-harm as a minimum required threshold of fairness. This principle directs us to do no harm to others through direct or indirect discrimination or through discriminatory harassment linked to a protected characteristic that violates the dignity of impacted individuals, degrades their identity, or creates a humiliating or offensive environment for them:

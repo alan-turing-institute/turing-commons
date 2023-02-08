@@ -70,7 +70,7 @@ Beyond this priority of assuring the equity and ethical permissibility of policy
 ## Model design and development fairness
 
 <figure markdown>
-  ![pj](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/project-lifecycle.png){ align="center" }
+  ![pj](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/project-lifecycle.png){ align="center" }
 </figure>
 
 

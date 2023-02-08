@@ -1,6 +1,6 @@
 # Act transparently and responsibly
 <figure markdown>
-  ![data-maze](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/assurance-case-large.png){ align="center" }
+  ![data-maze](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance-case-large.png){ align="center" }
 </figure>
 
 

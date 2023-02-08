@@ -46,7 +46,7 @@ There are three critical points in the AI project lifecycle at which the project
 ## Skills for Conducting SIA's
 
 <figure markdown>
-  ![stakeholder](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/stakeholder-engagement.jpg){ align="center" }
+  ![stakeholder](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/stakeholder-engagement.jpg){ align="center" }
 </figure>
 
 ### Weighing the values and considering trade-offs
@@ -86,7 +86,7 @@ The most general approach is to encourage mutually respectful, sincere, and well
 Whether or not this ends up being the case in each conversational context, the importance of cultivating a culture of innovation, which encourages reciprocally respectful, open, non-coercive, and mutually accountable communication must be stressed. The success of the modern sciences (which have been built on the dynamic foundations of inclusive, rational, and democratic communication) is perhaps evidence enough to support the validity of this emphasis.
 
 <figure markdown>
-  ![grice-matrix](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/grice-maxim.png){ align="center" }
+  ![grice-matrix](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/grice-maxim.png){ align="center" }
 </figure>
 
 

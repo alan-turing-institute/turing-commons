@@ -54,7 +54,7 @@ Does this mean that procedural ethicists believe that moral facts exist? Yes and
 universe, but rather to facilitate and to normatively justify the continuation of ongoing rational dialogue.
 
 <figure markdown>
-  ![metaethics](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/metaethics.png){ align="center" }
+  ![metaethics](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/metaethics.png){ align="center" }
 </figure>
 
 ## 2. Non-universalist Perspectives

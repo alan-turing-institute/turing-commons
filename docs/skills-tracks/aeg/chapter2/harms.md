@@ -45,7 +45,7 @@ For example, if AI is used to make or assist in making decision which impact peo
 ## 2. Poor qualities and dangerous outcomes
 
 <figure markdown>
-  ![unbalanced-classes](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/imbalanced-classes.png)
+  ![unbalanced-classes](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/imbalanced-classes.png)
 </figure>
 
 Algorithmic models are only as good as the data on which they are trained, tested, and validated (commonly called ‘Garbage in, garbage out’). Inaccuracies, measurement errors, and sampling biases across data collection and recording can taint datasets. Using poor quality data could have grave consequence for individual well-being and the public welfare.
@@ -64,11 +64,11 @@ Examples of this kind of harm come from different sectors of society. A 2019 pap
 
 Another famous example is Amazon's hiring algorithm which turned out to be biased against women. In an attempt to automate their hiring practices, Amazon developed an experimental hiring tool which used artificial intelligence to give job candidates scores ranging from one to five stars.[@martin2022] The algorithm quickly taught itself to discriminate against women candidates, penalising resumes which included the word women, (in 'women's chess club' for instance), as well as downgrading resumes which came from all-women colleges (ibid). Although the algorithm is not used by the company, (it was actually taken down precisely because of concerns about its sexism[@dastinjeffrey]), it serves as a powerful example of how AI can perpetuate and amplify historical biases (such as learning from the fact that traditionally Amazon has not hired many women, and extrapolating that to mean that women are not good employees).
 
-![discrimination](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/discrimination.png)
+![discrimination](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/discrimination.png)
 
 ## 4. Widening global digital divides
 
-![divides](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/divides-1.png)
+![divides](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/divides-1.png)
 
 The use of AI systems is not distributed uniformly across different countries, or even within regions in the same country. The varying levels of access and use of these technologies can reinforce and amplify already existing digital divides and data inequities. It can also exacerbate exploitative data appropriation from less rich countries and institutions to more well-resourced researchers and companies in richer countries or in better-funded universities within one country. 
 
@@ -89,7 +89,7 @@ Once the data is collected, harms may arise in terms of how the data is used. In
 
 Additionally, many potential harms can occur in the way information is stored in the medium and long run where security considerations are not always at the forefront of data managers.
 
-![security](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/data-security.png)
+![security](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data-security.png)
 
 ## 6. Biospheric harms
 

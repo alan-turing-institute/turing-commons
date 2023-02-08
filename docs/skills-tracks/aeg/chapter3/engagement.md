@@ -1,7 +1,7 @@
 # Stakeholder Engagement Process
 
 <figure markdown>
-  ![Sustainabilitycycle](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/ustainability-cycle.png){ align="center" }
+  ![Sustainabilitycycle](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/ustainability-cycle.png){ align="center" }
   <figcaption>The Sustainability, engagement, and reflection cycle</figcaption>
 </figure>
 
@@ -18,7 +18,7 @@ A crucial component of AI Sustainability is conducting an appropriate Stakeholde
 
 The SEP is an iterative process with three core steps: 
 <figure markdown>
-  ![SEP](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/sep.png){ align="center" }
+  ![SEP](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/sep.png){ align="center" }
 </figure>
 
 Each of these activities should be documented and utilised to create a Project Summary (PS) report. A Project Summary Report is comprised of four components reflecting the SEP process: (1) a preliminary project scoping and stakeholder analysis, (2) a positionality reflection (3) an overview of established stakeholder objectives and methods and (4) a governance workflow map. The fourth component of the PS Report will be discussed later in the course when we look into accountability and governance of AI systems.
@@ -62,7 +62,7 @@ On the one hand, one’s positionality—with respect to characteristics like et
 When taking positionality into account, team members should reflect on their own positionality matrix. They should ask: To what extent do my personal characteristics, group identifications, socioeconomic status, educational, training, & work background, team composition, & institutional frame represent sources of power and advantage or sources of marginalisation and disadvantage? How does this positionality influence my (and my team’s) ability to identify & understand affected stakeholders and the potential impacts of my project? Several other questions must be asked to respond to these two: How do I identify? How have I been educated and trained? What does my institutional context and team composition look like? What is my socioeconomic history? 
 
 <figure markdown>
-  ![Positionality Matrix](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/Positionality-Matrix-2.png){ align="center" }
+  ![Positionality Matrix](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/Positionality-Matrix-2.png){ align="center" }
 </figure>
 
 ## **Stakeholder Engagement Objective and Method**
@@ -79,13 +79,13 @@ To avoid such hazards of superficiality, the team should shore up its proportion
 ### Defining a Stakeholder Objective
 
 <figure markdown>
-  ![objective-methods](.https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/objective-methods.png){ align="center" }
+  ![objective-methods](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/objective-methods.png){ align="center" }
 </figure>
 
 ### Selecting a Stakeholder Engagement Method
 
 <figure markdown>
-  ![methods](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/methods.png){ align="center" }
+  ![methods](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/methods.png){ align="center" }
 </figure>
 
 The following table summarises a wide range of salient methods:

@@ -26,7 +26,7 @@ Considering context also involves taking into account the specific domain(s), ge
 
 **In summary**
 <figure markdown>
-  ![phone-peel](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/divides-1.png){ align="center" }
+  ![phone-peel](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/divides-1.png){ align="center" }
 </figure>
 
 All in all, contextual considerations should, at minimum, track three vectors: 

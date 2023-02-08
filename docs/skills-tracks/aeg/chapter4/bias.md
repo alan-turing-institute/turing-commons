@@ -1,6 +1,6 @@
 # Bias Mitigation
 <figure markdown>
-  ![bias](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/bias.png){ align="center" }
+  ![bias](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/bias.png){ align="center" }
 </figure>
 
 # Bias Self-assessment and Risk Management

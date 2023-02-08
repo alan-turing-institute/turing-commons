@@ -9,21 +9,21 @@ The SUM Values are values that support, underwrite, and motivate a responsible i
 The SUM Values encompass a range of values that are distilled in the following four (corresponding ethical concerns are indicated in the circle):
 
 <figure markdown>
-  ![values](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/sum-values1.png){ align="center" }
+  ![values](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/sum-values1.png){ align="center" }
 </figure>
 
 <figure markdown>
-  ![respect](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/respect.png){ align="center" }
+  ![respect](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/respect.png){ align="center" }
 </figure>
 
 <figure markdown>
-  ![connect](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/connect.png){ align="center" }
+  ![connect](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/connect.png){ align="center" }
 </figure>
 
 <figure markdown>
-  ![care](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/care.png){ align="center" }
+  ![care](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/care.png){ align="center" }
 </figure>
 
 <figure markdown>
-  ![protect](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/protect.png){ align="center" }
+  ![protect](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/protect.png){ align="center" }
 </figure>

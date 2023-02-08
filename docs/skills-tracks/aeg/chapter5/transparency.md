@@ -1,7 +1,7 @@
 # Transparency and Explainability
 
 <figure markdown>
-  ![phone-peel](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/phone-peel-background.png){ align="center" }
+  ![phone-peel](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/phone-peel-background.png){ align="center" }
 </figure>
 
 ## Introduction to transparency and explainability
@@ -10,7 +10,7 @@
 
 Transparency as a principle of AI ethics differs a bit in meaning from the everyday use of the term. The common dictionary understanding of transparency defines it as either 
 
-(1) the quality an object has when one can see clearly through it or 
+(1) the quality an object has when one can see clearly through it or
 
 (2) the quality of a situation or process that can be clearly justified and explained because it is open to inspection and free from secrets. 
  
@@ -42,7 +42,7 @@ it should also be made clear to the affected individual how and why a human judg
 In addition, an adequate explanantion will also need to confirm that the actual outcome of an AI decision meets criteria previously established in the design process to ensure that the AI system is being used in a fair, safe, and ethical way. An explanation to affected stakeholders should also include a demonstration that a specific decision or behaviour of the system is sustainable, safe, fair, and driven by data that has been responsibly managed. 
 
 <figure markdown>
-  ![phone-peel](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/lifecycle-stylised-alt.png){ align="center" }
+  ![phone-peel](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/lifecycle-stylised-alt.png){ align="center" }
 </figure>
 
 ## Six main types of explanations
@@ -228,7 +228,6 @@ The AI sysetem is deployed by users sufficiently trained to implement it respons
 
 - understand the limitations of the system. This includes understanding the statistical uncertainty associated with the result as well as the relevant error rates and performance metrics.
 
-
 **What information goes into fairness explanations**
 
 This explanation is about providing people with appropriately simplified and concise information on the considerations, measures and testing you carry out to make sure that your AI system is equitable and that bias has been optimally mitigated. Fairness considerations come into play through the whole lifecycle of an AI model, from inception to deployment, monitoring and review.
@@ -248,7 +247,6 @@ Outcome-based explanations include:
 - presentation of the relevant fairness metrics and performance measurements in the delivery interface of your model. This should be geared to a non-technical audience and done in an easily understandable way; and
 
 - explanations of how others similar to the individual were treated (i.e., whether they received the same decision outcome as the individual). For example, information generated from counter-factual scenarios could be used to show whether or not someone with similar characteristics, but of a different ethnicity or gender, would receive the same decision outcome as the individual.
-
 
 ### Safety and performance explanation
 
@@ -300,7 +298,6 @@ For robustness:
 
 - What the assurance process behind it is, e.g., how the system has been stress-tested to understand how it responds to adversarial intervention, implementer error, or skewed goal-execution by an automated learner (in reinforcement learning applications).
  
-
 Outcome-based explanations:
 
 While one might not be able to guarantee accuracy at an individual level, one should be able to provide assurance that, at run-time, an AI system operated reliably, securely, and robustly for a specific decision.
@@ -395,7 +392,6 @@ When selecting a model for an AI project, it is important to consider whether:
 
 To extract explanations from inherently interpretable models, look at the logic of the model’s mapping function by exploring it and its results directly.
 On the other hand, there are many techniques used to extract explanations from ‘black box’ systems. Make sure that they provide a reliable and accurate representation of the system’s behaviour.
-
 
 **Task 4 (Model Reporting): Translate the rationale of the system’s results into useable and easily understandable reasons**
  

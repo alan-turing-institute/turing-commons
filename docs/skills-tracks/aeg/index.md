@@ -8,7 +8,7 @@ hide:
 
 <div class="result" markdown>
 
-  ![Illustration by Johnny Lighthands](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/discussion.png){ align="right" width="50%" }
+  ![Illustration by Johnny Lighthands](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/discussion.png){ align="right" width="50%" }
 
   This course is designed to help you understand the fundamentals of AI Ethcis and Governance. The course begings with an introduction to metaethcis and normative theories. It then follows with the practical ways AI systems can produce diverse harms to individuals, society, and even the biosphere, as well as the values that should be upheld when thinking about AI ethics.
 

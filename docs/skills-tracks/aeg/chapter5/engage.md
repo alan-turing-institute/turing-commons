@@ -42,5 +42,5 @@ Regardless of any potential trade-offs, the establishment of clear and explicit 
 - How can we best drawn on the insights and lived experience of participants to inform and shape our project?  
 
 <figure markdown>
-  ![methods](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/methods.png){ align="center" }
+  ![methods](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/methods.png){ align="center" }
 </figure>
