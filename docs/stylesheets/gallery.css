@@ -1,0 +1,157 @@
+/*-- JG: Unnecessary on real page --*/
+.md-sidebar {
+  display: none !important;
+}
+
+.flexbox-container {
+  display: flex;
+  align-items: stretch;
+  flex-wrap: wrap;
+}
+
+.flexbox-item {
+  max-width: 100%;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.card img {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  max-height: 70vw;
+  object-fit:contain;
+}
+
+.card img.contain{
+	object-fit:contain!important;
+}
+
+.card img.cover{
+	object-fit:cover!important;
+}
+
+
+@media screen and (min-width: 600px) {
+  .flexbox-item {
+    max-width: calc(50% - 20px);
+    margin-right: 20px;
+    width: calc(50% - 20px);
+  }
+
+  .card img {
+    height: 30vw;
+    max-height: 30vw;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .flexbox-item {
+    max-width: calc(33% - 20px);
+    margin-right: 20px;
+    width: calc(33% - 20px);
+  }
+
+  .card img {
+    height: 20vw;
+    max-height: 20vw;
+  }
+}
+
+@media screen and (min-width: 1080px) {
+  .flexbox-item {
+    max-width: calc(25% - 20px);
+    margin-right: 20px;
+    width: calc(25% - 20px);
+  }
+
+  .card img {
+    height: 15vw;
+    max-height: 15vw;
+  }
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-rows: auto;
+  grid-column-gap: 20px; /* space between columns */
+  grid-row-gap: 20px; /* space between rows */
+}
+
+@media screen and (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .grid-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+.grid-item {
+  padding: 10px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  height: 100%;
+  padding-bottom: 50px;
+  position: relative;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.md-typeset h2.card-title {
+  margin: 0.2em 0 0.64em !important;
+}
+
+.card-img-top {
+  width: 100%;
+}
+
+.card-body {
+  padding: 10px;
+}
+
+.card-title {
+  font-size: 1.2em;
+}
+
+.card-text {
+  font-size: 0.8em;
+}
+
+.tags {
+  display: flex;
+  grid-template-rows: repeat(2, auto);
+  grid-row-gap: 5px;
+  flex-wrap: wrap;
+}
+.tag {
+  background-color: var(--md-primary-fg-color);
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-transform: capitalize;
+  font-size: 0.8em;
+  margin-right: 5px;
+}
+
+.copy-button-container {
+  position: absolute;
+  bottom: 20px;
+  font-size: 0.8em;
+  right: 20px;
+}
+.copy-button-container button {
+  color: var(--md-primary-fg-color);
+}

@@ -1,4 +1,5 @@
 # Project information
+INHERIT: images.yml
 site_name: Turing Commons
 site_url: https://alan-turing-institute.github.io/turing-commons/
 site_description: >-
@@ -27,12 +28,14 @@ theme:
     - content.code.annotate
     # - content.tabs.link
     # - header.autohide
-    # - navigation.expand
+    - navigation.expand
     - navigation.indexes
-    # - navigation.instant
-    - navigation.sections
+    - navigation.footer
+    - navigation.instant
+    # - navigation.sections
+    - navigation.path
     - navigation.tabs
-    # - navigation.tabs.sticky
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - search.highlight
@@ -69,12 +72,18 @@ plugins:
       post_url_date_format: YYYY/MM/dd
       post_url_format: "{slug}"
       post_readtime: true
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
   - search:
       separator: "[\\s\\-,:!=\\[\\]()\"/]+|\\.(?!\\d)|&[lg]t;|(?!\\b)(?=[A-Z][a-z])"
-  - mkdocs-jupyter
-  - bibtex:
-      bib_file: "https://api.zotero.org/groups/4441221/items?format=bibtex"
   - tags
+  # - social (disabled when running locally due to library issues)
 
 # Customization
 
@@ -126,107 +135,113 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
+  - javascripts/copyurl.js
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/gallery.css
 
 # Page tree
 nav:
   - Home: index.md
   - Welcome: welcome.md
-  - Responsible Research and Innovation:
-      - (RRI) About this Course: rri/index.md
-      - Introduction: rri/intro/index.md
-      - What is Responsible Research and Innovation:
-          - Introduction: rri/chapter1/index.md
-          - What is Responsibility: rri/chapter1/responsibility.md
-          - A Short History of RRI: rri/chapter1/history.md
-          - Science, Technology, and Society: rri/chapter1/sts.md
-          - Science and Technology Studies Timeline: rri/chapter1/timeline.md
-      - Responsible Data Science and AI:
-          - Introduction: rri/chapter2/index.md
-          - What is Responsible Data Science and AI: rri/chapter2/responsible_ds.md
-          - Introducing the Project Lifecycle: rri/chapter2/project_lifecycle.md
-          - Roles and Responsibilities: rri/chapter2/roles_responsibility.md
-          - Understanding Bias: rri/chapter2/understanding_bias.md
-      - The Project Lifecycle:
-          - Introduction: rri/chapter3/index.md
-          - Case Studies: rri/activities/case_studies.md
-          - Project Planning: rri/chapter3/project_design/planning.md
-          - Problem Formulation: rri/chapter3/project_design/problem.md
-          - Data Extraction or Procurement: rri/chapter3/project_design/data_extraction.md
-          - Data Analysis: rri/chapter3/project_design/data_analysis.ipynb
-          - Preprocessing and Feature Engineering: rri/chapter3/model_development/preprocessing.md
-          - Model Selection and Training: rri/chapter3/model_development/model_selection.md
-          - Model Testing and Validation: rri/chapter3/model_development/model_testing.md
-          - Model Reporting: rri/chapter3/model_development/model_reporting.md
-          - Model Productionalisation: rri/chapter3/system_deployment/model_productionalisation.md
-          - User Training: rri/chapter3/system_deployment/user_training.md
-          - System Use and Monitoring: rri/chapter3/system_deployment/system_use.ipynb
-          - Model Updating or Deprovisioning: rri/chapter3/system_deployment/model_updating.md
-          - Next Steps: rri/chapter3/summary.md
-      - Responsible Communication:
-          - Introduction: rri/chapter4/index.md
-          - What is Argument-Based Assurance: rri/chapter4/assurance.md
-          - Assurance and Responsible Communication: rri/chapter4/communication.md
-          - Goals, Properties, and Evidence: rri/chapter4/gpe.md
-      - Conclusion: rri/conclusion/index.md
-      - Resources:
-          - Additional Resources: rri/resources/index.md
-          - Synthetic Data Generation: rri/resources/synthetic_data_generation.ipynb
-          - Further Reading: rri/resources/further-reading.md
+  - Skills Tracks:
+      - skills-tracks/index.md
+      - Responsible Research and Innovation in Data Science and AI:
+          - skills-tracks/rri/index.md
+          - Introduction: skills-tracks/rri/intro/index.md
+          - What is Responsible Research and Innovation:
+              - Introduction: skills-tracks/rri/chapter1/index.md
+              - What is Responsibility: skills-tracks/rri/chapter1/responsibility.md
+              - A Short History of RRI: skills-tracks/rri/chapter1/history.md
+              - Science, Technology, and Society: skills-tracks/rri/chapter1/sts.md
+            #   - Science and Technology Studies Timeline: skills-tracks/rri/chapter1/timeline.md
+          - Responsible Data Science and AI:
+              - Introduction: skills-tracks/rri/chapter2/index.md
+              - What is Responsible Data Science and AI: skills-tracks/rri/chapter2/responsible_ds.md
+              - Introducing the Project Lifecycle: skills-tracks/rri/chapter2/project_lifecycle.md
+              - Roles and Responsibilities: skills-tracks/rri/chapter2/roles_responsibility.md
+              - Understanding Bias: skills-tracks/rri/chapter2/understanding_bias.md
+          - The Project Lifecycle:
+              - Introduction: skills-tracks/rri/chapter3/index.md
+              - Case Studies: skills-tracks/rri/activities/case_studies.md
+              - Project Planning: skills-tracks/rri/chapter3/project_design/planning.md
+              - Problem Formulation: skills-tracks/rri/chapter3/project_design/problem.md
+              - Data Extraction or Procurement: skills-tracks/rri/chapter3/project_design/data_extraction.md
+              - Data Analysis: skills-tracks/rri/chapter3/project_design/data_analysis.md
+              - Preprocessing and Feature Engineering: skills-tracks/rri/chapter3/model_development/preprocessing.md
+              - Model Selection and Training: skills-tracks/rri/chapter3/model_development/model_selection.md
+              - Model Testing and Validation: skills-tracks/rri/chapter3/model_development/model_testing.md
+              - Model Reporting: skills-tracks/rri/chapter3/model_development/model_reporting.md
+              - Model Productionalisation: skills-tracks/rri/chapter3/system_deployment/model_productionalisation.md
+              - User Training: skills-tracks/rri/chapter3/system_deployment/user_training.md
+              - System Use and Monitoring: skills-tracks/rri/chapter3/system_deployment/system_use.md
+              - Model Updating or Deprovisioning: skills-tracks/rri/chapter3/system_deployment/model_updating.md
+              - Next Steps: skills-tracks/rri/chapter3/summary.md
+          - Responsible Communication:
+              - Introduction: skills-tracks/rri/chapter4/index.md
+              - What is Argument-Based Assurance: skills-tracks/rri/chapter4/assurance.md
+              - Assurance and Responsible Communication: skills-tracks/rri/chapter4/communication.md
+              - Goals, Properties, and Evidence: skills-tracks/rri/chapter4/gpe.md
+          - Conclusion: skills-tracks/rri/conclusion/index.md
+      - Public Engagement in Data Science and AI:
+          - skills-tracks/ped/index.md
+          - What is Public Engagement?:
+              - Introduction: skills-tracks/ped/chapter1/index.md
+              - Climbing the Ladder: skills-tracks/ped/chapter1/ladder.md
+              - Goals of Public Engagement: skills-tracks/ped/chapter1/goals.md
+          - The Value(s) of Public Engagement:
+              - Introduction: skills-tracks/ped/chapter2/index.md
+              - Deliberative Values: skills-tracks/ped/chapter2/deliberation.md
+              - Responsible Public Engagement: skills-tracks/ped/chapter2/responsible.md
+          - Facilitating Public Engagement:
+              - Introduction: skills-tracks/ped/chapter3/index.md
+              - When should you engage: skills-tracks/ped/chapter3/when.md
+              - How should you engage: skills-tracks/ped/chapter3/how.md
+          - Practical Guidance:
+              - Introduction: skills-tracks/ped/chapter4/index.md
+              - Storytelling with Data: skills-tracks/ped/chapter4/storytelling.md
+              - Communicating Uncertainty: skills-tracks/ped/chapter4/uncertainty.md
+              - Visualising Uncertainty: skills-tracks/ped/chapter4/uncertainty-example.md
+          - Public Trust and Assurance:
+              - Introduction: skills-tracks/ped/chapter5/index.md
+              - Public Trust in Science and Technology: skills-tracks/ped/chapter5/trust.md
+      - AI Ethics and Governance:
+          - skills-tracks/aeg/index.md
+          - Practical Ethics:
+              - Introduction: skills-tracks/aeg/chapter1/index.md
+              - Introduction to Metaethics: skills-tracks/aeg/chapter1/metaethics.md
+              - Introduction to Normative Theories: skills-tracks/aeg/chapter1/normative.md
+          - AI Harms and Values:
+              - Introduction: skills-tracks/aeg/chapter2/index.md
+              - AI Harms: skills-tracks/aeg/chapter2/harms.md
+              - AI Values: skills-tracks/aeg/chapter2/values.md
+          - AI Sustainability:
+              - Introduction: skills-tracks/aeg/chapter3/index.md
+              - Stakeholder Engagement Process: skills-tracks/aeg/chapter3/engagement.md
+              - Stakeholder Impact Assessment: skills-tracks/aeg/chapter3/impact.md
+          - Fairness & Bias Mitigation, Accountability, and Governance:
+              - Introduction: skills-tracks/aeg/chapter4/index.md
+              - Introduction to Fairness: skills-tracks/aeg/chapter4/fairness.md
+              - AI Fairness: skills-tracks/aeg/chapter4/aifairness.md
+              - Bias Mitigation: skills-tracks/aeg/chapter4/bias.md
+              - Accountability: skills-tracks/aeg/chapter4/accountability.md
+              - AI Governance: skills-tracks/aeg/chapter4/governance.md
+          - Transparency, Explainability, and CARE and ACT Principles:
+              - Introduction: skills-tracks/aeg/chapter5/index.md
+              - Transparency & Explainability: skills-tracks/aeg/chapter5/transparency.md
+              - Consider Context: skills-tracks/aeg/chapter5/consider.md
+              - Anticipate Impacts: skills-tracks/aeg/chapter5/anticipate.md
+              - Reflect on Purpose, Positionality, and Power: skills-tracks/aeg/chapter5/reflect.md
+              - Engage Inclusively: skills-tracks/aeg/chapter5/engage.md
+              - Act Responsibly: skills-tracks/aeg/chapter5/act.md
 
-  - Public Engagement of Data Science and AI:
-      - (PED) About this Course: ped/index.md
-      - What is Public Engagement?:
-          - Introduction: ped/chapter1/index.md
-          - Climbing the Ladder: ped/chapter1/ladder.md
-          - Goals of Public Engagement: ped/chapter1/goals.md
-      - The Value(s) of Public Engagement:
-          - Introduction: ped/chapter2/index.md
-          - Deliberative Values: ped/chapter2/deliberation.md
-          - Responsible Public Engagement: ped/chapter2/responsible.md
-      - Facilitating Public Engagement:
-          - Introduction: ped/chapter3/index.md
-          - When should you engage: ped/chapter3/when.md
-          - How should you engage: ped/chapter3/how.md
-      - Practical Guidance:
-          - Introduction: ped/chapter4/index.md
-          - Storytelling with Data: ped/chapter4/storytelling.md
-          - Communicating Uncertainty: ped/chapter4/uncertainty.md
-          - Visualising Uncertainty: ped/chapter4/uncertainty_example.ipynb
-      - Public Trust and Assurance:
-          - Introduction: ped/chapter5/index.md
-          - Public Trust in Science and Technology: ped/chapter5/trust.md
+  - Resources:
+      - resources/index.md
+      - Gallery: resources/gallery.md
+      - Bibliographies: resources/bibliographies.md
+      - Case Studies: resources/case-studies.md
+      - Activities: resources/activities.md
 
-  - AI Ethics and Governance:
-      - (AEG) About this course: aeg/index.md
-      - Practical Ethics:
-          - Introduction: aeg/chapter1/index.md
-          - Introduction to Metaethics: aeg/chapter1/metaethics.md
-          - Introduction to Normative Theories: aeg/chapter1/normative.md
-      - AI Harms and Values:
-          - Introduction: aeg/chapter2/index.md
-          - AI Harms: aeg/chapter2/harms.md
-          - AI Values: aeg/chapter2/values.md
-      - AI Sustainability:
-          - Introduction: aeg/chapter3/index.md
-          - Stakeholder Engagement Process: aeg/chapter3/engagement.md
-          - Stakeholder Impact Assessment: aeg/chapter3/impact.md
-      - Fairness & Bias Mitigation, Accountability, and Governance:
-          - Introduction: aeg/chapter4/index.md
-          - Introduction to Fairness: aeg/chapter4/fairness.md
-          - AI Fairness: aeg/chapter4/aifairness.md
-          - Bias Mitigation: aeg/chapter4/bias.md
-          - Accountability: aeg/chapter4/accountability.md
-          - AI Governance: aeg/chapter4/governance.md
-      - Transparency, Explainability and CARE & ACT Principles:
-          - Introduction: aeg/chapter5/index.md
-          - Transparency & Explainability: aeg/chapter5/transparency.md
-          - Consider Context: aeg/chapter5/consider.md
-          - Anticipate Impacts: aeg/chapter5/anticipate.md
-          - Reflect on Purpose, Positionality, and Power: aeg/chapter5/reflect.md
-          - Engage Inclusively: aeg/chapter5/engage.md
-          - Act Responsibly: aeg/chapter5/act.md
   - Blog:
       - blog/index.md
