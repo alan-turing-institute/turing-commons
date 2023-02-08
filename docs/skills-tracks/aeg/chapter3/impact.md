@@ -4,7 +4,6 @@ Designers and users of AI systems should remain aware that these technologies ma
 
 The SUM values form the basis of the SIA. They are intended as a launching point for open and inclusive conversations about the individual and societal impacts of data science research and AI innovation projects rather than to provide a comprehensive inventory of moral concerns and solutions. At the very outset of any project, these should provide the normative point of departure for collaborative and anticipatory reflection, while, at the same time, allowing for the respectful and interculturally sensitive inclusion of other points of view.
 
-
 !!! example "Objectives of a SIA"
 
         The purpose of carrying out a SIA is multidimensional. SIAs can serve several purposes, some of which include:
@@ -47,7 +46,7 @@ There are three critical points in the AI project lifecycle at which the project
 ## Skills for Conducting SIA's
 
 <figure markdown>
-  ![stakeholder](../../assets/images/illustrations/stakeholder-engagement.jpg){ align="center" }
+  ![stakeholder](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/stakeholder-engagement.jpg){ align="center" }
 </figure>
 
 ### Weighing the values and considering trade-offs
@@ -59,6 +58,7 @@ For instance, there may be circumstances where the use of an AI system could opt
 This issue of adjudicating between conflicting values has long been a crucial and thorny dimension of collective life, and the problem of discovering reasonable ways to overcome the disagreements that arise as a result of the plurality of human values has occupied thinkers for just as long. Nonetheless, over the course of the development of modern democratic and plural societies, several useful approaches to managing the tension between conflicting values have emerged.
 
 ### Consequences-based and principles-based approaches to balancing values
+
 Let's go back to some concepts introduced in chapter 1 that will be useful when trying to balance the tension between values: consequences-based moral thinking or consequentialism and principles-based moral thinking or deontology. These can be seen as procedural tools for thinking through a given dilemma in weighing values.
 
 As a quick reminder, a consequence-based approach asks that, in judging the moral correctness of an action, one prioritise considerations of the goodness produced by an outcome. In other words, because what matters most is the consequences of ones actions, the goodness of these consequences should be maximised. Standards of right and wrong (indicators of what one ought to do) are determined, on this view, by whether the action taken maximises overall goodness of the consequences rather than by the principles or standards one applies when acting.
@@ -86,7 +86,7 @@ The most general approach is to encourage mutually respectful, sincere, and well
 Whether or not this ends up being the case in each conversational context, the importance of cultivating a culture of innovation, which encourages reciprocally respectful, open, non-coercive, and mutually accountable communication must be stressed. The success of the modern sciences (which have been built on the dynamic foundations of inclusive, rational, and democratic communication) is perhaps evidence enough to support the validity of this emphasis.
 
 <figure markdown>
-  ![grice-matrix](../../assets/images/graphics/grice-maxim.png){ align="center" }
+  ![grice-matrix](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/grice-maxim.png){ align="center" }
 </figure>
 
 

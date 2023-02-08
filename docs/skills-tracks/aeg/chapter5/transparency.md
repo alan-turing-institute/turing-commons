@@ -1,7 +1,7 @@
 # Transparency and Explainability
 
 <figure markdown>
-  ![phone-peel](../../assets/images/illustrations/phone-peel-background.png){ align="center" }
+  ![phone-peel](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/phone-peel-background.png){ align="center" }
 </figure>
 
 ## Introduction to transparency and explainability
@@ -42,9 +42,8 @@ it should also be made clear to the affected individual how and why a human judg
 In addition, an adequate explanantion will also need to confirm that the actual outcome of an AI decision meets criteria previously established in the design process to ensure that the AI system is being used in a fair, safe, and ethical way. An explanation to affected stakeholders should also include a demonstration that a specific decision or behaviour of the system is sustainable, safe, fair, and driven by data that has been responsibly managed. 
 
 <figure markdown>
-  ![phone-peel](../../assets/images/illustrations/lifecycle-stylised-alt.png){ align="center" }
+  ![phone-peel](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/lifecycle-stylised-alt.png){ align="center" }
 </figure>
-
 
 ## Six main types of explanations
 
@@ -179,7 +178,6 @@ It also gives people an understanding of whether or not they have been treated e
 What does this type of explanation include?
  
 An explanation of fairness can relate to several stages of the design, development and deployment of AI systems:
-
  
 A) Data fairness: 
 The system is trained and tested on properly representative, relevant, accurately measured, and generalisable datasets (note that this dataset fairness component will overlap with data explanation). 
@@ -348,8 +346,6 @@ Although impact explanations are mainly about demonstrating that appropriate for
     - Task 5: (User Training) Prepare implementers to deploy the AI system
     - Task 6 (Model Reporting): Consider how to build and present an explanation
 
-
-
 There are a number of tasks both to help in the design and deployment of appropriately transparent and explainable AI systems and to assist in providing clarification of the results these systems produce to a range of impacted stakeholders (from operators, implementers, and auditors to decision recipients).
 These tasks make up Transparency and Explainability Assurance Management for AI projects, offering a systematic approach to:
 
@@ -380,7 +376,6 @@ Drawing from the dataset factsheet can aid in providing data explanations, inclu
 - steps taken to address quality issues, such as completing or removing data
 
 Check the data used within the model to ensure it is sufficiently representative of those it is making decisions about. Another issue to consider is whether pre-processing techniques, such as re-weighting, are required.  These decisions should be documented in the Bias Self-Assessments, and will help construct the fairness explanation.
-
 
 **Task 3 (Model Selection): Build a system that is able to extract relevant information for a range of explanation types**
 

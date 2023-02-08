@@ -1,6 +1,6 @@
 # Act transparently and responsibly
 <figure markdown>
-  ![data-maze](../../assets/images/illustrations/assurance-case-large.png){ align="center" }
+  ![data-maze](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/assurance-case-large.png){ align="center" }
 </figure>
 
 
@@ -31,5 +31,3 @@ While the mechanisms and procedures which are put in place to ensure that these 
 - **An end-to-end process for bias self-assessment.**
 
     This should cover all research stages as well as all sources of biases that could arise in the data, in the data collection, in the data pre-processing, in the organising, categorising, describing, annotating, structuring of data (text-as-data, in particular), and in research design and execution choices.
-
-    

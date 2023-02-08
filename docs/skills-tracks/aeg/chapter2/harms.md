@@ -34,7 +34,7 @@ It is drawing on these points of departure that we now turn to AI and data scien
 
 ## 1. Loss of autonomy, interpersonal connection, and empathy
 
-Automated AI systems with the power to make decisions about people can have potentially dehumanising consequences for those subject to them.  Obviously, not all automated decisions are created equal. It is one thing if an automated system decides whether an email should be classified as spam or not, and quite another if an AI is in charge of allocating scarce social services, or deciding who gets hired for a job. 
+Automated AI systems with the power to make decisions about people can have potentially dehumanising consequences for those subject to them.  Obviously, not all automated decisions are created equal. It is one thing if an automated system decides whether an email should be classified as spam or not, and quite another if an AI is in charge of allocating scarce social services, or deciding who gets hired for a job.
 
 Individuals may feel disempowered in the face of unstoppable automation, especially when these decisions are relevant to their sense of personal autonomy. This feeling can be compounded as well if there are few or no avenues in place to dispute or contest the automated decision.
 
@@ -45,13 +45,12 @@ For example, if AI is used to make or assist in making decision which impact peo
 ## 2. Poor qualities and dangerous outcomes
 
 <figure markdown>
-  ![unbalanced-classes](../../assets/images/illustrations/imbalanced-classes.png){ align="center" }
+  ![unbalanced-classes](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/imbalanced-classes.png)
 </figure>
 
-Algorithmic models are only as good as the data on which they are trained, tested, and validated (commnonly called ‘Garbage in, garbage out’). Inaccuracies, measurement errors, and sampling biases across data collection and recording can taint datasets. Using poor quality data could have grave consequence for individual wellbeing and the public welfare.    
+Algorithmic models are only as good as the data on which they are trained, tested, and validated (commonly called ‘Garbage in, garbage out’). Inaccuracies, measurement errors, and sampling biases across data collection and recording can taint datasets. Using poor quality data could have grave consequence for individual well-being and the public welfare.
 
 This problem exist wherever datasets are used. The question of the quality of a dataset obviously comes in degrees, and it can be more or less dangerous depending on the context in which the data is used. It can also stem from multiple sources. Some can be honest mistakes, like typos or missing data points, while others derive from more profound problems, such as the structural biases that our society has which are then replicated in the datasets. But the main insight remains: as long as the data used for a model is not appropriate and does not accurately represent the underlying phenomenon it is studying, the outcomes of said AI model will not be accurate either.
-
 
 ## 3. Bias, injustice, and discrimination
 
@@ -65,17 +64,13 @@ Examples of this kind of harm come from different sectors of society. A 2019 pap
 
 Another famous example is Amazon's hiring algorithm which turned out to be biased against women. In an attempt to automate their hiring practices, Amazon developed an experimental hiring tool which used artificial intelligence to give job candidates scores ranging from one to five stars.[@martin2022] The algorithm quickly taught itself to discriminate against women candidates, penalising resumes which included the word women, (in 'women's chess club' for instance), as well as downgrading resumes which came from all-women colleges (ibid). Although the algorithm is not used by the company, (it was actually taken down precisely because of concerns about its sexism[@dastinjeffrey]), it serves as a powerful example of how AI can perpetuate and amplify historical biases (such as learning from the fact that traditionally Amazon has not hired many women, and extrapolating that to mean that women are not good employees).
 
-<figure markdown>
-  ![discrimination](../../assets/images/illustrations/discrimination.png){ align="center" }
-</figure>
+![discrimination](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/discrimination.png)
 
 ## 4. Widening global digital divides
 
-<figure markdown>
-  ![divides](../../assets/images/illustrations/divides-1.png){ align="center" }
-</figure>
+![divides](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/divides-1.png)
 
-The use of AI systems is not distributed uniformally across different countries, or even within regions in the same country. The varying levels of access and use of these technologies can reinforce and amplify already existing digital divides and data inequities. It can also exacerbate exploitative data appropriation from less rich countries and institutions to more well-resourced researchers and companies in richer countries or in better-funded universities within one country. 
+The use of AI systems is not distributed uniformly across different countries, or even within regions in the same country. The varying levels of access and use of these technologies can reinforce and amplify already existing digital divides and data inequities. It can also exacerbate exploitative data appropriation from less rich countries and institutions to more well-resourced researchers and companies in richer countries or in better-funded universities within one country. 
 
 Long-standing dynamics of global inequality, for instance, may undermine reciprocal sharing between research collaborators from high-income countries (HICs) and those from low-/middle-income countries (LMICs).[@leslie2020a] Given asymmetries in resources, infrastructure, and research capabilities, data sharing between LMICs and HICs, and transnational research collaboration, can lead to inequity and exploitation.[@bezuidenhout2017]-[@leonelli2021]-[@shrum2005] That is, data originators from LMICs may put immense amounts of effort and time into developing useful datasets (and openly share them) only to have their countries excluded from the benefits derived by researchers from HICs who have capitalised on such data in virtue of greater access to digital resources and compute infrastructure.[@worldhealthorganization2022] 
 
@@ -85,27 +80,21 @@ These gaps in research resources and capabilities go beyond gaps between HIC's a
 
 Another example comes from what is called "parachute research": researchers from the Global North conduct research in the Global South and then go back to their home countries with the data, without necessary regarding the interests of the researchers or data subjects the data was taken from. In a systematic review that examined African authorship proportions in the biomedical literature published between 1980 – 2016 where research was originally done in Africa, scholars found that African researchers are significantly under-represented in the global health community, even when the data originates from Africa.[@mbaye2019]
 
-
-
-
 ## 5. Breaches in data integrity, privacy, and security
 
-The ways we measure, collect, use, and store data points can lead to a multplicity of harms to individuals. However, individual harms can also expand and bleed into wider society. Issues can arise by data points being appropriately and fairly measured, as well as with acquiring data sets with informed consent from the data subjects. 
+The ways we measure, collect, use, and store data points can lead to a multiplicity of harms to individuals. However, individual harms can also expand and bleed into wider society. Issues can arise by data points being appropriately and fairly measured, as well as with acquiring data sets with informed consent from the data subjects.
 
-Once the data is collected, harms may arise in terms of how the data is used. In these cases the notion of contextual privacy[@nissenbaum2009] can be very enlighting. The idea is that a data point (or a piece of information more generally) is not public or private per se, but instead it depends on the context and purpose for which it is being used. For example, one may consent to a fitness tracker collecting one's data for personal purposes, but one has not then automatically consented to the company using the data in other ways (for example, sell it to health insurance companies).  This problem is compounded by the fact that users either have no information that this is being done, and even when they do, as mentioned in (1), they often have few or no avenues to contest these practices.[^GDPR]
+Once the data is collected, harms may arise in terms of how the data is used. In these cases the notion of contextual privacy[@nissenbaum2009] can be very enlightening. The idea is that a data point (or a piece of information more generally) is not public or private per se, but instead it depends on the context and purpose for which it is being used. For example, one may consent to a fitness tracker collecting one's data for personal purposes, but one has not then automatically consented to the company using the data in other ways (for example, sell it to health insurance companies).  This problem is compounded by the fact that users either have no information that this is being done, and even when they do, as mentioned in (1), they often have few or no avenues to contest these practices.[^GDPR]
 [^GDPR]: The European Union's General Data Protection Regulation (GDPR) is probably the most advanced online privacy regulation and attempts to give consumers a lot more control over who can access their data and how it can be used.
 
 Additionally, many potential harms can occur in the way information is stored in the medium and long run where security considerations are not always at the forefront of data managers.
 
-<figure markdown>
-  ![security](../../assets/images/illustrations/data-security.png){ align="center" }
-</figure>
-
+![security](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/data-security.png)
 
 ## 6. Biospheric harms
 
 A final kind of AI harm is not done to people directly, but to the environment we all live in. The explosion of computing power (which has partly driven the “big data revolution”) has had significant environmental cost. Algorithms require data, and as they become more complex, they require increasing amounts of data and computation, which translates into increasing levels of energy consumption. For example, training Google's large language model BERT produces emissions equivalent to one transatlantic flight.[@strubell2019]
 
-Many of these models ingest abundant amounts of data for training. As models increase in size and complexity they need more training data, but this does not necessarily lead to an equally large increase in model accuracy. Quite the contrary. In many cases, the gains in accuracy are only modest. For example, between 2013 and 2019 the amount of compute needed to train complex algorithmic models has increased 300,000 times. This results in energy expenditures (from increases in training the model) doubling every six months. As a result, a significant amount of costly resources are used, even when the benefits of improvements in the model are small at best. Additionally, the costs of these resources are burdened upon everyone on the planet (in the form of negative externalities), while the modest gain in model performace is most likely accrued to the propietary owner(s) of the model. 
+Many of these models ingest abundant amounts of data for training. As models increase in size and complexity they need more training data, but this does not necessarily lead to an equally large increase in model accuracy. Quite the contrary. In many cases, the gains in accuracy are only modest. For example, between 2013 and 2019 the amount of compute needed to train complex algorithmic models has increased 300,000 times. This results in energy expenditures (from increases in training the model) doubling every six months. As a result, a significant amount of costly resources are used, even when the benefits of improvements in the model are small at best. Additionally, the costs of these resources are burdened upon everyone on the planet (in the form of negative externalities), while the modest gain in model performance is most likely accrued to the proprietary owner(s) of the model. 
 
 These models contribute to emissions which are partly responsible of biospheric harm and climate change. Additionally, the benefits and risks of the use of data-intensive models is not uniformly distributed among the population or among the world’s regions.  If anything, the allocations of benefit and risk have closely tracked the existing patterns of environmental racism, coloniality, and “slow violence”[@nixon2013] that have typified the disproportionate exposure of marginalised communities (especially those who inhabit what has conventionally been referred to as “the Global South”) to the pollution and destruction of local ecosystems and to involuntary displacement.

@@ -1,9 +1,10 @@
 # Bias Mitigation
 <figure markdown>
-  ![bias](../../assets/images/illustrations/bias.png){ align="center" }
+  ![bias](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/bias.png){ align="center" }
 </figure>
 
 # Bias Self-assessment and Risk Management
+
 By pinpointing risks of bias or downstream discriminations, project teams can streamline possible solutions in a proactive, pre-emptive, and anticipatory way. This is what fairness-aware design and implementation will enable the team to do.
 
 At each stage of the AI project lifecycle, a collaborative Bias Self-assessment should be carried out with regard to the applicable dimension of fairness. This self-assessment consists of three steps:
@@ -21,6 +22,7 @@ Determine and document bias risk mitigation actions that will be implemented to 
 The Fairness Self-Assessment and Risk Mitigation template will help you go through this process. It locates a set of social, statistical, and cognitive biases within specific steps of an AI project lifecycle. These biases require ongoing reflection and deliberation to minimise the possible negative impact upon downstream activities or the risk of discriminatory outcomes.
 
 ## List of Biases[^health]
+
 [^health]: Some of the biases in this list are specific to health care systems, bust most are widely applicable. They are taken from CITE.
 <!-- ### Bias categories -->
 
@@ -35,6 +37,7 @@ The Fairness Self-Assessment and Risk Mitigation template will help you go throu
 
 <!-- ## Social Bias -->
 ### World biases
+
 **Historical bias:** Historical bias concerns pre-existing societal patterns of discrimination and social injustice—and the prejudices and discriminatory attitudes that correspond to such patterns. These patterns, prejudices, and attitudes can be drawn into every stage of the AI innovation lifecycle and be perpetuated, reinforced, or exacerbated through inequitable innovation ecosystem dynamics and the pursuit of biased application choices and research agendas. They can also arise in AI innovation contexts when historical patterns of inequity or discrimination are inadvertently or unintentionally reproduced, or even augmented, in the development and use of an AI system—even when the system is functioning to a high standard of accuracy and reliability.[@mehrabi2019]-[@suresh2019] For instance, even with scientifically sound sampling and feature selection, a project will exhibit historical bias where it perpetuates (or exacerbates) socioeconomic inequalities through the outcomes it generates.
 <!-- (Mehrabi et al., 2019; Suresh & Guttag, 2019). -->
 
@@ -75,6 +78,7 @@ The Fairness Self-Assessment and Risk Mitigation template will help you go throu
 **Measurement quality bias:** Measurement quality bias arises when under-resourced clinical environments lack the personnel, expertise, training capacity, and digital maturity to consistently collect high quality & complete data. They can also occur during deployment when measurement tools & devices are designed for dominant groups and consequently mismeasure minoritised, disadvantaged, or underserved groups.
 
 ### Design, development, and deployment biases
+
 **Hardware bias:** Hardware bias arises where physically instantiated algorithmic systems or measurement devices are not designed to consider the diverse physiological needs of minoritised, marginalised, disadvantaged, or other non-majority stakeholders. When deployed, such systems will therefore perform less effectively for members of these groups due to their design.
 
 **Annotation bias:** Annotation bias occurs when annotators incorporate their subjective perceptions into their annotations.[@chen2021]-[kuwatly2020] Data is often annotated by trained expert annotators or crowdsourced annotators. In its simplest form, annotators can choose an inaccurate label due to fatigue or lack of focus[@hovy2021] but annotation bias can also result from positionality limitations that derive from demographic features, such as age, education, or first language,[kuwatly2020] and other systemic cultural or societal biases that influence annotators.[@chen2021] For instance, annotators may label differently facial expressions of different ethnic, age, or gender groups,[@chen2021] have different levels of familiarity with communication norms,[@hovy2021] or different understandings of what should be annotated as harmful content.[@rottger2022] When the role of annotator subjectivity is unacknowledged or annotators are not specifically trained to mitigate biases, there are greater chances that the model will incorporate annotation biases and be unfair.[@chen2021]-[@rottger2022]
@@ -131,8 +135,8 @@ The Fairness Self-Assessment and Risk Mitigation template will help you go throu
 
 **Status quo bias:** An affectively motivated preference for “the way things are currently”, which can prevent more innovative or effective processes or services being implemented. This bias is most acutely felt during the transition between projects, such as the choice to deprovision a system and begin a new project, in spite of deteriorating performance from the existing solution. Although this bias is often treated as a cognitive bias, we highlight it here as a social bias to draw attention to the broader social or institutional factors that in part determine the status quo.
 
-
 ### Ecosystem biases
+
 **Ecosystem bias:** Ecosystem bias occurs when economic, legal, cultural, and political structures or institutions—and the policies, norms, and procedures through which these structures and institution influence human action—steer AI research and innovation agendas in ways that generate inequitable outcomes for minoritised, marginalised, vulnerable, historically discriminated against, or disadvantaged social groups.[@schwartz] Ecosystem biases, which exist in the wider social system wherein AI technologies are designed and used, may originate in and further entrench asymmetrical power structures, unfair market dynamics, and skewed research funding schemes that favour or bring disproportionate benefit to those in the majority, or those who wield disproportionate power in society, at the cost of those who are disparately impacted by the discriminatory outcomes of the design, development, and use of AI technologies.
 <!-- (Schwartz et al., 2022) -->
 
@@ -172,7 +176,8 @@ The Fairness Self-Assessment and Risk Mitigation template will help you go throu
 **Biases of rhetoric or spin:** Biases of rhetoric or spin occur during the communication of research or development (e.g. model performance) and refer to the use of unjustified or illegitimate forms of persuasive language that lacks meaningful content or substantive evidence.[@heneghan2017] These biases relate to overemphasis of the performance or efficacy of a technique or intervention (e.g. showing comparative preference for the favoured technique to the detriment of alternatives).
 <!-- (Heneghan et al., 2017) -->
 
-### Cognition biases
+### Cognitive biases
+
 **Status quo bias:** Status quo bias is an affectively motivated preference for “the way things are currently”, which can prevent more innovative or effective processes or services being implemented. This bias is most acutely felt during the transition period between projects, such as the choice not to deprovision a system and begin a new project, despite deteriorating performance from the existing solution. Although this bias is often treated as a cognitive bias, we also highlight it here as a social bias to draw attention to the broader social or institutional factors that in part determine the status quo.
 
 **Confirmation bias:** Confirmation bias arises from the tendency to search for, gather, or use information that confirms pre-existing ideas and beliefs, and to dismiss or downplay the significance of information that disconfirms one’s favoured hypothesis. This can be the result of motivated reasoning or sub-conscious attitudes, which in turn may lead to prejudicial judgements that are not based on reasoned evidence. For example, confirmation biases could surface in the judgment of the user of an AI decision-support application, who believes in following common sense intuitions acquired through professional experience rather than the outputs of an algorithmic model and, for this reason, dismisses its recommendations regardless of their rational persuasiveness or veracity.
@@ -182,22 +187,6 @@ The Fairness Self-Assessment and Risk Mitigation template will help you go throu
 **Availability bias:** The tendency to make judgements or decisions based on the information that is most readily available (e.g. more easily recalled). When this information is recalled on multiple occasions, the bias can be reinforced through repetition—known as a 'cascade'. This bias can cause issues for project teams throughout the project lifecycle where decisions are influenced by available or oft-repeated information (e.g. hypothesis testing during data analysis).
 
 **Naïve realism:** A disposition to perceive the world in objective terms that can inhibit recognition of socially constructed categories. For instance, treating ‘employability’ something that is objectively measurable and, therefore, able to be predicted by a machine learning algorithm based on objective factors (e.g. exam grades, educational attainment).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- Bias Self-Reflection and Risk Mitigation Across the Workflow -->
 

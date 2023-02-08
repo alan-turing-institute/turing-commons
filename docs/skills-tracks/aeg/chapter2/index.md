@@ -1,7 +1,7 @@
 # AI Harms and Values
 
 <figure markdown>
-  ![Illustration by Johnny Lighthands](../../assets/images/illustrations/bias.png){ align="center" }
+  ![Illustration by Johnny Lighthands](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/bias.png){ align="center" }
   <figcaption>Illustration by [Johnny Lighthands](https://www.johnnylighthands.co.uk))</figcaption>
 </figure>
 
@@ -9,7 +9,6 @@
 
 - [AI Harms](harms.md)
 - [AI Values](values.md)
-
 
 !!! abstract "Chapter Summary"
 
@@ -22,5 +21,3 @@
     
     - Familiarise yourself with the different kinds of harms AI systems can create, as well as understand the level of harm they pose (individual, social, planetary).
     - Look at the SUM Values and how they relate to AI ethics.
-
-

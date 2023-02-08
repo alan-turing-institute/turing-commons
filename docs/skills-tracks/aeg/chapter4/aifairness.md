@@ -70,7 +70,7 @@ Beyond this priority of assuring the equity and ethical permissibility of policy
 ## Model design and development fairness
 
 <figure markdown>
-  ![pj](../../assets/images/graphics/project-lifecycle.png){ align="center" }
+  ![pj](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/project-lifecycle.png){ align="center" }
 </figure>
 
 
@@ -209,5 +209,3 @@ The AI project lifecycle does not exist in isolation from, or independent of, th
 Ecosystem-level inequities can occur across a wide range of AI research and innovation contexts. For instance, when AI-enabled health interventions such as mobile-phone-based symptom checker apps or remote AI-assisted medical triaging or monitoring are designed without regard for the barriers to access faced by protected, vulnerable, or disadvantaged groups, they will disproportionately benefit users from other, more advantaged groups. Likewise, where funding of the development of AI technologies, which significantly affect the public interest, is concentrated in the hands of firms or vendors who singly pursue commercial or financial gain, this may result in exclusionary research and innovation environments, AI systems that are built without due regard for broad fairness and equity impacts, and limitations on the development and deployment of wide-scale, publicly beneficial technology infrastructure. Moreover, widespread structural and institutional barriers to diversity and inclusion can create homogeneity on AI project teams (and among organisational policy owners) that has consequential fairness impacts on application decisions, resource allocation choices, and system deployment strategies.  
 
 The concept of ecosystem fairness highlights the importance of mitigating the range of inequity-generating path dependencies that originate at the ecosystem level and that are often neglected by or omitted from analyses of AI project lifecycles. Ecosystem fairness therefore focuses both on rectifying the social structures and institutions that engender indirect discrimination and on addressing the structural and institutional changes needed for the corrective modification of social patterns that engender discriminatory impacts and socio-economic disadvantage. In this way, ecosystem fairness involves the transformation of unjust economic, legal, cultural, and political structures or institutions with the aim of the universal realisation of equitable social arrangements.
-
-

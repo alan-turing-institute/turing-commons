@@ -1,8 +1,7 @@
 # Anticipate impacts
 <figure markdown>
-  ![deliberation](../../assets/images/illustrations/deliberation.png){ align="center" }
+  ![deliberation](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/deliberation.png){ align="center" }
 </figure>
-
 
 Anticipating impacts of an AI system involves reflecting on and assessing the potential short-term and long-term effects the system may have on impacted individuals and on affected communities and social groups, more broadly. 
 
@@ -35,15 +34,13 @@ Methodical impact evaluation should involve an initial adoption of normative cri
         - Democracy
         - Rule of law
 
-
 - How could our research and its outputs advance each of these twelve principles and priorities or hinder their realisation?
 
 - Are there particular stakeholder groups who could disproportionately enjoy the benefits of the research and its outputs, or suffer from the potential harms they generate, as these harms and benefits relate to each of the twelve principles and priorities?
 
 - If things go wrong in our research or if its outputs (especially tools produced or capacities enabled) are used out-of-the-scope of their intended purpose and function, what harms could be done to stakeholders in relation to each of the twelve principles and priorities?
 
-
-It is important to note here that stakeholder involvement in the mpact assessment process can be a critical safeguard against evaluative blind spots and omissions. 
+It is important to note here that stakeholder involvement in the impact assessment process can be a critical safeguard against evaluative blind spots and omissions. 
 
 Methodical impact evaluation should also involve an assessment of the severity of potential adverse impacts. This brings clarity to the prioritisation of impact mitigation actions by allowing the severity levels of potential negative effects to be differentiated, elucidated, and refined. As explained in the United Nations Guiding Principles on Business and Human Rights (UNGP), assessing the severity of potential negative impacts on fundamental rights and freedoms involves consideration of their scale, scope, and remediability, where scale is defined as “the gravity or seriousness of the impact,” scope as “how widespread the impact is, or the numbers of people impacted,” and remediability, as the “ability to restore those affected to a situation at least the same as, or equivalent to, their situation before the impact” (UNGP, 2011, Principle 14).  
 

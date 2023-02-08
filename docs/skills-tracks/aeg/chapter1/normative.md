@@ -43,7 +43,7 @@ From a biocentric perspective, moral actions are those that preserve the flouris
 For the purposes of the rest of the course we will focus mostly on the first two families of theories.
 
 <figure markdown>
-  ![normative-theories](../../assets/images/illustrations/principles-consequences.png){ align="center" }
+  ![normative-theories](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/principles-consequences.png){ align="center" }
 </figure>
 
 !!! example

@@ -1,10 +1,10 @@
 # Consider context
 
 <figure markdown>
-  ![phone-peel](../../assets/images/illustrations/lifecycle.png){ align="center" }
+  ![phone-peel](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/lifecycle.png){ align="center" }
 </figure>
 
-No AI system exists in a vaccuum. They are all embedded in a wider socio-technical environment which will affect the way the system's deployment functions. Therefore, considering the wider context the system operates in is imperative for responsible research and innovation in AI.
+No AI system exists in a vacuum. They are all embedded in a wider socio-technical environment which will affect the way the system's deployment functions. Therefore, considering the wider context the system operates in is imperative for responsible research and innovation in AI.
 
 This translates into think diligently about the conditions and circumstances surrounding the system, its operation and its outputs, including the norms, values, and interests that inform the people undertaking the development of the project and that shape and motivate the reasonable expectations of the project's stakeholders.
 
@@ -26,7 +26,7 @@ Considering context also involves taking into account the specific domain(s), ge
 
 **In summary**
 <figure markdown>
-  ![phone-peel](../../assets/images/illustrations/divides-1.png){ align="center" }
+  ![phone-peel](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/divides-1.png){ align="center" }
 </figure>
 
 All in all, contextual considerations should, at minimum, track three vectors: 
@@ -36,4 +36,3 @@ All in all, contextual considerations should, at minimum, track three vectors:
 2. The second involves considering the context of the  users of the system (e.g., thinking about subjects’ reasonable expectations of gainful obscurity and ‘privacy in public’ and considering the changing contexts of their communications such as with whom they are interacting, where, how, and what kinds of data are being shared).
 
 3. The third involves considering the contexts of the social, cultural, legal, economic, and political environments in which different projects are embedded as well as the historical, geographic, sectoral, and jurisdictional specificities that configure such environments (e.g., thinking about the ways different social groups—both within and between cultures—understand and define key values, research variables, and studied concepts differently as well as the ways that these divergent understandings place limitations on what computational approaches to prediction, classification, modelling, and simulation can achieve).
-

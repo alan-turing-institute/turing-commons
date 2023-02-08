@@ -1,7 +1,7 @@
 # AI Ethics: Introduction to Practical Ethics
 
 <figure markdown>
-  ![Illustration by Johnny Lighthands](../../assets/images/illustrations/data-science.png){ align="center" }
+  ![Illustration by Johnny Lighthands](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/data-science.png){ align="center" }
   <figcaption>Illustration by [Johnny Lighthands](https://www.johnnylighthands.co.uk))</figcaption>
 </figure>
 

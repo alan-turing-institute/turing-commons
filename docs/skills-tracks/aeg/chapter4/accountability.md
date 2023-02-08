@@ -49,7 +49,7 @@ Moreover, auditability requires the team to enable peers and overseers to probe 
     AI systems must be designed to facilitate end-to-end answerability and auditability. This requires both responsible humans-in-the-loop across the entire design and implementation chain as well as activity monitoring protocols that enable end-to-end oversight and review.
     
  
-## Types of accountability 
+## Types of accountability
 
 Accountability deserves consideration across the entire design and implementation workflow. As a best practice, the team should actively consider the different demands that accountability-by-design requires before and after the roll out of the AI project. We will refer to the process of ensuring accountability during the design and development stages of the AI project as ‘anticipatory accountability’. This is because the team is anticipating the project’s accountability needs prior to it being completed.
 

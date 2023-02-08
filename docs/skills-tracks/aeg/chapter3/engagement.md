@@ -1,7 +1,7 @@
 # Stakeholder Engagement Process
 
 <figure markdown>
-  ![Sustainabilitycycle](../../assets/images/graphics/sustainability-cycle.png){ align="center" }
+  ![Sustainabilitycycle](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/ustainability-cycle.png){ align="center" }
   <figcaption>The Sustainability, engagement, and reflection cycle</figcaption>
 </figure>
 
@@ -18,12 +18,12 @@ A crucial component of AI Sustainability is conducting an appropriate Stakeholde
 
 The SEP is an iterative process with three core steps: 
 <figure markdown>
-  ![SEP](../../assets/images/graphics/sep.png){ align="center" }
+  ![SEP](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/sep.png){ align="center" }
 </figure>
 
 Each of these activities should be documented and utilised to create a Project Summary (PS) report. A Project Summary Report is comprised of four components reflecting the SEP process: (1) a preliminary project scoping and stakeholder analysis, (2) a positionality reflection (3) an overview of established stakeholder objectives and methods and (4) a governance workflow map. The fourth component of the PS Report will be discussed later in the course when we look into accountability and governance of AI systems.
 
-We will now analyise each of the relevant steps within the process and look at how they relate to thinking about the sustainability of the project as a whole. 
+We will now analyse each of the relevant steps within the process and look at how they relate to thinking about the sustainability of the project as a whole. 
 
 ## **Preliminary Project Scoping and Stakeholder Analysis**
 
@@ -36,9 +36,6 @@ This is the first activity within the SEP process. It involves four sub-steps:
 3. **Scoping potential stakeholder impacts:** This involves carrying out a preliminary evaluation of the potential impacts of the prospective AI system on affected individuals and communities. At this initial stage of reflection, members of the project team should review the SUM values, and the corresponding ethical concerns, rights and freedoms, and then consider which of these could be impacted by the design, development and deployment of the prospective AI system and how.
 
 4. **Analysing stakeholder salience:** The step requires assessing the relevance of each identified stakeholder group to the AI project and to its use contexts. This includes assessing the relative interests, rights, vulnerabilities, and advantages of identified stakeholders as these interests, rights, vulnerabilities, and advantages may be impacted by, or may impact, the AI system in question. When identifying stakeholders, the project team should also consider organisational stakeholders, whose input will likewise strengthen the openness, inclusivity, and diversity of the project.
-
-___
-___
 
 Stakeholder analyses may be carried out in a variety of ways that involve more-or-less stakeholder involvement. This spectrum of options ranges from analyses carried out exclusively by a project team without active community engagement to analyses built around the inclusion of community-led participation and co-design from the earliest stages of stakeholder identification. The degree of stakeholder involvement will vary from project to project based upon a preliminary assessment of the potential risks and hazards of the model or tool under consideration. 
 
@@ -65,7 +62,7 @@ On the one hand, one’s positionality—with respect to characteristics like et
 When taking positionality into account, team members should reflect on their own positionality matrix. They should ask: To what extent do my personal characteristics, group identifications, socioeconomic status, educational, training, & work background, team composition, & institutional frame represent sources of power and advantage or sources of marginalisation and disadvantage? How does this positionality influence my (and my team’s) ability to identify & understand affected stakeholders and the potential impacts of my project? Several other questions must be asked to respond to these two: How do I identify? How have I been educated and trained? What does my institutional context and team composition look like? What is my socioeconomic history? 
 
 <figure markdown>
-  ![Positionality Matrix](../../assets/images/graphics/Positionality-Matrix-2.png){ align="center" }
+  ![Positionality Matrix](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/Positionality-Matrix-2.png){ align="center" }
 </figure>
 
 ## **Stakeholder Engagement Objective and Method**
@@ -82,18 +79,16 @@ To avoid such hazards of superficiality, the team should shore up its proportion
 ### Defining a Stakeholder Objective
 
 <figure markdown>
-  ![objective-methods](../../assets/images/graphics/objective-methods.png){ align="center" }
+  ![objective-methods](.https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/objective-methods.png){ align="center" }
 </figure>
 
 ### Selecting a Stakeholder Engagement Method
 
 <figure markdown>
-  ![methods](../../assets/images/graphics/methods.png){ align="center" }
+  ![methods](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/methods.png){ align="center" }
 </figure>
 
-
 The following table summarises a wide range of salient methods:
-
 
 | Mode of Engagement   | Description | Degree of Engagement  | Practical Strengths | Practical Weaknesses |
 | ---------- | ------------ | ---------------------- | ------------------- | -------------------- |
@@ -111,7 +106,6 @@ The following table summarises a wide range of salient methods:
 | :material-github: **Distributed Project Collaboration** (Online) | Online digital platforms, such as GitHub, enable new forms of citizen science and collaborative development on diverse projects (e.g., open source software, open science).  | `CONSULT` `PARTNER` `EMPOWER` | Opportunity to engage stakeholders across regions, in an asynchronous manner, with increased accessibility depending on digital access; increased potential for diverse forms of expertise and experience; empowers new communities to actively participate in shaping and building tools that have real value for their communities. | Potential barriers to accessing digital tools required for participation, including high levels of digital literacy.|
 | :fontawesome-solid-building-columns: **Citizen panel or assembly** | Large groups of people (dozens or even thousands) who are representative of a town/region. | `INFORM` `CONSULT` `PARTNER` `EMPOWER` | Provides an opportunity for co-production of outputs; can produce insights and directions that were not anticipated by the project team; can provide an information base for conducting further outreach (surveys, interviews, focus groups, etc.); can be broadly representative; can bolster a community’s sense of democratic agency and solidarity. |  Participant rolls must be continuously updated to ensure panels or assemblies remains representative of the population throughout their lifespan; resource-intensive for establishment and maintenance; subject to hazards of group think or peer pressure; complex to facilitate; can be steered by dynamics of differential power among participants.|
 | :material-account-group: **Citizen jury**  | A small group of people (between 12 and 24), representative of the demographics of a given area, come together to deliberate on an issue (generally one clearly framed set of questions), over the period of 2 to 7 days ([Involve.org.uk](http://involve.org.uk). | `INFORM` `CONSULT` `PARTNER` `EMPOWER` |  Can gather in-depth information; can produce insights and directions that were not anticipated by the project team; can bolster participants’ sense of democratic agency and solidarity. |  Subject to hazards of group think; complex to facilitate; risk of pre-emptive evaluative framework; small sample of citizens involved risks low representativeness of wider range of public opinions and beliefs. |
-
 
 As with all forms of engagement, deciding on the best method requires awareness of your audience.
 Consider the following cases:
