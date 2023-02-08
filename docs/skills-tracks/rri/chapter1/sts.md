@@ -5,7 +5,7 @@ They were asked whether the formula had any practical applications for society, 
 Three months later the Manhattan project dropped the first of their three atomic bombs!
 
 <figure markdown>
-![A 3d rendering of an atomic bomb](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/bomb.jpeg){ align="center" }
+![A 3d rendering of an atomic bomb](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/bomb.jpeg){ align="center" }
 <figcaption>A 3d rendering of an atomic bomb</figcaption>
 </figure>
 
@@ -128,7 +128,7 @@ This goes beyond a narrow instrumental value to a broader social and ethical val
 It is also, arguably, part of the motivation behind famous ladder of public engagement.[@arnstein1969]
 
 <figure markdown>
-  ![Sherry Arnstein's Ladder of Engagement](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/ladder.jpeg){ align="center" }
+  ![Sherry Arnstein's Ladder of Engagement](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/ladder.jpeg){ align="center" }
   <figcaption>Sherry Arnstein's Ladder of Engagement (Reprinted from Wikimedia Commons—https://commons.wikimedia.org/wiki/File:Ladder_of_citizen_participation,_Sherry_Arnstein.tiff).</figcaption>
 </figure>
 

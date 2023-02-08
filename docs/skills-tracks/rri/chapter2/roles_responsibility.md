@@ -12,7 +12,7 @@ While there will always remain a pragmatic need to have individual roles and res
 What is needed, however, is a clear illustration of how this collective responsibility is instantiated throughout the lifecycle of an AI project—or a project involving the development of a data-driven technology.
 The following offers a stylised illustration of the project lifecycle, introduced in the [previous section](project_lifecycle.md), that we can build on.
 
-![A stylised illustration of the project lifecycle model](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/lifecycle.png)
+![A stylised illustration of the project lifecycle model](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/lifecycle.png)
 
 A key benefit of this illustration is that is helps us reflect on the way that individual roles and responsibilities within the project team interconnect.
 For instance, the developers or software engineers, in virtue of their expertise in implementing models and designing software tools may have a better understanding of how UX/UI elements will affect the decision-making of the end user, perhaps in virtue of their impact on cognitive biases.[@burton2020]

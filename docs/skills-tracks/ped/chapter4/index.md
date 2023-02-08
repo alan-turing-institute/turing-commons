@@ -1,6 +1,6 @@
 # Practical Guidance
 
-![Image by Johnny Lighthands](../../assets/images/illustrations/assurance.png)
+![Image by Johnny Lighthands](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance.png)
 
 ## Introduction
 

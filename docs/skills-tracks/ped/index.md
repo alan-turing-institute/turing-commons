@@ -8,7 +8,7 @@ hide:
 
 <div class="result" markdown>
 
-  ![Illustration by Johnny Lighthands](../assets/images/illustrations/discussion.png){ align="right" width="50%" }
+  ![Illustration by Johnny Lighthands](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/discussion.png){ align="right" width="50%" }
 
   This course is designed to help you understand the practical and ethical value of public engagement with data science and AI.
   The course begins with an introduction to different forms of public engagement, while critically examining the different methods and approaches.

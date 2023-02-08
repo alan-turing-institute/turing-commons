@@ -1,6 +1,6 @@
 # Facilitating Public Engagement for Data Science and AI
 
-![Image by Johnny Lighthands](../../assets/images/illustrations/participatory-design.png)
+![Image by Johnny Lighthands](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/participatory-design.png)
 
 ## Introduction
 

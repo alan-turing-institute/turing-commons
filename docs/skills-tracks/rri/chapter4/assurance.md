@@ -32,7 +32,7 @@ This is not an argument in the antagonistic sense of the term, but rather a stru
 
 The scope and content of what we can call an 'assurance case' is determined by the relevant details of the project in question, and what the project team need to provide assurance for. For example, if a project team needs to communicate the processes by which they have ensured the *interpretability* of their model, they may need to develop an *interpretability case*, which could look something like the following:
 
-![A template of an assurance case that focuses on providing assurance for the interpretability of a machine learning model. Reprinted from Ward[@ward2020]](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/interpretability-case.png)
+![A template of an assurance case that focuses on providing assurance for the interpretability of a machine learning model. Reprinted from Ward[@ward2020]](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/interpretability-case.png)
 
 Here, the assurance case is represented in a graphical format.
 The top-level claim is a goal that is supported by the lower level claims, which in turn further specify what it means to say "The {ML model} is sufficiently {interpretable} in the intended {context}".
@@ -68,12 +68,12 @@ The following two figures show the relationship between these elements and also 
 
 === "Figure A"
 
-    ![A minimal set of elements for an assurance case.](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/gce.png)
+    ![A minimal set of elements for an assurance case.](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/gce.png)
     A minimal set of elements for an assurance case.
 
 === "Figure B"
 
-    ![An example of a goal, claims, and evidence using the minimal set of elements identified previously.](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/gce-example.png)
+    ![An example of a goal, claims, and evidence using the minimal set of elements identified previously.](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/gce-example.png)
     An example of a goal, claims, and evidence using the minimal set of elements identified previously.
 
 ### Who is the Target Audience?

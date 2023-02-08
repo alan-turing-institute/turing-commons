@@ -14,7 +14,7 @@ In this section, we are just going to look at the final option, but it's good to
 
 >Roll up! Roll up! Come and see a true scientific mystery: the marvelous, mystifying marmokreb!
 
-![A picture of a marmorkreb](../../assets/images/graphics/marmorkreb.jpeg)
+![A picture of a marmorkreb](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/marmorkreb.jpeg)
 
 Alright, it's not much to look at, but it is a true scientific mystery in one respect.
 
@@ -33,7 +33,7 @@ As Blastland puts it,
 And yet, the following figure shows three marmorkrebs from the same lineage, who were raised in the exact same conditions.
 
 <figure markdown>
-  ![A figure of three marmorkrebs displaying significant variation](../../assets/images/graphics/marmorkrebs.png){ align="center" }
+  ![A figure of three marmorkrebs displaying significant variation](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/marmorkrebs.png){ align="center" }
   <figcaption>A figure of three marmorkrebs displaying significant variation (Reprinted from Vogt et al. 2008)</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ Their framework comprises five stages that are summarised as follows:
 4. to whom, and
 5. to what effect
 
-![van der bles's framework for communicating uncertainty](../../assets/images/graphics/uncertainty.png)
+![van der bles's framework for communicating uncertainty](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/uncertainty.png)
 
 Let's (briefly) look at each of these in turn.[^full]
 
@@ -96,7 +96,7 @@ A particularly valuable contribution from their framework is the categorisation 
 The format used to communicate the uncertainty is likely to affect the audience in a variety of ways (see 'to what effect').
 As the following figure indicates, this form is associated with varying levels of precision.
 
-![Graph display forms of uncertainty communication with decreasing levels of precision](../../assets/images/graphics/uncertainty-expressions.png).
+![Graph display forms of uncertainty communication with decreasing levels of precision](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/uncertainty-expressions.png).
 
 Decreased precision is not always undesirable.
 For instance, sometimes it represents a worthwhile trade-off between precision and accessibility of communication to a non-technical or time-stretched audience.
@@ -139,7 +139,7 @@ There are, however, some interesting tools that link back to the first section i
 
     <div class="result" markdown>
 
-    ![Animation of a hypothetical outcome plot](../../assets/images/animations/regression.gif){ align=right width=300 }
+    ![Animation of a hypothetical outcome plot](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/animations/regression.gif){ align=right width=300 }
     
     One method is to use packages built into software like Python and R to generate visual animations that explicitly depict alternate or hypothetical outcomes alongside, say, the most likely model of the data generation process. See [this page for more details](uncertainty_example.ipynb).
 
@@ -149,7 +149,7 @@ There are, however, some interesting tools that link back to the first section i
 
     <div class="result" markdown>
 
-    ![Example climate impact map](../../assets/images/graphics/climate-map.gif){ align=left width=50% }
+    ![Example climate impact map](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/climate-map.gif){ align=left width=50% }
 
     Heat maps are commonly used for communicating probabilistic information. The [Climate Impact Lab](https://impactlab.org/map/#usmeas=change-from-hist&usyear=2020-2039&gmeas=change-from-hist&gyear=2040-2059&usvar=mortality&tab=global&gvar=mortality) take the traditional heat map a step further though by adding interactivity to allow users to alter variables and see the possible impact that emissions, for example, could have across the globe.
 
@@ -159,7 +159,7 @@ There are, however, some interesting tools that link back to the first section i
 
     <div class="result" markdown>
 
-    ![From Line by Lee Ufan (1978)](../../assets/images/graphics/from-line.jpeg){ align=right width=300 }
+    ![From Line by Lee Ufan (1978)](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/from-line.jpeg){ align=right width=300 }
 
     Still in need of some creative inspiration? [Uncertainty.io](https://www.uncertainty.io/art/) is a queryable interface to references of more than 400 works of fine art that "have a unique ability to convey uncertainty using a range of approaches and techniques."
 

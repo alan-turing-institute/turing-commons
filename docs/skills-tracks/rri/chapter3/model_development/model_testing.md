@@ -6,10 +6,9 @@ Before training a model, the data need to be split into 'training' and 'testing'
 
 
 <figure markdown>
-![An example of overfitting, underfitting and the appropriate balance.](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/overfitting.png){ align="center" }
+![An example of overfitting, underfitting and the appropriate balance.](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/overfitting.png){ align="center" }
  <figcaption>An example of overfitting, underfitting and the appropriate balance. Reprinted from <a href="https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6"> (Bronshtein, 2020) </a></figcaption>
 </figure>
-
 
 The *training set* is the one used, as the name suggests, to train the model, whereas the *testing set* is a hold-out sample that is used to evaluate the fit of the ML model to the underlying data distribution.
 The testing set is kept separate while training the model to provide an less biased evaluation of the model once it has been fit to the training dataset.
@@ -30,7 +29,7 @@ At the end, an average is taken from the *k* models and this is tested against t
 The following graphic should help you visualise this.
 
 <figure markdown>
-![A simple representation of the K-Folds Cross Validation Process](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/cross-validation.png){ align="center" }
+![A simple representation of the K-Folds Cross Validation Process](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/cross-validation.png){ align="center" }
  <figcaption>A simple representation of the K-Folds Cross Validation Process</figcaption>
 </figure>
 

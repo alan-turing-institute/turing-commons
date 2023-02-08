@@ -2,7 +2,6 @@
 
 The Ancient Greek philosopher, Heraclitus believed that all things are in a constant state of change or *flux*—a doctrine made famous by the following statement:
 
-
 > You cannot step twice into the same rivers; for fresh waters are ever flowing in upon you.
 -- Heraclitus, [Fragment 12](https://en.wikisource.org/wiki/Fragments_of_Heraclitus)
 
@@ -14,7 +13,7 @@ This process of *model drift* can be said to occur when there is increasing vari
 There are many context- and domain-specific causes of model drift.
 However, we can consider two main types.
 
-On the one hand, drift can occur when the statistical properties of an input variable change (i.e. there is a shift in the underlying data distribution). For example, perhaps house prices start increasing and a model becomes more and more inaccurate at predicting them.[^selection] 
+On the one hand, drift can occur when the statistical properties of an input variable change (i.e. there is a shift in the underlying data distribution). For example, perhaps house prices start increasing and a model becomes more and more inaccurate at predicting them.[^selection]
 
 The following offers a graphical representation of this problem, with a distributional shift between two different points in time (T=1, T=2).
 
@@ -46,7 +45,7 @@ axes[1].grid(True)
 plt.show()
 ```
 
-![Output of the above code showing two plots](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/output.png)
+![Output of the above code showing two plots](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/output.png)
 
 On the other hand, there could be a more nuanced reason related to the conceptual or social meaning of the input variables. 
 An example of this could be a machine learning algorithm used in finance that aims to predict whether someone is likely to default on a loan using variables with social meaning, such as `occupation`.

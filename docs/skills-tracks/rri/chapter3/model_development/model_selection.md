@@ -17,7 +17,7 @@ However, a neural network, at the other end of the extreme is often described as
 The trade-off for this lower interpretability can be greater performance in terms of accuracy or predictive power.
 
 <figure markdown>
-  ![A schematic showing the trade-off between model interpretability and model performance](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/interpretability.png){ align="center" }
+  ![A schematic showing the trade-off between model interpretability and model performance](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/interpretability.png){ align="center" }
   <figcaption>A schematic showing the trade-off between model interpretability and model performance. Reprinted from <a href="https://towardsdatascience.com/explainable-ai-the-data-scientists-new-challenge-f7cac935a5b4"> (Diop, 2019)</a></figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Therefore, such a decision is inescapably value-laden and inherently about exerc
 ### Supervised Learning
 
 <figure markdown>
-  ![An illustration of a neural network classifying an image of a dog correctly.](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/deep-learning.png){ align="center" }
+  ![An illustration of a neural network classifying an image of a dog correctly.](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/deep-learning.png){ align="center" }
   <figcaption>An illustration of a neural network classifying an image of a dog correctly.</figcaption>
 </figure>
 

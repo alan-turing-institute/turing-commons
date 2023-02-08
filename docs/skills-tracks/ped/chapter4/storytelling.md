@@ -7,7 +7,7 @@ But telling a story with data is not always straightforward, and data do not tel
 It takes careful analysis and informed deliberation to make sure that data tell the right story, and that the story is engaging to those who want or need to hear the story.
 Consider the following graph, for instance:
 
-![Image of graphic](../../assets/images/graphics/storytellinga.png)
+![Image of graphic](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/storytellinga.png)
 
 Now, ask yourself the following questions:
 
@@ -19,7 +19,7 @@ Now, ask yourself the following questions:
 Cole Nussbaumer Knaflic's excellent book, *Storytelling with Data* is full of examples such as this one, in which badly designed or ordinary graphs are transformed into engaging and insightful visualisations that help tell a story and realise various goals.[@knaflic2015]
 The previous graph, for example, is altered into the following one, where a) more supportive messaging helps explain how a new program improved children's interest and engagement in science, and b) better use of colours help to direct the audience's attention to the values of significance (i.e., the increased percentages of children who were either 'interested' or 'excited' in science following the intervention).
 
-![Image of graphic](../../assets/images/graphics/storytellingb.png)
+![Image of graphic](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/storytellingb.png)
 
 In this section, we are going to look at three lessons (based on Knaflic's book)[@knaflic2015] to help tell more engaging stories with data:
 
@@ -80,26 +80,26 @@ Preattentive attributes are one way to achieve this.
 Knaflic's book, again, has useful guidance here about the role of *preattentive attributes*—elements of visual design that are rapidly processed by the lowest levels of our visual systems, signifying something of salience to the individual.
 The following 12 preattentive attributes are well-known among designers, and often exploited by those in advertising!
 
-![Preattentive attributes](../../assets/images/graphics/preattentive.png)
+![Preattentive attributes](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/preattentive.png)
 
 === "Graph with no preattentive attributes"
 
-    ![Graph A without colour](../../assets/images/graphics/coloura.png)
+    ![Graph A without colour](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/coloura.png)
 
 === "Graph with colour added"
 
-    ![Graph B with colour](../../assets/images/graphics/colourb.png)
+    ![Graph B with colour](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/colourb.png)
 
 === "Graph using colour to build hierarchy"
 
-    ![Graph C using colour to build hierarchy](../../assets/images/graphics/colourc.png)
+    ![Graph C using colour to build hierarchy](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/colourc.png)
 
 ## Constructing Narrative Structure
 
 The Hero's journey is a well-known template in literature and story-telling more generally.
 In brief, it identifies several stages for a protagonist's journey, starting with a departure (or, call to adventure) that serves as a hook, which leads into a series of trials, initiations, or challenges for the protagonist to overcome, before returning home as a changed or transformed individual.
 
-![The hero's journey](../../assets/images/graphics/hero.png)
+![The hero's journey](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/hero.png)
 
 This template can be seen in many areas of popular culture, ranging from science-fiction films (e.g. Star Wars) to classic works of literature (e.g. Jane Eyre).
 There are, of course, many challenges to the validity of this template and its application to specific stories—in both academia and geek culture!
@@ -110,7 +110,7 @@ But there are principles that can help steer us in the right direction, which in
 
 Consider the following visual communication from the Education Endowment Foundation—an independent charity with the goal of improving educational attainment of the poorest pupils in English schools.
 
-![The Teaching and Learning Toolkit—Educational Endowment Foundation](../../assets/images/graphics/education.png)
+![The Teaching and Learning Toolkit—Educational Endowment Foundation](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/education.png)
 
 The purpose of this graphic is to clearly summarise the evidence base for different education interventions, by focusing on three properties:
 

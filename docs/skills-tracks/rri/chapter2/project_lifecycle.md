@@ -19,7 +19,7 @@ However, it is important to note that the model is a heuristic for reflection an
 Therefore, it is not intended to be perfectly capture of describe the processes for all data science or AI projects.
 
 <figure markdown>
-  ![A model of a typical data science and AI project](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/project-lifecycle.png){ align="center" }
+  ![A model of a typical data science and AI project](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/project-lifecycle.png){ align="center" }
   <figcaption>The Project Lifecycle. The overarching stages of design, development, and deployment (for a typical data-driven project) can be split into indicative tasks and activities. In practice, both the stages and the tasks will overlap with their neighbours, and may be revisited where a particular task requires an iterative approach. The spiral indicates that this is a diachronic, macroscopic process that evolves and develops over time, and as the deployment stage finishes, a new iteration is likely to begin.</figcaption>
 </figure>
 

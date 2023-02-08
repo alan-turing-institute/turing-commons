@@ -80,7 +80,7 @@ Consider the following text from the United Nation's Universal Declaration of Hu
     1.  Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits.
     2.  Everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author.
 
-![An image of a scroll and scales](../../assets/images/graphics/human-rights.jpeg)
+![An image of a scroll and scales](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/human-rights.jpeg)
 
 The scope of human rights, and the obligations or duties that they impose upon various institutions is a lively area of debate among legal scholars and practitioners.
 However, when compared to other rights, Article 27 has received little attention.

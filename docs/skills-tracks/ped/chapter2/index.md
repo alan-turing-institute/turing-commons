@@ -1,6 +1,6 @@
 # The Value(s) of Public Engagement
 
-![Image by Johnny Lighthands](../../assets/images/illustrations/deliberation.png)
+![Image by Johnny Lighthands](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/deliberation.png)
 
 ## Introduction
 

@@ -6,7 +6,7 @@
 
 The above quote helps to motivate a need to consider our responsibility, as researchers, to the societal impact of science and technology. The practical tools and methods we will explore in subsequent chapters will help us meet our various obligations. However, before we shift to the practical considerations, there is one final question to consider:
 
-!!! question 
+!!! question "Question"
 
     What does it mean to conduct *responsible* public engagement in data science and AI?
 
@@ -101,7 +101,7 @@ This aspect of sustainability requires a project’s practices and outputs to be
 
 The final point in the above summary is significant for public engagement, and connects with the following question:
 
-!!! question
+!!! question "Question"
 
     Who Designs the Future?
 
@@ -155,7 +155,7 @@ For example, if an autonomous vehicle is involved in an accident or if a algorit
 As such, there needs to be a) interpretability of the system itself (e.g., an ability to make sense of the underlying logic by which a system reaches a decision) and b) the ability to translate this information into a variety of explanations that are acceptable to relevant users and stakeholders.
 On this second point, public engagement can support evaluation and determination of both the accessibility and usability of different explanations, as well as providing input on possible trade-offs between, say, the interpretability and accuracy of possible system types (e.g., decision trees versus neural networks).[^explainability]
 
-[^explainability]: For more on the explainability/accuracy trade-off see [this page](/rri/chapter3/model_development/model_testing.md).
+[^explainability]: For more on the explainability/accuracy trade-off see [this page](../../rri/chapter3/model_development/model_testing.md).
 
 ### Data Quality, Integrity, Privacy and Protection
 

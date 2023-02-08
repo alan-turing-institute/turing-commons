@@ -22,7 +22,7 @@ However, there is also the option of entirely *de-provisioning* (i.e., stopping 
 As you may recall, the project lifecycle image showed this final stage connected to the first stage of '[Project Planning](../project_design/planning.md)' in a circular manner.
 
 <figure markdown>
-![The Project Lifecycle. ](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/project-lifecycle.png){ align="center" }
+![The Project Lifecycle. ](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/project-lifecycle.png){ align="center" }
  <figcaption>The Project Lifecycle.]</figcaption>
 </figure>
 

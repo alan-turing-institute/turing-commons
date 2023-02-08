@@ -21,7 +21,7 @@ In this chapter, however, we will seek to provide an intuitive (albeit partial) 
 
 !!! note "Additional Guides"
 
-    Before we dicuss the method, however, we should note that there is significant overlap here with the content of our two other courses:
+    Before we discuss the method, however, we should note that there is significant overlap here with the content of our two other courses:
     
     1. Public Engagement and Communication of Science (PES)
     2. AI Ethics and Governance (AEG)

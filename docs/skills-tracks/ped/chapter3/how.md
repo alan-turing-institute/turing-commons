@@ -47,26 +47,6 @@ Consider the following cases:
 A common need with all of the above cases is the tailoring of the communication strategy to the engagement goal. And, in all cases, a clear message is vital.
 This topic (and others) will be the focus of the next section.
 
-<!-- ## Mini Publics
-
-!!! quote "Consensus Statement on Public Involvement and Engagement with Data Intensive Health Research"
-
-    the public should not be characterised as a problem to be overcome but a key part of the solution to establish socially beneficial data-intensive health research for all. (Aitken et al. 2019)
-
-[...]
-
-<!-- https://www.opengovpartnership.org/wp-content/uploads/2019/05/Deliberation_Series_Volume-2_Informed_Participation-Guide.pdf -->
-
-<!-- - What are the acceptable uses of patient data in health research?
-
-!!! bug "Types of Health Data"
-
-    - Data from patient records;
-    - Administrative data (e.g. from social care, housing or education); • Data from registries;
-    - Genomic data (e.g. from biobanks);
-    - Data generated through use of apps;
-    - Social media data. --> -->
-
 ## Education and Outreach: Getting Creative
 
 The table at the start of this section outlines several methods for `informing`, but these are not the only ones that are relevant in the context of science and technology education and outreach.
@@ -101,4 +81,3 @@ And, some forms of education and outreach can be very creative. Consider the fol
 
     [(Clarke, 2021)](https://www.scienceopen.com/hosted-document?doi=10.14324/RFA.05.2.03)[@clarke2021]
     </div>
-

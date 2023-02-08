@@ -1,6 +1,6 @@
 # 1 Introduction
 
-![Illustration by Johnny Lighthands](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/chatbot.png)
+![Illustration by Johnny Lighthands](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/chatbot.png)
 
 !!! note "Summary"
 

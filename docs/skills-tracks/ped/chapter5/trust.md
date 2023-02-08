@@ -1,11 +1,11 @@
 # Public Trust in Science and Technology
-Going back to the beginning of the course, establishing social trust in science is one of the goals of public engagement. Not only does a lack of trust diminish science's legitimacy in the public eye, it also makes the more practical goals of science much harder to achieve . If laypeople distrust science and are incredulous or suspicious of its claims, it will be quite difficult to put scientific results into wide use.[@grasswick2010] 
+
+Going back to the beginning of the course, establishing social trust in science is one of the goals of public engagement. Not only does a lack of trust diminish science's legitimacy in the public eye, it also makes the more practical goals of science much harder to achieve . If laypeople distrust science and are incredulous or suspicious of its claims, it will be quite difficult to put scientific results into wide use.[@grasswick2010]
 
 Vaccine hesitancy is a clear example of this. If a relevant portion of the public distrusts the science behind vaccine efficacy and safety, they will be less likely to get vaccinated no matter how readily available the vaccine is. Not only does this leave the unvaccinated with a higher risk of falling ill themselves, it also negatively impacts the overall level of immunity in the population.
 
+Another example from the Covid-19 pandemic comes from contact-tracing apps which were designed to track the spread of the virus. These apps enjoyed widespread support from healthcare organisations as they had the potential to develop and strengthen epidemiological research. However, the reception from the general population was mixed. In particular, a relevant portion of the public was concerned with whether their data was being handled responsibly, and this sometimes led to poor adoption rates from the general population, once again highlighting the difficulty of implementing scientific research and processes when people do not trust science.
 
-Another example from the Covid-19 pandemic comes from contact-tracing apps which were designed to track the spread of the virus. These apps enjoyed widespread support from healthcare organisations as they had the potential to develop and strenghten epidemiological research. However, the reception from the general population was mixed. In particular, a relevant portion of the public was concerned with whether their data was being handled responsibly, and this sometimes led to poor adoption rates from the general population, once again highlighting the difficulty of implementing scientific research and processes when people do not trust science.
- 
 As important as citizen trust in science is, there are many challenges that can make science less trustworthy to individuals and communities. As scientists and researchers, it is important to become aware of them and reflect on how they might be mitigated.
 
 ## 10 challenges to public trust in science
@@ -13,15 +13,16 @@ As important as citizen trust in science is, there are many challenges that can 
 Over the next sections we will look at different challenges or barriers to public trust in science and technology. Although we will go through each issue separately, in practice there is a lot of overlap and interrelations between them, and some of them feed into or amplify each other.
 
 ### 1. Understanding of science
-The first challenge to fostering public trust in science we will look at has to do with science education. In particular, with the general public's poor understanding of what science is and how it works, which can lead them to misinterpret the normal workings of science as its failings. 
+
+The first challenge to fostering public trust in science we will look at has to do with science education. In particular, with the general public's poor understanding of what science is and how it works, which can lead them to misinterpret the normal workings of science as its failings.
 
 On the first day we looked at the Deficit Model[@lewenstein2003] which assumed scientific literacy amounted to knowledge of scientific findings. As we saw, there are problems with this view since arguably members of the public have no reason to know the detailed workings of generative models in machine learning or complicated equations in theoretical physics.
-    
+
 There is however, another way to think about scientific literacy; not in terms of how much scientific knowledge the public has, but instead on whether they grasp the nature of the scientific process. As Douglas (2012) argues, what should be at the core of scientific education is *not* science as a set of facts about areas of knowledge, but instead a thorough understanding of what science is *as an epistemic endeavour*.[@douglas2017]
-    
+
 The most important thing to understand about the scientific process is that science is *jointly critical and inductive* in nature (ibid). Science seeks to build an empirical understanding of the world through proposing explanatory theories and then testing them in the best way possible (ibid). Therefore, science must always rely on induction to reach its conclusions. As such, there is no  irrevocable *proving* of facts in science. Instead, one can only falsify (or fail to falsify) its theories. 
 
-A classical example is that of the black swan. The phrase dates back to the Roman poet Juvenal who used it to describe a rare bird presumed to be non-existent. The phrase was popular in 16th century London to refer to impossible events or inexisting ojects. Because no one had ever seen a black swan (at least among Europeans), it was assumed that black swans did not exist. 
+A classical example is that of the black swan. The phrase dates back to the Roman poet Juvenal who used it to describe a rare bird presumed to be non-existent. The phrase was popular in 16th century London to refer to impossible events or inexisting ojects. Because no one had ever seen a black swan (at least among Europeans), it was assumed that black swans did not exist.
 
 Such an analysis relies on induction: it goes from particular instances of (a lack) of sightings of black swans to the general conclusion that black swans do not exist. However, in 1697 Dutch explorers became the first Europeans to see a black swan in Western Australia and their non-existence was thus disproven. 
 
@@ -36,27 +37,29 @@ A good example is expert disagremeent and debate. As we just saw, this is a key 
 As Douglas notes, "[e]xperts changing their minds is also evidence of science *functioning properly*, not evidence of experts being fickle of weak-minded".[@douglas2017] However, expert disagreement can be met with frustration from the general public if they are under the impression that science should provide definite answers, and when scientific 'facts' change (as some inevitably will) this may be interpreted as evidence of science's failings, slowly corroding the public's trust in it.
 
 ### 2. Spread of doubt and confusion
+
 Another phenomenon which can erode the public's trust in science is documented in Naomi Oreskes and Eric M. Conways's book 'Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming'.[@oreskes2011] The authors' show how a group of scientists in the United States used the inductive nature of science to discredit scientific findings that went against the financial interests of the industries that employed them. 
     
 Two of the most-well known cases are those of the tobacco and oil industries. The tobacco industry famously denied the link between smoking and lung cancer long after science had provided robust evidence for it. The same can be said of the oil industry; first they sowed doubt on whether climate change was real, and when that became increasingly difficult to deny, they advanced the possibility that perhaps it was not man-made (again, going against what the evidence was consistently showing). 
-    
+
 In both cases, the scientists (who had ties to these industries) used the very nature of the scientific method as a way to undermine science's findings. As we know, because science is at its core inductive, nothing can ever be definitely and finally proven. There is always the possibility, however remote, that current scientific understanding is wrong. 
-    
+
 This does not mean of course, that there cannot be overall consensus in science. In the case of climate change for instance, Oreskes (2004, 2007)[@oreskes2004]<sup>-</sup>[@oreskes2007] documents that in a review of approximately 900 scientific articles on climate change, none of them refuted the idea "global climate change is ocurring, and human activities are at least part of the reason why."[@almassi2012]<!-- (Almassi, 2012, 32).  --> However, she also notes that a 2006 ABC News poll in the US found that 64% of Americans perceived there to be a lot of disagreeemnt amongst scientists on the reality of global warming (ibid).
 
 This is the strategy of the 'merchants of doubt': spreading confusion among the public about the level of scientific consensus on certain topics in an effort to delay public criticism and therefore regulation. If, as we have noted, the public expects science to provide with a set of unchanging facts, this strategy will have a doubly negative effect: not only will it undermine trust in science as scientists are supposed to have the answers, but it will also create the false perception that there is no scientific consensus when there actually seems to be one. Clearly, this can increase distrust in science, especially if the strategy is used to hide harms to the public in an attempt to maintain or increase the profits of those funding the scientists (as is blatantly the case in the examples from the tobacco and oil industries).
-    
 
 ### 3. Vested interests
+
 Related to the 'merchants of doubt' strategy is the general problem of scientists having incentives other than those motivated by the disinterested attitude of someone trying to understand how the world works. This is of course, always true: scientists can be driven by multiple motivations, such as ego or the quest for status, among many others. Yet when scientists' incentives are aligned with protecting the interests of the companies who employ them, things become particularly problematic. 
 
 Cases where this happens are well-document in medicine, where the pharmaceutical industry has been known to use diverse strategies to advance their interests: from aggressive marketing directed at physicians to increase the prescription of their drugs,[@keefe2021] to funding scientists who are supposedly objective and neutral, but who in reality are under the pharmaceutical companies' payroll.[@ritchie2020]<!--(Ritchie, 2020, 170) -->
 
-An example from the world of tech comes from Facebook (now Meta). In documents known as 'the Facebook files', the Wall Street Journal published various articles documenting the company's clear awareness of the many problems and failings of it products. However, it did surprisingly little to fix them, all the while minisiming the extent of the problem or feigning ignorance to the general public. 
+An example from the world of tech comes from Facebook (now Meta). In documents known as 'the Facebook files', the Wall Street Journal published various articles documenting the company's clear awareness of the many problems and failings of it products. However, it did surprisingly little to fix them, all the while minisiming the extent of the problem or feigning ignorance to the general public.
 
 In particular, leaked company documents show that internal research inside Meta concluded that Instagram was detrimental for teen mental health.[@wells2021] The documents not only detail the evidence Meta had amassed linking poor teen mental health outcomes to Instagram use, but they also documented how this information was relayed to Mark Zuckerberg, the company's CEO. Additionally, it shows that worries about users interacting less with the platform played into the company's decision to fix (or more accurately, to do nothing about) some of Instagram's problems (ibid). When research like this is exposed, it is not hard to see how it could erode people's trust in researchers. Although in this case  we are looking at Meta employees payed to carry our research and not at independent researchers, 'the Facebook files' highlight the negative consequences for the public that occur when research is ultimately serving the interests' of private companies rather than the public good.
 
 ### 4. Fraud
+
 Even more extreme cases occur when scientists are caught in outright fraud, claiming to have achieved feats which are simply not true, or inventing data and publishing it as real. Many examples come from the world of medicine and technology. 
 
 Take the case of Paolo Macchiarini, a surgeon who claimed to have solved the rejection problem in trachea transplants (whereby the body rejects the transplanted organ). Not only that, he managed to convince the scientific establishment of his successes and for a while became a rockstar in his field.[@ritchie2020] But the reality was far from a success story: Macchiarini had exaggerated or outright lied about the effectiveness of his treatments, and tragically, many of the patients to which the procedure was performed to died in the following months or years due to complications from the surgery. 
@@ -72,6 +75,7 @@ Cheating and fraud will never be completely eradicated from any human endeavour,
 Another extreme case is that of Elizabeth Holmes, founder of Theranos, the now-infamous company which claimed to have developed breakthrough health technology to automate and miniaturise blood tests. This technology  supposedly enabled hundreds of tests to be done with just a single drop of blood. A few years after raising millions of dollars for Theranos, (which even earned Holmes the title of youngest self-made female billionaire), she was exposed as a complete fake. Her technology did not work at all. The company had given customers innacurate test results which in many cases compromised their health. Once again, the fact that it took years and millions of dollars in investements to realise the extent of her fraud, unsurprisingly may cast doubt on the public perception of science as honest and legitimate.
 
 ### 5. Bias, negligence, and hype
+
 Scientists do not have to commit outright fraud to skew their results in ways which can, in the long run, diminish public trust in science.
 
 There are other ways in which scientific results can be presented to make them seem more robust than they really are. As we saw, the incentives in the "publish or perish" culture are such that scientists are driven to put the possibility of publication over every other consideration, which can lead to biases in their research as well as sloppiness.[^Ritchie]
@@ -110,15 +114,14 @@ No matter how much care researchers take when communicating and engaging with th
 
 Going back to pandemic examples, since the Covid-19 vaccine has been rolled out, there have been numerous claims that more vaccinated people are dying of Covid than unvaccinated. While *technically* this may have been true in some cases, (that is, the number of deaths of vaccinated may have been higher than that of the unvaccinated). However, these numbers failed to take into account that as the vaccine uptake increased, the proportion of the unvaccinated grew smaller and smaller. So, although the total number of deaths among the unvaccinated may have been small, if you take into account the total number of unvaccinated people, the proportion of deaths among the unvaccinated was a lot higher than that of the unvaccinated.[@spiegelhalter2021] Examples like this show the importance of science communication: it is not enough to get the numbers 'right' (in the sense that they are not adulterated or fabricated), one needs to be be able to read them properly.
 
-
 Even in cases when researchers are successfully able to convey their message across, it is impossible to control how this message might be then further distorted or changed in social media or otherwise.
 
 As we saw in sections 9 and 10, messages which cause strong emotions (such as anger or moral outrage) spread much more quickly through social media than unemotional or nuanced ones. Again, this is in great part due to the workings of the content-filtering algorithms which are programmed to show us content which is most likely to grab our attention and/or get users to share it. 
 
 Click-bait headlines and misleading quotes are therefore easily propagated through social media and scientists engaging with the media and general public should be well aware of that. One cannot control headlines and quotes, but it is important that researchers are mindful of these issues, as well as be willing to engage with journalists when they feel they are being misquoted. It is important to remember that engagement does not end after giving an interview, it is important to follow up and clarify one's message when needed.
 
-
 ### 7. Mistreatment and discrimination of marginalised communities
+
 Science history is riddled with cases of sexism and racism being passed off as 'objective science', with some  particularly gruesome episodes such as the Tuskegee studies in the United States during the 20th century. There is no shortage of examples where science was used to justify discriminatory practices and worldviews.
 
 It is unsurprising that the long history of science's racist and sexist practices can make people from historically oppresed communities suspicious or distrustful of science, evidenced for example in African American women's distrust of the birth control pill when it first emerged,[@grasswick2010] or in the higher rates of vaccine hesitancy of marginalised groups both for vaccines in general as well as  and response to the Covid-19 vaccine.[@nguyen2022] 
@@ -132,6 +135,7 @@ Another famous example is Amazon's hiring algorithm which turned out to be biase
 Because discrimination is often embedded into technology, people from marginalised groups have a rational reason to distrust it, all the more if these technologies are untruthfully portayed as just the opposite: neutral and imparcial. Therefore, it is crucial to be aware of the potential biases of algorithms, reminding ourselves that no technology is ever truly neutral.
 
 ### 8. Misuse of data
+
 Often scientists and researchers can abuse their power and the trust members of the public have given them. The world of data and AI is full of opportunities to do so, especially if we take into account the huge asymmetry of information between researchers and the public in terms of how data is collected, used, and how the algorithms work.
 
 A famous example is the so-called Facebook emotional contagion study.[@kramer2014] A group of researchers at Facebook and Cornell University studied how emotional contagion spread across the social network. To do this, they manipulated the News Feed of Facebook users, either to reduce positive messages (thus amplifying negative ones), reduce negative messages (thus amplifying positive ones), or reduce messages at random (control condition). 
@@ -143,10 +147,10 @@ However, it was met with outrage from the public.[@meyer2014]<sup>-</sup>[@chamb
 This episode also highlights how unaware researchers might be of the public's concerns. These researchers decided to publish their research in one of the most prestigious journals in science where it would receive a lot of attention. Presumably, it did not occur to them that other researchers and the general public would be outraged at their privacy policies and would find the study was unethical. This reminds us of the importance of public deliberation, and having conversations which can allow trust to flourish between scientists and the public.
 
 ### 9. Online misinformation and disinformation
+
 We now turn to misinformation and disinformation. Misinformation refers to information which is incorrect or inaccurate whereas disinformation has been "[...]used to denote a specific type of misinformation that is intentionally false".[@scheufele2019]<sup>-</sup>[^disinfor] Unsurprisingly, they both can cause important damage to the relationship of trust between the public and the world of science and research. When exposed to misinformation people might become confused about what the scientists are saying and start to distrust scientists' motivations, which can then lead to overall distorted narratives about the state of scientific evidence for any given topic.
 
 [^disinfor]: In order to be concise, I will use the term misinformation to refer to both misinformation and disinformation unless explicitly stated.
-
 
 Misinformation is certainly not a new phenomena, but it seems to have become increasingly more prevalent over the last years. It is now well-documented that fake news is more likely to be retweeted and spread online than real news,[@vosoughi2018] and the Internet and social media can sometimes seem to be infested by it.
 
@@ -176,6 +180,4 @@ In fact, the crucial element of an echo chamber as an epistemic community is tha
 
 By preemptively dismissing the opinions of those who do not share the beliefs of those inside the echo chamber, it is easy to epistemically insulate oneself to the point that even evidence which contradicts your views and should give you reason to reevaluate, instead ends up confirming your original views even further.
 
-
 An echo chamber might be the most dangerous challenge to trust in science: once someone is inside one where scientists are considered outsiders and discredited, it is almost impossible to get them to reconsider their beliefs, especially when the suggestion to do so comes from those outside the echo chamber. Once again it is important to remember that although echo chambers are not completely online phenomena, the way algorithms are employed in social media do seem to aid in their formation.
-

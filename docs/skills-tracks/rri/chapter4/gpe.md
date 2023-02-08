@@ -3,7 +3,7 @@
 In the previous section, we looked at the reflect, act, and justify procedure, which was used to help develop and draw together the constitutive elements of an assurance case.
 To summarise, [reflect-act-justify](./assurance.md#reflect-act-justify) presents a simple illustration of the above process with reference to the three core elements.
 
-![A schematic that depicts the reflect, act and justify process.](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/raj.png)
+![A schematic that depicts the reflect, act and justify process.](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/raj.png)
 
 But how do you know which **goals** are relevant for specific projects?
 How do you use these goals to identify salient **properties**?

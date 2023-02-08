@@ -18,7 +18,7 @@ As such, data science projects are increasingly turning to machine learning algo
 
 Although a wide range of differences exist between research and innovation projects, the following model is a useful abstraction for reflecting on the typical activities associated with the lifecycle of a project that involves some form of ML or AI.
 
-![A graphical representation of a typical ML/AI project lifecycle.](../../assets/images/graphics/project-lifecycle.png){ align="center" }
+![A graphical representation of a typical ML/AI project lifecycle.](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/project-lifecycle.png){ align="center" }
 
 As the above figure demonstrates, we can split a typical project into three over-arching stages:
 
@@ -93,7 +93,7 @@ Regardless of the type of engagement, a core part of any public engagement is kn
 
 This section will explore a three-step process, which begins with 'Project Planning' and is designed to help you identify and understand your audience (or, stakeholders), summarised in the following graphic.
 
-![Three steps of stakeholder analysis](../../assets/images/graphics/stakeholder-analysis.png){ width="75%"}
+![Three steps of stakeholder analysis](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/stakeholder-analysis.png){ width="75%"}
 
 !!! warning "Principle of Proportionality"
 
@@ -126,7 +126,7 @@ Social scientists have long referred to this kind of self-locating reflection as
 When team members take their own positionalities into account, and make this explicit, they can better grasp how the influence of their respective social and cultural positions may affect the engagement process.
 The following 'positionality matrix' is designed to help with this process:
 
-![Positionality matrix](../../assets/images/graphics/positionality-matrix.png){ width="75%"}
+![Positionality matrix](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/positionality-matrix.png){ width="75%"}
 
 An example of how an individual's or group's characteristics may affect a research or innovation project is if a project team fail to identify how their own educational backgrounds enable them to understand and comprehend technical or complex concepts with comparative ease, or how the lack of cultural diversity in the team prevent them from recognising the significance of alternative values (e.g., prioritising technological policies that support social cohesion over individual autonomy). 
 
@@ -136,7 +136,7 @@ The final step is to establish *engagement objectives* that enable the appropria
 
 If we think back to the first chapter, and the different models of participation (e.g., Arnstein's ladder of engagement)[@arnstein1969], then we can identify the following four goals that can help us specify our project's objectives:
 
-![Four engagement goals](../../assets/images/graphics/engagement-goals.png){ width="75%" }
+![Four engagement goals](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/graphics/engagement-goals.png){ width="75%" }
 
 The use of these goals to support the identification of engagement objectives should also be informed by a) the following variations on participation, and also b) the methods of participation available to you and those who you are engaging (see [next chapter](how.md))
 

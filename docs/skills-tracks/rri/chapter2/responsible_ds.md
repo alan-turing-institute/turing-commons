@@ -16,12 +16,12 @@ By now there are surely many, many more!
 In response to this proliferation of principles, some have attempted to distil and condense the myriad documents, in order to identify commonalities and extract a unified list of shared principles.[@jobin2019]<sup>-</sup>[@floridi2019]
 However, regardless of which set of principles we start with, one thing remains the same: good principles should support ongoing reflection and deliberation; they are not decision procedures in their own right.
 
-![An illustration of a man standing in front of a branching pathway of moral decisions and considerations](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/deliberation.png){ align="center" }
+![An illustration of a man standing in front of a branching pathway of moral decisions and considerations](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/deliberation.png){ align="center" }
 
 This point is sometimes lost in the ensuing debate about *which set* of principles should be used or adhered to, or which set is best.
 However, what matters is that the set of principles should a) be responsive to the actual harms and benefits that matter to the communities of affected individuals, b) be underwritten by a set of shared values, which support and motivate dialogue between stakeholders[^values], and c) serve as *starting points* in a wider process of reflection and deliberation.
 
-[^values]: We won't say much about ethical values in this course. However, the course on [AI Ethics & Governance](https://turing-commons.netlify.app/aeg/index.html) focuses on them directly.
+[^values]: We won't say much about ethical values in this course. However, the course on [AI Ethics & Governance](../../aeg/index.md) focuses on them directly.
 
 With these points in mind, we will make use of the following set of principles known as the 'SAFE-D principles':
 

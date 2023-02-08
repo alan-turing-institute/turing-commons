@@ -1,6 +1,6 @@
 # Public Trust and Assurance
 
-![Image by Johnny Lighthands](../../assets/images/illustrations/trust-yellow.png)
+![Image by Johnny Lighthands](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/trust-yellow.png)
 
 ## Introduction
 
@@ -8,7 +8,7 @@ To conclude, we turn to look at some of the outstanding issues raised in the pre
 Specifically, we look at some of the explanatory factors for why members of the public may be skeptical of public engagement or even distrust science and technology.
 
 These factors are important to understand, even if there are no easy answers or solutions.
-We explore why public trust matters in the contect of public engagement, and also what can be done to provide assurance that you and your team have conducted your project in a responsible and trustworthy manner.
+We explore why public trust matters in the context of public engagement, and also what can be done to provide assurance that you and your team have conducted your project in a responsible and trustworthy manner.
 
 ## Chapter Outline
 
