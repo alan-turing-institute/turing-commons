@@ -1,6 +1,7 @@
 # 1 Introduction
 
-![Illustration by Johnny Lighthands](../../assets/images/illustrations/chatbot.png)
+![Illustration by Johnny Lighthands](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/chatbot.png)
+
 !!! note "Summary"
 
     This introduction serves to motivate the significance of some of the topics that will be explored throughout this guidebook. It starts by discussing the development of Prozac, as an illustrative example of how it can be challenging to anticipate the consequences of scientific research, before moving on to explore the concept of 'uncertainty'. Although some topics and concepts are introduced, they are not explored fully in this section.

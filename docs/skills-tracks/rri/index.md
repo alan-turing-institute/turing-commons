@@ -8,7 +8,7 @@ hide:
 
 <div class="result" markdown>
 
-  ![Illustration by Johnny Lighthands](../assets/images/illustrations/rri-cover.jpg){ align="right" width="50%"}
+  ![Illustration by Johnny Lighthands](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/rri-cover.jpg){ align="right" width="50%"}
 
   Responsible scientific research and technological innovation (RRI) is a vital component of a flourishing and fair society.
   As an area of study and mode of enquiry, RRI plays a central role within academic, public, private, and third-sector organisations.
@@ -21,7 +21,6 @@ hide:
   As well as looking at the theoretical basis of RRI this course will also take a hands-on approach by exploring a variety of tools and procedures that can help operationalise and implement a robust notion of responsibility within research and innovation practices.
 
 </div>
-
 
 ## Who is this Guidebook For?
 

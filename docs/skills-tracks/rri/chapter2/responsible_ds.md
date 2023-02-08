@@ -16,7 +16,7 @@ By now there are surely many, many more!
 In response to this proliferation of principles, some have attempted to distil and condense the myriad documents, in order to identify commonalities and extract a unified list of shared principles.[@jobin2019]<sup>-</sup>[@floridi2019]
 However, regardless of which set of principles we start with, one thing remains the same: good principles should support ongoing reflection and deliberation; they are not decision procedures in their own right.
 
-![An illustration of a man standing in front of a branching pathway of moral decisions and considerations](../../assets/images/illustrations/deliberation.png){ align="center" }
+![An illustration of a man standing in front of a branching pathway of moral decisions and considerations](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/deliberation.png){ align="center" }
 
 This point is sometimes lost in the ensuing debate about *which set* of principles should be used or adhered to, or which set is best.
 However, what matters is that the set of principles should a) be responsive to the actual harms and benefits that matter to the communities of affected individuals, b) be underwritten by a set of shared values, which support and motivate dialogue between stakeholders[^values], and c) serve as *starting points* in a wider process of reflection and deliberation.
@@ -126,7 +126,7 @@ Or, will only those wealthy enough to afford private healthcare receive this ser
 
 Should it instead be used for the most vulnerable and worse off in society?
 
-[^ped]: In our guidebook on [public engagement of data science and AI](https://turing-commons.netlify.app/ped/index.html) we formalise this notion of an ethical goal in relation to a method known as argument-based assurance. Here, the goals are supported by specific properties that must be established in a project, in order to provide justifiable assurance to stakeholders that the respective goal has been realised.
+[^ped]: In our guidebook on [public engagement of data science and AI](../../ped/index.md) we formalise this notion of an ethical goal in relation to a method known as argument-based assurance. Here, the goals are supported by specific properties that must be established in a project, in order to provide justifiable assurance to stakeholders that the respective goal has been realised.
 
 Questions such as these have no straightforward answer and are heavily context-dependant.
 Even if consensus were to be reached for a specific model used, say, in the diagnosis of lung cancer,[@svoboda2020] this would be no guarantee of a similar answer in a different area of healthcare (e.g., paediatrics, mental healthcare), or even for another diagnostic model in radiology (e.g., MRI instead of CT scans).

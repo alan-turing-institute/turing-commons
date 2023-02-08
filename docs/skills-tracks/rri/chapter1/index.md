@@ -1,7 +1,7 @@
 # What is Responsible Research and Innovation?
 
 <figure markdown>
-  ![Illustration by Johnny Lighthands](../../assets/images/illustrations/data-science.png){ align="center" }
+  ![Illustration by Johnny Lighthands](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/data-science.png){ align="center" }
   <figcaption>Illustration by [Johnny Lighthands](https://www.johnnylighthands.co.uk))</figcaption>
 </figure>
 
@@ -10,7 +10,7 @@
 - [What is Responsibility?](responsibility.md)
 - [A Short History of RRI](history.md)
 - [Science, Technology, and Society](sts.md)
-- [Science and Technology Studies (A Timeline)](timeline.md)
+<!-- - [Science and Technology Studies (A Timeline)](timeline.md) -->
 
 !!! abstract "Chapter Summary"
 

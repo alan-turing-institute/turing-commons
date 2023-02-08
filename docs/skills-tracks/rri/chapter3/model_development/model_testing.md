@@ -6,7 +6,7 @@ Before training a model, the data need to be split into 'training' and 'testing'
 
 
 <figure markdown>
-![An example of overfitting, underfitting and the appropriate balance.](../../../assets/images/graphics/overfitting.png){ align="center" }
+![An example of overfitting, underfitting and the appropriate balance.](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/overfitting.png){ align="center" }
  <figcaption>An example of overfitting, underfitting and the appropriate balance. Reprinted from <a href="https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6"> (Bronshtein, 2020) </a></figcaption>
 </figure>
 
@@ -29,9 +29,8 @@ The model training process then occurs *k* times, using a different subset as th
 At the end, an average is taken from the *k* models and this is tested against the original hold out testing set.
 The following graphic should help you visualise this.
 
-
 <figure markdown>
-![A simple representation of the K-Folds Cross Validation Process](../../../assets/images/graphics/cross-validation.png){ align="center" }
+![A simple representation of the K-Folds Cross Validation Process](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/cross-validation.png){ align="center" }
  <figcaption>A simple representation of the K-Folds Cross Validation Process</figcaption>
 </figure>
 

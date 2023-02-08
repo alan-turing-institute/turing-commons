@@ -153,7 +153,7 @@ nav:
               - What is Responsibility: skills-tracks/rri/chapter1/responsibility.md
               - A Short History of RRI: skills-tracks/rri/chapter1/history.md
               - Science, Technology, and Society: skills-tracks/rri/chapter1/sts.md
-              - Science and Technology Studies Timeline: skills-tracks/rri/chapter1/timeline.md
+            #   - Science and Technology Studies Timeline: skills-tracks/rri/chapter1/timeline.md
           - Responsible Data Science and AI:
               - Introduction: skills-tracks/rri/chapter2/index.md
               - What is Responsible Data Science and AI: skills-tracks/rri/chapter2/responsible_ds.md
@@ -173,7 +173,7 @@ nav:
               - Model Reporting: skills-tracks/rri/chapter3/model_development/model_reporting.md
               - Model Productionalisation: skills-tracks/rri/chapter3/system_deployment/model_productionalisation.md
               - User Training: skills-tracks/rri/chapter3/system_deployment/user_training.md
-              # - System Use and Monitoring: rri/chapter3/system_deployment/system_use.ipynb
+              - System Use and Monitoring: rri/chapter3/system_deployment/system_use.md
               - Model Updating or Deprovisioning: skills-tracks/rri/chapter3/system_deployment/model_updating.md
               - Next Steps: skills-tracks/rri/chapter3/summary.md
           - Responsible Communication:

@@ -5,7 +5,7 @@ They were asked whether the formula had any practical applications for society, 
 Three months later the Manhattan project dropped the first of their three atomic bombs!
 
 <figure markdown>
-![A 3d rendering of an atomic bomb](../../assets/images/graphics/bomb.jpeg){ align="center" }
+![A 3d rendering of an atomic bomb](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/bomb.jpeg){ align="center" }
 <figcaption>A 3d rendering of an atomic bomb</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ This is a primary objective for the entire course, but we can introduce some of 
 
 ## Risk and Impact Assessments
 
-At the [start of this chapter](responsibility.md) we looked at a definition of RRI from.[@vonschomberg2011] 
+At the [start of this chapter](responsibility.md) we looked at a definition of RRI from.[@vonschomberg2011]
 Let's look at another one, this time from the European Commission:
 
 === "European Commission"
@@ -80,10 +80,8 @@ The necessity of such assessments will be familiar to those who work in commerci
 Typically they are carried out for compliance reasons.
 However, the structured nature of such assessments can also support more ethical forms of reflection and anticipation.
 
-It is not necessary to present an overview of all the different impact assessments that could be useful within the context of RRI.[^further]
+It is not necessary to present an overview of all the different impact assessments that could be useful within the context of RRI.
 Instead, we will focus on a process that is central to almost all forms of risk or impact assessments: stakeholder participation.
-
-[^further]: See the ['Further Resources'](../resources/index.md) section for links to guides for each of these activities.
 
 ## Inclusive and Deliberative Stakeholder Participation
 
@@ -130,7 +128,7 @@ This goes beyond a narrow instrumental value to a broader social and ethical val
 It is also, arguably, part of the motivation behind famous ladder of public engagement.[@arnstein1969]
 
 <figure markdown>
-  ![Sherry Arnstein's Ladder of Engagement](../../assets/images/graphics/ladder.jpeg){ align="center" }
+  ![Sherry Arnstein's Ladder of Engagement](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/ladder.jpeg){ align="center" }
   <figcaption>Sherry Arnstein's Ladder of Engagement (Reprinted from Wikimedia Commons—https://commons.wikimedia.org/wiki/File:Ladder_of_citizen_participation,_Sherry_Arnstein.tiff).</figcaption>
 </figure>
 

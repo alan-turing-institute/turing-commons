@@ -1,7 +1,7 @@
 # Understanding Bias
 
 <figure markdown>
-  ![An artistic representation of social, statistical, and cognitive biases](../../assets/images/illustrations/bias.png){ align="center" }
+  ![An artistic representation of social, statistical, and cognitive biases](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/bias.png){ align="center" }
   <figcaption>An artistic representation of social, statistical, and cognitive biases</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ For example, consider the following example.
     
     Or, to put it more simply, someone cannot belong to the set of $feminist bank tellers$ without also belonging to the set of $bank tellers$ 👇
     
-    ![venn diagram for linda problem](../../assets/images/graphics/venn.png)
+    ![A Venn diagram for the linda problem](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/venn.png)
     
     Tversky and Kahneman attributed this systematic error to what is known as the *representativeness heuristic*. 
     In short, people don't think about the conjunction of events or consider probability theory when formulating an answer.

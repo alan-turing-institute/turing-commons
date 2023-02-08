@@ -1,6 +1,6 @@
 # Project Planning
 
-![An illustration of automated facial recognition](../../../assets/images/illustrations/facial-recognition.png)
+![An illustration of automated facial recognition](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/facial-recognition.png)
 
 In October 2021, the [Financial Times](https://www.ft.com/content/af08fe55-39f3-4894-9b2f-4115732395b9) reported that facial recognition cameras were being used in UK schools to scan the faces of ''thousands of British pupils in school canteens'' to automate the process of taking payment for lunches.
 The managing director of CRB Cunninghams—the company that developed the system sold to schools—claimed that ''In a secondary school you have around about a 25-minute period to serve potentially 1,000 pupils. So we need fast throughput at the point of sale.''

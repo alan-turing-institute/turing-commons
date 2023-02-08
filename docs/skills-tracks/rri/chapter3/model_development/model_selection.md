@@ -17,7 +17,7 @@ However, a neural network, at the other end of the extreme is often described as
 The trade-off for this lower interpretability can be greater performance in terms of accuracy or predictive power.
 
 <figure markdown>
-  ![A schematic showing the trade-off between model interpretability and model performance](../../../assets/images/graphics/interpretability.png){ align="center" }
+  ![A schematic showing the trade-off between model interpretability and model performance](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/interpretability.png){ align="center" }
   <figcaption>A schematic showing the trade-off between model interpretability and model performance. Reprinted from <a href="https://towardsdatascience.com/explainable-ai-the-data-scientists-new-challenge-f7cac935a5b4"> (Diop, 2019)</a></figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Therefore, such a decision is inescapably value-laden and inherently about exerc
 ### Supervised Learning
 
 <figure markdown>
-  ![An illustration of a neural network classifying an image of a dog correctly.](../../../assets/images/illustrations/deep-learning.png){ align="center" }
+  ![An illustration of a neural network classifying an image of a dog correctly.](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/deep-learning.png){ align="center" }
   <figcaption>An illustration of a neural network classifying an image of a dog correctly.</figcaption>
 </figure>
 
@@ -51,14 +51,6 @@ Commonly used learning algorithms include:
 - [Decision Trees](https://developers.google.com/machine-learning/glossary#decision-tree)
 - [Support-Vector Machines](https://en.wikipedia.org/wiki/Support-vector_machine)
 - [Neural Networks](https://en.wikipedia.org/wiki/Neural_network)
-
-<!-- 
-![](images/icons/../../../../../images/icons/linearregression.png)
-![](images/icons/../../../../../images/icons/logisticregression.png)
-![](images/icons/../../../../../images/icons/naivebayes.png)
-![](images/icons/../../../../../images/icons/decisiontree.png)
-![](images/icons/../../../../../images/icons/supportvector.png)
-![](images/icons/../../../../../images/icons/neuralnetwork.png) -->
 
 ### Unsupervised Learning
 

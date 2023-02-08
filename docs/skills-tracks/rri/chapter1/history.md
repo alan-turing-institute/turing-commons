@@ -12,7 +12,7 @@ The following three case studies help to provide illustrations of these points, 
 ## Case Study 1: Tuskegee Syphilis Study
 
 <figure markdown>
-  ![Doctor drawing blood from a patient as part of the Tuskegee Syphilis Study](../../assets/images/graphics/tuskegee.jpg){ align="center" }
+  ![Doctor drawing blood from a patient as part of the Tuskegee Syphilis Study](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/tuskegee.jpg){ align="center" }
   <figcaption>Doctor drawing blood from a patient as part of the Tuskegee Syphilis Study (Reprinted from Wikimedia Commons—https://commons.wikimedia.org/wiki/File:Tuskegee-syphilis-study_doctor-injecting-subject.jpg).</figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ We will say more about this in the [next section](sts.md).
 ## Case Study 2: Human Genome Project
 
 <figure markdown>
-  ![DNA Double Helix](../../assets/images/graphics/genome.jpeg){ align="center" }
+  ![DNA Double Helix](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/graphics/genome.jpeg){ align="center" }
   <figcaption>DNA Double Helix</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ As we will see in the next section, it is important to ask what social goal is b
 ## Case Study 3: Cambridge Analytica
 
 <figure markdown>
-  ![Cambridge Analytica Logo](../../assets/images/graphics/cambridge-analytica.png){ align="center" }
+  ![Cambridge Analytica Logo](https://github.com/alan-turing-institute/turing-commons/blob/main/docs/assets/images/illustrations/cambridge-analytica.png){ align="center" }
   <figcaption>Cambridge Analytica Logo</figcaption>
 </figure>
 
