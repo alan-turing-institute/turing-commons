@@ -28,11 +28,11 @@ theme:
     - content.code.annotate
     # - content.tabs.link
     # - header.autohide
-    - navigation.expand
+    # - navigation.expand
     - navigation.indexes
     - navigation.footer
     - navigation.instant
-    # - navigation.sections
+    - navigation.sections
     - navigation.path
     - navigation.tabs
     - navigation.tabs.sticky
@@ -142,6 +142,16 @@ extra_css:
   - stylesheets/gallery.css
 
 # Page tree
+
+nav:
+  - Home: index.md
+  - Welcome: welcome.md
+  - Skills Tracks:
+      - skills-tracks/index.md
+      - Responsible Research and Innovation:
+          - skills-tracks/rri/index.md
+          - Introduction: skills-tracks/rri/intro/index.md
+
 nav:
   - Home: index.md
   - Welcome: welcome.md
