@@ -582,6 +582,13 @@ images:
       - virtual reality
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/vr-therapy.png
     caption: "Woman experiences virtual reality therapy while a doctor monitors."
+  - title: "Identifying Claims"
+    tags:
+      - explainability
+      - claims
+      - assurance
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/identifying-claims.png
+    caption: "A project team developing, identifying, and evaluating claims about some properties of their project or system for the purpose of explainability or assurance."
      
 
 
