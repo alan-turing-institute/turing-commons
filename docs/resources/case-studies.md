@@ -5,4 +5,4 @@ hide:
   - toc
 ---
 
-# Case Studies
+# CaseStudy
