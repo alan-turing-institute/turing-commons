@@ -1,5 +1,5 @@
 ---
-template: case-study.html
+template: case-studies.html
 hide:
   - navigation
   - toc

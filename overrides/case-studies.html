@@ -23,6 +23,10 @@
     renderCases()
 
     async function renderCases() {
+        renderCasesList()
+    }
+
+    async function renderCasesList() {
         const cases = await FetchCases()
         console.log(cases)
 
@@ -31,21 +35,22 @@
         cases.map(c => (
             el.innerHTML += `
             <div class="flexbox-item">
-                <div class="card">
-                    <img
-                        src="${c.featuredImage}"
-                        alt="${c.heading}"
-                        class="card-img-top cover"
-                    />
-                    <div class="card-body">
-                        <h2 class="card-title">${c.heading}</h2>
-                        <p class="card-text">${c.subheading}</p>
+                <a href='case-study/?name=${c.slug}'>
+                    <div class="card">
+                        <img
+                            src="${c.featuredImage}"
+                            alt="${c.heading}"
+                            class="card-img-top cover"
+                        />
+                        <div class="card-body">
+                            <h2 class="card-title">${c.heading}</h2>
+                            <p class="card-text">${c.subheading}</p>
+                        </div>
                     </div>
-                </div>
+                </a>
             </div>
             `
         ))
-
     }
     
 </script>
