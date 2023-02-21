@@ -32,9 +32,9 @@ Brendan Kelly, the Data Custodian for Camden Council, explained why Camden was d
 
 !!! quote
 
-    We knew that the Data Charter wasn’t going to be perfect the first time around, and we said at the time that it was going to be a living document. 
-    This was always an important part of the process, being able to go back to residents, a second set of residents with fresh eyes, and also on the work in between. 
-    It keeps the democratic process going.
+  We knew that the Data Charter wasn’t going to be perfect the first time around, and we said at the time that it was going to be a living document. 
+  This was always an important part of the process, being able to go back to residents, a second set of residents with fresh eyes, and also on the work in between. 
+  It keeps the democratic process going.
 
 ![Camden Resident's Panel in Action](../../assets/images/graphics/crp-1.jpg)
 
@@ -46,8 +46,8 @@ Claudia Fischer, Researcher at the Alan Turing Institute and a facilitator in th
 
 !!! quote
 
-    Instances like the Camden Resident’s Panel highlight the importance of communication and effective dialogue between the developers and deployers of AI systems, and those using them. 
-    Residents were not only eager to learn more about how these systems work and how data is stored and used, but they also raised relevant issues about how those issues can personally impact them and other users of Camden’s services.
+  Instances like the Camden Resident’s Panel highlight the importance of communication and effective dialogue between the developers and deployers of AI systems, and those using them. 
+  Residents were not only eager to learn more about how these systems work and how data is stored and used, but they also raised relevant issues about how those issues can personally impact them and other users of Camden’s services.
 
 Residents really made great points and suggestions, that the council might otherwise have missed. 
 It resonated with a recent article from Democracy Next, on ‘How non-expertise becomes a strength”. 
@@ -65,7 +65,9 @@ This quote from Simon, a Camden resident, put it best:
 
 !!! quote
 
-    The most important thing is the fact that we’re in the room, and that the council is setting stuff up so that we’re asked about it. People fear the unknown, like AI, or profiling. But, if you share [how you are working on] it with them, share why, then you are going to get so many better outcomes. If you engage, you will get better outcomes for everyone else.
+  The most important thing is the fact that we’re in the room, and that the council is setting stuff up so that we’re asked about it. 
+  People fear the unknown, like AI, or profiling. But, if you share [how you are working on] it with them, share why, then you are going to get so many better outcomes. 
+  If you engage, you will get better outcomes for everyone else.
 
 ![Camden Resident's Panel in Action](../../assets/images/graphics/crp-3.jpg)
 
