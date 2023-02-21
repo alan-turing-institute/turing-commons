@@ -6,7 +6,7 @@ categories:
 tags:
   - public engagement
 authors:
-  - 
+  - sam
 ---
 
 # How ordinary residents are creating Camden Council’s Data Charter
@@ -15,7 +15,7 @@ authors:
 Over three weekends in January, Camden Council are running a Resident’s Panel with a group of local residents to reflect on, sense-check and make improvements to their Data Charter, which was created a year earlier. 
 At LOTI, we’ve [identified resident engagement](https://loti.london/toolkit/recommendations-data-ethics-capabilities/) as one of the key capabilities for councils to become more responsible innovators and ethical users of data, and given my other area of work on innovative participation methods, I was excited to attend the second weekend meeting of this Panel, and blog about my impressions. 
 
-<!-- image 1 -->
+![Camden Resident's Panel in Action](../../assets/images/graphics/crp-2.jpg)
 
 ### Background to the Resident’s Panel
 
@@ -36,7 +36,7 @@ Brendan Kelly, the Data Custodian for Camden Council, explained why Camden was d
     This was always an important part of the process, being able to go back to residents, a second set of residents with fresh eyes, and also on the work in between. 
     It keeps the democratic process going.
 
-<!-- image 2 -->
+![Camden Resident's Panel in Action](../../assets/images/graphics/crp-1.jpg)
 
 ### My reflections on the day
 
@@ -67,7 +67,7 @@ This quote from Simon, a Camden resident, put it best:
 
     The most important thing is the fact that we’re in the room, and that the council is setting stuff up so that we’re asked about it. People fear the unknown, like AI, or profiling. But, if you share [how you are working on] it with them, share why, then you are going to get so many better outcomes. If you engage, you will get better outcomes for everyone else.
 
-<!-- image 3 -->
+![Camden Resident's Panel in Action](../../assets/images/graphics/crp-3.jpg)
 
 Some of the other insights on Camden’s practices that the residents reflected on included:
 
