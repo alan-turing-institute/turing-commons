@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block container %}
+<div class="md-content" data-md-component="content">
+    <article class="md-content__inner md-typeset">
+    {% block content %}
+        {% include "partials/content.html" %}
+    {% endblock %}
+    </article>
+</div>
+{% endblock %}
+
+{% block scripts %} {{ super() }}
+
+<script>
+    let el = document.getElementsByClassName('md-main__inner md-grid')[0]
+    el.classList.remove('md-grid')
+    // console.log(el)
+    // alert('test')
+</script>
+
+{% endblock %}
