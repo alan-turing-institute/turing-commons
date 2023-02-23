@@ -252,5 +252,5 @@ nav:
       - Case Studies: resources/case-studies.md
       - Activities: resources/activities.md
 
-  - Blog:
-      - blog/index.md
+  # - Blog:
+  #     - blog/index.md
