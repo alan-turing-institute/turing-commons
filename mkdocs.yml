@@ -67,11 +67,11 @@ theme:
 
 # Plugins
 plugins:
-  - blog:
-      post_date_format: medium
-      post_url_date_format: YYYY/MM/dd
-      post_url_format: "{slug}"
-      post_readtime: true
+  # - blog:
+  #     post_date_format: medium
+  #     post_url_date_format: YYYY/MM/dd
+  #     post_url_format: "{slug}"
+  #     post_readtime: true
   - glightbox:
       touchNavigation: true
       loop: false
@@ -134,7 +134,7 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-  - javascripts/tablesort.js
+  # - javascripts/tablesort.js
   - javascripts/copyurl.js
 
 extra_css:
@@ -142,16 +142,6 @@ extra_css:
   - stylesheets/gallery.css
 
 # Page tree
-
-nav:
-  - Home: index.md
-  - Welcome: welcome.md
-  - Skills Tracks:
-      - skills-tracks/index.md
-      - Responsible Research and Innovation:
-          - skills-tracks/rri/index.md
-          - Introduction: skills-tracks/rri/intro/index.md
-
 nav:
   - Home: index.md
   - Welcome: welcome.md
@@ -253,4 +243,4 @@ nav:
       - Activities: resources/activities.md
 
   # - Blog:
-  #     - blog/index.md
+  #   - blog/index.md
