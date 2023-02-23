@@ -1,5 +1,5 @@
 # Project information
-INHERIT: images.yml
+# INHERIT: images.yml
 site_name: Turing Commons
 site_url: https://alan-turing-institute.github.io/turing-commons/
 site_description: >-
