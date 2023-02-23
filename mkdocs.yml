@@ -159,41 +159,40 @@ nav:
       - skills-tracks/index.md
       - Responsible Research and Innovation in Data Science and AI:
           - skills-tracks/rri/index.md
-          - Introduction: skills-tracks/rri/intro/index.md
           - What is Responsible Research and Innovation:
-              - Introduction: skills-tracks/rri/chapter1/index.md
-              - What is Responsibility: skills-tracks/rri/chapter1/responsibility.md
-              - A Short History of RRI: skills-tracks/rri/chapter1/history.md
-              - Science, Technology, and Society: skills-tracks/rri/chapter1/sts.md
-            #   - Science and Technology Studies Timeline: skills-tracks/rri/chapter1/timeline.md
-          - Responsible Data Science and AI:
-              - Introduction: skills-tracks/rri/chapter2/index.md
-              - What is Responsible Data Science and AI: skills-tracks/rri/chapter2/responsible_ds.md
-              - Introducing the Project Lifecycle: skills-tracks/rri/chapter2/project_lifecycle.md
-              - Roles and Responsibilities: skills-tracks/rri/chapter2/roles_responsibility.md
-              - Understanding Bias: skills-tracks/rri/chapter2/understanding_bias.md
-          - The Project Lifecycle:
-              - Introduction: skills-tracks/rri/chapter3/index.md
-              - Case Studies: skills-tracks/rri/activities/case_studies.md
-              - Project Planning: skills-tracks/rri/chapter3/project_design/planning.md
-              - Problem Formulation: skills-tracks/rri/chapter3/project_design/problem.md
-              - Data Extraction or Procurement: skills-tracks/rri/chapter3/project_design/data_extraction.md
-              - Data Analysis: skills-tracks/rri/chapter3/project_design/data_analysis.md
-              - Preprocessing and Feature Engineering: skills-tracks/rri/chapter3/model_development/preprocessing.md
-              - Model Selection and Training: skills-tracks/rri/chapter3/model_development/model_selection.md
-              - Model Testing and Validation: skills-tracks/rri/chapter3/model_development/model_testing.md
-              - Model Reporting: skills-tracks/rri/chapter3/model_development/model_reporting.md
-              - Model Productionalisation: skills-tracks/rri/chapter3/system_deployment/model_productionalisation.md
-              - User Training: skills-tracks/rri/chapter3/system_deployment/user_training.md
-              - System Use and Monitoring: skills-tracks/rri/chapter3/system_deployment/system_use.md
-              - Model Updating or Deprovisioning: skills-tracks/rri/chapter3/system_deployment/model_updating.md
-              - Next Steps: skills-tracks/rri/chapter3/summary.md
-          - Responsible Communication:
-              - Introduction: skills-tracks/rri/chapter4/index.md
-              - What is Argument-Based Assurance: skills-tracks/rri/chapter4/assurance.md
-              - Assurance and Responsible Communication: skills-tracks/rri/chapter4/communication.md
-              - Goals, Properties, and Evidence: skills-tracks/rri/chapter4/gpe.md
-          - Conclusion: skills-tracks/rri/conclusion/index.md
+              - skills-tracks/rri/rri-100-index.md
+              - Understanding Responsibility: skills-tracks/rri/rri-100-1.md
+              - Collective and Distributed Responsibility: skills-tracks/rri/rri-100-2.md
+              - Defining Responsible Research and Innovation: skills-tracks/rri/rri-100-3.md
+              - The Scope and Horizon of Responsibility: skills-tracks/rri/rri-100-4.md
+          - The Project Lifecycle Model:
+              - skills-tracks/rri/rri-101-index.md
+              - What is the Project Lifecycle?: skills-tracks/rri/rri-101-1.md
+              - Project Design: skills-tracks/rri/rri-101-2.md
+              - Model Development: skills-tracks/rri/rri-101-3.md
+              - System Deployment: skills-tracks/rri/rri-101-4.md
+          - The SAFE-D Modules:
+            - skills-tracks/rri/rri-200-index.md
+            # - Sustainability:
+            #   - skills-tracks/rri/rri-201-index.md
+            # - Accountability:
+            #   - skills-tracks/rri/rri-202-index.md
+            - Fairness:
+              - skills-tracks/rri/rri-203-index.md
+              - What is Fairness?: skills-tracks/rri/rri-203-1.md
+              - Sociocultural Fairness: skills-tracks/rri/rri-203-2.md
+              - Statistical Fairness: skills-tracks/rri/rri-203-3.md
+              - Practical Fairness: skills-tracks/rri/rri-203-4.md
+            - Explainability:
+              - skills-tracks/rri/rri-204-index.md
+              - What is Explainability?: skills-tracks/rri/rri-204-1.md
+              - Project Transparency: skills-tracks/rri/rri-204-2.md
+              - Model Interpretability: skills-tracks/rri/rri-204-3.md
+              - Situated Explanations: skills-tracks/rri/rri-204-4.md
+            # - Data Stewardship:
+            #   - skills-tracks/rri/rri-205-index.md
+          # - Responsible Communication: 
+          #   - skills-tracks/rri/rri-300-index.md
       - Public Engagement in Data Science and AI:
           - skills-tracks/ped/index.md
           - What is Public Engagement?:
