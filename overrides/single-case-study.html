@@ -1,0 +1,243 @@
+{% extends "main.html" %} {% block content %} {{ super() }}
+
+<!-- case study template goes here -->
+<div class="bg-slate-800 relative flex flex-col-reverse py-16 lg:pt-0 lg:flex-col lg:pb-0">
+    <div class="inset-y-0 top-0 right-0 z-0 w-full max-w-xl px-4 mx-auto md:px-0 lg:pr-0 lg:mb-0 lg:mx-0 lg:w-7/12 lg:max-w-full lg:absolute xl:px-0">
+      <svg
+        class="absolute left-0 hidden h-full text-slate-800 transform -translate-x-1/2 lg:block"
+        viewBox="0 0 100 100"
+        fill="currentColor"
+        preserveAspectRatio="none slice"
+      >
+        <path d="M50 0H100L50 100H0L50 0Z" />
+      </svg>
+      <img
+        id="featuredImage"
+        class="object-cover w-full h-56 rounded shadow-lg lg:rounded-none lg:shadow-none md:h-96 lg:h-full"
+        src="#"
+        alt=""
+      />
+    </div>
+    <div class="relative flex flex-col items-start w-full max-w-xl px-4 mx-auto md:px-0 lg:px-8 lg:max-w-screen-xl">
+      <div class="mb-16 lg:my-40 lg:max-w-lg lg:pr-5">
+        <div class='text-slate-100 text-2xl font-bold -mt-6 sm:-mt-24 mb-16'>
+        <h1>The <br/><span class='ml-6'>Alan Turing</span><br/> Institute</h1>
+        </div>
+        <h2 id="heading" class="mb-5 font-sans text-5xl font-bold tracking-tight text-white sm:text-5xl sm:leading-none">
+        </h2>
+        <p id="subheading" class="pr-5 mb-5 text-base text-slate-200 md:text-lg">
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class='bg-slate-100'>
+    <div class="p-16">
+      <div class="">
+        <div class="text-left">
+          <p class="mt-2 text-lg font-bold tracking-tight text-gray-900 sm:text-2xl">Overview</p>
+        </div>
+        <div id="overview" class="mt-6 max-w-lg sm:mx-auto md:max-w-none text-lg"></div>
+      </div>
+    </div>
+  </div>
+  <div class='flex w-full flex-wrap'>
+    <div id="KeyConsiderations" class='w-full sm:w-1/2 p-16 bg-slate-600 text-white'>
+      <p class="text-2xl font-bold tracking-tight">Key Considerations</p>
+      <div id="keyConsiderationsList" class='py-6'>
+        <!-- {keyConsiderations.length > 0 && keyConsiderations.map((kc:any, index:any) => (
+          <div key={index} class="flex flex-row justify-start items-start gap-4 my-6">
+            <div class="hidden sm:flex h-10 w-10 items-center justify-center rounded-xl bg-slate-500 text-white sm:shrink-0">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" class="w-6 h-6">
+              <path strokeLinecap="round" strokeLinejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z" />
+            </svg>
+            </div>
+            <div class="sm:min-w-0 sm:flex-1 text-white">
+              <p class="text-lg leading-7">{kc.value}</p>
+            </div>
+          </div>
+        ))} -->
+      </div>
+    </div>
+    <div id="DeliberativePrompts" class='w-full sm:w-1/2 p-16 bg-slate-800 text-white'>
+      <p class="text-2xl font-bold tracking-tight">Deliberative Prompts</p>
+      <div id="promptsList" class='py-6'>
+        <!-- {prompts.length > 0 && prompts.map((prompt:any, index:any) => (
+          <div key={index} class="flex flex-row justify-start items-start gap-4 my-6">
+            <div class="hidden sm:flex h-10 w-10 items-center justify-center rounded-full bg-slate-700 text-white sm:shrink-0">
+              {index + 1}
+            </div>
+            <div class="flex text-white justify-start items-start">
+              <p class="text-lg leading-7">{prompt.value}</p>
+            </div>
+          </div>
+        ))} -->
+      </div>
+    </div>
+  </div>
+  <div class='flex flex-row-reverse w-full flex-wrap'>
+    <div class='w-full sm:w-1/2 text-white flex flex-col justify-start items-start'>
+      <div class='w-full bg-white text-black'>
+        <img
+          class="object-cover w-full h-56 rounded shadow-lg lg:rounded-none lg:shadow-none md:h-96 lg:h-full"
+          src="https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+          alt=""
+        />
+      </div>
+      <div id="People" class='w-full flex-1 p-16 bg-slate-600 text-white'>
+        <p class="text-2xl font-bold tracking-tight">Groups, Organisations and Affected individuals</p>
+        <div id="peopleList" class='py-6'>
+          <!-- {people.length > 0 && people.map((p:any, index:any) => (
+            <div key={index} class="flex flex-row justify-start items-start gap-4 my-6">
+              <div class="hidden sm:flex h-10 w-10 items-center justify-center rounded-full bg-slate-700 text-white sm:shrink-0">
+                {index + 1}
+              </div>
+              <div class="flex sm:min-w-0 text-white justify-start items-center gap-4">
+                <p class="text-lg mt-1">{p.value}</p>
+              </div>
+            </div>
+          ))} -->
+        </div>
+      </div>
+    </div>
+    <div id="Datasheet" class='w-full sm:w-1/2 p-2 sm:p-16 bg-slate-100 text-slate-800'>
+      <div class='bg-slate-200 rounded-md shadow-xl p-4 sm:p-6'>
+        <p class="text-2xl font-bold tracking-tight">Datasheet</p>
+        <div class="overflow-x-auto mt-4">
+            <table id="dataSheetList" class="w-full text-sm text-left" style="list-style-type: disc;"">
+                <thead class="text-lg text-slate-800">
+                    <tr class=''>
+                        <th scope="col" class="py-3 px-6">
+                            Category
+                        </th>
+                        <th scope="col" class="py-3 px-6">
+                            Details
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                <!-- {datasheet.length > 0 && datasheet.map((d:any, index:any) => (
+                  <tr class="text-slate-800 text-lg">
+                      <th scope="row" class="py-4 px-6 text-left font-normal text-slate-700 italic">
+                          {d.category}
+                      </th>
+                      <td class="py-4 px-6">
+                        {parse(d.details)}
+                      </td>
+                  </tr>
+                ))} -->
+                </tbody>
+            </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+{% endblock %}
+
+{% block scripts %} {{ super() }}
+
+<!-- custom case study scripts go here -->
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+    const FetchCase = async (slug) => {
+        var requestOptions = {
+            method: 'GET',
+            redirect: 'follow'
+        };
+        const response = await fetch(`https://turing-case-studies-api.azurewebsites.net/api/cases/casestudy/${slug}`, requestOptions)
+        const result = await response.json()
+        return result[0];
+    }
+
+    renderCase()
+
+    async function renderCase() {
+        // Params
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        const slug= urlParams.get('name')
+    
+        if(slug) {
+            renderSingleCase(slug)
+        }
+    }
+
+    async function renderSingleCase(slug) {
+
+        let article = document.getElementsByTagName('article')[0]
+        article.removeAttribute('class')
+        article.firstElementChild.style.visibility = "hidden"
+
+        const caseSingle = await FetchCase(slug)
+        console.log(caseSingle)
+
+        document.getElementById('featuredImage').src = caseSingle.featuredImage
+        document.getElementById('heading').innerHTML = caseSingle.heading
+        document.getElementById('subheading').innerHTML = caseSingle.subheading
+        document.getElementById('overview').innerHTML = caseSingle.overview
+
+        caseSingle.keyConsiderations.map(k => {
+            let el = document.getElementById('keyConsiderationsList')
+
+            el.innerHTML += `
+            <div class="flex flex-row justify-start items-start gap-4 my-6">
+                <div class="hidden sm:flex h-10 w-10 items-center justify-center rounded-xl bg-slate-500 text-white sm:shrink-0">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" class="w-6 h-6">
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z" />
+                    </svg>
+                </div>
+                <div class="sm:min-w-0 sm:flex-1 text-white">
+                    <p class="text-lg leading-7">${k.value}</p>
+                </div>
+            </div>
+            `
+        })
+
+        caseSingle.prompts.map((p, index) => {
+            let el = document.getElementById('promptsList')
+
+            el.innerHTML += `
+            <div class="flex flex-row justify-start items-start gap-4 my-6">
+                <div class="hidden sm:flex h-10 w-10 items-center justify-center rounded-full bg-slate-700 text-white sm:shrink-0 text-md">
+                    ${index + 1}
+                </div>
+                <div class="flex text-white justify-start items-start">
+                    <p class="text-lg leading-7">${p.value}</p>
+                </div>
+            </div>
+            `
+        })
+
+        caseSingle.people.map((p, index) => {
+            let el = document.getElementById('peopleList')
+
+            el.innerHTML += `
+            <div class="flex flex-row justify-start items-start gap-4 my-6">
+              <div class="hidden sm:flex h-10 w-10 items-center justify-center rounded-full bg-slate-700 text-white sm:shrink-0 text-md">
+                ${index + 1}
+              </div>
+              <div class="flex sm:min-w-0 text-white justify-start items-center gap-4">
+                <p class="text-lg mt-1">${p.value}</p>
+              </div>
+            </div>
+            `
+        })
+
+        caseSingle.datasheet.map((d, index) => {
+            var myTbody = document.querySelector("#dataSheetList>tbody");
+            var newRow = myTbody.insertRow();
+            newRow.insertCell().append(d.category);
+            newRow.insertCell().innerHTML = d.details;
+        })
+    
+        let listItems = document.getElementById('dataSheetList').getElementsByTagName('ul')
+
+        for (i = 0; i < listItems.length; i++) {
+            listItems[i].setAttribute("style", "list-style:disc;")
+        }
+        
+    }
+
+</script>
+
+{% endblock %}

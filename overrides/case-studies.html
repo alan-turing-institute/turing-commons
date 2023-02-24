@@ -1,0 +1,58 @@
+{% extends "main.html" %} {% block content %} {{ super() }}
+
+<!-- case study template goes here -->
+<div id="cases-container" class="flexbox-container"></div>
+
+{% endblock %}
+
+{% block scripts %} {{ super() }}
+
+<!-- custom case study scripts go here -->
+<script>
+    
+    const FetchCases = async () => {
+        var requestOptions = {
+            method: 'GET',
+            redirect: 'follow'
+        };
+        const response = await fetch("https://turing-case-studies-api.azurewebsites.net/api/cases", requestOptions)
+        const result = await response.json()
+        return result;
+    }
+
+    renderCases()
+
+    async function renderCases() {
+        renderCasesList()
+    }
+
+    async function renderCasesList() {
+        const cases = await FetchCases()
+        console.log(cases)
+
+        const el = document.getElementById('cases-container')
+
+        cases.map(c => (
+            el.innerHTML += `
+            <div class="flexbox-item">
+                <a href='case-study/?name=${c.slug}'>
+                    <div class="card">
+                        <img
+                            src="${c.featuredImage}"
+                            alt="${c.heading}"
+                            class="card-img-top cover"
+                        />
+                        <div class="card-body">
+                            <h2 class="card-title">${c.heading}</h2>
+                            <p class="card-text">${c.subheading}</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            `
+        ))
+    }
+    
+</script>
+
+{% endblock %}

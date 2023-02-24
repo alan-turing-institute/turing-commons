@@ -1,5 +1,8 @@
+---
+template: case-studies.html
+hide:
+  - navigation
+  - toc
+---
+
 # Case Studies
-
-Coming soon!
-
-![](../assets/images/illustrations/construction.png)
