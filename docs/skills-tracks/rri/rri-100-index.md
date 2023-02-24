@@ -6,18 +6,22 @@ hide:
 
 # About this Module
 
-<!-- This page should list learning objectives for this module and provide a summary. -->
+This module sets a foundation for the rest of the skills track. It attempts to understand what responsibility is, focusing on both indiviudal and collective responsibility, and how these ideas impact the way responsibility is distributed across a data-driven or AI project.
 
-[...]
+The module delves into the history of the term responsible research and innovation and why it has become increasingly relevant, as well as questions around the *scope* of responsibility. What are the boundaries of responsibility? Are we responsible for those far away geographically? For people who have not yet been born?
 
-<!-- please draft a summary of the module or copy/paste from the pre-existing HackMD file -->
+Overall, the module plays a motivating role by highlighting the interconnected nature of science, technology, and society.
 
 ## Learning Objectives
 
 This module has the following learning objectives:
 
-- Ojective 1
-- Objective 2
+- Understand what is meant by the term ‘responsible research and innovation’, including the motivation and historical context for its increasing relevance.
+- Understand the difference between accountability and responsibility.
+- Identify and distinguish between different types of responsibility.
+- Explore the notions of individual, collective, and distributed responsibility, and identify the tension that arise in these concepts, especially in their application to AI or data-driven projects.
+- Explore and critically evaluate the different frameworks used for defining and operationalising responsible research and innovation.
+- Learn to think critically about the scope of responsibilities, what it's (sometimes vague) boundaries are, and to *whom* are we responsible.
 
 ## Table of Contents
 
@@ -27,7 +31,7 @@ This module has the following learning objectives:
 
     ---
 
-    This section...
+    This section goes what responsibility is as a concept, how it differs from accountability, and introduces different kinds of responsibilities.
 
     [:octicons-arrow-right-24: Go to module](rri-100-1.md)
 
@@ -35,7 +39,7 @@ This module has the following learning objectives:
 
     ---
 
-    This section...
+    This section delves into the idea of collective responsibility, what the arguments for and against it are, and why it is relevant for data-driven and AI projects.
 
     [:octicons-arrow-right-24: Go to module](rri-100-2.md)
 
@@ -43,7 +47,7 @@ This module has the following learning objectives:
 
     ---
 
-    This section...
+    This section goes over different definitions for responsible research and innovation, why the term has become increasingly relevant, and its connection to STS.
 
     [:octicons-arrow-right-24: Go to module](rri-100-3.md)
 
@@ -51,7 +55,7 @@ This module has the following learning objectives:
 
     ---
 
-    This section...
+    This section focuses on the scope of responsibility. Where do the boundaries of responsibility lie for a specific AI or data-driven project? Are we responsible for spatially distant people? For people who will live in the future?
 
     [:octicons-arrow-right-24: Go to module](rri-100-4.md)
 
