@@ -37,7 +37,7 @@ This skills track has the following learning objectives:
 
     This chapter introduces the model and framework of the ML/AI project lifecycle, and explores the constituent stages.
 
-    [:octicons-arrow-right-24: Go to module](rri-102-index.md)
+    [:octicons-arrow-right-24: Go to module](rri-101-index.md)
 
 -   :material-thought-bubble:{ .lg .middle } __The SAFE-D Principles__
 
