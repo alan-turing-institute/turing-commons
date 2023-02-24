@@ -43,7 +43,7 @@ The principles are: sustainability, accountability, fairness, explainability, an
 
     ---
 
-    This module ...
+    This module is coming soon.
 
     [:octicons-arrow-right-24: Go to module](rri-205-index.md)
 
