@@ -33,7 +33,7 @@ This skills track has the following learning objectives:
 
     This chapter looks at foundational concepts and topics associated with responsible research and innovation (RRI).
 
-    [:octicons-arrow-right-24: Go to module](rri-100-1.md)
+    [:octicons-arrow-right-24: Go to module](rri-100-index.md)
 
 -   :fontawesome-solid-arrows-spin:{ .lg .middle } __The Project Lifecycle__
 
