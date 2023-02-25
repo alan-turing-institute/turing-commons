@@ -6,9 +6,11 @@ hide:
 
 # About this Module
 
+A description for this module is coming soon!
+
 <!-- This page should list learning objectives for this module and provide a summary. -->
 
-[...]
+<!-- [...] -->
 
 <!-- > **Note for Index Page** -->
 <!-- > This module is not a technical introduction to Fair ML methods, nor does it attempt to provide an up-to-date overview of the current methods in the field. -->
@@ -21,10 +23,10 @@ hide:
 
 ## Learning Objectives
 
-This module has the following learning objectives:
+<!-- This module has the following learning objectives: -->
 
-- Objective 1
-- Objective 2
+<!-- - Objective 1 -->
+<!-- - Objective 2 -->
 
 ## Table of Contents
 
@@ -34,7 +36,7 @@ This module has the following learning objectives:
 
     ---
 
-    This section...
+    <!-- This section... -->
 
     [:octicons-arrow-right-24: Go to module](rri-203-1.md)
 
@@ -42,7 +44,7 @@ This module has the following learning objectives:
 
     ---
 
-    This section...
+    <!-- This section... -->
 
     [:octicons-arrow-right-24: Go to module](rri-203-2.md)
 
@@ -50,7 +52,7 @@ This module has the following learning objectives:
 
     ---
 
-    This section...
+    <!-- This section... -->
 
     [:octicons-arrow-right-24: Go to module](rri-203-3.md)
 
@@ -58,7 +60,7 @@ This module has the following learning objectives:
 
     ---
 
-    This section...
+    <!-- This section... -->
 
     [:octicons-arrow-right-24: Go to module](rri-203-4.md)
 
