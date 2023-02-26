@@ -10,7 +10,7 @@ This module has the following learning objectives:
 
 - Explore the concept of explainability in the context of data science and AI, and understand the importance of appropriate, context-dependent explanations.
 - Understand what is meant by project transparency, what it looks like, and what some of its limitations are.
-- Learn about model interpretability, the different types of methods available for interpreting models, and how we can clssify them.
+- Learn about model interpretability, the different types of methods available for interpreting models, and how we can classify them.
 - Identify the need for explanations that are tailored to specific situated contexts and its corresponding audience.
 - Explore the difference between outcome-based and process-based explanations and when you might employ one or the other.
 

@@ -1,6 +1,6 @@
 # About these Modules
 The following are the five optional modules for the RRI skills track. 
-Each module focuses on one of the SAFE-D principles, overarching ethical principles which highlight crucial dimensions when thinking about responsible research and innovation.
+Each module focuses on one of the SAFE-D principles. These are overarching ethical principles which highlight crucial dimensions relevant when thinking throught the practical applications of responsible research and innovation.
 
 The principles are: sustainability, accountability, fairness, explainability, and data stewardship. 
 To complete the RRI skills track, *at least one* of the five modules must be completed. 
