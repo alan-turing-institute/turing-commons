@@ -10,7 +10,7 @@ This module sets a foundation for the rest of the skills track. It attempts to u
 
 The module delves into the history of the term responsible research and innovation and why it has become increasingly relevant, as well as questions around the *scope* of responsibility. What are the boundaries of responsibility? Are we responsible for those far away geographically? For people who have not yet been born?
 
-Overall, the module plays a motivating role by highlighting the interconnected nature of science, technology, and society.
+Overall, the module plays a motivating role for the rest of the skills track by highlighting the interconnected nature of science, technology, and society.
 
 ## Learning Objectives
 
@@ -19,9 +19,9 @@ This module has the following learning objectives:
 - Understand what is meant by the term ‘responsible research and innovation’, including the motivation and historical context for its increasing relevance.
 - Understand the difference between accountability and responsibility.
 - Identify and distinguish between different types of responsibility.
-- Explore the notions of individual, collective, and distributed responsibility, and identify the tension that arise in these concepts, especially in their application to AI or data-driven projects.
+- Explore the notions of individual, collective, and distributed responsibility, and well as the tension that can arise between them, especially in their application to AI or data-driven projects.
 - Explore and critically evaluate the different frameworks used for defining and operationalising responsible research and innovation.
-- Learn to think critically about the scope of responsibilities, what it's (sometimes vague) boundaries are, and to *whom* are we responsible.
+- Learn to think critically about the scope of responsibilities, what it's (sometimes vague) boundaries are, and to *whom* we are responsible.
 
 ## Table of Contents
 
