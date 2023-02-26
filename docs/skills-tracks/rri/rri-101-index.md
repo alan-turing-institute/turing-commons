@@ -14,10 +14,10 @@ It unpacks the usefulness of the model for several processes or outcomes, and th
 
 This module has the following learning objectives:
 
-- Understand why the model can only ever be a heuristic model is.
+- Understand why the project lifecycle model is called a heuristic model, and why models can only ever be heuristic.
 - Identify the main properties of the model and who it is for. 
 - Explore the pragmatic uses of the model.
-- Identify the twelve stages of the project lifecycle and why they are relevant to the different ethical, legal, or social issues that may arise throughout the design, development, and deployment of a project.
+- Identify the twelve stages of the project lifecycle and why they are relevant to the different ethical, legal, and social issues that may arise throughout the design, development, and deployment of a project.
 
 ## Table of Contents
 
