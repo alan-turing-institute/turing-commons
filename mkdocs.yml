@@ -1,5 +1,6 @@
 # Project information
-# INHERIT: images.yml
+
+INHERIT: images.yml
 site_name: Turing Commons
 site_url: https://alan-turing-institute.github.io/turing-commons/
 site_description: >-
@@ -67,11 +68,11 @@ theme:
 
 # Plugins
 plugins:
-  # - blog:
-  #     post_date_format: medium
-  #     post_url_date_format: YYYY/MM/dd
-  #     post_url_format: "{slug}"
-  #     post_readtime: true
+  - blog:
+      post_date_format: medium
+      post_url_date_format: YYYY/MM/dd
+      post_url_format: "{slug}"
+      post_readtime: true
   - glightbox:
       touchNavigation: true
       loop: false
@@ -142,6 +143,7 @@ extra_css:
   - stylesheets/gallery.css
 
 # Page tree
+
 nav:
   - Home: index.md
   - Welcome: welcome.md
@@ -242,5 +244,6 @@ nav:
       - Case Studies: resources/case-studies.md
       - Activities: resources/activities.md
 
-  # - Blog:
-  #   - blog/index.md
+  - Blog:
+      - blog/index.md
+

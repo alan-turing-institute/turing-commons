@@ -1,0 +1,622 @@
+# Base Url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/{image-filename}
+
+images:
+  - title: "AI Ethics and Governance (Cover Image)"
+    tags:
+      - AI ethics
+      - governance
+      - values
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/aeg-cover.png
+    caption: "Cover illustration for the AI Ethics and Governance skills track. Image depicts a garden of ethical values and principles for AI, with people tending to it."
+    display: cover
+  - title: "Artificial Intelligence (Version 1)"
+    tags:
+      - Artificial Intelligence
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/artificial-intelligence.png
+    caption: "Illustration showing different images related to sociotechnical AI systems, represented in clouds connected to a central brain."
+  - title: "Artificial Intelligence (Version 2)"
+    tags:
+      - Artificial Intelligence
+      - system
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ai-squares.png
+    caption: "Six squares showing different images related to sociotechnical AI systems."
+  - title: "Algorithm (Version 1)"
+    tags:
+      - algorithm
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/algorithm1.png
+    caption: "Abstract representation of an algorithm."
+    # display: cover
+  - title: "Algorithm (Version 2)"
+    tags:
+      - algorithm
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/algorithm2.png
+    caption: "Abstract representation of an algorithm."
+  - title: "Assurance (Version 1)"
+    tags:
+      - assurance
+      - planning
+      - project design
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance.png
+    caption: "Illustration showing a developer building an assurance case for her project."
+  - title: "Assurance (Version 2)"
+    tags:
+      - assurance
+      - argument
+      - project design
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance-alt.jpg
+    caption: "Illustration showing a developer building an assurance case for her project."  
+  - title: "Assurance Case (Large)"
+    tags:
+      - assurance case
+      - argument
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance-case-large.png
+    caption: "Abstract representation of an assurance case."  
+  - title: "Assurance Case (Medium)"  
+    tags:
+      - assurance case
+      - argument
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance-case-medium.png
+    caption: "Abstract representation of an assurance case."
+  - title: "Assurance Case (Small)"
+    tags:
+      - assurance case
+      - argument
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance-case-small.png
+    caption: "Abstract representation of an assurance case."
+  - title: "Assurance Case (XL)"
+    tags:
+      - assurance case
+      - argument
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/assurance-case-xlarge.png
+    caption: "Abstract representation of an assurance case."
+    display: cover
+  - title: "Autonomous Vehicle"
+    tags:
+      - autonomous vehicle
+      - sociotechnical systems
+      - artificial intelligence
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/autonomous-vehicle.png
+    caption: "Illustration showing the deployment of an autonomous vehicle, from its assembly, through its inspection, to its usage."
+    display: cover
+  - title: "Biases"
+    tags:
+      - bias
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/bias.png
+    caption: "Illustration depicting the three main categories of biases found in AI systems: social, statistical, and cognitive"
+  - title: "Biospheric Harm"
+    tags:
+      - ai ethics
+      - environment
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/biospheric-harm.jpg
+    caption: "Illustration showing that large, data- and compute power- intensive models can generate great harms to our environment and the biosphere in general."
+  - title: "Co-Designing Assurance"
+    tags:
+      - argument-based assurance
+      - participatory design
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/building-an-assurance-case.png
+    caption: "An image showing the collaborative process of building an assurance case. It is a participatory process which requires stakeholder engagement as well as co-designing by project team members."
+    display: cover
+  - title: "Digital Mental Health Chatbot"
+    tags:
+      - chatbot
+      - digital mental healthcare
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/chatbot.png
+    caption: "Image showing a woman using digital mental health service by interacting with a mental health chatbot."
+  - title: "Citizen Engagement"
+    tags:
+      - participatory design
+      - workshop
+      - engagement
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/citizen-engagement.png
+    caption: "Poster depicting an app which allows citizens to give feedback on a community transportation system."
+  - title: "Classification"
+    tags:
+      - algorithm
+      - machine learning
+      - classification
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/classification.png
+    caption: "Simple representation of the output of a classification task: separating the dataset into images of cats and images of dogs."
+    display: cover
+  - title: "Construction"
+    tags:
+      - sociotechnical systems
+      - construction
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/construction.png
+    caption: "Two men working at a construction site."
+    display: cover
+  - title: "Crime monitoring"
+    tags:
+     - criminal justice
+     - sociotechnical systems
+     - policing
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/crime-monitoring.jpg
+    caption: "A policeman using a crime monitoring system (a software that depicts real-time criminal activity in the city) while patrolling the city."
+  - title: "Crime prediction"
+    tags:
+     - criminal justice
+     - sociotechnical systems
+     - policing
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/crime-prediction.jpg
+    caption: "A policeman using crime prediction system (a software which uses an AI system to predict the most likely spots for criminal activity in the city) while patroling the city."
+  - title: "Data Maze"
+    tags:
+      - data
+      - surveillance
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data-maze.png
+    caption: "A maze of data signifying how difficult it can be to trace where your personal data goes or who is able to access and use it, once it has been collected."
+  - title: "Data Science"
+    tags:
+      - data
+      - data science
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data-science.png
+    caption: "Illustration showing several connected data scientists. Data flows from its extraction, through its analysis by a data scientist, to its presentation and use."
+  - title: "Data Security"
+    tags:
+      - data
+      - data-leak
+      - data protection
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data-security.png
+    caption: "An image depicting a data leak produced by a flaw in security which leads bad actors to access the sensitive dataset."
+  - title: "Big Data Analysis (Version 1)"
+    tags:
+      - data
+      - data science
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data.png
+    caption: "Data scientists analysing big datasets (version 1)"
+  - title: "Deep Learning (Version 1)"
+    tags:
+      - artificial intelligence
+      - algorithm
+      - machine learning
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/deep-learning.png
+    caption: "A simple representation of how a deep learning model works to extract features and classify images (version 1)."
+  - title: "Deep Learning (Version 2)"
+    tags:
+      - artificial intelligence
+      - algorithm
+      - machine learning
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/deep-learning2.png
+    caption: "Various icons in squares representing different components of a neural network classifying images."
+  - title: "Moral Deliberation"
+    tags:
+      - deliberation
+      - AI ethics
+      - values
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/deliberation.png
+    caption: "Representation of the process of moral deliberation depicting a man considering different values and principles of relevance to a project, process, or idea."
+    display: cover
+  - title: "Diagnosis"
+    tags:
+      - digital healthcare
+      - artificial intelligence
+      - sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/diagnosis.png
+    caption: "A hospital waiting room, with an overlay of a man sitting at home who is uploading a photo of his skin condition so that it can be diagnosed by an AI system."
+  - title: "Data Bias"
+    tags:
+      - artificial intelligence
+      - bias
+      - sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/discrimination.png
+    caption: "Cartoonish depiction of how AI systems can produce discriminatory outcomes because of the properties of the biased datasets they are trained on. Models are being trained to recognise language, but because the datasets are mostly in English, the models' outcomes end up biased against other languages."
+  - title: "Public Deliberation"
+    tags:
+      - deliberation
+      - workshop
+      - engagement
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/discussion.png
+    caption: "Illustration showing discussion and deliberation between various members of the public sat around a table."
+  - title: "Data Divide"
+    tags:
+      - data 
+      - data science
+      - biases
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/divides.png
+    caption: "Illustration depicting the unequal distributon of datasets across regions worldwide. In particular, it depicts researchers from more affluent countries or regions extracting data from less well-funded regions and using it with little regards for the people in those regions." 
+  - title: "Satellite Earth Monitoring"
+    tags:
+      - data
+      - environmental monitoring
+      - surveillance
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/earth-monitoring.jpg
+    caption: "Image of satellite and ground sensors monitoring cities, forests, and the sea across the globe. Data generated is stored in mutliple cloud servers all over the world."
+  - title: "Explainability in Judicial Decisions"
+    tags:
+      - sociotechnical systems
+      - artificial intelligence
+      - criminal justice
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/explainable.png
+    caption: "Illustration showing how AI systems can be used to influence judicial decisions, often without an adequate explanation to those being affected by these decisions." 
+  - title: "Facial Recognition"
+    tags:
+      - facial recognition
+      - artificial intelligence
+      - bias
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/facial-recognition.png
+    caption: "Illustration representing a facial recognition algorithm being used by capturing and detecting a particular face in a crowd."
+  - title: "Scientific Fraud"
+    tags:
+      - data science
+      - fraud
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/scientific-fraud.png
+    caption: "Cartoon depicting a scientist fabricating data (commiting scientific fraud). While at first he gets promoted, he gets caught thanks to the replication and scrutiny processes carried out by other scientists, and loses his job"
+  - title: "Goals and Objectives"
+    tags:
+      - data 
+      - goals
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/goals.png
+    caption: "Abstract representation of project goals, where members of a team are climbing mountains made up of data distributions."
+  - title: "Data Iceberg"
+    tags:
+      - data
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/iceberg.png
+    caption: "A simple image of a data shaped like an image. Reference to the famous Titanic Passengers dataset challenge on Kaggle."
+  - title: "Imbalanced Classes"
+    tags:
+      - bias
+      - data science
+      - algorithm
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/imbalanced-classes.png
+    caption: "Illustration depicting how having imbalanced classes in datasets can lead to poor or suboptimal model performance. Two models are trying to achieve optimal model performance, but only the one with balanced classes is successful."
+  - title: "Ladder of Engagement"
+    tags:
+      - engagement
+      - participation
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ladders.jpg
+    caption: "Image showing different levels of public engagement or participation through their standing on ladders. A reference to Arnstein's famous model of citizen participation."
+    display: cover
+  - title: "Loss of autonomy"
+    tags:
+      - ai ethics
+      - ai harms
+      - sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/loss-of-autonomy.jpg
+    caption: "Illustration showing that the ubiquitous presence of AI in society can create a loss of autonomy and direction from people who use these technologies" 
+  - title: "Project Lifecycle (Stylised, Version 1)"
+    tags:
+      - sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/lifecycle-stylised-alt.png
+    caption: "An image depicting the three over-arching stages of the AI project lifecycle: project design, model development, and system deployment." 
+  - title: "Project Lifecycle Processes (Version 2)"
+    tags:
+      - sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/lifecycle-stylised.png
+    caption: "An image depicting of a project lifecycle, consisting of four interlocking stages."  
+  - title: "Screen Time Limit"
+    tags:
+      - artificial intelligence
+      - data science
+      - digital mental health
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/limit-reached.png
+    caption: "An image depicting a man using an app which restricts one's access to a phone by setting screen time limits and then blocking the phone."
+  - title: "Metaethics and Morality"
+    tags:
+      - ethics
+      - values
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/metaethics.png
+    caption: "An abstract representation of two ways of answering the question: where does morality come from? On the left, morality is depicted as coming from one true, external source, while on the right, morality is depicted as something subjective, with individuals having or creating their own moralities"
+  - title: "Missing Data"
+    tags:
+      - data
+      - data analysis
+      - biases
+      - statistical bias
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/missing-data.png
+    caption: "A cartoonish depiction of the problem of having missing data in your dataset. The illustration shows a wanted poster for the missing data and the reward is optimal model performance."
+    display: cover
+  - title: "Model Development"
+    tags:
+      - sociotechnical systems
+      - machine learning
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/model-development.png
+    caption: "Close up of the second stage of the project lifecycle model: model development. Data scientists are preparing the data, training the model, and testing it for biases, among others."
+  - title: "Decision Support System"
+    tags:
+      - decision support
+      - sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/nlp-decision-support.png
+    caption: "A healthcare professional using NLP software that provides automated prompts to help her understand features of a patient's speech patterns for the purpose of supporting her assessment."  
+  - title: "Online Grooming Detection"
+    tags:
+      - artificial intelligence
+      - machine learning
+      - data science
+      - sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/online-grooming-detection.jpg
+    caption: "An image depicting an online grooming detection system. People are texting and the system analyses the text but also their locations, ages, gender, etc., and based on this, flags conversations which may involve grooming."
+  - title: "Decision Automation Bias"
+    tags:
+      - bias
+      - sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/over-compliance.png
+    caption: "Illustration depicting over-compliance with AI automated decisions. A doctor diagnoses a patient with Alzheimer because the AI system suggested it, even though there are no other symptoms."
+  - title: "Over Reliance"
+    tags:
+      - bias
+      - sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/over-reliance.png
+    caption: "A cartoon showing a healthcare professional being over-reliant on automated decision-making systems due to competing pressures (e.g. lack of time)."
+  - title: "Overwhelmed"
+    tags:
+      - information overload
+      - sociotechnical systems
+      - digital mental health
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/overwhelmed.png
+    caption: "A man is overwhelmed by the by the quantity of messages and notifications he is receiving regarding apps to improve mental health" 
+  - title: "Participatory Design"
+    tags:
+      - participatory design
+      - engagement
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/participatory-design.png
+    caption: "Triptych showing a participatory design process where the app being developed is created, tested, and implemented, with the feedback of its users."
+  - title: "Pathways"
+    tags:
+      - stakeholder engagement
+      - transparency
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/pathways.jpg
+    caption: "An abstract image of people walking along different pathways, where some people (and their activities or views) are hidden from view."
+    display: cover
+  - title: "Public Engagement of Data Science and AI (Cover Image)"
+    tags:
+      - public engagement
+      - sociotechnical systems
+      - engagement
+      - cover image
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ped-cover.jpg
+    caption: "Cover illustration for Public Engagement of Data Science and AI skills track. The image shows various data-driven or AI systems, as well as the social links between developers, users, and other stakeholders."
+    display: cover
+  - title: "Peer Support"
+    tags:
+      - sociotechnical systems
+      - digital mental health
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/peer-support.png
+    caption: "Image depicting a man using a system to identify users of a peer support form who may need further help."
+  - title: "Transparency (with background)"
+    tags:
+      - explainability
+      - transparency
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/phone-peel-background.png
+    caption: "A man peeling off the user interface layer off his phone to reveal the algorithms and inner workings underneath."  
+  - title: "Transparency (no background)"
+    tags:
+      - explainability
+      - transparency
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/phone-peel.png
+    caption: "A man peeling off the user interface layer off his phone to reveal the algorithms and inner workings underneath."
+  - title: "Principles versus Consequences"
+    tags:
+      - ethics
+      - values
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/principles-consequences.png
+    caption: "A man looking through binoculars, depicting two perspectives on which to think about actions and outcomes. One lens is by assessing the consequences of an action and another is by assessing the principles that guide the action."
+    display: cover
+  - title: "Prioritising Principles versus Prioritising Consequences"
+    tags:
+      - ethics
+      - values
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/prioritising-principles-consequences.png
+    caption: "Cartoon depicting two ethical perspectives—prioritising principles versus prioritising consequences. In the first cartoon, a man does not take credit for his colleague idea because in principle it is not right, even though he realises how much praise he would get if he did. In the second cartoon, a woman lies when asked if anyone else is home, as it is clear that the man at the door is holding a gun."
+  - title: "Prison Surveillance"
+    tags:
+      - criminal justice
+      - data analysis
+      - surveillance
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/prison-surveillance.png
+    caption: "Image depicting a data analyst contributing to prison surveillance using data collected from images, videos, and other data taken the prison that is displayed on a dashboard."
+  - title: "Project Design"
+    tags:
+      - project lifecycle
+      - participatory design
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/project-design.png
+    caption: "Close up of the first stage of the project lifecycle: project design. Data scientists are thinking about how to tackle their project: what the problem is, the feasibility of addressing it with a data-driven system, and engaging with potential users or stakeholders to understand their needs."
+  - title: "Protest"
+    tags:
+      - sociotechnical systems
+      - protest
+      - engagement
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/protest.png
+    caption: "Image depicting street protesters who are asking to be included in decision-making."
+  - title: "Public Trust in Science"
+    tags:
+      - trust
+      - transparency
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/public-trust.png
+    caption: "Depiction of a scientist building trust with the public by showing and explaining the processes behind the research's final results."
+  - title: "Recommender System"
+    tags:
+      - sociotechnical system
+      - algorithm
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/recommender-system.png
+    caption: "Depiction of how recommender systems can lead people down (increasingly extreme) rabbit-holes. In this example, a woman starts by searching for video workouts, and quickly ends up being recommended dieting and fasting videos."
+  - title: "Reinforcement Learning"
+    tags:
+      - sociotechnical systems
+      - machine learning
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/reinforcement-learning.png
+    caption: "Image depicting reinforcement learning through a self-driving car. The car 'learns' to avoid routes with people or other obstructions through controlled exposure to them."
+  - title: "Model Representation (with background)"
+    tags:
+      - digital twins
+      - representation
+      - bias
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/representation-background.png
+    caption: "Image of people walking with online representations of them on their smart phones. Depending on the amount of data on them, each individual might have a more or less detailed virtual persona."
+  - title: "Model Representation (no background)"
+    tags:
+      - digital twins
+      - representation
+      - bias
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/representation.png
+    caption: "Image of people walking with online representations of them on their smart phones. Depending on the amount of data on them, each individual might have a more or less detailed virtual persona."
+  - title: "Responsible Research and Innovation"
+    tags:
+      - responsible research
+      - data science
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/rri-cover.jpg
+    caption: "Cover illustration for Responsible Research and Innovation skills track. The image shows people walking on virtual roads made of data making decisions based on ethical principles."
+  - title: "Smart City (with background)"
+    tags:
+      - sociotechnical systems
+      - tag 2
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/smart-city-bg.png
+    caption: "Image showing a smart city where data is collected and connected from cars, public transport, pedestrians, etc."
+  - title: "Smart City (no background)"
+    tags:
+      - sociotechnical systems
+      - smart city
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/smart-city.png
+    caption: "Image showing a smart city where data is collected and connected from cars, public transport, pedestrians, etc."
+  - title: "Smart Planning"
+    tags:
+      - sociotechnical systems
+      - smart city
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/smart-planning.png
+    caption: "Image depicting an app for involving citizens in public decision-making."
+  - title: "Social Care"
+    tags:
+      - sociotechnical systems
+      - social care
+      - artificial intelligence
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/social-care.png
+    caption: "Image depicting a child being classified as 'at risk' by an AI system, which is then used as a reason to separate the child from his family."
+    display: cover
+  - title: "Stakeholder Engagement"
+    tags:
+      - participatory design
+      - workshop
+      - stakeholder engagement
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/stakeholder-engagement.jpg
+    caption: "Image showing a stakeholder engagement process: stakeholder and project team working together at tables to discuss project design, development, and deployment."
+  - title: "Street"
+    tags:
+      - street
+      - public engagement
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/street.png
+    caption: "Simple image of a street with pedestrians walking between buildings."
+  - title: "Student Well-Being"
+    tags:
+      - sociotechnical systems
+      - digital mental health
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/student-wellbeing.png
+    caption: "Depiction of digital mental healthcare in a University. Students interacting with different forms of digital mental health technologies."
+  - title: "Sum Values (Version 1)"
+    tags:
+      - ethics
+      - values
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/sum-values-alt.png
+    caption: "Image representing the SUM Values: respect, protect, connect, and care."
+    display: cover
+  - title: "Sum Values (Version 2)"
+    tags:
+      - ethics
+      - values
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/sum-values.png
+    caption: "Image representing the SUM Values: respect, protect, connect, and care."
+    display: cover
+  - title: "Sustainability"
+    tags:
+      - participatory design
+      - engagement
+      - sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/sustainability.png
+    caption: "Image showing a sustainable project through stakeholder engagement and participatory design as an iterative cycle happening multiple times throughout the project."
+  - title: "System deployment"
+    tags:
+      - sociotechnical systems
+      - project lifecycle
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/system-deployment.png
+    caption: "Close up of the third stage of the project lifecycle: system deployment."
+  - title: "Titanic (Version 1)"
+    tags:
+      - dataset
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/titanic-1.png
+    caption: "Image depicting the Titanic sailing towards an iceberg made up of data. Reference to the famous Titanic Passengers dataset challenge on Kaggle."
+  - title: "Titanic (Version 2)"
+    tags:
+      - dataset
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/titanic-3.png
+    caption: "Image depicting the Titanic sailing towards an iceberg. Reference to the famous Titanic Passengers dataset challenge on Kaggle."
+  - title: "Titanic Dataset (Version 1)"
+    tags:
+      - data science
+      - classification
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/titanic-2.png
+    caption: "Image depicting the Titanic and some passenger information along with a machine learning model for predicting who was saved and who was not. Reference to the famous Titanic Passengers dataset challenge on Kaggle."
+  - title: "Titanic Dataset (Version 2)"
+    tags:
+      - data science
+      - classification
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/titanic-fullpage.png
+    caption: "Titanic sailing to the iceberg, a machine learning algorithm for predicting who was saved and who was not, and specific passenger information and outcomes. Reference to the famous Titanic Passengers dataset challenge on Kaggle."
+    display: cover
+  - title: "Trustworthy AI (Version 1)"
+    tags:
+      - trust
+      - trustworthy systems
+      - assurance
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/trust-blue.png
+    caption: "Abstract representation of a trustworthy AI system (Version 1, blue)" 
+  - title: "Trustworthy AI (Version 2)"
+    tags:
+      - trust
+      - trustworthy systems
+      - assurance
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/trust-yellow.png
+    caption: "Abstract representation of a trustworthy AI system (Version 2, yellow)" 
+  - title: "Unsupervised Learning"
+    tags:
+      - machine learning
+      - pattern recognition
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/unsupervised-learning.png
+    caption: "Illustration representing unsupervised learning in machine learning. The system is given unlabelled data in the form of images of different kinds of fruits, and the system is able to group them into images of bananas, apples, and pears." 
+  - title: "Visa Application"
+    tags:
+      - digital divide
+      - biases
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/visa-application.jpg
+    caption: "Cartoon showing differences in visa application processes depending on your country of origin or passport. One woman applies and gets accepted in one day, while another lady gets an appointment four months after application date."
+    display: cover
+  - title: "Virtual Reality Therapy"
+    tags:
+      - digital mental healthcare
+      - virtual reality
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/vr-therapy.png
+    caption: "Woman experiences virtual reality therapy while a doctor monitors."
+  - title: "Identifying Claims"
+    tags:
+      - explainability
+      - claims
+      - assurance
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/identifying-claims.png
+    caption: "A project team developing, identifying, and evaluating claims about some properties of their project or system for the purpose of explainability or assurance."
+     
+
+
+
+
+
+
+
+  
+ 
+
+
+
+
+ 
+  
+
+
+
+
+
+
+# Template
+
+  # - title: "Image Title"
+  #   tags:
+  #     - tag 1
+  #     - tag 2
+  #   url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/{image-filename}
+  #   caption: "Insert Caption"
+  #   orientation: (landscape or portrait)

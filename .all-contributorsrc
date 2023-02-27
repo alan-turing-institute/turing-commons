@@ -197,6 +197,25 @@
         "projectManagement",
         "blog"
       ]
+    },
+    {
+      "login": "JohnGTuring",
+      "name": "JohnGTuring",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122526299?v=4",
+      "profile": "https://github.com/JohnGTuring",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "SamANutt",
+      "name": "SamANutt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117447776?v=4",
+      "profile": "https://github.com/SamANutt",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7,
