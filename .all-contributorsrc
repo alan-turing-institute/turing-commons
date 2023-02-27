@@ -216,6 +216,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "orlando-code",
+      "name": "Orlando",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60468146?v=4",
+      "profile": "https://github.com/orlando-code",
+      "contributions": [
+        "blog"
+      ]
     }
   ],
   "contributorsPerLine": 7,
