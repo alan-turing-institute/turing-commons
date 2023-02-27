@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # About these Modules
 The following are the five optional modules for the RRI skills track. 
 Each module focuses on one of the SAFE-D principles. These are overarching ethical principles which highlight crucial dimensions relevant when thinking through the practical applications of responsible research and innovation.
@@ -14,28 +20,29 @@ However, there is no limit as to how many modules may be completed before moving
 
     ---
 
-    This module explores the principle of sustainability.
-    More information coming soon.
+    ~~This module explores the principle of sustainability.~~
+    Module coming soon.
 
-    [:octicons-arrow-right-24: Go to module](rri-201-index.md)
+    <!-- [:octicons-arrow-right-24: Go to module](rri-201-index.md) -->
 
 -   :octicons-beaker-16:{ .lg .middle } __Accountability__
 
     ---
 
-    This module focuses on accountability, and what the concept means practically in the context of data-driven systems.
-    More information coming soon.
+    ~~This module focuses on accountability, and what the concept means practically in the context of data-driven systems.~~
+    Module coming soon.
 
-    [:octicons-arrow-right-24: Go to module](rri-202-index.md)
+    <!-- [:octicons-arrow-right-24: Go to module](rri-202-index.md) -->
 
 -   :octicons-beaker-16:{ .lg .middle } __Fairness__
 
     ---
 
-    This module looks at the concept of fairness within AI and data science projects. 
-    In particular, it focuses on three aspects of fairness: sociocultural, statistical, and practical fairness.
+    ~~This module looks at the concept of fairness within AI and data science projects.~~
+    ~~In particular, it focuses on three aspects of fairness: sociocultural, statistical, and practical fairness.~~
+    Module coming soon.
 
-    [:octicons-arrow-right-24: Go to module](rri-203-index.md)
+    <!-- [:octicons-arrow-right-24: Go to module](rri-203-index.md) -->
 
 -   :octicons-beaker-16:{ .lg .middle } __Explainability__
 
@@ -50,9 +57,9 @@ However, there is no limit as to how many modules may be completed before moving
 
     ---
 
-    The final optional module, explores different aspects of responsible data stewardship, including issues around data governance, quality, privacy, and security.
-    More information coming soon.
+    ~~The final optional module, explores different aspects of responsible data stewardship, including issues around data governance, quality, privacy, and security.~~
+    Module coming soon.
 
-    [:octicons-arrow-right-24: Go to module](rri-205-index.md)
+    <!-- [:octicons-arrow-right-24: Go to module](rri-205-index.md) -->
 
 </div>
