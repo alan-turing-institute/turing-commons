@@ -14,3 +14,7 @@ sam:
   name: Sam Nutt
   description: Researcher and Data Ethicist at LOTI (The London Office of Technology and Innovation)
   avatar: https://github.com/SamANutt
+orlando:
+  name: Orlando Timmerman
+  description: MRes student at Artificial Intelligence for Environmental Risk (AI4ER) CDT at the University of Cambridge
+  avatar: https://github.com/orlando-code
