@@ -1,7 +1,7 @@
 # About this Module
 
 This module is about the importance of explainability in AI and data-driven systems.
-It focuses on three relevant aspects usually required for achieving explainability in the context of AI and data-driven systems: project transparency, model interpretability, and situated explanations.
+It focuses on three relevant aspects usually required for achieving explainability in the context of AI and data-driven systems: project transparency, model interpretability, and being able to provide *situated* explanations.
 Although none of them are, strictly speaking, *necessary* for the crafting of appropriate explanations, in most cases they are extremely useful.
 
 ## Learning Objectives
@@ -12,10 +12,10 @@ This module has the following learning objectives:
 - Understand what is meant by project transparency, what it looks like, and what some of its limitations are.
 - Learn about model interpretability, the different types of methods available for interpreting models, and how we can classify them.
 - Identify the need for explanations that are tailored to specific situated contexts and its corresponding audience.
-- Explore the difference between outcome-based and process-based explanations and when you might employ one or the other.
+- Explore the difference between outcome-based and process-based explanations and when it might be best to employ one or the other.
 
 
-> **Note for Index Page**
+> **Important**
 > This module is not a technical introduction to Interepretable ML methods, nor does it attempt to provide an up-to-date overview of the current methods in Interpretable ML or Explainable AI.
 > New methods are currently being developed at a rapid pace, and many of these methods are designed to solve problems with specific techniques (e.g. integrated gradients and feature relevance for classificatory models).
 > It is not possible, nor desirable, to keep these resources up-to-date with these sorts of developments.
@@ -42,7 +42,7 @@ This module has the following learning objectives:
 
     This section highlights the importance of transparent and accountable processes of project governance.
     It looks at questions such as what is project transparency, why we might need it, and what does responsible project transparency look like.
-    It also touches upon the limits of project transparency and how to balance different requirements of a project (of which transparency is only one).
+    It also touches upon the limits of project transparency and the need to balance the different requirements of a project (of which transparency is only one).
 
     [:octicons-arrow-right-24: Go to module](rri-204-2.md)
 
@@ -50,7 +50,7 @@ This module has the following learning objectives:
 
     ---
 
-    This section dives into the more technical notion of model interpretability, that is the degree to which a human can understand the cause of a decision (in this case made by an AI system). 
+    This section dives into the more technical notion of model interpretability, that is, the degree to which a human can understand the cause of a decision (in this case made by an AI system). 
     It focuses on the different kinds of methods that exist to interpret models or increase their interpretability. 
     It also discusses different ways of classifying said methods.
 

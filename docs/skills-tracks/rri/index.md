@@ -9,7 +9,7 @@ Responsible scientific research and technological innovation (RRI) is a vital co
 
 As well as looking at the theoretical basis of RRI this skills track will also take a hands-on approach by exploring a variety of tools and procedures that can help operationalise and implement a robust notion of responsibility within research and innovation practices.
 
-The skills track is organised around core and optional module. It starts with two core modules on What is responsible research and innovation? followed by a module on The project lifecycle model - a heuristic model used to represent the different stages of an ML or AI project.
+The skills track is organised around core and optional modules. It starts with two core modules on What is responsible research and innovation? followed by a module on The project lifecycle model - a heuristic model used to represent the different stages of an ML or AI project.
 
 It then offers five optional modules (of which at least one must be completed), based on the *SAFE-D principles*: Sustainability, Accountability, Fairness, Explainability, and Data stewardship. These overarching ethical principles must then be put into practice through a series of tools and methods covered in the modules. Finally, the skills track ends with a core module on Responsible Communication and Open Science, focusing on the importance of making research open and reproducible, as well as communicating results in an accesible manner.
 
