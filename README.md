@@ -2,7 +2,7 @@
 
 *Total Contributors:*
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 | Information | Links |
@@ -64,6 +64,9 @@ In addition, thanks goes to these wonderful people for contributing to the cours
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/camirincon"><img src="https://avatars.githubusercontent.com/u/80523623?v=4?s=100" width="100px;" alt="camirincon"/><br /><sub><b>camirincon</b></sub></a><br /><a href="#content-camirincon" title="Content">🖋</a> <a href="#ideas-camirincon" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-camirincon" title="Project Management">📆</a> <a href="#blog-camirincon" title="Blogposts">📝</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JohnGTuring"><img src="https://avatars.githubusercontent.com/u/122526299?v=4?s=100" width="100px;" alt="JohnGTuring"/><br /><sub><b>JohnGTuring</b></sub></a><br /><a href="https://github.com/alan-turing-institute/turing-commons/commits?author=JohnGTuring" title="Code">💻</a> <a href="#design-JohnGTuring" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SamANutt"><img src="https://avatars.githubusercontent.com/u/117447776?v=4?s=100" width="100px;" alt="SamANutt"/><br /><sub><b>SamANutt</b></sub></a><br /><a href="#blog-SamANutt" title="Blogposts">📝</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/orlando-code"><img src="https://avatars.githubusercontent.com/u/60468146?v=4?s=100" width="100px;" alt="Orlando"/><br /><sub><b>Orlando</b></sub></a><br /><a href="#blog-orlando-code" title="Blogposts">📝</a></td>
     </tr>
   </tbody>
 </table>
