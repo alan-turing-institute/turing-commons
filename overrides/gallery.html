@@ -1,0 +1,62 @@
+{% extends "main.html" %} {% block content %} {{ super() }}
+
+<div id="gallery-container" class="flexbox-container">
+  {% for item in config.images %}
+  <div class="flexbox-item">
+    <div class="card">
+      <a
+        class="glightbox"
+        href="{{ item.url }}"
+        data-height="auto"
+        data-width="100%"
+      >
+        <img
+          src="{{ item.url }}"
+          alt="{{ item.caption }}"
+          class="card-img-top {{ item.display }}"
+        />
+      </a>
+      <div class="card-body">
+        <h2 class="card-title">{{ item.title }}</h2>
+        <p class="card-text">{{ item.caption }}</p>
+        <div class="tags">
+          {% for tag in item.tags %}
+          <span class="tag"># {{ tag }}</span>
+          {% endfor %}
+        </div>
+        <div class="copy-button-container">
+          <button class="copy-button" data-link="{{ item.url }}">
+            Copy image URL
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+{% endblock %} {% block scripts %} {{ super() }}
+
+<script>
+  const wrapper = document.getElementById("gallery-container");
+
+  wrapper.addEventListener("click", (event) => {
+    const isButton = event.target.nodeName === "BUTTON";
+    if (!isButton) {
+      return;
+    }
+
+    var datalink = event.target.getAttribute("data-link");
+    navigator.clipboard.writeText(datalink);
+
+    var copybuttons = document.getElementsByClassName("copy-button");
+    for (var i = 0; i < copybuttons.length; ++i) {
+      var item = copybuttons[i];
+      item.innerHTML = "Copy image URL";
+    }
+
+    event.target.innerHTML = "Copied to clipboard!";
+  });
+</script>
+
+{% endblock %}
