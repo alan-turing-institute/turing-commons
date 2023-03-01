@@ -8,6 +8,9 @@ tags:
 authors:
   - orlando
 ---
+# Participatory Design Workshops 
+## A collaboration between the AI4ER CDT at Cambridge University, and the Turing Commons project
+
 ![Illustration of stakeholder engagement.](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/stakeholder-engagement.jpg)
 
 It’s not every day that you get to sit down on a wintery morning, cup of tea in hand, to help direct the future of an innovative new course to be delivered by the [Turing Commons](https://alan-turing-institute.github.io/turing-commons/).
@@ -18,7 +21,7 @@ Our course aims to harness the increasing availability of large datasets and pow
 
 The beverage-backed online meeting followed a general call by the Turing Commons team – part of the [Alan Turing Institute](https://www.turing.ac.uk) – for all MRes, PhD, and early career researchers in AI4ER to have their voice heard. 
 
-The call is responding to a broad consensus which demands that the development of AI methods be widely accessible, transparent for stakeholders, and, above all, guided by an understanding of any potential ethical ramifications from inception to deployment: and beyond. 
+The call is responding to a broad consensus which demands that the development of AI methods be widely accessible, transparent for stakeholders, and, above all, guided by an understanding of any potential ethical ramifications from inception to deployment, and beyond. 
 
 Given the multi-faceted and wide-reaching research of the AI4ER CDT’s MRes and PhD students such knowledge is especially vital for us, and we’re also well-placed to help guide the establishment of such a course. Within this collaboration, a variety of voices – including the very earliest of early career researchers such as myself and fellow MRes student Andrew McDonald – are vital to understand each aspect of the field including project lifecycles, open science tools, and public communication of AI technologies.
 
