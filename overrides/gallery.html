@@ -35,7 +35,9 @@
   {% endfor %}
 </div>
 
-{% endblock %} {% block scripts %} {{ super() }}
+{% endblock %} 
+
+{% block scripts %} 
 
 <script>
   const wrapper = document.getElementById("gallery-container");
@@ -58,5 +60,7 @@
     event.target.innerHTML = "Copied to clipboard!";
   });
 </script>
+
+{{ super() }}
 
 {% endblock %}
