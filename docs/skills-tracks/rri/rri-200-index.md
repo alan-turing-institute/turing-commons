@@ -38,11 +38,11 @@ However, there is no limit as to how many modules may be completed before moving
 
     ---
 
-    ~~This module looks at the concept of fairness within AI and data science projects.~~
-    ~~In particular, it focuses on three aspects of fairness: sociocultural, statistical, and practical fairness.~~
-    Module coming soon.
+    This module looks at the concept of fairness within AI and data science projects.
+    In particular, it focuses on three aspects of fairness: sociocultural, statistical, and practical fairness.
+    <!-- Module coming soon. -->
 
-    <!-- [:octicons-arrow-right-24: Go to module](rri-203-index.md) -->
+    [:octicons-arrow-right-24: Go to module](rri-203-index.md)
 
 -   :octicons-beaker-16:{ .lg .middle } __Explainability__
 
