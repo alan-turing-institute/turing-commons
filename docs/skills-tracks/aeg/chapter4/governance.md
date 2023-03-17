@@ -36,11 +36,11 @@ A PBG Framework should give the team a landscape view of the governance actions 
 
 • The relevant team members and roles involved in each governance action
 
-• Explicit timeframes for any necessary follow-up actions, re-assessments, and continual monitoring
+• Explicit time frames for any necessary follow-up actions, re-assessments, and continual monitoring
 
 • Clear and well-defined protocols for logging activity and for instituting mechanisms to assure end-to-end auditability and appropriate documentation
 
-The PBG framework asks that teams not only outline the governance actions established for individual projects, but also roles involved in each action, timeframes for follow-up actions, and logging protocols.
+The PBG framework asks that teams not only outline the governance actions established for individual projects, but also roles involved in each action, time frames for follow-up actions, and logging protocols.
 
 
 
@@ -107,7 +107,7 @@ Each principle can be operationalised through specific processes:
 
     **PBG Framework**
 
-    Live document outlining governance actions, relevant team members and roles involved in each action, timeframes for follow-up actions, and logging protocols, for individual AI projects. 
+    Live document outlining governance actions, relevant team members and roles involved in each action, time frames for follow-up actions, and logging protocols, for individual AI projects. 
 
 !!! example "Explainability"
 

@@ -41,7 +41,7 @@ Stakeholder analyses may be carried out in a variety of ways that involve more-o
 
 Low-stakes AI applications that are not safety-critical, do not directly impact the lives of people, and do not process potentially sensitive social and demographic data may need less proactive stakeholder engagement than high-stakes projects. For example, an application which sorts out email and identifies spam may be correctly classified as low impact and low risk.
 
-A responsible and thorough initial evaluation of the scope of the possible risks that could arise from the AI system (to be carried by the team responsible for developing said system) will determine the the potential hazards the project poses to affected stakeholdes (be them individuals or communities). A reasonable assessments of the dangers posed to individual wellbeing and public welfare is needed in order to formulate proportionate approaches to stakeholder involvement. 
+A responsible and thorough initial evaluation of the scope of the possible risks that could arise from the AI system (to be carried by the team responsible for developing said system) will determine the the potential hazards the project poses to affected stakeholders (be them individuals or communities). A reasonable assessments of the dangers posed to individual wellbeing and public welfare is needed in order to formulate proportionate approaches to stakeholder involvement. 
 
 Regardless of the potential impacts of a project, involving affected individuals and communities in stakeholder analysis (and, later, in stakeholder impact assessment) should, in all cases, be a significant consideration. Stakeholder involvement ensures that a project will possess an appropriate degree of public accountability, transparency, legitimacy, and democratic governance, and it recognizes the important role played in this by the inclusion of the voices of all affected individuals and communities in decision-making processes. 
 
@@ -66,7 +66,7 @@ When taking positionality into account, team members should reflect on their own
 </figure>
 
 ## **Stakeholder Engagement Objective and Method**
-Once the initial project scoping, stakeholder analysis, and positionality reflection have been done, a project team can move on to define the objective for their stakeholder enaggement, as well as the method(s) to be used. 
+Once the initial project scoping, stakeholder analysis, and positionality reflection have been done, a project team can move on to define the objective for their stakeholder engagement, as well as the method(s) to be used. 
 
 As we have previously established, stakeholder engagement may be carried out in a variety of ways that involve more-or-less stakeholder involvement. This spectrum of options ranges from analyses carried out exclusively by a project team without active community engagement to analyses built around the inclusion of community-led participation and co-design from the earliest stages of stakeholder identification. 
 

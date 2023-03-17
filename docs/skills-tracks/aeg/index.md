@@ -10,11 +10,11 @@ hide:
 
   ![Illustration by Johnny Lighthands](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/discussion.png){ align="right" width="50%" }
 
-  This course is designed to help you understand the fundamentals of AI Ethcis and Governance. The course begings with an introduction to metaethcis and normative theories. It then follows with the practical ways AI systems can produce diverse harms to individuals, society, and even the biosphere, as well as the values that should be upheld when thinking about AI ethics.
+  This course is designed to help you understand the fundamentals of AI Ethics and Governance. The course begins with an introduction to metaethics and normative theories. It then follows with the practical ways AI systems can produce diverse harms to individuals, society, and even the biosphere, as well as the values that should be upheld when thinking about AI ethics.
 
   The course then goes into a deeper dive on the following topics: AI Sustainability through Stakeholder engagement and impact assessment, AI fairness and bias mitigation, accountability and governance, explainability and transparency, and the CARE & Act principles.
 
-  Thoughout the course we will have time for Q&A, group discussions, case studies, and structured activities to further the discussion and understanding of these concepts.
+  Throughout the course we will have time for Q&A, group discussions, case studies, and structured activities to further the discussion and understanding of these concepts.
   
 ## Who is this Guidebook For?
 

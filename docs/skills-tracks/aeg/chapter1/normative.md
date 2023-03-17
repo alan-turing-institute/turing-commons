@@ -11,7 +11,7 @@ One very influential flavour of consequentialism is utilitarianism, which specif
 [^utility]: The question as to what exactly utility is and how one goes about measuring it poses all sorts of complications which are beyond the scope of this introduction.
 [^kinds]: For a list of different kinds of consequentialist theories see the Stanford Encyclopedia of Philosophy's entry on Consequentialism[@sep-consequentialism].
 
-In essence, what makes a normative ethical theory consequentialist is that, given a metric for what good consequences are (as well as a way of ranking better and worse  consequences), it then states that in any situation, the morally aproppriate way to act is to choose the action (among the existing possibilities) that brings about the best consequence.
+In essence, what makes a normative ethical theory consequentialist is that, given a metric for what good consequences are (as well as a way of ranking better and worse  consequences), it then states that in any situation, the morally approppriate way to act is to choose the action (among the existing possibilities) that brings about the best consequence.
 
 ## Deontological Theories (or principles-based theories)
 

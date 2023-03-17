@@ -48,7 +48,7 @@ One way of summing up moral realism is to say that epistemically they believe th
 In procedural ethics, moral validity is bound by practices of giving and asking for reasons. In this way, a moral claim that is justified is one that can convince someone else by the “unforced force” of the better argument. 
 
 Legitimate moral decision-making thus requires persuasion through rational justification and compelling argumentation. This means that procedular ethics begins by trying to reconstruct the requirements for rationality.
-These requirements include assuming an impartial perspective, which considers the interests of all affected by an action equally, and making universalizable moral judgements that are applicable in all like situations.
+These requirements include assuming an impartial perspective, which considers the interests of all affected by an action equally, and making universalisable moral judgments that are applicable in all like situations.
 
 Does this mean that procedural ethicists believe that moral facts exist? Yes and no. While processes of rational justification are supposed to yield a basis for valid moral claims, many procedural ethicists abstain from making substantive claims about moral reality. In their view, the proper role of moral theory is not to posit the fixed, and mind- or language-independent moral values and properties of the
 universe, but rather to facilitate and to normatively justify the continuation of ongoing rational dialogue.
@@ -76,7 +76,7 @@ Some examples of claims made by cultural relativists are:
 
 
 ### 2.2 Moral Subjectivism
-Moral subjectivists take relativism to a next level; instead of basing it on codes shared by whole cultures, they believe morality is an inherently individual matter. That is, what is morally right to do is up to the individual’s desires, wants, tastes, or preferences.
+Moral subjectivism takes relativism to a next level; instead of basing it on codes shared by whole cultures, they believe morality is an inherently individual matter. That is, what is morally right to do is up to the individual’s desires, wants, tastes, or preferences.
 
 Therefore, in this view, moral language is not fact-stating language and thus does not contain mind-independent ethical truths. Instead, moral judgments are subjective expressions of feelings or attitudes, and so more like judgments of taste than statements of fact or rational justifications.
 

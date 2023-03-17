@@ -39,7 +39,7 @@ For example, if trying to explain the fairness and safety of a particular AI-ass
 - If there is meaningful human involvement in the decision-making process, 
 it should also be made clear to the affected individual how and why a human judgement that is assisted by an AI output was reached.
 
-In addition, an adequate explanantion will also need to confirm that the actual outcome of an AI decision meets criteria previously established in the design process to ensure that the AI system is being used in a fair, safe, and ethical way. An explanation to affected stakeholders should also include a demonstration that a specific decision or behaviour of the system is sustainable, safe, fair, and driven by data that has been responsibly managed. 
+In addition, an adequate explanation will also need to confirm that the actual outcome of an AI decision meets criteria previously established in the design process to ensure that the AI system is being used in a fair, safe, and ethical way. An explanation to affected stakeholders should also include a demonstration that a specific decision or behaviour of the system is sustainable, safe, fair, and driven by data that has been responsibly managed. 
 
 <figure markdown>
   ![phone-peel](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/lifecycle-stylised-alt.png){ align="center" }
@@ -116,7 +116,7 @@ What does this type of explanation include?
  
 Process-based explanations clarify:
  
-- The roles and functions across the organisation that are involved in the various stages of developing and implementing an AI system, including any human involvement in the decision-making. If the system, or parts of it, are procured, thjen information about the providers or developers involved should be included.
+- The roles and functions across the organisation that are involved in the various stages of developing and implementing an AI system, including any human involvement in the decision-making. If the system, or parts of it, are procured, then information about the providers or developers involved should be included.
 
 - Broadly, what the roles do, why they are important, and where overall responsibility lies for management of the AI model – who is ultimately accountable.
 
@@ -217,10 +217,10 @@ This is about making sure that the model does not have discriminatory or inequit
 
 - The formal definition(s) of fairness that has been chosen is made explicit, as well as the reason why this decision. Data scientists can apply different formalised fairness criteria to choose how specific groups in a selected set will receive benefits in comparison to others in the same set, or how the accuracy or precision of the model will be distributed among subgroups; and
 
-- the method applied in operationalising theformalised fairness criteria, for example, by reweighting model parameters; embedding trade-offs in a classification procedure; or re-tooling algorithmic results to adjust for outcome preferences.
+- the method applied in operationalising the formalised fairness criteria, for example, by re-weighting model parameters; embedding trade-offs in a classification procedure; or re-tooling algorithmic results to adjust for outcome preferences.
 
 D) Implementation fairness: 
-The AI sysetem is deployed by users sufficiently trained to implement it responsibly and without bias. This may include showing that implementers of the AI system have been appropriately prepared and trained to:
+The AI system is deployed by users sufficiently trained to implement it responsibly and without bias. This may include showing that implementers of the AI system have been appropriately prepared and trained to:
 
 - avoid automation bias (over-relying on the outputs of AI systems) or automation-distrust bias (under-relying on AI system outputs because of a lack of trust in them);
 
@@ -251,7 +251,7 @@ Outcome-based explanations include:
 ### Safety and performance explanation
 
 What does this explanation help people understand?
-The safety and performance explanation helps people understand the measures that have been put in place, and the steps that have been taken (and are continuously bein taken) to maximise the accuracy, reliability, security and robustness of the decisions the AI model helps make. It can also be used to justify the type of AI system chosen, such as comparisons to other systems or human decision makers.
+The safety and performance explanation helps people understand the measures that have been put in place, and the steps that have been taken (and are continuously being taken) to maximise the accuracy, reliability, security and robustness of the decisions the AI model helps make. It can also be used to justify the type of AI system chosen, such as comparisons to other systems or human decision makers.
  
 !!! info "Key concepts:"
  
@@ -302,7 +302,7 @@ Outcome-based explanations:
 
 While one might not be able to guarantee accuracy at an individual level, one should be able to provide assurance that, at run-time, an AI system operated reliably, securely, and robustly for a specific decision.
 
-- In the case of accuracy and the other performance metrics, however the resultsof cross-validation (training/ testing splits) and any external validation carried out, should be included in the model's delivery interface.
+- In the case of accuracy and the other performance metrics, however the results of cross-validation (training/ testing splits) and any external validation carried out, should be included in the model's delivery interface.
 
 
 - Other relevant information that could be included is:  information related to the system’s confusion matrix (the table that provides the range of performance metrics) and ROC curve (receiver operating characteristics)/ AUC (area under the curve). Include guidance for users and affected individuals that makes the meaning of these measurement methods, and specifically the ones that have been chosen, easily accessible and understandable. This should also include a clear representation of the uncertainty of the results (e.g., confidence intervals and error bars).
@@ -324,7 +324,7 @@ Demonstrate that thought has been put into how an AI system will potentially aff
  
 Process-based explanations include:
 
-- Showing the considerations givne to the AI system’s potential effects, how these considerations were undertaken, and the measures and steps taken to mitigate possible negative impacts on society, and to amplify the positive effects.
+- Showing the considerations given to the AI system’s potential effects, how these considerations were undertaken, and the measures and steps taken to mitigate possible negative impacts on society, and to amplify the positive effects.
 
 - Information on the plan in place to monitor and re-assess impacts while the system is deployed should also be included.
  
@@ -427,4 +427,4 @@ Delivering explanations should be thought of as a conversation, rather than a on
 Providing an explanation at the right time is also important. Proactively engaging with customers by making information available on how the AI system is used and how it aids in making decisions, can increase the trust and awareness.
 
 
-<!-- ****** Question, should we include the template on transparency and explainality assurance? -->
+<!-- ****** Question, should we include the template on transparency and explainability assurance? -->

@@ -11,13 +11,13 @@ Responsible AI project delivery requires confronting two relevant challenges to 
 
 !!! danger "Accountability gap"
 
-    Automated decisions are not self-justifiable. Whereas human agents can be called to account for their judgements and decisions in instances where those judgments and decisions affect the interests of others, the statistical models and underlying hardware that compose AI systems are not responsible in the same morally relevant sense. This creates an accountability gap that must be addressed so that clear and imputable sources of human answerability can be attached to decisions assisted or produced by an AI system.
+    Automated decisions are not self-justifiable. Whereas human agents can be called to account for their judgments and decisions in instances where those judgments and decisions affect the interests of others, the statistical models and underlying hardware that compose AI systems are not responsible in the same morally relevant sense. This creates an accountability gap that must be addressed so that clear and imputable sources of human answerability can be attached to decisions assisted or produced by an AI system.
     
 !!! danger "Complexity of AI production processes"
 
     Establishing human answerability is not a simple matter when it comes to the design, development, and deployment of AI systems. This is due to the complexity and multi-agent character of the production and use of these systems. Typically, AI project delivery workflows include department and delivery leads, technical experts, data procurement and preparation personnel, policy and domain experts, implementers, and others. Due to this production complexity, it may become difficult to answer the question of who among these parties involved in the production of AI systems should bear responsibility if these systems’ uses have negative consequences and impacts.
     
-Meeting the special requirements of accountability, which are born out of these two challenges, calls for a sufficiently fine-grained concept of what would make an AI project properly accountable. This concept can be broken down into two subcomponents of accountability, answerability and auditability:
+Meeting the special requirements of accountability, which are born out of these two challenges, calls for a sufficiently fine-grained concept of what would make an AI project properly accountable. This concept can be broken down into two sub-components of accountability, answerability and auditability:
 
 !!! success "Answerability"
 
@@ -58,7 +58,7 @@ Following a similar logic, we will refer to the process of addressing accountabi
 ### Anticipatory accountability
 Treating accountability as an anticipatory principle entails that the project team takes as of primary importance the decisions made and actions taken by them prior to the outcome of an algorithmically supported decision process. This kind of ex ante accountability should be prioritised over remedial accountability, which focuses instead on the corrective or justificatory measures that can be taken after that automation supported process had been completed.
 
-Ensuring that the AI project delivery processes are accountable prior to the actual application of the system in the world will bolster the soundness of design and implementation processes and thereby more effectively pre-empt possible harms to individual wellbeing and public welfare or other adverse impacts.
+Ensuring that the AI project delivery processes are accountable prior to the actual application of the system in the world will bolster the soundness of design and implementation processes and thereby more effectively preempt possible harms to individual wellbeing and public welfare or other adverse impacts.
 
 Likewise, by establishing strong regimes of anticipatory accountability and by making the design and delivery process as open and publicly accessible as possible, the project team will put affected stakeholders in a position to make better informed and more knowledgeable decisions about their involvement with these systems in advance of potentially harmful impacts. Doing so will also strengthen the public narrative and help to safeguard
 the project from reputational harm.

@@ -12,7 +12,7 @@ While the mechanisms and procedures which are put in place to ensure that these 
 
     This involves keeping track of and documenting both responsible data management practices across the entire project lifecycle, from data extraction or procurement and data analysis, cleaning, and pre-processing to data use, retention, deletion, and updating.[@bender2018]-[@gebru2021]-[@holland2018]
 
-    It also involves demonstrating that the data is ethically sourced, responsibly linked, and legally available for the project's purposes[@weinhardt2020] and making explicit measures taken to ensure data quality (source integrity and measurement accuracy, timeliness and recency, relevance, sufficiency of quantity, dataset representativeness), data integrity (attributability, consistency, completeness, contemporareousness, traceability, and auditability) and FAIR data (findable, accessible, interoperable, and reusable).   
+    It also involves demonstrating that the data is ethically sourced, responsibly linked, and legally available for the project's purposes[@weinhardt2020] and making explicit measures taken to ensure data quality (source integrity and measurement accuracy, timeliness and recency, relevance, sufficiency of quantity, dataset representativeness), data integrity (attributability, consistency, completeness, contemporaneousness, traceability, and auditability) and FAIR data (findable, accessible, interoperable, and reusable).   
 
 - **Full documentation of privacy, confidentiality, consent, and data protection due diligence.**
 

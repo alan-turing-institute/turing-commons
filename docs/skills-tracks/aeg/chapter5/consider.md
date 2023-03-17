@@ -31,7 +31,7 @@ Considering context also involves taking into account the specific domain(s), ge
 
 All in all, contextual considerations should, at minimum, track three vectors: 
 
-1. The first involves considering the contextual determinants of the condition of the production of the project (e.g., thinking about the positionality of the team, the expectations of the revelant community of practice, and the external influences on the aims and means of research by funders, collaborators, and providers of data and research infrastructure).
+1. The first involves considering the contextual determinants of the condition of the production of the project (e.g., thinking about the positionality of the team, the expectations of the relevant community of practice, and the external influences on the aims and means of research by funders, collaborators, and providers of data and research infrastructure).
 
 2. The second involves considering the context of the  users of the system (e.g., thinking about subjects’ reasonable expectations of gainful obscurity and ‘privacy in public’ and considering the changing contexts of their communications such as with whom they are interacting, where, how, and what kinds of data are being shared).
 

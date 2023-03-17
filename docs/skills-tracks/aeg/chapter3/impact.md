@@ -35,12 +35,12 @@ There are three critical points in the AI project lifecycle at which the project
     
     Once a model has been trained, tested, and validated, the project team should revisit the initial SIA to confirm that the AI system to be implemented is still in line with the evaluations and conclusions of the original assessment. This check-in should be logged on the Development Phase section of the SIA with any applicable changes added and discussed. 
     
-    The method of stakeholder engagement that accompanies the SIA process will have been initially established in the PS report and revisited in the Design Phase SIA. This report should be revisited again during the Development Phase SIA and updated where needed. At this point the team must also set a timeframe for re-assessment once the system is in operation. Timeframes for these re-assessments should be decided by the team on a case-by-case basis but should be proportional to the scale of the potential impact of the system on the individuals and communities it will affect.
+    The method of stakeholder engagement that accompanies the SIA process will have been initially established in the PS report and revisited in the Design Phase SIA. This report should be revisited again during the Development Phase SIA and updated where needed. At this point the team must also set a time frame for re-assessment once the system is in operation. Time frames for these re-assessments should be decided by the team on a case-by-case basis but should be proportional to the scale of the potential impact of the system on the individuals and communities it will affect.
 
 
 === ":material-network-pos: Deploy"
     
-    Once an AI system has gone live, the team should iteratively revisit and re-evaluate the SIA. These checkins should be logged on the Deployment Phase section of the SIA with any applicable changes added and discussed. Deployment-Phase SIAs should focus both on evaluating the existing SIA against real world impacts and on considering how to mitigate the unintended consequences that may have ensued in the wake of the deployment of the system. As with each SIA iteration, the PS report is revisited at this point, when objectives, methods, and timeframes for the next Deployment Phase SIA are established.
+    Once an AI system has gone live, the team should iteratively revisit and re-evaluate the SIA. These check-ins should be logged on the Deployment Phase section of the SIA with any applicable changes added and discussed. Deployment-Phase SIAs should focus both on evaluating the existing SIA against real world impacts and on considering how to mitigate the unintended consequences that may have ensued in the wake of the deployment of the system. As with each SIA iteration, the PS report is revisited at this point, when objectives, methods, and time frames for the next Deployment Phase SIA are established.
     
 
 ## Skills for Conducting SIA's
