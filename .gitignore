@@ -1,8 +1,5 @@
 .DS_Store
 
-*.key
-*.pptx
-
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -12,6 +9,5 @@
 
 *.code-workspace
 
-admin/
 src/
 .venv/
