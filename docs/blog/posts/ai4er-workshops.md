@@ -16,12 +16,12 @@ authors:
 It’s not every day that you get to sit down on a wintery morning, cup of tea in hand, to help direct the future of an innovative new course to be delivered by the [Turing Commons](https://alan-turing-institute.github.io/turing-commons/).
 
 My name’s Orlando, and I’m currently a Master of Research (MRes) student with the
-[Artificial Intelligence for Environmental Risk (AI4ER)](https://ai4er-cdt.esc.cam.ac.uk) CDT at the University of Cambridge. 
+[Artificial Intelligence for Environmental Risk (AI4ER)](https://ai4er-cdt.esc.cam.ac.uk) CDT at the University of Cambridge.
 Our course aims to harness the increasing availability of large datasets and powerful compute to better understand physical systems in order to inform national and international policy, and make a tangible, positive impact on the environments in which we live.
 
-The beverage-backed online meeting followed a general call by the Turing Commons team – part of the [Alan Turing Institute](https://www.turing.ac.uk) – for all MRes, PhD, and early career researchers in AI4ER to have their voice heard. 
+The beverage-backed online meeting followed a general call by the Turing Commons team – part of the [Alan Turing Institute](https://www.turing.ac.uk) – for all MRes, PhD, and early career researchers in AI4ER to have their voice heard.
 
-The call is responding to a broad consensus which demands that the development of AI methods be widely accessible, transparent for stakeholders, and, above all, guided by an understanding of any potential ethical ramifications from inception to deployment, and beyond. 
+The call is responding to a broad consensus which demands that the development of AI methods be widely accessible, transparent for stakeholders, and, above all, guided by an understanding of any potential ethical ramifications from inception to deployment, and beyond.
 
 Given the multi-faceted and wide-reaching research of the AI4ER CDT’s MRes and PhD students such knowledge is especially vital for us, and we’re also well-placed to help guide the establishment of such a course. Within this collaboration, a variety of voices – including the very earliest of early career researchers such as myself and fellow MRes student Andrew McDonald – are vital to understand each aspect of the field including project lifecycles, open science tools, and public communication of AI technologies.
 
@@ -31,6 +31,6 @@ Putting something together on this scale necessarily takes a great deal of time.
 
 The Turing Institute is always on the lookout for stakeholders willing to offer their experience, advice, and a little of their time to help direct the responsible future development of artificial intelligence and machine learning methods. In particular, there is a need for case studies on diverse research areas, as the team is building a repository of such studies to enable people from all backgrounds to receive tailored course content.
 
-If you’d like to get involved, please get in touch with [Clau Fischer](cfischer@turing.ac.uk), part of the Turing Commons team. 
+If you’d like to get involved, please get in touch with [Clau Fischer](mailto:cfischer@turing.ac.uk), part of the Turing Commons team.
 
 In the meantime, [check out](https://alan-turing-institute.github.io/turing-commons/welcome/) the Turing Commons existing skills tracks and the original version of their courses, and watch this space for 2023’s RRI course!
