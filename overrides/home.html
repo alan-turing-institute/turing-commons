@@ -540,7 +540,10 @@ section:first-of-type .md-content__inner {
 
 <script>
   document.ready
+    let el = document.getElementsByClassName('md-main__inner md-grid')[0]
+    el.classList.remove('md-grid')
     const animElements = document.querySelectorAll('.hidden')
+
     const observer = new IntersectionObserver((entries) => {
       entries.forEach((entry) => {
         console.log(entry)
