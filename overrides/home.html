@@ -198,6 +198,30 @@ section:first-of-type .md-content__inner {
   transition-delay: 600ms;
 }
 
+.more {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  width:2em;
+  width: 100%
+}
+
+.more svg {
+  display: inline-block;
+  /* animation: scroll-anim 1s ease-in-out infinite; */
+  width: 2em;
+  color:var(--md-default-fg-color);
+  opacity: .8;
+}
+
+@keyframes scroll-anim {
+  to {
+    opacity: 1;
+    transform: translateY(7px);
+  }
+}
+
+
 @media screen and (max-width: 600px) {
   section {
     padding:0 1rem 1rem 1rem;
@@ -287,6 +311,11 @@ section:first-of-type .md-content__inner {
           Your browser does not support the video tag.
         </video>
       </div>
+    </div>
+    <div class="more">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 17.25L12 21m0 0l-3.75-3.75M12 21V3" />
+      </svg>  
     </div>
   </div>
 </section>
