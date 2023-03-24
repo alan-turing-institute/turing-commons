@@ -1,9 +1,31 @@
 {% extends "main.html" %} {% block content %} {{ super() }}
 
+
+<div id="filter-container">	Filter by tag: 
+	<select onchange="getOption()"id="tag_selector">
+		<option disabled selected value> Choose a tag </option>
+		{% for item in config.tags %}
+		{% set class = item | replace(' ','_') %}
+	    {% set class = class | lower %}
+		<option value="{{ class }}">{{ item }}</option>
+		{% endfor %}
+	</select>
+	<button class="tag" id="show_all">Reset All</button>
+</div>
 <div id="gallery-container" class="flexbox-container">
   {% for item in config.images %}
-  <div class="flexbox-item">
+  
+  <div class="flexbox-item 
+  
+    {% for tag in item.tags %}
+	{% set class = tag | replace(' ','_') %}
+	{% set class = class | lower %}
+	{{ class }} 
+	{% endfor %}
+  
+  ">
     <div class="card">
+
       <a
         class="glightbox"
         href="{{ item.url }}"
@@ -21,7 +43,7 @@
         <p class="card-text">{{ item.caption }}</p>
         <div class="tags">
           {% for tag in item.tags %}
-          <span class="tag"># {{ tag }}</span>
+          <span tabindex="0" data-name="{% set class = tag | replace(' ','_') %}{% set class = class | lower %}{{ class }}" class="tag"># {{ tag }}</span>
           {% endfor %}
         </div>
         <div class="copy-button-container">
@@ -40,7 +62,63 @@
 {% block scripts %} 
 
 <script>
+
+  const showall = document.getElementById("show_all");
+  showall.addEventListener("click", (event) => {
+	var cards = document.getElementsByClassName("flexbox-item");
+	var selectBox = document.getElementById("tag_selector");
+    selectBox.selectedIndex = 0;
+    for (var i = 0; i < cards.length; ++i) {
+      var item = cards[i];
+	  item.style.display = "block";
+    }	
+  });
+  
+  
+  
+  function getOption() {
+        selectElement = document.getElementById("tag_selector");
+        dataname = selectElement.value;
+		var cards = document.getElementsByClassName("flexbox-item");
+		var selection = document.getElementsByClassName(dataname);
+		
+		for (var i = 0; i < cards.length; ++i) {
+		  var item = cards[i];
+		  item.style.display = "none";
+		}
+		for (var i = 0; i < selection.length; ++i) {
+		  var item = selection[i];
+		  item.style.display = "block";
+		}		
+    }
+  
+  
   const wrapper = document.getElementById("gallery-container");
+
+  wrapper.addEventListener("click", (event) => {
+    const isSpan = event.target.nodeName === "SPAN";
+    if (!isSpan) {
+      return;
+    }
+
+    var dataname = event.target.getAttribute("data-name");
+
+    var cards = document.getElementsByClassName("flexbox-item");
+	var selection = document.getElementsByClassName(dataname);
+    for (var i = 0; i < cards.length; ++i) {
+      var item = cards[i];
+	  item.style.display = "none";
+    }
+	for (var i = 0; i < selection.length; ++i) {
+      var item = selection[i];
+	  item.style.display = "block";
+    }
+	document.getElementById("tag_selector").value = dataname;
+	const element = document.getElementById("gallery");
+	element.scrollIntoView({ behavior: "smooth" });
+	
+});
+
 
   wrapper.addEventListener("click", (event) => {
     const isButton = event.target.nodeName === "BUTTON";
@@ -58,6 +136,7 @@
     }
 
     event.target.innerHTML = "Copied to clipboard!";
+		
   });
 </script>
 

@@ -1,5 +1,61 @@
 # Base Url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/{image-filename}
 
+tags:
+  - AI Harms
+  - Argument-based Assurance
+  - Artificial Intelligence
+  - Assurance
+  - Assurance Case
+  - Bias
+  - Biases
+  - Chatbot  
+  - Claims
+  - Classification  
+  - Cover Image
+  - Criminal Justice
+  - Data
+  - Data Analysis
+  - Data protection
+  - Data Science
+  - Data-leak
+  - Dataset
+  - Decision Support  
+  - Deliberation
+  - Digital Divide
+  - Digital Healthcare
+  - Digital Mental Health
+  - Digital Mental Healthcare
+  - Digital Twins
+  - Engagement
+  - Environmental Monitoring
+  - Explainability
+  - Facial Recognition
+  - Fraud
+  - Goals
+  - Information Overload
+  - Machine Learning
+  - Participatory Design
+  - Pattern Recognition 
+  - Planning
+  - Policing
+  - Project lifecycle
+  - Protest
+  - Public Engagement  
+  - Representation
+  - Responsible Research
+  - Smart City  
+  - Social Care
+  - Sociotechnical Systems
+  - Stakeholder Engagement  
+  - Statistical Bias
+  - Street
+  - Surveillance
+  - Transparency
+  - Trust
+  - Trustworthy Systems
+  - Virtual Reality
+  - Workshop
+
 images:
   - title: "AI Ethics and Governance (Cover Image)"
     tags:
@@ -457,7 +513,6 @@ images:
   - title: "Smart City (with background)"
     tags:
       - sociotechnical systems
-      - tag 2
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/smart-city-bg.png
     caption: "Image showing a smart city where data is collected and connected from cars, public transport, pedestrians, etc."
   - title: "Smart City (no background)"
