@@ -47,7 +47,7 @@ In response to these doubts, a justifiable argument could be made that some prin
 
 Two comments can be made:
 
-1. We should exercise caution in assenting to such a belief too rapidly given the many examples in the history of science that show how unintended consequences can arise as a result of advances in some scientific discipline that even experts could not foresee (see [this example](/rri/chapter1/history.md)).
+1. We should exercise caution in assenting to such a belief too rapidly given the many examples in the history of science that show how unintended consequences can arise as a result of advances in some scientific discipline that even experts could not foresee.
 2. Although principles of RRI may apply more strongly in some areas of application or research, there are also principles (e.g. [FAIR principles](https://www.go-fair.org/fair-principles/)) that support responsible public engagement that ought to apply universally (e.g. research integrity, promotion of equality, diversity, and inclusivity among researchers).
 
 !!! question "Question"
@@ -155,7 +155,7 @@ For example, if an autonomous vehicle is involved in an accident or if a algorit
 As such, there needs to be a) interpretability of the system itself (e.g., an ability to make sense of the underlying logic by which a system reaches a decision) and b) the ability to translate this information into a variety of explanations that are acceptable to relevant users and stakeholders.
 On this second point, public engagement can support evaluation and determination of both the accessibility and usability of different explanations, as well as providing input on possible trade-offs between, say, the interpretability and accuracy of possible system types (e.g., decision trees versus neural networks).[^explainability]
 
-[^explainability]: For more on the explainability/accuracy trade-off see [this page](../../rri/chapter3/model_development/model_testing.md).
+[^explainability]: For more on the explainability/accuracy trade-off see [our module on explainability](../../rri/rri-204-index.md).
 
 ### Data Quality, Integrity, Privacy and Protection
 
