@@ -116,7 +116,19 @@ images:
       - classification
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/classification.png
     caption: "Simple representation of the output of a classification task: separating the dataset into images of cats and images of dogs."
+  - title: "Confusion matrix (version 1)"
+    tags:
+      - statistical fairness
+      - algorithm
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/confusion-matrix-v1.jpg
+    caption: "A confusion matrix illustrating a classification task where the model is trying to predict whether a patient is sick or not. The model's prediction is represented via the doctor who has a positive or negative test (version with name tags)."
     display: cover
+  - title: "Confusion matrix (version 2)"
+    tags:
+      - statistical fairness
+      - algorithm
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/confusion-matrix-v2.png
+    caption: "A confusion matrix illustrating a classification task where the model is trying to predict whether a patient is sick or not. The model's prediction is represented via the doctor who has a positive or negative test (version without name tags)."
   - title: "Construction"
     tags:
       - sociotechnical systems
@@ -138,6 +150,13 @@ images:
      - policing
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/crime-prediction.jpg
     caption: "A policeman using crime prediction system (a software which uses an AI system to predict the most likely spots for criminal activity in the city) while patroling the city."
+  - title: "Data Linkage"
+    tags:
+      - data
+      - data science
+      - data protection
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data-linkage.jpg
+    caption: "Illustration depicting the linking of different data sets."
   - title: "Data Maze"
     tags:
       - data
@@ -234,6 +253,13 @@ images:
       - bias
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/facial-recognition.png
     caption: "Illustration representing a facial recognition algorithm being used by capturing and detecting a particular face in a crowd."
+  - title: "Genetic Disorder Detection"
+    tags:
+      - data science
+      - sociotechnical systems
+      - algorithm
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/genetic-disorder.png
+    caption: "Cartoon depicting 
   - title: "Scientific Fraud"
     tags:
       - data science
@@ -403,6 +429,18 @@ images:
       - surveillance
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/prison-surveillance.png
     caption: "Image depicting a data analyst contributing to prison surveillance using data collected from images, videos, and other data taken the prison that is displayed on a dashboard."
+  - title: "Illustrated Project Lifecycle (version 1)"
+    tags:
+      - project lifecycle
+      - sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/project-lifecycle-v1.jpg
+    caption: "Illustrated version of the project lifecycle model (without name tags)."
+  - title: "Illustrated Project Lifecycle (version 2)"
+    tags:
+      - project lifecycle
+      - sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/project-lifecycle-v2.png
+    caption: "Illustrated version of the project lifecycle model (with name tags)."
   - title: "Project Design"
     tags:
       - project lifecycle
