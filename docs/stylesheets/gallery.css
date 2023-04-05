@@ -152,3 +152,42 @@
 .copy-button-container button {
   color: var(--md-primary-fg-color);
 }
+
+.tc-filter{
+	background-color: #64dd171a;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+    font-size: 13px;
+    border: #64dd17 1px solid;
+}
+
+.tc-filter select{
+	height: 30px;
+    border: 1px solid #999;
+    color: #027c70;
+    border-radius: 5px;
+    font-weight: 500;
+	background:#fefefe;
+}
+
+.tc-filter button{
+	height: 30px;
+    font-size: 1em;
+}
+
+.tc-filter label{
+	margin-left:10px;
+	margin-right:10px;
+	font-size:1.1em;
+}
+
+.tc-filter .twemoji{
+	height: 2em;
+    vertical-align: middle;
+}
+
+.tc-filter .twemoji svg{
+	fill: var(--md-primary-fg-color);
+	width:1.8em;
+}

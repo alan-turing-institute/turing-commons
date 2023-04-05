@@ -1,8 +1,12 @@
 {% extends "main.html" %} {% block content %} {{ super() }}
 
 
-<div id="filter-container">	Filter by tag: 
-	<select onchange="getOption()"id="tag_selector">
+<div id="filter-container" class="tc-filter">
+	<span class="twemoji">
+	  {% include ".icons/octicons/filter-16.svg" %} 
+	</span> 
+	<label for="tag_selector">Filter by tag:</label> 
+	<select onchange="getOption()" id="tag_selector">
 		<option disabled selected value> Choose a tag </option>
 		{% for item in config.tags %}
 		{% set class = item | replace(' ','_') %}
