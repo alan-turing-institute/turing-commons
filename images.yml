@@ -149,7 +149,7 @@ images:
      - sociotechnical systems
      - policing
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/crime-prediction.jpg
-    caption: "A policeman using crime prediction system (a software which uses an AI system to predict the most likely spots for criminal activity in the city) while patroling the city."
+    caption: "A policeman using crime prediction system (a software which uses an AI system to predict the most likely spots for criminal activity in the city) while patrolling the city."
   - title: "Data Linkage"
     tags:
       - data
@@ -231,14 +231,14 @@ images:
       - data science
       - biases
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/divides.png
-    caption: "Illustration depicting the unequal distributon of datasets across regions worldwide. In particular, it depicts researchers from more affluent countries or regions extracting data from less well-funded regions and using it with little regards for the people in those regions." 
+    caption: "Illustration depicting the unequal distribution of datasets across regions worldwide. In particular, it depicts researchers from more affluent countries or regions extracting data from less well-funded regions and using it with little regards for the people in those regions." 
   - title: "Satellite Earth Monitoring"
     tags:
       - data
       - environmental monitoring
       - surveillance
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/earth-monitoring.jpg
-    caption: "Image of satellite and ground sensors monitoring cities, forests, and the sea across the globe. Data generated is stored in mutliple cloud servers all over the world."
+    caption: "Image of satellite and ground sensors monitoring cities, forests, and the sea across the globe. Data generated is stored in multiple cloud servers all over the world."
   - title: "Explainability in Judicial Decisions"
     tags:
       - sociotechnical systems
@@ -259,13 +259,13 @@ images:
       - sociotechnical systems
       - algorithm
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/genetic-disorder.png
-    caption: "Cartoon depicting 
+    caption: "Illustration depicting an app that uses facial images to detect the presence of genetic disorders."
   - title: "Scientific Fraud"
     tags:
       - data science
       - fraud
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/scientific-fraud.png
-    caption: "Cartoon depicting a scientist fabricating data (commiting scientific fraud). While at first he gets promoted, he gets caught thanks to the replication and scrutiny processes carried out by other scientists, and loses his job"
+    caption: "Cartoon depicting a scientist fabricating data (committing scientific fraud). While at first he gets promoted, he gets caught thanks to the replication and scrutiny processes carried out by other scientists, and loses his job"
   - title: "Goals and Objectives"
     tags:
       - data 
