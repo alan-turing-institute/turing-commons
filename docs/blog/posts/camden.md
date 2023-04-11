@@ -15,6 +15,8 @@ authors:
 Over three weekends in January, Camden Council are running a Resident’s Panel with a group of local residents to reflect on, sense-check and make improvements to their Data Charter, which was created a year earlier. 
 At LOTI, we’ve [identified resident engagement](https://loti.london/toolkit/recommendations-data-ethics-capabilities/) as one of the key capabilities for councils to become more responsible innovators and ethical users of data, and given my other area of work on innovative participation methods, I was excited to attend the second weekend meeting of this Panel, and blog about my impressions. 
 
+<!-- more -->
+
 ![Camden Resident's Panel in Action](../../assets/images/graphics/crp-2.jpg)
 
 ### Background to the Resident’s Panel

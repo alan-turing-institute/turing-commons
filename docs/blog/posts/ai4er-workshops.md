@@ -19,6 +19,8 @@ My name’s Orlando, and I’m currently a Master of Research (MRes) student wit
 [Artificial Intelligence for Environmental Risk (AI4ER)](https://ai4er-cdt.esc.cam.ac.uk) CDT at the University of Cambridge.
 Our course aims to harness the increasing availability of large datasets and powerful compute to better understand physical systems in order to inform national and international policy, and make a tangible, positive impact on the environments in which we live.
 
+<!-- more -->
+
 The beverage-backed online meeting followed a general call by the Turing Commons team – part of the [Alan Turing Institute](https://www.turing.ac.uk) – for all MRes, PhD, and early career researchers in AI4ER to have their voice heard.
 
 The call is responding to a broad consensus which demands that the development of AI methods be widely accessible, transparent for stakeholders, and, above all, guided by an understanding of any potential ethical ramifications from inception to deployment, and beyond.
