@@ -1,6 +1,5 @@
 {% extends "main.html" %} {% block content %} {{ super() }}
 
-
 <div id="filter-container" class="tc-filter">
 	<span class="twemoji">
 	  {% include ".icons/octicons/filter-16.svg" %} 
@@ -63,7 +62,7 @@
 
 {% endblock %} 
 
-{% block scripts %} 
+{% block scripts %} {{ super() }}
 
 <script>
 
@@ -143,7 +142,5 @@
 		
   });
 </script>
-
-{{ super() }}
 
 {% endblock %}
