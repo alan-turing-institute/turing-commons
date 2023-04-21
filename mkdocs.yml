@@ -17,7 +17,8 @@ copyright: Copyright &copy; 2022 Alan Turing Institute
 theme:
   name: material
   custom_dir: overrides
-
+  logo: assets/logo.png
+  favicon: assets/favicon.png
   # Static files
   static_templates:
     - 404.html
@@ -63,7 +64,6 @@ theme:
     code: Roboto Mono
   # favicon: assets/logo.png
   icon:
-    logo: material/vector-circle
     admonition:
       bug: octicons/database-16
 
