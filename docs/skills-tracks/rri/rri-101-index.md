@@ -23,7 +23,7 @@ This module has the following learning objectives:
 
 <div class="grid cards" markdown>
 
--   :octicons-beaker-16:{ .lg .middle } __What is the Project Lifecycle?__
+-   :fontawesome-solid-question:{ .lg .middle } __What is the Project Lifecycle?__
 
     ---
 
@@ -31,7 +31,7 @@ This module has the following learning objectives:
 
     [:octicons-arrow-right-24: Go to module](rri-101-1.md)
 
--   :fontawesome-solid-arrows-spin:{ .lg .middle } __Project Design__
+-   :fontawesome-solid-paintbrush:{ .lg .middle } __Project Design__
 
     ---
 
@@ -39,7 +39,7 @@ This module has the following learning objectives:
 
     [:octicons-arrow-right-24: Go to module](rri-101-2.md)
 
--   :material-thought-bubble:{ .lg .middle } __Model Development__
+-   :octicons-graph-16:{ .lg .middle } __Model Development__
 
     ---
 
@@ -47,7 +47,7 @@ This module has the following learning objectives:
 
     [:octicons-arrow-right-24: Go to module](rri-101-3.md)
 
--   :material-chat-processing:{ .lg .middle } __System Deployment__
+-   :material-server:{ .lg .middle } __System Deployment__
 
     ---
 

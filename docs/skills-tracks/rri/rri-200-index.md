@@ -16,7 +16,7 @@ However, there is no limit as to how many modules may be completed before moving
 
 <div class="grid cards" markdown>
 
--   :octicons-beaker-16:{ .lg .middle } __Sustainability__
+-   :fontawesome-solid-signs-post:{ .lg .middle } __Sustainability__
 
     ---
 
@@ -25,7 +25,7 @@ However, there is no limit as to how many modules may be completed before moving
 
     <!-- [:octicons-arrow-right-24: Go to module](rri-201-index.md) -->
 
--   :octicons-beaker-16:{ .lg .middle } __Accountability__
+-   :fontawesome-solid-people-group:{ .lg .middle } __Accountability__
 
     ---
 
@@ -34,7 +34,7 @@ However, there is no limit as to how many modules may be completed before moving
 
     <!-- [:octicons-arrow-right-24: Go to module](rri-202-index.md) -->
 
--   :octicons-beaker-16:{ .lg .middle } __Fairness__
+-   :material-scale-unbalanced:{ .lg .middle } __Fairness__
 
     ---
 
@@ -44,7 +44,7 @@ However, there is no limit as to how many modules may be completed before moving
 
     <!-- [:octicons-arrow-right-24: Go to module](rri-203-index.md) -->
 
--   :octicons-beaker-16:{ .lg .middle } __Explainability__
+-   :fontawesome-solid-magnifying-glass-chart:{ .lg .middle } __Explainability__
 
     ---
 
@@ -53,7 +53,7 @@ However, there is no limit as to how many modules may be completed before moving
 
     [:octicons-arrow-right-24: Go to module](rri-204-index.md)
 
--   :octicons-beaker-16:{ .lg .middle } __Data Stewardship__
+-   :material-database-eye:{ .lg .middle } __Data Stewardship__
 
     ---
 

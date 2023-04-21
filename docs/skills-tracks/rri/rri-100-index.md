@@ -27,7 +27,7 @@ This module has the following learning objectives:
 
 <div class="grid cards" markdown>
 
--   :octicons-beaker-16:{ .lg .middle } __Understanding Responsibility__
+-   :material-thought-bubble:{ .lg .middle } __Understanding Responsibility__
 
     ---
 
@@ -35,7 +35,7 @@ This module has the following learning objectives:
 
     [:octicons-arrow-right-24: Go to module](rri-100-1.md)
 
--   :fontawesome-solid-arrows-spin:{ .lg .middle } __Collective and Distributed Responsibility__
+-   :material-graph:{ .lg .middle } __Collective and Distributed Responsibility__
 
     ---
 
@@ -43,7 +43,7 @@ This module has the following learning objectives:
 
     [:octicons-arrow-right-24: Go to module](rri-100-2.md)
 
--   :material-thought-bubble:{ .lg .middle } __Defining Responsible Research and Innovation__
+-   :material-text-box:{ .lg .middle } __Defining Responsible Research and Innovation__
 
     ---
 
@@ -51,7 +51,7 @@ This module has the following learning objectives:
 
     [:octicons-arrow-right-24: Go to module](rri-100-3.md)
 
--   :material-chat-processing:{ .lg .middle } __The Scope and Horizon of Responsibility__
+-  :material-telescope:{ .lg .middle } __The Scope and Horizon of Responsibility__
 
     ---
 

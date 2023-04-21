@@ -66,8 +66,8 @@ This skills track has the following learning objectives:
 
     ---
 
-    This chapter explores and critically examines what it means to act responsibly when communicating the processes by which a project is governed.
+    ~~This chapter explores and critically examines what it means to act responsibly when communicating the processes by which a project is governed.~~ (Coming Soon!)
 
-    [:octicons-arrow-right-24: Go to module](rri-300-index.md)
+    <!-- [:octicons-arrow-right-24: Go to module](rri-300-index.md) -->
 
 </div>
