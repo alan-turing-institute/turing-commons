@@ -6,7 +6,7 @@ hide:
 
 # About this Module
 
-This module sets a foundation for the rest of the skills track. It attempts to understand what responsibility is, focusing on both indiviudal and collective responsibility, and how these ideas impact the way responsibility is distributed across a data-driven or AI project.
+This module sets a foundation for the rest of the skills track. It attempts to understand what responsibility is, focusing on both individual and collective responsibility, and how these ideas impact the way responsibility is distributed across a data-driven or AI project.
 
 The module delves into the history of the term responsible research and innovation and why it has become increasingly relevant, as well as questions around the *scope* of responsibility. What are the boundaries of responsibility? Are we responsible for those far away geographically? For people who have not yet been born?
 
