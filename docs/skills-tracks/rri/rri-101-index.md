@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# About this Module
+# About this Module - The Project Lifecycle
 
 This module introduces the Project Lifecycle model which depicts the process of designing, developing, and deploying an AI system. 
 
