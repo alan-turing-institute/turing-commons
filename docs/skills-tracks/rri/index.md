@@ -42,7 +42,7 @@ This skills track has the following learning objectives:
 
     ---
 
-    This chapter looks at foundational concepts and topics associated with responsible research and innovation (RRI).
+    This module looks at foundational concepts and topics associated with responsible research and innovation (RRI).
 
     [:octicons-arrow-right-24: Go to module](rri-100-index.md)
 
@@ -50,7 +50,7 @@ This skills track has the following learning objectives:
 
     ---
 
-    This chapter introduces the model and framework of the ML/AI project lifecycle, and explores the constituent stages.
+    This module introduces the model and framework of the ML/AI project lifecycle, and explores its constituent stages.
 
     [:octicons-arrow-right-24: Go to module](rri-101-index.md)
 
@@ -66,7 +66,7 @@ This skills track has the following learning objectives:
 
     ---
 
-    ~~This chapter explores and critically examines what it means to act responsibly when communicating the processes by which a project is governed.~~ (Coming Soon!)
+    ~~This module explores and critically examines what it means to act responsibly when communicating the processes by which a project is governed.~~ (Coming Soon!)
 
     <!-- [:octicons-arrow-right-24: Go to module](rri-300-index.md) -->
 
