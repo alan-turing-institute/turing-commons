@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# About this Module
+# What is Responsible Research and Innovation: About this Module
 
 This module sets a foundation for the rest of the skills track. It attempts to understand what responsibility is, focusing on both individual and collective responsibility, and how these ideas impact the way responsibility is distributed across a data-driven or AI project.
 
