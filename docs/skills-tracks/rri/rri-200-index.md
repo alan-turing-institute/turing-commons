@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# About these Modules
+# About these Modules - The SAFE-D Principles
 The following are the five optional modules for the RRI skills track. 
 Each module focuses on one of the SAFE-D principles. These are overarching ethical principles which highlight crucial dimensions relevant when thinking through the practical applications of responsible research and innovation.
 

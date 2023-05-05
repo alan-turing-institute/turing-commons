@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# About this Module
+# About this Module - Fairness
 
 A description for this module is coming soon!
 

@@ -1,4 +1,4 @@
-# About this Module
+# About this Module - Explainability
 
 This module is about the importance of explainability in AI and data-driven systems.
 It focuses on three relevant aspects usually required for achieving explainability in the context of AI and data-driven systems: project transparency, model interpretability, and being able to provide *situated* explanations.
