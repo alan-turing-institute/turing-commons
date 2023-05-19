@@ -83,6 +83,17 @@ images:
       - system
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ai-squares.png
     caption: "Six squares showing different images related to sociotechnical AI systems."
+  - title: "Artificial Intelligence (Version 3)"
+    tags:
+      - Artificial Intelligence
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ai-clouds.png
+    caption: "Illustration showing different images related to sociotechnical AI systems, represented in clouds connected to a central brain (yellow palette)."
+  - title: "Al Tree and Garden"
+    tags:
+      - algorithm
+      - AI ethics
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ai-garden.png
+    caption: "Illustration showing an AI tree with a garden surrounding it."
   - title: "Algorithm (Version 1)"
     tags:
       - algorithm
