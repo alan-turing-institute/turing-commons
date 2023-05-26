@@ -6,7 +6,7 @@ hide:
 
 # About this Module - Fairness
 
-!!! info  "**Note for Index Page**"
+!!! info  "**Important**"
 
     This module is not a technical introduction to Fair ML methods, nor does it attempt to provide an up-to-date overview of the current methods in the field.
     New methods are currently being developed at a rapid pace, and many of these methods are designed to solve problems with specific techniques (e.g. privacy-preserving federated learning to protect interest of vulnerable groups).
