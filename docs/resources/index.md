@@ -14,11 +14,11 @@ The following list is a collection of resources that either support our skills t
 
     [:octicons-arrow-right-24: Go to resource](gallery.md)
 
--   :fontawesome-solid-book:{ .lg .middle } __Bibliographies__
+-   :fontawesome-solid-book:{ .lg .middle } __Activities__
 
     ---
 
-    ~~A set of curated bibliographies (or, reading lists) on various topics to allow the interested reader to explore specific topics in more depth.~~
+    ~~A repository of activities that can be used to support self-directed and group learning.~~
     Coming soon.
 
     [:octicons-arrow-right-24: Go to resource](bibliographies.md)
@@ -32,11 +32,10 @@ The following list is a collection of resources that either support our skills t
 
     [:octicons-arrow-right-24: Go to resource](case-studies.md)
 
--   :material-puzzle:{ .lg .middle } __Activities__
-
+-   :material-puzzle:{ .lg .middle } __Bibliographies__
     ---
 
-    ~~A repository of activities that can be used to support self-directed and group learning.~~
+    ~~A set of curated bibliographies (or, reading lists) on various topics to allow the interested reader to explore specific topics in more depth.~~
     Coming soon.
 
     [:octicons-arrow-right-24: Go to resource](activities.md)

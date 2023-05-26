@@ -1,4 +1,4 @@
-# Activites
+# Activities
 
 Coming soon!
 
