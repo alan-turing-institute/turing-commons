@@ -190,14 +190,14 @@ images:
       - classification
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/classification.png
     caption: "Simple representation of the output of a classification task: separating the dataset into images of cats and images of dogs."
-  - title: "Confusion matrix (version 1)"
+  - title: "Confusion matrix (Version 1)"
     tags:
       - statistical fairness
       - algorithm
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/confusion-matrix-v1.jpg
     caption: "A confusion matrix illustrating a classification task where the model is trying to predict whether a patient is sick or not. The model's prediction is represented via the doctor who has a positive or negative test (version with name tags)."
     display: cover
-  - title: "Confusion matrix (version 2)"
+  - title: "Confusion matrix (Version 2)"
     tags:
       - statistical fairness
       - algorithm
@@ -510,18 +510,18 @@ images:
       - surveillance
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/prison-surveillance.png
     caption: "Image depicting a data analyst contributing to prison surveillance using data collected from images, videos, and other data taken the prison that is displayed on a dashboard."
-  - title: "Illustrated Project Lifecycle (version 1)"
+  - title: "Illustrated Project Lifecycle (Version 1)"
     tags:
       - project lifecycle
       - sociotechnical systems
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/project-lifecycle-v1.jpg
     caption: "Illustrated version of the project lifecycle model (without name tags)."
-  - title: "Illustrated Project Lifecycle (version 2)"
+  - title: "Illustrated Project Lifecycle (Version 2)"
     tags:
       - project lifecycle
       - sociotechnical systems
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/project-lifecycle-v2.png
-    caption: "Illustrated version of the project lifecycle model (with name tags)."
+    caption: "Illustrated version of the project lifecycle model (with Name Tags)."
   - title: "Project Design"
     tags:
       - project lifecycle
