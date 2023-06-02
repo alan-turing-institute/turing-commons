@@ -1,6 +1,6 @@
 # Resources
 
-![](../assets/images/illustrations/trust-yellow.png)
+![](../assets/images/illustrations/trust-yellow.png){ width="60%" }
 
 The following list is a collection of resources that either support our skills tracks (e.g. activities) or serve as stand-alone tools.
 
@@ -27,10 +27,9 @@ The following list is a collection of resources that either support our skills t
 
     ---
 
-    ~~A repository of case studies that support our skills tracks and modules.~~
-    Coming soon.
+    A repository of case studies that support our skills tracks and modules.
 
-    [:octicons-arrow-right-24: Go to resource](case-studies.md)
+    [:octicons-arrow-right-24: Go to resource](case-studies/index.md)
 
 -   :material-puzzle:{ .lg .middle } __Bibliographies__
     ---
