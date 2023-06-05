@@ -16,7 +16,7 @@
 
 Welcome to the GitHub repository for the Turing Commons.
 The Turing Commons is an online platform with resources to support open dialogue and reflection about the responsible design, development, and deployment of data-driven technologies.
-This repository primarily exists to host and support a [series of online courses](https://alan-turing-institute.github.io/turing-commons/) on the following topics:
+This repository primarily exists to host and support a [series of training materials](https://alan-turing-institute.github.io/turing-commons/) on the following topics: 
 
 - [Responsible Research and Innovation (RRI)](https://alan-turing-institute.github.io/turing-commons/rri/index.html)
 - [Public Engagement of Data Science and AI (PED)](https://alan-turing-institute.github.io/turing-commons/ped/index.html)
