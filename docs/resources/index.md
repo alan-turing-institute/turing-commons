@@ -18,8 +18,7 @@ The following list is a collection of resources that either support our skills t
 
     ---
 
-    ~~A repository of activities that can be used to support self-directed and group learning.~~
-    Coming soon.
+    A repository of activities that can be used to support self-directed and group learning.
 
     [:octicons-arrow-right-24: Go to resource](bibliographies.md)
 
