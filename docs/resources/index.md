@@ -20,7 +20,7 @@ The following list is a collection of resources that either support our skills t
 
     A repository of activities that can be used to support self-directed and group learning.
 
-    [:octicons-arrow-right-24: Go to resource](bibliographies.md)
+    [:octicons-arrow-right-24: Go to resource](activities.md)
 
 -   :material-file-document-edit-outline:{ .lg .middle } __Case Studies__
 
@@ -37,6 +37,6 @@ The following list is a collection of resources that either support our skills t
     ~~A set of curated bibliographies (or, reading lists) on various topics to allow the interested reader to explore specific topics in more depth.~~
     Coming soon.
 
-    [:octicons-arrow-right-24: Go to resource](activities.md)
+    [:octicons-arrow-right-24: Go to resource](bibliographies.md)
 
 </div>
