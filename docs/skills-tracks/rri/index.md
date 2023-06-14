@@ -6,6 +6,11 @@ hide:
 
 # About this Skills Track
 
+<video controls>
+  <source src="../../assets/videos/rri-intro.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 !!! abstract "Skills Track Information"
 
     - **Title**: Responsible Research and Innovation
