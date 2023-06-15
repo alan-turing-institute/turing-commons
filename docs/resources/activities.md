@@ -8,15 +8,6 @@
 ![Illustration of stakeholder engagement.](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/stakeholder-engagement.jpg)
 
 ## Responsible Research and Innovation Skills Track
-| Activity    |   Module          | 
-| ----------- | ----------------- |
-
-| [Grounding Collective Responsibility](https://github.com/alan-turing-institute/turing-commons/blob/resources/resources/activities/rri-101-a1.pdf) | The Project Lifecycle |
-| [Bias ~~Checklist~~ *Reflect*list](https://github.com/alan-turing-institute/turing-commons/blob/resources/resources/activities/rri-203-a1.pdf)    | Fairness |
-| [Bias and Mitigation Cards](https://github.com/alan-turing-institute/turing-commons/blob/resources/resources/activities/bias-and-mitigation-cards.pdf)    | Fairness |
-| [Selecting and Evaluating Claims](https://github.com/alan-turing-institute/turing-commons/blob/resources/resources/activities/rri-204-a1.pdf)    | Explainability |
-| [Sample Claims (supplementary document)](https://github.com/alan-turing-institute/turing-commons/blob/resources/resources/activities/rri-204-a1-supplement.pdf)    | Explainability |
-
 <div class="grid cards" markdown>
 
 -   :material-thought-bubble:{ .lg .middle } __Understanding Responsibility__
