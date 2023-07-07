@@ -66,6 +66,18 @@ images:
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/aeg-cover.png
     caption: "Cover illustration for the AI Ethics and Governance skills track. Image depicts a garden of ethical values and principles for AI, with people tending to it."
     display: cover
+  - title: "AI Fairness"
+    tags:
+      - Artificial Intelligence
+      - Sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ai-fairness.png
+    caption: "Illustration depicting the collective and multi-faceted nature of fairness in AI systems."
+  - title: "AI Sustainability"
+    tags:
+      - Artificial Intelligence
+      - Sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ai-sustainability.png
+    caption: "Illustration depicting sustainability in AI systems."
   - title: "Air-Quality Detection"
     tags:
       - Artificial Intelligence
@@ -163,6 +175,12 @@ images:
       - environment
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/biospheric-harm.jpg
     caption: "Illustration showing that large, data- and compute power- intensive models can generate great harms to our environment and the biosphere in general."
+  - title: "Child centered AI"
+    tags:
+      - Artificial Intelligence
+      - Sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/child-centered-ai.png
+    caption: "Illustration depicting the collective and multi-faceted nature of fairness in AI systems."
   - title: "Co-Designing Assurance"
     tags:
       - argument-based assurance
@@ -250,6 +268,12 @@ images:
       - data protection
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data-security.png
     caption: "An image depicting a data leak produced by a flaw in security which leads bad actors to access the sensitive dataset."
+  - title: "Responsible Data Management and Stewardship"
+    tags:
+      - Artificial Intelligence
+      - Sociotechnical systems
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data-stewardship.png
+    caption: "Illustration depicting the collective and multi-faceted nature of fairness in AI systems." 
   - title: "Big Data Analysis (Version 1)"
     tags:
       - data
