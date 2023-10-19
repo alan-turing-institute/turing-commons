@@ -730,9 +730,28 @@ images:
       - claims
       - assurance
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/identifying-claims.png
-    caption: "A project team developing, identifying, and evaluating claims about some properties of their project or system for the purpose of explainability or assurance."
-     
-
+    caption: "A project team developing, identifying, and evaluating claims about some properties of their project or system for the purpose of explainability or assurance."  
+  - title: "Mental health: Social media"
+    tags:
+      - digital mental health
+      - social media
+      - algorithm
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/social-media-mental-health.jpg
+    caption: "Image showing the effects of social media on mental health."
+  - title: "Large language models: print version"
+    tags:
+      - sociotechnical systems
+      - data
+      - algorithm
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/llm-print.jpg
+    caption: "Image depicting the various layers of work required to create large language models."
+  - title: "Large language models: print version"
+    tags:
+      - sociotechnical systems
+      - data
+      - algorithm
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/llm-web.jpg
+    caption: "Image depicting the various layers of work required to create large language models."
 
 
 
