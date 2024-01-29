@@ -752,7 +752,13 @@ images:
       - algorithm
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/llm-web.jpg
     caption: "Image depicting the various layers of work required to create large language models."
-
+  - title: "Data Justice Pillars"
+    tags:
+      - sociotechnical systems
+      - values
+      - ethics
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/llm-web.jpg
+    caption: "Image depicting the six pillar of data justice."
 
 
 
