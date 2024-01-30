@@ -766,7 +766,13 @@ images:
       - algorithm
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/power.png
     caption: "Image depicting the data justice pillar 'Power'."
-
+  - title: "Equity: Data justice pillar"
+    tags:
+      - sociotechnical systems
+      - data
+      - algorithm
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dj-equity.png
+    caption: "Image depicting the data justice pillar 'Equity'."
 
 
 
