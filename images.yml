@@ -759,6 +759,13 @@ images:
       - ethics
     url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/data-justice.jpg
     caption: "Image depicting the six pillar of data justice."
+  - title: "Power: Data Justice pillar"
+    tags:
+      - sociotechnical systems
+      - data
+      - algorithm
+    url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/power.png
+    caption: "Image depicting the data justice pillar 'Power'."
 
 
 
