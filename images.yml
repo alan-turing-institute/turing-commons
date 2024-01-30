@@ -766,7 +766,69 @@ images:
           - algorithm
       url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dj-power.jpg
       caption: "Image depicting the data justice pillar 'Power'."
-
+    - title: "Access: Data Justice pillar"
+      tags:
+          - sociotechnical systems
+          - data
+          - algorithm
+      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dj-access.jpg
+      caption: "Image depicting the data justice pillar 'Access'."
+    - title: "Identity: Data Justice pillar"
+      tags:
+          - sociotechnical systems
+          - data
+          - algorithm
+      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dj-identity.jpg
+      caption: "Image depicting the data justice pillar 'Identity'."
+    - title: "Participation: Data Justice pillar"
+      tags:
+          - sociotechnical systems
+          - data
+          - algorithm
+      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dj-participation.jpg
+      caption: "Image depicting the data justice pillar 'Participation'."
+    - title: "Knowledge: Data Justice pillar"
+      tags:
+          - sociotechnical systems
+          - data
+          - algorithm
+      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dj-knowledge.jpg
+      caption: "Image depicting the data justice pillar 'Knowledge'."
+    - title: "Policymakers"
+      tags:
+          - sociotechnical systems
+          - data
+          - algorithm
+      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dj-policy.jpg
+      caption: "Image depicting 'Policymakers' as stakeholders in the lifecycle of AI." 
+    - title: "Developers"
+      tags:
+          - sociotechnical systems
+          - data
+          - algorithm
+      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dj-developer.jpg
+      caption: "Image depicting 'Developers' as stakeholders in the lifecycle of AI." 
+    - title: "Impacted communities"
+      tags:
+          - sociotechnical systems
+          - data
+          - algorithm
+      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dj-community.jpg
+      caption: "Image depicting 'Impacted communities' as stakeholders in the lifecycle of AI." 
+    - title: "FAIR Principles"
+      tags:
+          - sociotechnical systems
+          - data
+          - algorithm
+      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dj-fair.jpg
+      caption: "Image depicting the FAIR principles." 
+    - title: "Accessibility"
+      tags:
+          - sociotechnical systems
+          - data
+          - algorithm
+      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dj-access.jpg
+      caption: "Image depicting the concept of 'Accessibility'." 
 # Template
 
 # - title: "Image Title"
