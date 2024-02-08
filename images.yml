@@ -829,6 +829,13 @@ images:
           - algorithm
       url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dj-cover.jpg
       caption: "Image depicting the concept of 'Accessibility'." 
+    - title: "Equity"
+      tags:
+          - sociotechnical systems
+          - data
+          - algorithm
+      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dj-equity.jpg
+      caption: "Image depicting the concept of 'Equity'." 
 # Template
 
 # - title: "Image Title"
