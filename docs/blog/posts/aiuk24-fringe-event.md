@@ -11,7 +11,7 @@ authors:
 
 # Accessible and Representative Imageries and Imaginaries of AI - AIUK24 Fringe Event
 
-This page provides further detail on the Accessible and Representative Imageries and Imaginaries of AI event, to be held as a hybrid event on March 28th at The Alan Turing Institute's offices in The British Library.
+This page provides further detail on the Accessible and Representative Imageries and Imaginaries of AI event, to be held as a hybrid event on March 28th at The Alan Turing Institute's office in London.
 
 <!-- more -->
 
@@ -26,6 +26,7 @@ This page provides further detail on the Accessible and Representative Imageries
     :round_pushpin: The Alan Turing Institute offices, The British Library
 
     This event is a hybrid event. To attend the event, please visit the registration page [here](https://forms.office.com/e/34kmFnsBVu) and fill out the form.
+    This event is part of the AI UK Fringe 2024, a series of events exploring key topics around data science and AI. To see the full lineup of events, [click here](https://ai-uk.turing.ac.uk/fringe-events/). 
     
 ## Agenda
 
@@ -63,3 +64,7 @@ The workshop will involve, as a first activity, a socio-technical deconstructing
 The workshop is aimed at a broad and multidisciplinary group of stakeholders, including artists, researchers, students, and creative and technology professionals, for a diverse participation.
 
 Both the panel and the workshop will provide an opportunity for an open and accessible discussion on the roles of underlying algorithms, design choices, and contextual factors that can influence AI imagery. Activities will examine how AI imagery can represent diverse subjects and environments, replicates biases and harms, and how a normative framing can allow for a practical and ethical appraisal of AI image creation.
+
+If you have any questions, please contact Youmna Hashem at yhashem@turing.ac.uk
+
+
