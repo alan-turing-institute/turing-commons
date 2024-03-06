@@ -25,7 +25,7 @@ This page provides further detail on the Accessible and Representative Imageries
     
 :round_pushpin: The Alan Turing Institute office, The British Library
 
-**[To join the event, please visit the registration page here to fill out the form](https://forms.office.com/e/34kmFnsBVu)**
+**[To join the event, please visit the registration page here to fill out the form.](https://forms.office.com/e/34kmFnsBVu)**
     
 This event is part of the AI UK Fringe 2024, a series of events exploring key topics around data science and AI. To see the full lineup of events, [click here](https://ai-uk.turing.ac.uk/fringe-events/). 
 
@@ -59,7 +59,7 @@ By the end of the event, we hope you will feel better equipped to critically exa
 
 ## Panel
 
-The introductory panel discussion will be on normative framings of data justice and accessibility principles based on research undertaken within the [Turing Commons](https://alan-turing-institute.github.io/turing-commons/), [Turing Way](https://the-turing-way.netlify.app/index.html), and [Advancing Data Justice]((https://advancingdatajustice.org/) project teams. The panel discussion will provide critical and normative framings for the ensuing itneractive workshop activity, which invites a curated mix of participants to delive into the often-unseen human labour and subejctive interpretations that contribute to the creation of AI imagery. The panel discussion will interrogate how these can be made more inclusive and representative of a wider public. 
+The introductory panel discussion will be on normative framings of data justice and accessibility principles based on research undertaken within the [Turing Commons](https://alan-turing-institute.github.io/turing-commons/), [Turing Way](https://the-turing-way.netlify.app/index.html), and [Advancing Data Justice](https://advancingdatajustice.org/) project teams. The panel discussion will provide critical and normative framings for the ensuing itneractive workshop activity, which invites a curated mix of participants to delive into the often-unseen human labour and subejctive interpretations that contribute to the creation of AI imagery. The panel discussion will interrogate how these can be made more inclusive and representative of a wider public. 
 
 Speakers will be announced closer to the time of the event. 
 
