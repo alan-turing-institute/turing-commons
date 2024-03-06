@@ -15,21 +15,21 @@ This page provides further detail on the Accessible and Representative Imageries
 
 <!-- more -->
 
-![Abstract illustration depicting the data justice pillar of 'Accessibility'. Illustration by Jonny Lighthands.](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dj-cover.jpg)
+![Abstract illustration depicting the data justice pillar of 'Access'. Illustration by Jonny Lighthands.](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dj-access.jpg)
 
-!!! info "Key information"
+## Key information
 
-    :date: March 28th, 2024
+:date: March 28th, 2024
     
-    :clock2: 1pm-5pm 
+:clock2: 1pm-5pm 
     
-    :round_pushpin: The Alan Turing Institute office, The British Library
+:round_pushpin: The Alan Turing Institute office, The British Library
 
-    This event is a hybrid event. **To join the event, please visit the registration page [here](https://forms.office.com/e/34kmFnsBVu) and fill out the form.**
+**[To join the event, please visit the registration page here to fill out the form](https://forms.office.com/e/34kmFnsBVu)**
     
-    This event is part of the AI UK Fringe 2024, a series of events exploring key topics around data science and AI. To see the full lineup of events, [click here](https://ai-uk.turing.ac.uk/fringe-events/). 
+This event is part of the AI UK Fringe 2024, a series of events exploring key topics around data science and AI. To see the full lineup of events, [click here](https://ai-uk.turing.ac.uk/fringe-events/). 
 
-    If you have any questions about registration, or require further details, please contact Youmna Hashem at yhashem@turing.ac.uk
+If you have any questions about registration, or require further details, please contact Youmna Hashem at yhashem@turing.ac.uk
 
     
 ## Agenda
