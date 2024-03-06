@@ -29,7 +29,7 @@ This page provides further detail on the Accessible and Representative Imageries
     
     This event is part of the AI UK Fringe 2024, a series of events exploring key topics around data science and AI. To see the full lineup of events, [click here](https://ai-uk.turing.ac.uk/fringe-events/). 
 
-    If you have any questions about this event, please contact Youmna Hashem at yhashem@turing.ac.uk
+    If you have any questions about registration, or require further details, please contact Youmna Hashem at yhashem@turing.ac.uk
 
     
 ## Agenda
