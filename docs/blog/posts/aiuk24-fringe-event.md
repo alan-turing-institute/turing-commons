@@ -16,6 +16,7 @@ This page provides further detail on the Accessible and Representative Imageries
 <!-- more -->
 
 ![Abstract illustration depicting the data justice pillar of 'Access'. Illustration by Jonny Lighthands.](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dj-access.jpg)
+Illustration by [Jonny Lighthands](https://www.jonnylighthands.co.uk). 
 
 ## Key information
 
