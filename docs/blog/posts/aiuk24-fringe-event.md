@@ -51,11 +51,11 @@ The event focuses on two intersecting normative axes of *accessibility* and *rep
 1. **A panel discussion** with invited speakers profiling relevant research within the Turing and by external partners on AI ethics, data justice, and open science; 
 2. **An interactive workshop** designed to engage participants in a critical examination of AI-generated imagery.
 
-By the end of the event, we hope you will feel better equipped to critically examine representations of AI, the visual outputs these systems generate, and how they can be better reflective of different abilities, forms of knowledge, diverse lived experiences, and socio-cultural global practices. 
-
 ## Aims and objectives
 
 The overarching aim is to address the hidden assumptions, abilities, knowledges, and interpretations that shape how AI is represented in images and is used in image generation. The goal of this event is both to explore ways to make AI more accessible to different human capabilities (e.g. social, physical, and mental abilities), and to investigate how to make AI outputs more representative of diverse populations, reflecting a broader range of lived experiences.
+
+By the end of the event, we hope you will feel better equipped to critically examine representations of AI, the visual outputs these systems generate, and how they can be better reflective of different abilities, forms of knowledge, diverse lived experiences, and socio-cultural global practices. 
 
 ## Panel
 
