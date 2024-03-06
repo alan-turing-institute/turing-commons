@@ -4,14 +4,14 @@ date: 2024-03-06
 categories:
   - news
 tags:
-  - objectives
+  - events
 authors:
   - youmna
 ---
 
 # Accessible and Representative Imageries and Imaginaries of AI - AIUK24 Fringe Event
 
-This blog provides further detail on the Accessible and Representative Imageries and Imaginaries of AI event, to be held on March 28th at The Alan Turing Institute's offices in the British Library.
+This page provides further detail on the Accessible and Representative Imageries and Imaginaries of AI event, to be held as a hybrid event on March 28th at The Alan Turing Institute's offices in The British Library.
 
 <!-- more -->
 
@@ -20,7 +20,9 @@ This blog provides further detail on the Accessible and Representative Imageries
 !!! info "Key information"
 
     :date: March 28th, 2024
+    
     :clock2: 1pm-5pm 
+    
     :round_pushpin: The Alan Turing Institute offices, The British Library
 
     This event is a hybrid event. To attend the event, please visit the registration page [here](https://forms.office.com/e/34kmFnsBVu) and fill out the form.
@@ -28,9 +30,13 @@ This blog provides further detail on the Accessible and Representative Imageries
 ## Agenda
 
 1pm: Introductions and networking
+
 1:15 - 2:15pm: Panel discussion + Q&A
+
 2:15 - 2:30pm: Break
+
 2:30pm - 4:15pm: Workshop 
+
 4:15pm - 5:00pm: Wrapping up with refreshments being served in location 
 
 ## Introduction to the event
@@ -46,7 +52,7 @@ The overarching aim is to address the hidden assumptions, abilities, knowledges,
 
 ## Panel
 
-The introductory panel discussion will be on normative framings of data justice and accessibility principles based on research undertaken within the [Turing Commons](linkhere), [Turing Way](link here), and [Advancing Data Justice](link here) project teams. The panel discussion will provide critical and normative framings for the ensuing itneractive workshop activity, which invites a curated mix of participants to delive into the often-unseen human labour and subejctive interpretations that contribute to the creation of AI imagery. The panel discussion will interrogate how these can be made more inclusive and representative of a wider public. 
+The introductory panel discussion will be on normative framings of data justice and accessibility principles based on research undertaken within the [Turing Commons](https://alan-turing-institute.github.io/turing-commons/), [Turing Way](https://the-turing-way.netlify.app/index.html), and [Advancing Data Justice]((https://advancingdatajustice.org/) project teams. The panel discussion will provide critical and normative framings for the ensuing itneractive workshop activity, which invites a curated mix of participants to delive into the often-unseen human labour and subejctive interpretations that contribute to the creation of AI imagery. The panel discussion will interrogate how these can be made more inclusive and representative of a wider public. 
 
 Speakers will be announced closer to the time of the event. 
 
