@@ -49,7 +49,9 @@ This page provides further detail on the Accessible and Representative Imageries
 The event focuses on two intersecting normative axes of *accessibility* and *representativeness*, which are in urgent need of increased critical engagement in global AI images and visual art practices. The event will involve:
 
 1. **A panel discussion** with invited speakers profiling relevant research within the Turing and by external partners on AI ethics, data justice, and open science; 
-2. **An interactive workshop** designed to engage participants in a critical examination of AI-generated imagery. 
+2. **An interactive workshop** designed to engage participants in a critical examination of AI-generated imagery.
+
+By the end of the event, we hope you will feel better equipped to critically examine representations of AI, the visual outputs these systems generate, and how they can be better reflective of different abilities, forms of knowledge, diverse lived experiences, and socio-cultural global practices. 
 
 ## Aims and objectives
 
