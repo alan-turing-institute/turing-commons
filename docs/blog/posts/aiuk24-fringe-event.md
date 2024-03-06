@@ -24,6 +24,14 @@ This blog provides further detail on the Accessible and Representative Imageries
     :round_pushpin: The Alan Turing Institute offices, The British Library
 
     This event is a hybrid event. To attend the event, please visit the registration page [here](https://forms.office.com/e/34kmFnsBVu) and fill out the form.
+    
+## Agenda
+
+1pm: Introductions and networking
+1:15 - 2:15pm: Panel discussion + Q&A
+2:15 - 2:30pm: Break
+2:30pm - 4:15pm: Workshop 
+4:15pm - 5:00pm: Wrapping up with refreshments being served in location 
 
 ## Introduction to the event
 
