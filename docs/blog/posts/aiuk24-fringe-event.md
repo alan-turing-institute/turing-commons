@@ -35,15 +35,15 @@ If you have any questions about registration, or require further details, please
     
 ## Agenda
 
-1pm: Introductions and networking
+12:30pm: Introductions, arrival and networking.
 
-1:15 - 2:15pm: Panel discussion + Q&A
+1pm - 2:15pm: Panel discussion + Q&A.
 
-2:15 - 2:30pm: Break
+2:15 - 2:30pm: Break.
 
-2:30pm - 4:15pm: Workshop 
+2:30pm - 4:15pm: Workshop. 
 
-4:15pm - 5:00pm: Wrapping up with refreshments being served in location 
+4:15pm - 5:00pm: Wrapping up - with refreshments being served at the location. 
 
 ## Introduction to the event
 
@@ -60,7 +60,7 @@ By the end of the event, we hope you will feel better equipped to critically exa
 
 ## Panel
 
-The introductory panel discussion will be on normative framings of data justice and accessibility principles based on research undertaken within the [Turing Commons](https://alan-turing-institute.github.io/turing-commons/), [Turing Way](https://the-turing-way.netlify.app/index.html), and [Advancing Data Justice](https://advancingdatajustice.org/) project teams. The panel discussion will provide critical and normative framings for the ensuing itneractive workshop activity, which invites a curated mix of participants to delive into the often-unseen human labour and subejctive interpretations that contribute to the creation of AI imagery. The panel discussion will interrogate how these can be made more inclusive and representative of a wider public. 
+The introductory panel discussion will be on normative framings of data justice and accessibility principles based on research undertaken within the [Turing Commons](https://alan-turing-institute.github.io/turing-commons/), [Turing Way](https://the-turing-way.netlify.app/index.html), and [Advancing Data Justice](https://advancingdatajustice.org/) project teams. The panel discussion will provide critical and normative framings for the ensuing interactive workshop activity, which invites a curated mix of participants to delve into the often-unseen human labour and subjective interpretations that contribute to the creation of AI imagery. The panel discussion will interrogate how these can be made more inclusive and representative of a wider public. 
 
 Speakers will be announced closer to the time of the event. 
 
