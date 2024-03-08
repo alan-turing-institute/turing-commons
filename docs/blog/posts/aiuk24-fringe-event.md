@@ -62,7 +62,19 @@ By the end of the event, we hope you will feel better equipped to critically exa
 
 The introductory panel discussion will be on normative framings of data justice and accessibility principles based on research undertaken within the [Turing Commons](https://alan-turing-institute.github.io/turing-commons/), [Turing Way](https://the-turing-way.netlify.app/index.html), and [Advancing Data Justice](https://advancingdatajustice.org/) project teams. The panel discussion will provide critical and normative framings for the ensuing interactive workshop activity, which invites a curated mix of participants to delve into the often-unseen human labour and subjective interpretations that contribute to the creation of AI imagery. The panel discussion will interrogate how these can be made more inclusive and representative of a wider public. 
 
-Speakers will be announced closer to the time of the event. 
+Join a stellar list of speakers:
+
+[Pamela Peter-Agbia](https://www.remixsummits.com/speaker/pamela-peter-agbia/) Program Manager, Google Arts and Culture Lab.
+
+[Corrine Chan](https://corrinechan.com/) London-based Taiwanese Artist
+
+[Dr SJ Bennett](https://www.linkedin.com/in/sarahbennett4/) Postdoctoral Researcher - Algorithmic Societies, Durham University
+
+[Sarah Selby](https://www.sarahselby.co.uk/about) Visual artist and Senior Lecturer, Creative ComputingSenior Lecturer, Creative Computing, University of the Arts London
+
+[Dr Olive Gingrich](https://olivergingrich.com/about/) Artist and Programme Lead, University of Greenwich
+
+[Dr Mike Katell](https://www.turing.ac.uk/people/researchers/michael-katell) Ethics Fellow, The Alan Turing Institute Visiting Senior Lecturer,Digital Environment Research Institute, QMUL.
 
 ## Workshop
 
