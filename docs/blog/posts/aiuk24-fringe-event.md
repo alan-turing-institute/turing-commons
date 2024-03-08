@@ -64,11 +64,10 @@ The introductory panel discussion will be on normative framings of data justice 
 
 Join a stellar list of speakers:
 
-[Pamela Peter-Agbia](https://www.remixsummits.com/speaker/pamela-peter-agbia/) Program Manager, Google Arts and Culture Lab.
-
-[Corrine Chan](https://corrinechan.com/) London-based Taiwanese Artist
 
 [Dr SJ Bennett](https://www.linkedin.com/in/sarahbennett4/) Postdoctoral Researcher - Algorithmic Societies, Durham University
+
+[Corrine Chan](https://corrinechan.com/) London-based Taiwanese Artist
 
 [Sarah Selby](https://www.sarahselby.co.uk/about) Visual artist and Senior Lecturer, Creative ComputingSenior Lecturer, Creative Computing, University of the Arts London
 
