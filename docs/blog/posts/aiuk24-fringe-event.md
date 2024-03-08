@@ -74,7 +74,7 @@ Join a stellar list of speakers:
 
 [Dr Olive Gingrich](https://olivergingrich.com/about/) Artist and Programme Lead, University of Greenwich
 
-[Dr Mike Katell](https://www.turing.ac.uk/people/researchers/michael-katell) Ethics Fellow, The Alan Turing Institute Visiting Senior Lecturer,Digital Environment Research Institute, QMUL.
+[Dr Mike Katell](https://www.turing.ac.uk/people/researchers/michael-katell) Ethics Fellow, The Alan Turing Institute & Visiting Senior Lecturer,Digital Environment Research Institute, QMUL.
 
 ## Workshop
 
