@@ -10,7 +10,7 @@
 
 ### Project Lifecycle Model
 
-![A graphic depicting the interactive project lifecycle model](../assets/images/graphics/lifecycle.png) {align=right }
+![A graphic depicting the interactive project lifecycle model](../assets/images/graphics/lifecycle.png){ align=right }
 
 The Project Lifecycle is a heuristic model that serves as a "cognitive scaffold" to support the collective reflection, deliberation, and decision-making of teams and organisations throughout the various stages of a project's lifecycle. Why do we call it a "heuristic model"?
 
