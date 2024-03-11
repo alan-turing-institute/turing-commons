@@ -16,7 +16,7 @@ The Project Lifecycle is a heuristic model that serves as a "cognitive scaffold"
 
 We have a [full module that explores the project lifecycle](../skills-tracks/rri/rri-101-index.md), as well as an interactive handout that provides a summary of the model and its constitutive stages. Please note you will need [Adobe Acrobat Reader](https://get.adobe.com/reader/) installed for the interactivity to work.
 
-[Download the Project Lifecycle Interactive PDF](https://github.com/alan-turing-institute/turing-commons/blob/resources/resources/activities/lifecycle-interactive.pdf?raw=true)
+[:material-download: Download the Project Lifecycle Interactive PDF](https://github.com/alan-turing-institute/turing-commons/blob/resources/resources/activities/lifecycle-interactive.pdf?raw=true)
 
 ### Bias Cards
 
@@ -26,7 +26,7 @@ This resource is a deck of cards that can be printed (double-sided) and used to 
 
 Our module on fairness, includes a [section on the different types of bias](../skills-tracks/rri/rri-203-4.md).
 
-[Download the Bias Cards](https://github.com/alan-turing-institute/turing-commons/blob/resources/resources/activities/bias-and-mitigation-cards.pdf?raw=true)
+[:material-download: Download the Bias Cards](https://github.com/alan-turing-institute/turing-commons/blob/resources/resources/activities/bias-and-mitigation-cards.pdf?raw=true)
 
 ## Responsible Research and Innovation Skills Track
 <div class="grid cards" markdown>
