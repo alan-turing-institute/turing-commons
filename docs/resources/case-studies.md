@@ -7,6 +7,7 @@
 
 | Case Study Name      | Application                          |
 | ----------- | ------------------------------------ |
+| [Shaping Climate Resilience Policy](https://github.com/alan-turing-institute/turing-commons/blob/resources/resources/case-studies/climate-resilience.pdf) | Environment and Public Health | 
 | [Air quality forecasting with an AI-driven system](https://github.com/alan-turing-institute/turing-commons/blob/resources/resources/case-studies/air-quality.pdf)      | Environmental  |
 | [Automated app limits](https://github.com/alan-turing-institute/turing-commons/blob/resources/resources/case-studies/automated-limits.pdf)    | Mental health |
 | [Decision support system](https://github.com/alan-turing-institute/turing-commons/blob/resources/resources/case-studies/decision-support.pdf)    | Mental health |
