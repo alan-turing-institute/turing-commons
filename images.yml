@@ -846,13 +846,13 @@ images:
       tags:
           - natural environment
           - digital twins
-      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/health.png
+      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/natural-environment.png
       caption: "Digital twins in the natural environment: enhancing exploration and monitoring of polar regions."
     - title: "Infrastructure Digital Twins"
       tags:
           - infrastructure
           - digital twins
-      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/health.png
+      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/infrastructure.png
       caption: "Digital twins in physical infrastructure: optimising urban planning and management."
 
 # Template
