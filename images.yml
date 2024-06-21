@@ -836,6 +836,25 @@ images:
           - algorithm
       url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dj-equity.jpg
       caption: "Image depicting the concept of 'Equity'." 
+    - title: "Health Digital Twins"
+      tags:
+          - health
+          - digital twin
+      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/health.png
+      caption: "Digital twins in healthcare: monitoring real-time health data for personalised care."
+    - title: "Natural Environment Digital Twins"
+      tags:
+          - natural environment
+          - digital twins
+      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/health.png
+      caption: "Digital twins in the natural environment: enhancing exploration and monitoring of polar regions."
+    - title: "Infrastructure Digital Twins"
+      tags:
+          - infrastructure
+          - digital twins
+      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/health.png
+      caption: "Digital twins in physical infrastructure: optimising urban planning and management."
+
 # Template
 
 # - title: "Image Title"
