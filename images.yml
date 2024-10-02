@@ -854,6 +854,24 @@ images:
           - digital twins
       url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/infrastructure.png
       caption: "Digital twins in physical infrastructure: optimising urban planning and management."
+    - title: "Value Gap"
+      tags:
+        - Values
+        - Communication
+      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/value-gap.jpg
+      caption: "An illustration conveying the difficulty of different teams, with varying or disparate values or worldviews, attempting to communicate with one another effectively."
+    - title: "Clear Documentation"
+      tags:
+        - Documentation
+        - Model Reporting
+      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/clear-documentation.jpg
+      caption: "An illustration showing two sets of instructions for building an AI, but where one set is clear and easy to follow, and the other is confusing and difficult to understand."
+    - title: "Lack of Consistency"
+      tags:
+        - Communication
+        - Standards
+      url: https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/consistency.jpg
+      caption: "An illustration highlighting the importance of standards. Three separate data pipelines are shown, but where inconsistent and non-interoperable standards have been used, leading to confusion and inefficiency."
 
 # Template
 
