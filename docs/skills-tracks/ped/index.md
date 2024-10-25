@@ -64,9 +64,9 @@ hide:
 
 </div>
 
-## Who is this Guidebook For?
+## Who is this course for?
 
-Primarily, this guidebook is for researchers with an active interest in public engagement, specifically in the context of data science and artificial intelligence.
+Primarily, this course is for researchers with an active interest in public engagement, specifically in the context of data science and artificial intelligence.
 This doesn't mean you have *to be* a data scientist, or use Python to develop machine learning algorithms.
 You could also be an ethicist, sociologist, or someone with an interest in law and public policy.
 

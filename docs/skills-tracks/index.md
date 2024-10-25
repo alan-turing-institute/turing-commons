@@ -1,5 +1,5 @@
 ---
-title: Skills Tracks
+title: Courses
 hide:
   - navigation
   - toc
