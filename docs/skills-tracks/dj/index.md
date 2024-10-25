@@ -36,7 +36,7 @@ hide:
 
     This module introduces the concept and practice of ‘data justice’ through a brief review of the movement’s history so far and how its efforts can be advanced.
 
-    [:octicons-arrow-right-24: Go to module](dj-100.md)
+    [:octicons-arrow-right-24: Go to module](dj-100-index.md)
 
 -   :fontawesome-solid-people-group:{ .lg .middle } __The Six Pillars of Data Justice__
 
@@ -45,7 +45,7 @@ hide:
     ~~This module introduces the six pillars of data justice: power, equity, access, identity, participation, and knowledge. Each pillar is explored through its own dedicated subchapter and through a set of guiding considerations that can be used as a framework for furthering the data justice movement.~~
     Module coming soon.
 
-    <!-- [:octicons-arrow-right-24: Go to module](dj-101.md) -->
+    <!-- [:octicons-arrow-right-24: Go to module](dj-101-index.md) -->
 
 -   :material-scale-unbalanced:{ .lg .middle } __Data Justice in Action__
 
@@ -54,7 +54,7 @@ hide:
     ~~This chapter dives into the grassroots initiatives undertaken by impacted communities across the world, namely through the ADJRP project’s three-part data justice documentary series.~~
     Module coming soon.
 
-    <!-- [:octicons-arrow-right-24: Go to module](dj-102.md) -->
+    <!-- [:octicons-arrow-right-24: Go to module](dj-102-index.md) -->
 
 </div>
 
@@ -70,15 +70,15 @@ In this course you will:
 - learn about the history of the data justice movement so far; and 
 - explore how the second wave of data justice seeks to advance research and practice through inclusive and intercultural approaches.  
 
-## Key Terms
+!!! info "Key Terms"
 
-As you complete this module, you will come across several key terms that may be unfamiliar to you. We have provided definitions for these below.
-
-- **Datafication:** Refers to a process of encoding or representing various aspects of our lives and the world around us into quantifiable data. This process can be applied to people, objects, and other social or natural phenomena (e.g., economies, voting patterns, ecologies).
-- **Datafied:** Refers to something that has undergone the process of datafiction.
-- **Data justice:** This term helps to build a critical understanding of the ethical challenges posed by an increasing presence and use of digital data in society. Data justice contextualises such issues within wider social justice concerns.
-- **Sociotechnical:** Refers to the notion that all technologies are socially shaped –their design, operation, and use are always shaped by human values and culture. The term is commonly used to emphasise interactions between people, technology, and the wider organisational or societal contexts in which they are situated (e.g., companies or institutions).
-- **Global majority:** Refers to people of African, Asian, Indigenous, Latin American, and other racial or ethnic groups who constitute about 85% of the world's population. This collective term challenges the racialisation and othering of ‘ethnic minorities’ by emphasising the signifiance of these broad communities in representing the majority of the global population. It is often used in place of other terms that are deemed outdated or problematic, such as BAME (Black, Asian, and Minority Ethnic) or BIPOC (Black, Indigenous, and People of Colour).
-- **Intersectional:** Refers to the interconnectedness of social categories, such as race, class, sexual orientation, gender, etc. More specifically, it is used to emphasise where a person or group is more likely to experience comparative disadvantage by virtue of being a member in multiple overlapping social categories.
-- **Social justice:** Social justice is a commitment to the achievement of a society that is equitable, fair, and capable of confronting the root causes of injustice. In an equitable and fair society, all individuals are recognised as worthy of equal moral standing and are able to realise the full assemblage of fundamental rights, opportunities, and positions.
-- **Technocentrism:** Refers to a value system centred heavily on technology and the belief that technology is the key driving force of change in society, also known as technological determinism.
+    As you complete this module, you will come across several key terms that may be unfamiliar to you. We have provided definitions for these below.
+    
+    - **Datafication:** Refers to a process of encoding or representing various aspects of our lives and the world around us into quantifiable data. This process can be applied to people, objects, and other social or natural phenomena (e.g., economies, voting patterns, ecologies).
+    - **Datafied:** Refers to something that has undergone the process of datafiction.
+    - **Data justice:** This term helps to build a critical understanding of the ethical challenges posed by an increasing presence and use of digital data in society. Data justice contextualises such issues within wider social justice concerns.
+    - **Sociotechnical:** Refers to the notion that all technologies are socially shaped –their design, operation, and use are always shaped by human values and culture. The term is commonly used to emphasise interactions between people, technology, and the wider organisational or societal contexts in which they are situated (e.g., companies or institutions).
+    - **Global majority:** Refers to people of African, Asian, Indigenous, Latin American, and other racial or ethnic groups who constitute about 85% of the world's population. This collective term challenges the racialisation and othering of ‘ethnic minorities’ by emphasising the signifiance of these broad communities in representing the majority of the global population. It is often used in place of other terms that are deemed outdated or problematic, such as BAME (Black, Asian, and Minority Ethnic) or BIPOC (Black, Indigenous, and People of Colour).
+    - **Intersectional:** Refers to the interconnectedness of social categories, such as race, class, sexual orientation, gender, etc. More specifically, it is used to emphasise where a person or group is more likely to experience comparative disadvantage by virtue of being a member in multiple overlapping social categories.
+    - **Social justice:** Social justice is a commitment to the achievement of a society that is equitable, fair, and capable of confronting the root causes of injustice. In an equitable and fair society, all individuals are recognised as worthy of equal moral standing and are able to realise the full assemblage of fundamental rights, opportunities, and positions.
+    - **Technocentrism:** Refers to a value system centred heavily on technology and the belief that technology is the key driving force of change in society, also known as technological determinism.
