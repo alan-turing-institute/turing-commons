@@ -91,14 +91,14 @@ plugins:
 
 # Extensions
 markdown_extensions:
-  - abbr
-  - admonition
-  - attr_list
-  - def_list
-  - footnotes
-  - meta
-  - md_in_html
-  - toc:
+  - markdown.extensions.abbr
+  - markdown.extensions.admonition
+  - markdown.extensions.attr_list
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.md_in_html
+  - markdown.extensions.toc:
       permalink: true
   - pymdownx.arithmatex:
       generic: true
@@ -239,7 +239,7 @@ nav:
       - Data Justice:
         - skills-tracks/dj/index.md
         - Introduction to Data Justice:
-            - Module Overview: skills-tracks/dj/dj-100-index.md
+            - skills-tracks/dj/dj-100-index.md
             - What is Data Justice?: skills-tracks/dj/dj-100-1.md
             - A brief history of data justice literature: skills-tracks/dj/dj-100-2.md
             - Second-Wave Data Justice Research and Practice: skills-tracks/dj/dj-100-3.md
