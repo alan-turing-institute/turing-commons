@@ -240,9 +240,9 @@ nav:
         - skills-tracks/dj/index.md
         - Introduction to Data Justice:
             - Module Overview: skills-tracks/dj/dj-100-index.md
-            - What is Data Justice?: skills-tracks/dj/dj-100-index.md
-            - A brief history of data justice literature: skills-tracks/dj/dj-100-index.md
-            - Second-Wave Data Justice Research and Practice: skills-tracks/dj/dj-100-index.md
+            - What is Data Justice?: skills-tracks/dj/dj-100-1.md
+            - A brief history of data justice literature: skills-tracks/dj/dj-100-2.md
+            - Second-Wave Data Justice Research and Practice: skills-tracks/dj/dj-100-3.md
 
   - Resources:
       - resources/index.md
