@@ -30,7 +30,7 @@ In this chapter you will:
 
     This section...
 
-    [:octicons-arrow-right-24: Go to module](dj-100-1.md)
+    [:octicons-arrow-right-24: Go to section](dj-100-1.md)
 
 -   :material-graph:{ .lg .middle } __A brief history of data justice literature__
 
@@ -38,7 +38,7 @@ In this chapter you will:
 
     This section...
 
-    [:octicons-arrow-right-24: Go to module](dj-100-2.md)
+    [:octicons-arrow-right-24: Go to section](dj-100-2.md)
 
 -   :material-text-box:{ .lg .middle } __Second-wave data justice research and practice__
 
@@ -46,8 +46,6 @@ In this chapter you will:
 
     This section...
 
-    [:octicons-arrow-right-24: Go to module](dj-100-3.md)
+    [:octicons-arrow-right-24: Go to section](dj-100-3.md)
 
 </div>
-
-
