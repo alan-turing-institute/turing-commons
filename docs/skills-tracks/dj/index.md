@@ -21,7 +21,7 @@ hide:
 !!! abstract "Course Information"
 
     - **Title**: Data Justice Research and Practice
-    - **Authors**: Semeli Hadjiloizou, Andrés Dominguez and Ann Borda
+    - **Course Leaders**: Semeli Hadjiloizou, Andrés Dominguez and Ann Borda
     - **Last updated**: October 2024
     - **Status**: In Development
     - **Citation Information**: Hadjiloizou, S., Dominguez, A., and Borda. A., (2024) Data Justice Research and Practice. Turing Commons (Alan Turing Institute). https://alan-turing-institute.github.io/turing-commons/skills-tracks/dj/ 
