@@ -13,7 +13,7 @@ _‘Data Justice Pillars’ illustration by Johnny Lighthands, Creative Commons 
 
 - [What is data justice?](dj-100-1.md)
 - [A brief history of data justice literature](dj-100-2.md)
-- [Second-wave data justice research and practice](dj-100-3.md)
+- [Widening approaches to data justice research and practice](dj-100-3.md)
 
 !!! abstract "Chapter Summary"
 
