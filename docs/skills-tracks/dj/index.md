@@ -50,10 +50,9 @@ hide:
 
     ---
 
-    ~~This chapter dives into the grassroots initiatives undertaken by impacted communities across the world, namely through the ADJRP project’s three-part data justice documentary series.~~
-    Module coming soon.
+    This chapter dives into the grassroots initiatives undertaken by impacted communities across the world, namely through the ADJRP project’s three-part data justice documentary series.
 
-    <!-- [:octicons-arrow-right-24: Go to module](dj-102-index.md) -->
+    [:octicons-arrow-right-24: Go to module](dj-102-index.md)
 
 </div>
 
