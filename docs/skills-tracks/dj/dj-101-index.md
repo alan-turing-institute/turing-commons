@@ -6,10 +6,8 @@ hide:
 
 # Introduction to the Six Pillars of Data Justice
 
- <!-- Image below needs to be updated to the collage of the six data justice pillars -->
-
-![Data Justice Pillars’ illustration by Johnny Lighthands, Creative Commons Attribution-ShareAlike 4.0 International.](https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/dj-datajustice.jpg)
-_‘Data Justice Pillars’ illustration by Johnny Lighthands, Creative Commons Attribution-ShareAlike 4.0 International._
+!['Six Pillars of Data Justice illustrations by Johnny Lighthands, Creative Commons Attribution-ShareAlike 4.0 International'](../../assets/images/graphics/six-pillars-collage.png)
+_'Six Pillars of Data Justice' illustrations by Johnny Lighthands, Creative Commons Attribution-ShareAlike 4.0 International._
 
 ## Chapter Outline
 
