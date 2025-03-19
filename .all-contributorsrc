@@ -225,6 +225,19 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "SemeliHadjiloizou",
+      "name": "SemeliHadjiloizou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127226934?v=4",
+      "profile": "https://github.com/SemeliHadjiloizou",
+      "contributions": [
+        "code",
+        "content",
+        "research",
+        "doc",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -232,5 +245,6 @@
   "projectOwner": "alan-turing-institute",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitType": "docs"
 }
