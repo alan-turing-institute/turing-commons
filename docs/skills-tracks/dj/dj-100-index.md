@@ -22,9 +22,8 @@ _‘Data Justice Pillars’ illustration by Johnny Lighthands, Creative Commons 
     This chapter is guided by the work undertaken by the Advancing Data Justice Research and Practice (ADJRP) project and its current understandings of data justice through inclusive and intercultural approaches. 
 
 !!! example "Learning Objectives"
-
-In this chapter you will:
-
-- familiarise yourself with the concept of ‘data justice’ in the context of data and data-intensive technologies;
-- learn about the history of the data justice movement so far; and
-- explore how the second wave of data justice seeks to advance research and practice through inclusive and intercultural approaches. 
+  
+    In this chapter you will:
+    - familiarise yourself with the concept of ‘data justice’ in the context of data and data-intensive technologies;
+    - learn about the history of the data justice movement so far; and
+    - explore how the second wave of data justice seeks to advance research and practice through inclusive and intercultural approaches. 

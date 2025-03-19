@@ -42,19 +42,17 @@ hide:
 
     ---
 
-    ~~This module introduces the six pillars of data justice: power, equity, access, identity, participation, and knowledge. Each pillar is explored through its own dedicated subchapter and through a set of guiding considerations that can be used as a framework for furthering the data justice movement.~~
-    Module coming soon.
+    This module introduces the six pillars of data justice: power, equity, access, identity, participation, and knowledge. Each pillar is explored through its own dedicated subchapter and through a set of guiding considerations that can be used as a framework for furthering the data justice movement.
 
-    <!-- [:octicons-arrow-right-24: Go to module](dj-101-index.md) -->
+    [:octicons-arrow-right-24: Go to module](dj-101-index.md)
 
 -   :material-scale-unbalanced:{ .lg .middle } __Data Justice in Action__
 
     ---
 
-    ~~This chapter dives into the grassroots initiatives undertaken by impacted communities across the world, namely through the ADJRP project’s three-part data justice documentary series.~~
-    Module coming soon.
+    This chapter dives into the grassroots initiatives undertaken by impacted communities across the world, namely through the ADJRP project’s three-part data justice documentary series.
 
-    <!-- [:octicons-arrow-right-24: Go to module](dj-102-index.md) -->
+    [:octicons-arrow-right-24: Go to module](dj-102-index.md)
 
 </div>
 
