@@ -2,7 +2,7 @@
 
 *Total Contributors:*
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 | Information | Links |
@@ -67,6 +67,7 @@ In addition, thanks goes to these wonderful people for contributing to the cours
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/orlando-code"><img src="https://avatars.githubusercontent.com/u/60468146?v=4?s=100" width="100px;" alt="Orlando"/><br /><sub><b>Orlando</b></sub></a><br /><a href="#blog-orlando-code" title="Blogposts">📝</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SemeliHadjiloizou"><img src="https://avatars.githubusercontent.com/u/127226934?v=4?s=100" width="100px;" alt="SemeliHadjiloizou"/><br /><sub><b>SemeliHadjiloizou</b></sub></a><br /><a href="https://github.com/alan-turing-institute/turing-commons/commits?author=SemeliHadjiloizou" title="Code">💻</a> <a href="#content-SemeliHadjiloizou" title="Content">🖋</a> <a href="#research-SemeliHadjiloizou" title="Research">🔬</a> <a href="https://github.com/alan-turing-institute/turing-commons/commits?author=SemeliHadjiloizou" title="Documentation">📖</a> <a href="#tutorial-SemeliHadjiloizou" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
 </table>
