@@ -26,7 +26,7 @@ _'Six Pillars of Data Justice' illustrations by Johnny Lighthands, Creative Comm
 
 !!! example "Learning Objectives"
 
-In this chapter you will:
-
-- familiarise yourself with the six pillars of data justice; and
-- learn about how unjust data practices and data-intensive technologies can be examined, critiqued, challenged, and reimagined using the scaffolding provided by these six guiding priorities. 
+    In this chapter you will:
+    
+    - familiarise yourself with the six pillars of data justice; and
+    - learn about how unjust data practices and data-intensive technologies can be examined, critiqued, challenged, and reimagined using the scaffolding provided by these six guiding priorities. 

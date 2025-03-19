@@ -23,4 +23,5 @@ _‘Policymakers’ illustration by Johnny Lighthands, Creative Commons Attribut
 !!! example "Learning Objectives"
   
     In this chapter you will:
+    
     - hear directly from communities impacted by unequitable data practices and learn about how they have been mobilising to challenge these.

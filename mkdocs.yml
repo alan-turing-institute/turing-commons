@@ -243,6 +243,24 @@ nav:
             - What is Data Justice?: skills-tracks/dj/dj-100-1.md
             - A brief history of data justice literature: skills-tracks/dj/dj-100-2.md
             - Second-Wave Data Justice Research and Practice: skills-tracks/dj/dj-100-3.md
+        - The Six Pillars of Data Justice:
+          - skills-tracks/dj/dj-101-index.md
+          - Power: skills-tracks/dj/dj-101-1.md
+          - Equity: skills-tracks/dj/dj-101-2.md
+          - Access: skills-tracks/dj/dj-101-3.md
+          - Identity: skills-tracks/dj/dj-101-4.md
+          - Participation: skills-tracks/dj/dj-101-5.md
+          - Knowledge: skills-tracks/dj/dj-101-6.md
+        - Data Justice in Action:
+          - skills-tracks/dj/dj-102-index.md
+          - Documentary series: skills-tracks/dj-102-1.md
+          - Introducing Data Justice: skills-tracks/dj-102-2.md
+          - Uncovering Data Injustice: skills-tracks/dj-102-3.md
+          - Mobilising for Data Justice: skills-tracks/dj-102-4.md
+
+
+
+            
 
   - Resources:
       - resources/index.md
