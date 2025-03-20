@@ -11,7 +11,7 @@
 | **Chat** | [![Read the book](https://img.shields.io/badge/Join%20Slack-yellow.svg)](https://join.slack.com/t/turingcommons/shared_invite/zt-x4a2w041-Lxh1WDQni43M4PTelPFGUQ) |
 | **Build** | ![GitHub Pages Deployment](https://github.com/alan-turing-institute/turing-commons/actions/workflows/ci.yaml/badge.svg) |
 |**Binder**|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chrisdburr/turing-commons/HEAD)|
-| **Cite** | [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5747126.svg)](https://doi.org/10.5281/zenodo.5747126) |
+| **Cite** | [![DOI](https://zenodo.org/badge/478532787.svg)](https://doi.org/10.5281/zenodo.15055924) |
 | **License** | [![CC BY 4.0][cc-by-shield]][cc-by] |
 
 Welcome to the GitHub repository for the Turing Commons.
