@@ -1,0 +1,4421 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="An online platform to support open dialogue and reflection about the responsible design, development, and deployment of data-driven technologies.">
+      
+      
+      
+        <link rel="canonical" href="https://alan-turing-institute.github.io/turing-commons/skills-tracks/rri/rri-203-1/">
+      
+      
+        <link rel="prev" href="../rri-203-index/">
+      
+      
+        <link rel="next" href="../rri-203-2/">
+      
+      
+      <link rel="icon" href="../../../assets/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.9">
+    
+    
+      
+        <title>What is Fairness? - Turing Commons</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.4af4bdda.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+  
+  
+    
+    
+  
+  
+  <style>:root{--md-admonition-icon--bug:url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2016%2016%22%3E%3Cpath%20d%3D%22M1%203.5c0-.626.292-1.165.7-1.59.406-.422.956-.767%201.579-1.041C4.525.32%206.195%200%208%200s3.475.32%204.722.869c.622.274%201.172.62%201.578%201.04.408.426.7.965.7%201.591v9c0%20.626-.292%201.165-.7%201.59-.406.422-.956.767-1.579%201.041C11.476%2015.68%209.806%2016%208%2016c-1.805%200-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591Zm1.5%200c0%20.133.058.318.282.551.227.237.591.483%201.101.707C4.898%205.205%206.353%205.5%208%205.5s3.101-.295%204.118-.742c.508-.224.873-.471%201.1-.708.224-.232.282-.417.282-.55s-.058-.318-.282-.551c-.227-.237-.591-.483-1.101-.707C11.102%201.795%209.647%201.5%208%201.5s-3.101.295-4.118.742c-.508.224-.873.471-1.1.708-.224.232-.282.417-.282.55m0%204.5c0%20.133.058.318.282.551.227.237.591.483%201.101.707C4.898%209.705%206.353%2010%208%2010s3.101-.295%204.118-.742c.508-.224.873-.471%201.1-.708.224-.232.282-.417.282-.55V5.724c-.241.15-.503.286-.778.407C11.475%206.68%209.805%207%208%207s-3.475-.32-4.721-.869a6%206%200%200%201-.779-.407Zm0%202.225V12.5c0%20.133.058.318.282.55.227.237.592.484%201.1.708%201.016.447%202.471.742%204.118.742s3.102-.295%204.117-.742c.51-.224.874-.47%201.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869s-3.475-.32-4.721-.869a6%206%200%200%201-.779-.406%22/%3E%3C/svg%3E');}</style>
+
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/gallery.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+   <link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="deep-orange">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#what-is-fairness" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Turing Commons" class="md-header__button md-logo" aria-label="Turing Commons" data-md-component="logo">
+      
+  <img src="../../../assets/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Turing Commons
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              What is Fairness?
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="deep-orange"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="red" data-md-color-accent="red"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/alan-turing-institute/turing-commons" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    alan-turing-institute/turing-commons
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../welcome/" class="md-tabs__link">
+        
+  
+    
+  
+  Welcome
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../" class="md-tabs__link">
+          
+  
+    
+  
+  Skills Tracks
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../resources/" class="md-tabs__link">
+          
+  
+    
+  
+  Resources
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../blog/" class="md-tabs__link">
+          
+  
+    
+  
+  Blog
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Turing Commons" class="md-nav__button md-logo" aria-label="Turing Commons" data-md-component="logo">
+      
+  <img src="../../../assets/logo.png" alt="logo">
+
+    </a>
+    Turing Commons
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/alan-turing-institute/turing-commons" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    alan-turing-institute/turing-commons
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../welcome/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Welcome
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Skills Tracks
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3" id="__nav_3_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Skills Tracks
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Responsible Research and Innovation in Data Science and AI
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_2" id="__nav_3_2_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Responsible Research and Innovation in Data Science and AI
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_2" id="__nav_3_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    What is Responsible Research and Innovation
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            What is Responsible Research and Innovation
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-100-index/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    About this Module - What is Responsible Research and Innovation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-100-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Understanding Responsibility
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-100-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Collective and Distributed Responsibility
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-100-3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Defining Responsible Research and Innovation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-100-4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Scope and Horizon of Responsibility
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_3" id="__nav_3_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    The Project Lifecycle Model
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            The Project Lifecycle Model
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-101-index/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    About this Module - The Project Lifecycle
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-101-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    What is the Project Lifecycle?
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-101-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Project Design
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-101-3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Model Development
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-101-4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    System Deployment
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_4" id="__nav_3_2_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    The SAFE-D Modules
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_2_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            The SAFE-D Modules
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-200-index/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    About these Modules - The SAFE-D Principles
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2_4_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_4_2" id="__nav_3_2_4_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Fairness
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_3_2_4_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3_2_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            Fairness
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-203-index/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    About this Module - Fairness
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    What is Fairness?
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    What is Fairness?
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#the-children-and-the-flute-an-example-of-value-pluralism" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Children and the Flute: An Example of Value Pluralism
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#defining-fairness" class="md-nav__link">
+    <span class="md-ellipsis">
+      Defining Fairness
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#questions-of-fairness-1-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      Questions of Fairness (1): Procedures
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#questions-of-fairness-2-outcomes-comparisons-and-trade-offs" class="md-nav__link">
+    <span class="md-ellipsis">
+      Questions of Fairness (2): Outcomes, Comparisons, and Trade-Offs
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conceptual-matters-1-two-perspectives-on-fairness" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conceptual Matters (1): Two Perspectives on Fairness
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Conceptual Matters (1): Two Perspectives on Fairness">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#sociocultural-fairness" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sociocultural Fairness
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#statistical-fairness" class="md-nav__link">
+    <span class="md-ellipsis">
+      Statistical Fairness
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conceptual-matters-2-equality-and-equity" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conceptual Matters (2): Equality and Equity
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-203-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sociocultural Fairness
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-203-3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Statistical Fairness
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-203-4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Identifying and Mitigating Bias
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2_4_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_4_3" id="__nav_3_2_4_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Explainability
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_3_2_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            Explainability
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-204-index/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    About this Module - Explainability
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-204-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    What is Explainability?
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-204-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Project Transparency
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-204-3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Model Interpretability
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rri-204-4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Situated Explanations
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../ped/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Public Engagement in Data Science and AI
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_3" id="__nav_3_3_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Public Engagement in Data Science and AI
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3_2" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../ped/chapter1/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    What is Public Engagement?
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_3_2" id="__nav_3_3_2_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            What is Public Engagement?
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ped/chapter1/ladder/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Climbing the Ladder
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ped/chapter1/goals/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Goals of Public Engagement
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../ped/chapter2/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    The Value(s) of Public Engagement
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_3_3" id="__nav_3_3_3_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            The Value(s) of Public Engagement
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ped/chapter2/deliberation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Deliberative Values
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ped/chapter2/responsible/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Responsible Public Engagement
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3_4" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../ped/chapter3/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Facilitating Public Engagement
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_3_4" id="__nav_3_3_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Facilitating Public Engagement
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ped/chapter3/when/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    When should you engage
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ped/chapter3/how/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How should you engage
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3_5" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../ped/chapter4/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Practical Guidance
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_3_5" id="__nav_3_3_5_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Practical Guidance
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ped/chapter4/storytelling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Storytelling with Data
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ped/chapter4/uncertainty/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Communicating Uncertainty
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ped/chapter4/uncertainty-example/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Visualising Uncertainty
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3_6" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../ped/chapter5/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Public Trust and Assurance
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_3_6" id="__nav_3_3_6_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_3_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3_6">
+            <span class="md-nav__icon md-icon"></span>
+            Public Trust and Assurance
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ped/chapter5/trust/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Public Trust in Science and Technology
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../aeg/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    AI Ethics and Governance
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_4" id="__nav_3_4_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            AI Ethics and Governance
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_2" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../aeg/chapter1/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Practical Ethics
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_4_2" id="__nav_3_4_2_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            Practical Ethics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aeg/chapter1/metaethics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction to Metaethics
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aeg/chapter1/normative/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction to Normative Theories
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../aeg/chapter2/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    AI Harms and Values
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_4_3" id="__nav_3_4_3_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            AI Harms and Values
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aeg/chapter2/harms/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI Harms
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aeg/chapter2/values/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI Values
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_4" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../aeg/chapter3/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    AI Sustainability
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_4_4" id="__nav_3_4_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_4_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_4">
+            <span class="md-nav__icon md-icon"></span>
+            AI Sustainability
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aeg/chapter3/engagement/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Stakeholder Engagement Process
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aeg/chapter3/impact/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Stakeholder Impact Assessment
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_5" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../aeg/chapter4/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Fairness & Bias Mitigation, Accountability, and Governance
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_4_5" id="__nav_3_4_5_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_4_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_5">
+            <span class="md-nav__icon md-icon"></span>
+            Fairness & Bias Mitigation, Accountability, and Governance
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aeg/chapter4/fairness/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction to Fairness
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aeg/chapter4/aifairness/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI Fairness
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aeg/chapter4/bias/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bias Mitigation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aeg/chapter4/accountability/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Accountability
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aeg/chapter4/governance/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI Governance
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_6" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../aeg/chapter5/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Transparency, Explainability, and CARE and ACT Principles
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_4_6" id="__nav_3_4_6_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_4_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_6">
+            <span class="md-nav__icon md-icon"></span>
+            Transparency, Explainability, and CARE and ACT Principles
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aeg/chapter5/transparency/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Transparency & Explainability
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aeg/chapter5/consider/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Consider Context
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aeg/chapter5/anticipate/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Anticipate Impacts
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aeg/chapter5/reflect/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reflect on Purpose, Positionality, and Power
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aeg/chapter5/engage/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Engage Inclusively
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../aeg/chapter5/act/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Act Responsibly
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_5" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../dj/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Data Justice
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_5" id="__nav_3_5_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Data Justice
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_5_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5_2" id="__nav_3_5_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Introduction to Data Justice
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_5_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5_2">
+            <span class="md-nav__icon md-icon"></span>
+            Introduction to Data Justice
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dj/dj-100-index/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction to Data Justice
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dj/dj-100-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    What is Data Justice?
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dj/dj-100-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    A brief history of data justice literature
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dj/dj-100-3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Second-Wave Data Justice Research and Practice
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5_3" id="__nav_3_5_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    The Six Pillars of Data Justice
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            The Six Pillars of Data Justice
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dj/dj-101-index/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction to the Six Pillars of Data Justice
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dj/dj-101-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Power
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dj/dj-101-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Equity
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dj/dj-101-3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Access
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dj/dj-101-4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Identity
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dj/dj-101-5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Participation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dj/dj-101-6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Knowledge
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_5_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5_4" id="__nav_3_5_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Data Justice in Action
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_5_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5_4">
+            <span class="md-nav__icon md-icon"></span>
+            Data Justice in Action
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dj/dj-102-index/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Data Justice in Action
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dj-102-1.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Documentary series
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dj-102-2.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introducing Data Justice
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dj-102-3.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Uncovering Data Injustice
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dj-102-4.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mobilising for Data Justice
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../resources/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Resources
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4" id="__nav_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Resources
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../resources/gallery/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gallery
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../resources/bibliographies/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bibliographies
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../resources/case-studies/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Case Studies
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../resources/activities/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Activities
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../blog/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Blog
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_5" id="__nav_5_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Blog
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_2" id="__nav_5_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Archive
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2">
+            <span class="md-nav__icon md-icon"></span>
+            Archive
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../blog/archive/2024/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../blog/archive/2023/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2023
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../blog/archive/2022/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2022
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_3" id="__nav_5_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Categories
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            Categories
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../blog/category/news/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    news
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#the-children-and-the-flute-an-example-of-value-pluralism" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Children and the Flute: An Example of Value Pluralism
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#defining-fairness" class="md-nav__link">
+    <span class="md-ellipsis">
+      Defining Fairness
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#questions-of-fairness-1-procedures" class="md-nav__link">
+    <span class="md-ellipsis">
+      Questions of Fairness (1): Procedures
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#questions-of-fairness-2-outcomes-comparisons-and-trade-offs" class="md-nav__link">
+    <span class="md-ellipsis">
+      Questions of Fairness (2): Outcomes, Comparisons, and Trade-Offs
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conceptual-matters-1-two-perspectives-on-fairness" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conceptual Matters (1): Two Perspectives on Fairness
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Conceptual Matters (1): Two Perspectives on Fairness">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#sociocultural-fairness" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sociocultural Fairness
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#statistical-fairness" class="md-nav__link">
+    <span class="md-ellipsis">
+      Statistical Fairness
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conceptual-matters-2-equality-and-equity" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conceptual Matters (2): Equality and Equity
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="what-is-fairness">What is Fairness?<a class="headerlink" href="#what-is-fairness" title="Permanent link">&para;</a></h1>
+<p><a class="glightbox" href="https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/representation-background.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Image of people walking with their different online avatars." src="https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/representation-background.png" /></a></p>
+<h2 id="the-children-and-the-flute-an-example-of-value-pluralism">The Children and the Flute: An Example of Value Pluralism<a class="headerlink" href="#the-children-and-the-flute-an-example-of-value-pluralism" title="Permanent link">&para;</a></h2>
+<p>Three children are arguing about which of them should have a flute.</p>
+<ul>
+<li>Anne claims the flute should belong to her on the grounds that she is the <em>only one who can play the flute</em>.</li>
+<li>Bob claims the flute should belong to him on the grounds that he is the <em>only one among the three who is so poor that he has no toys</em>.</li>
+<li>Carla claims the flute should belong to her on the grounds that she was <em>the one who made the flute</em>.</li>
+</ul>
+<p>None of the children deny the claims of the others.</p>
+<div class="admonition question">
+<p class="admonition-title">Question</p>
+<div class="highlight"><pre><span></span><code>Is it fair to give the flute to Anne, Bob, or Carla?
+</code></pre></div>
+</div>
+<p>The story of the children and the flute is proposed by Amartya Sen, in his seminal work The Idea of Justice.<sup id="fnref:sen"><a class="footnote-ref" href="#fn:sen">1</a></sup>
+It is designed as a way to test our intuitions about our ability to reconcile <em>incommensurable</em> values (i.e. values that cannot be judged by the same standards), when evaluating claims regarding fair treatment or outcomes.
+In the story, the three children represent competing theories of fairness that emphasise different values.</p>
+<ul>
+<li>Anne represents <em>utlitarian</em> theories of fairness (e.g. fairness involves maximising the overall welfare of the group)</li>
+<li>Bob represents <em>economic egalitarian</em> theories of fairness (e.g. fairness involves ensuring equal distribution of goods)</li>
+<li>Carla represents <em>libertarian</em> theories of fairness (e.g. fairness involves freedom to pursue one's own interests and benefit from one's own efforts)</li>
+</ul>
+<p>While the values expressed by these theories do not always have to come into conflict, the purpose of Sen's example is to present a toy example of how and where they can.</p>
+<p>This module is not about incommensurable values.
+However, it is about how to manage and address (sometimes) competing claims of fairness in the context of data-driven technologies.
+As such, Sen's example provides a useful bookend and a reminder that fairness is not a single, objective concept, but rather a process of evaluating various claims and reasons on the basis of their respective merits, and in a way that strives to ensure all voices (and values) are heard and included.</p>
+<div class="admonition question">
+<p class="admonition-title"><strong>What would you save?</strong></p>
+<div class="highlight"><pre><span></span><code>Your house is on fire and you can take only three things with you before the entire structure becomes engulfed in flames. 
+What would you save?[^taboo]
+</code></pre></div>
+</div>
+<div class="admonition danger">
+<p class="admonition-title"><strong>Taboo trade-offs</strong></p>
+<div class="highlight"><pre><span></span><code>People answer this question in very different ways.
+What can be invaluable to one person might seem like a trinket to another or vice versa.
+
+We seem to have a lot of flexibility in the way we ascribe value to our possessions, in a way that sometimes gives them the quality of the _sacred_.
+This quality can be extended to values as well, and we usually hold on extra tightly to those we (consciously or not) consider sacred.
+
+Research suggests that once something has become sacred or holds sacred value, people are (perhaps unsurprisingly) much more reluctant to compromise over them.
+When they are asked to, they often express moral outrage, anger, and even disgust, a phenomenon that has been referred to as the _taboo trade-off_.[^tetlock]
+This means that they become insensitive to cost-benefit analysis, and they are _less_ likely to accept an exchange if they are offered money to relinquish whatever they hold as of sacred value (think of how you would react if someone offered you money to compromise on your principles).
+
+This is related as it is another example of a kind of _value pluralism_. Individuals, groups, and even cultures can value certain objects, ideas, and practices in widely different ways.
+</code></pre></div>
+</div>
+<h2 id="defining-fairness">Defining Fairness<a class="headerlink" href="#defining-fairness" title="Permanent link">&para;</a></h2>
+<p>Given the previous example, you will find it unsurprising that this module will not attempt to define fairness in the traditional way.
+Rather, it will explore different facets of the concept, how they relate to each other, and most importantly how they can be practically applied to the design, development, and deployment of data-driven technologies.</p>
+<p>In doing so, we will appeal to a variety of interrelated theories and concepts, including:</p>
+<ul>
+<li>Legal concepts of non-discrimination and equality</li>
+<li>Moral concepts of social justice and distributive justice</li>
+<li>Practical forms of bias mitigation and statistical fairness</li>
+<li>Social concepts of diversity, inclusion, and representation</li>
+</ul>
+<p>We will strive to identify common (or, underlying) themes that can be used to operationalise and proceduralise fairness in the context of data-driven technologies.</p>
+<div class="admonition warning">
+<p class="admonition-title"><strong>Clarification</strong></p>
+<div class="highlight"><pre><span></span><code>It is important to note that this module is not a summary of or introduction to any of these areas.
+Therefore, while we will strive to make explicit where specific concepts are drawn from (e.g. legal versus moral literature), it is important to note that many of the concepts are inherently multi-disciplinary and interrelated.
+</code></pre></div>
+</div>
+<p>Let's start by looking at some questions that span the different perspective outlined above.</p>
+<h2 id="questions-of-fairness-1-procedures">Questions of Fairness (1): Procedures<a class="headerlink" href="#questions-of-fairness-1-procedures" title="Permanent link">&para;</a></h2>
+<p>Here are three questions that all relate to fair procedures:</p>
+<ol>
+<li>Who should get what?</li>
+<li>How should we decide?</li>
+<li>Who decides?</li>
+</ol>
+<p>These three questions are related.
+The first question relates to the challenges of deciding how to <em>allocate</em> or <em>distribute</em> goods.
+For instance, who should be granted a mortgage?
+And, which factors are relevant to the way we carve up different groups (e.g. those eligible and those ineligible)?</p>
+<p>The second question relates to the decision procedures (or rules) we use to actually allocate or distribute goods.
+For instance, will different groups be offered different mortgage rates?
+If so, what will influence this decision (e.g. will weights be applied to the previous set of factors)?</p>
+<p>And the third question relates to the authority of the decision procedure.
+That is, who is designing and implementing the decision procedure, and what provides them with the authority (or, legitimacy) to do so?</p>
+<p>To give one example, perhaps senior decision-makers for a national department of health and social care are trying to decide how to allocate limited resources for accessing counselling services.
+They start by deciding that the services should be allocated to those who are <em>most in need</em>.
+However, they soon realise that they do not have a clear definition of what "most in need" means.
+As such, they reach out to a group of stakeholders (e.g. patients, clinicians, and researchers) to help them define the criteria for eligibility.</p>
+<p>Here, the procedures for answering each of the above questions is inclusive and aims to uphold values such as democratic forms of deliberation.
+But whether the procedures will a) maximise the overall welfare of the group, b) ensure equal distribution of goods, or c) allow people to pursue their own interests and benefit from their own efforts, is not directly addressed.</p>
+<p>So, we can now see that the underlying values that characterise fairness can be separated from the procedures used to achieve them.</p>
+<div class="admonition info">
+<p class="admonition-title"><strong>What is a good?</strong></p>
+<div class="highlight"><pre><span></span><code>As we use the term in this module, a good is anything that is valued by a person or a group of people.
+This can be some resource (e.g. money, food, water), a service (e.g. healthcare, education, housing), an outcome (e.g. improved mobility, winning the lottery), or a status (e.g. power, prestige, respect).
+It is important to note that a good can be both tangible and intangible, and, therefore, is intentionally an ambiguous term.
+</code></pre></div>
+</div>
+<h2 id="questions-of-fairness-2-outcomes-comparisons-and-trade-offs">Questions of Fairness (2): Outcomes, Comparisons, and Trade-Offs<a class="headerlink" href="#questions-of-fairness-2-outcomes-comparisons-and-trade-offs" title="Permanent link">&para;</a></h2>
+<p>In addition to the previous questions, there are also questions that help us identify which elements are responsible for any comparisons and trade-offs between outcomes. For example:</p>
+<ol>
+<li>Is a system that gives everyone an equal opportunity fairer than one that ensures everyone has an equal outcome?</li>
+<li>Is an algorithm that follows consistent and impartial logic fairer than a human that shows empathy and compassion?</li>
+<li>Is it fairer to use a more accurate model, which is complex and opaque in its workings, than a less accurate but interpretable model?</li>
+</ol>
+<p>Answering questions such as these may involve both the identification and evaluation of competing values that pertain to specific outcomes, as well as the different decision procedures employed.</p>
+<p>When we ask questions such as these, or those from the previous set, it is important to be clear on our target.
+Is our question focused on a comparison of different values, as is the case with the choice between which of the children should get the flute?
+Is our question seeking to clarify whether a decision procedure is legitimate, or is it trying to determine if it is effective in realising some pre-determined outcome?
+Or, is our question seeking to clarify the reasons that are relevant to resolving some trade-off?</p>
+<p>Until we can clearly specify the question we are asking, it is unlikely we will be able to form consensus on an answer or even be sure that we are disagreeing over the same thing.
+Over the course of this module we will slowly build up our conceptual vocabulary to develop both a shared understanding of the different questions that can be asked, as well as the different answers that can be given.</p>
+<p>We have already started this process, but let's now turn to the first set of conceptual distinctions that directly address data-driven technologies.</p>
+<p><a class="glightbox" href="https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ladders.jpg" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Image of people going up ladders." src="https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/ladders.jpg" /></a></p>
+<h2 id="conceptual-matters-1-two-perspectives-on-fairness">Conceptual Matters (1): Two Perspectives on Fairness<a class="headerlink" href="#conceptual-matters-1-two-perspectives-on-fairness" title="Permanent link">&para;</a></h2>
+<p>There are two perspectives on fairness that we will use throughout this module to help us emphasise different features of data-driven technologies that relate to matters of fairness:</p>
+<ul>
+<li>Sociocultural Fairness</li>
+<li>Statistical Fairness</li>
+</ul>
+<div class="admonition info">
+<p class="admonition-title"><strong>What do we mean by 'perspective'?</strong></p>
+<div class="highlight"><pre><span></span><code>Our use of the term &#39;perspective&#39; is intended to draw attention to the fact that each perspective is focused on the same questions, but approaches the questions from a different stance or starting point.
+No single perspective will be able to capture everything that matters about fairness.
+Rather, an inclusive and diverse set of backgrounds and people will be required to ensure that the different perspectives are well represented and that all considerations have been taken into account.
+
+There are many ways that we could have defined or labelled these perspectives.
+However, the perspectives we have chosen were selected to achieve a balance between a) maximising applicability across different domains while b) minimising the number of categories.
+</code></pre></div>
+</div>
+<p>Let's look at each of these perspectives in turn.</p>
+<h3 id="sociocultural-fairness">Sociocultural Fairness<a class="headerlink" href="#sociocultural-fairness" title="Permanent link">&para;</a></h3>
+<p>Sociocultural fairness emphasises the importance of the social and cultural context in which a data-driven technology is developed, deployed, and used.
+Adopting this perspective helps us to consider the ways in which different groups or communities may be impacted by a technology, whether the implementation of a system into a particular context is appropriate, and whether the technology is being used in a way that is consistent with the values of the community.</p>
+<p>Addressing questions about sociocultural issues typically requires a deep understanding of the historical and current practices and dynamics of the society or community in question.</p>
+<div class="admonition example">
+<p class="admonition-title">Sociocultural fairness in healthcare</p>
+<div class="highlight"><pre><span></span><code>In the context of healthcare for example, it might be important to consider relevant aspects at the research and deployment stages of the system.
+
+Which research projects get funded?
+What kinds of conditions get the most attention?
+For example, a disproportionate percentage of resources might go to funding treatments which are very lucrative (e.g., treatment for chronic conditions). Similarly, a lot of resources might end up in research for medical (and cosmetic) anti-aging products and procedures, not necessarily because they are life-saving treatments, but because there is a high demand for them.
+
+On the other hand, sometimes quite deadly conditions go underfunded due to their rarity. For example, research on a vaccine for the Hantavirus Pulmonary Syndrome (HPS) transmitted by rodents in Southern Chile and Argentina, one of the most sparsely populated regions on Earth, has been halted due to lack of funds even though the disease proves to be fatal for around 30-40% of those who contract it.
+
+Additionally, at the deployment stage, it will be important to ask who will be most likely to access the new treatment, drug, or procedure?
+Are there any barriers of access to protected or other groups?
+</code></pre></div>
+</div>
+<h3 id="statistical-fairness">Statistical Fairness<a class="headerlink" href="#statistical-fairness" title="Permanent link">&para;</a></h3>
+<p>As a module on data-driven technologies, especially those that can be described as "algorithmic" or "autonomous", statistical fairness is a vital perspective to adopt.
+This perspective focuses on the statistical properties of the data-driven technology in question, including properties of the data used to develop the system, the metrics chosen to evaluate its performance, as well as formal ways of representing the sociocultural context in which the technology is deployed.</p>
+<p>Addressing questions about statistical fairness typically requires high levels of technical expertise and familiarity with up-to-date statistical techniques and concepts.</p>
+<!-- insert domain specific illustrative example -->
+<div class="admonition example">
+<p class="admonition-title">Statistical fairness in healthcare</p>
+<div class="highlight"><pre><span></span><code>Say your team is developing a new ML model which helps diagnose people for a novel disease with symptoms that do not become apparent immediately.
+
+When training the model, some of the questions your team will need to think of in terms of statistical fairness are:
+
+- Are the classes in the training set balanced? As we will see, this is often not the case in healthcare data. So if they are not, how will your team address this issue?
+
+- Are there any relevant biases in your training data?
+
+- Which metrics will your team use to evaluate model performance?
+
+- Does the model perform similarly across different subgroups?
+
+- How will you decide when inevitable trade-offs, such as the trade-off between minimising false negatives or false positives, come up?
+
+The topic of statistical fairness can quickly get quite technical. 
+If you are feeling confused, do not worry.
+We will focus on statistical fairness in the context of healthcare in the [third section](rri-203-3.md) of our module.
+</code></pre></div>
+</div>
+<!--insert domain specific illustrative example -->
+
+<p>These perspectives will form the basis of the remaining sections in this module, with a final section on the different biases that may arise during the design, development, and deployment of AI systems which can negatively impact the system's fairness.</p>
+<h2 id="conceptual-matters-2-equality-and-equity">Conceptual Matters (2): Equality and Equity<a class="headerlink" href="#conceptual-matters-2-equality-and-equity" title="Permanent link">&para;</a></h2>
+<p>Before we end this section, we should also address another (smaller) conceptual distinction: the difference between equality and equity.</p>
+<p>Fairness is often spoken of in connection with these two neighbouring concepts.
+And, while related, they are not synonymous.
+As we will see, in some cases equality or equity may not even be desirable goals to pursue in the context of a particular project.
+And, if equality was our only goal, we would not be as interested in fair machine learning and AI, because we would be able to use simpler algorithms that just automate our chosen procedural rules and treat everyone the same.</p>
+<div class="admonition success">
+<p class="admonition-title"><strong>Equal Rights</strong></p>
+<div class="highlight"><pre><span></span><code>While moral and legal concepts, such as universal human rights, ascribe some *fundamental notion* of equality to all people, at a practical level the idea of equality rarely goes very far as most people are not equal in a whole variety of ways.
+As such, it is often not a good idea to treat people *equally* except in rare cases (e.g. sports or talent competitions).
+This is why we often speak of &quot;equal opportunity&quot; rather than &quot;equal outcomes&quot;.
+</code></pre></div>
+</div>
+<p>For now, let's put these issues aside and just define the two concepts as follows:</p>
+<ul>
+<li>Equality is when <em>all people are treated the same</em>, regardless of any relevant differences in characteristics (e.g. age, sex, religious beliefs).</li>
+<li>Equity is where <em>people are treated differently</em> based on what they deserve, which will vary between contexts.</li>
+</ul>
+<p>Both require us to define key metrics.</p>
+<ul>
+<li>Equality requires us to define what counts as "the same" in terms of procedural rules or decisions.</li>
+<li>Equity requires us to determine how to measure what people "deserve".</li>
+</ul>
+<p>And, both decisions connect us back to our three procedural rules from earlier (e.g. who gets to decide on what people deserve), as well as the possible trade-offs and comparisons between relevant values (e.g. whether all stakeholders agree about whether a person is deserving of a particular outcome, and how desirable the outcome may be).</p>
+<p>If you are feeling a bit overwhelmed by all of this, please don't worry.
+Understanding fairness is challenging, as it requires a deep understanding of a wide network of concepts and a practical grasp on how to move around this network in a dynamic but purposeful way—this is where our perspectives will come in handy, as they will help us focus on which part of the network is most relevant or salient to our concerns.
+To help you develop this ability, we will be returning to these concepts a lot throughout this module and anchoring them in concrete and illustrative examples.
+Doing so will allow you to build up a more intuitive understanding of the concepts, and how they relate to each other.</p>
+<p>In the next section we are going to start to build up our conceptual vocabulary by introducing the first perspective: sociocultural fairness.</p>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:sen">
+<p>Sen, A. (2009). <em>The idea of justice.</em> Penguin, United Kingdom.&#160;<a class="footnote-backref" href="#fnref:sen" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+<li id="fn:taboo">
+<p>This example is taken from the following <a href="https://www.scientificamerican.com/article/psychology-of-taboo-tradeoff/">article</a>. Waytz, A. (2010, March 9). <em>The psychology of the taboo trade-off.</em> Scientific American. <a href="https://www.scientificamerican.com/article/psychology-of-taboo-tradeoff/">https://www.scientificamerican.com/article/psychology-of-taboo-tradeoff/</a>&#160;<a class="footnote-backref" href="#fnref:taboo" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+</li>
+<li id="fn:tetlock">
+<p>Fiske, A. P., &amp; Tetlock, P. E. (1997). Taboo trade-offs: Reactions to transactions that transgress the spheres of justice. <em>Political psychology, 18</em>(255-297). <a href="https://doi.org/10.1111/0162-895X.00058">https://doi.org/10.1111/0162-895X.00058</a>&#160;<a class="footnote-backref" href="#fnref:tetlock" title="Jump back to footnote 3 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../rri-203-index/" class="md-footer__link md-footer__link--prev" aria-label="Previous: About this Module - Fairness">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                About this Module - Fairness
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../rri-203-2/" class="md-footer__link md-footer__link--next" aria-label="Next: Sociocultural Fairness">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Sociocultural Fairness
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2022 Alan Turing Institute
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["announce.dismiss", "content.code.annotate", "content.code.copy", "navigation.indexes", "navigation.footer", "navigation.instant", "navigation.sections", "navigation.path", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.tracking", "search.highlight", "search.share", "search.suggest", "toc.follow"], "search": "../../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+        <script src="../../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="../../../javascripts/tablesort.js"></script>
+      
+    
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
+</html>

@@ -1,0 +1,4282 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="An online platform to support open dialogue and reflection about the responsible design, development, and deployment of data-driven technologies.">
+      
+      
+      
+        <link rel="canonical" href="https://alan-turing-institute.github.io/turing-commons/blog/turing-commons-roadmap/">
+      
+      
+        <link rel="prev" href="../course-announcement-ai-ethics-and-governance/">
+      
+      
+        <link rel="next" href="../how-ordinary-residents-are-creating-camden-councils-data-charter/">
+      
+      
+      <link rel="icon" href="../../assets/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.9">
+    
+    
+      
+        <title>Turing Commons Roadmap - Turing Commons</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.4af4bdda.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+  
+  
+    
+    
+  
+  
+  <style>:root{--md-admonition-icon--bug:url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2016%2016%22%3E%3Cpath%20d%3D%22M1%203.5c0-.626.292-1.165.7-1.59.406-.422.956-.767%201.579-1.041C4.525.32%206.195%200%208%200s3.475.32%204.722.869c.622.274%201.172.62%201.578%201.04.408.426.7.965.7%201.591v9c0%20.626-.292%201.165-.7%201.59-.406.422-.956.767-1.579%201.041C11.476%2015.68%209.806%2016%208%2016c-1.805%200-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591Zm1.5%200c0%20.133.058.318.282.551.227.237.591.483%201.101.707C4.898%205.205%206.353%205.5%208%205.5s3.101-.295%204.118-.742c.508-.224.873-.471%201.1-.708.224-.232.282-.417.282-.55s-.058-.318-.282-.551c-.227-.237-.591-.483-1.101-.707C11.102%201.795%209.647%201.5%208%201.5s-3.101.295-4.118.742c-.508.224-.873.471-1.1.708-.224.232-.282.417-.282.55m0%204.5c0%20.133.058.318.282.551.227.237.591.483%201.101.707C4.898%209.705%206.353%2010%208%2010s3.101-.295%204.118-.742c.508-.224.873-.471%201.1-.708.224-.232.282-.417.282-.55V5.724c-.241.15-.503.286-.778.407C11.475%206.68%209.805%207%208%207s-3.475-.32-4.721-.869a6%206%200%200%201-.779-.407Zm0%202.225V12.5c0%20.133.058.318.282.55.227.237.592.484%201.1.708%201.016.447%202.471.742%204.118.742s3.102-.295%204.117-.742c.51-.224.874-.47%201.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869s-3.475-.32-4.721-.869a6%206%200%200%201-.779-.406%22/%3E%3C/svg%3E');}</style>
+
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+      <link rel="stylesheet" href="../../stylesheets/gallery.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="deep-orange">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#turing-commons-roadmap" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Turing Commons" class="md-header__button md-logo" aria-label="Turing Commons" data-md-component="logo">
+      
+  <img src="../../assets/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Turing Commons
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Turing Commons Roadmap
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="deep-orange"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="red" data-md-color-accent="red"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/alan-turing-institute/turing-commons" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    alan-turing-institute/turing-commons
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../welcome/" class="md-tabs__link">
+        
+  
+    
+  
+  Welcome
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../skills-tracks/" class="md-tabs__link">
+          
+  
+    
+  
+  Skills Tracks
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../resources/" class="md-tabs__link">
+          
+  
+    
+  
+  Resources
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../" class="md-tabs__link">
+          
+  
+    
+  
+  Blog
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Turing Commons" class="md-nav__button md-logo" aria-label="Turing Commons" data-md-component="logo">
+      
+  <img src="../../assets/logo.png" alt="logo">
+
+    </a>
+    Turing Commons
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/alan-turing-institute/turing-commons" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    alan-turing-institute/turing-commons
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../welcome/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Welcome
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../skills-tracks/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Skills Tracks
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3" id="__nav_3_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Skills Tracks
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../skills-tracks/rri/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Responsible Research and Innovation in Data Science and AI
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Responsible Research and Innovation in Data Science and AI
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_2" id="__nav_3_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    What is Responsible Research and Innovation
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            What is Responsible Research and Innovation
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-100-index/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    About this Module - What is Responsible Research and Innovation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-100-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Understanding Responsibility
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-100-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Collective and Distributed Responsibility
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-100-3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Defining Responsible Research and Innovation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-100-4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Scope and Horizon of Responsibility
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_3" id="__nav_3_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    The Project Lifecycle Model
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            The Project Lifecycle Model
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-101-index/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    About this Module - The Project Lifecycle
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-101-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    What is the Project Lifecycle?
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-101-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Project Design
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-101-3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Model Development
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-101-4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    System Deployment
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_4" id="__nav_3_2_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    The SAFE-D Modules
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            The SAFE-D Modules
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-200-index/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    About these Modules - The SAFE-D Principles
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2_4_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_4_2" id="__nav_3_2_4_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Fairness
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_3_2_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            Fairness
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-203-index/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    About this Module - Fairness
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-203-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    What is Fairness?
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-203-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sociocultural Fairness
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-203-3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Statistical Fairness
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-203-4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Identifying and Mitigating Bias
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2_4_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_4_3" id="__nav_3_2_4_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Explainability
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_3_2_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            Explainability
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-204-index/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    About this Module - Explainability
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-204-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    What is Explainability?
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-204-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Project Transparency
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-204-3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Model Interpretability
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/rri/rri-204-4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Situated Explanations
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../skills-tracks/ped/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Public Engagement in Data Science and AI
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_3" id="__nav_3_3_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Public Engagement in Data Science and AI
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3_2" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../skills-tracks/ped/chapter1/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    What is Public Engagement?
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_3_2" id="__nav_3_3_2_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            What is Public Engagement?
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/ped/chapter1/ladder/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Climbing the Ladder
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/ped/chapter1/goals/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Goals of Public Engagement
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../skills-tracks/ped/chapter2/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    The Value(s) of Public Engagement
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_3_3" id="__nav_3_3_3_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            The Value(s) of Public Engagement
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/ped/chapter2/deliberation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Deliberative Values
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/ped/chapter2/responsible/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Responsible Public Engagement
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3_4" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../skills-tracks/ped/chapter3/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Facilitating Public Engagement
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_3_4" id="__nav_3_3_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Facilitating Public Engagement
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/ped/chapter3/when/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    When should you engage
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/ped/chapter3/how/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    How should you engage
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3_5" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../skills-tracks/ped/chapter4/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Practical Guidance
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_3_5" id="__nav_3_3_5_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Practical Guidance
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/ped/chapter4/storytelling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Storytelling with Data
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/ped/chapter4/uncertainty/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Communicating Uncertainty
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/ped/chapter4/uncertainty-example/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Visualising Uncertainty
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3_6" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../skills-tracks/ped/chapter5/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Public Trust and Assurance
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_3_6" id="__nav_3_3_6_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_3_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3_6">
+            <span class="md-nav__icon md-icon"></span>
+            Public Trust and Assurance
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/ped/chapter5/trust/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Public Trust in Science and Technology
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../skills-tracks/aeg/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    AI Ethics and Governance
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_4" id="__nav_3_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            AI Ethics and Governance
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_2" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../skills-tracks/aeg/chapter1/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Practical Ethics
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_4_2" id="__nav_3_4_2_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            Practical Ethics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/aeg/chapter1/metaethics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction to Metaethics
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/aeg/chapter1/normative/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction to Normative Theories
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_3" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../skills-tracks/aeg/chapter2/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    AI Harms and Values
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_4_3" id="__nav_3_4_3_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            AI Harms and Values
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/aeg/chapter2/harms/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI Harms
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/aeg/chapter2/values/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI Values
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_4" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../skills-tracks/aeg/chapter3/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    AI Sustainability
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_4_4" id="__nav_3_4_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_4_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_4">
+            <span class="md-nav__icon md-icon"></span>
+            AI Sustainability
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/aeg/chapter3/engagement/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Stakeholder Engagement Process
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/aeg/chapter3/impact/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Stakeholder Impact Assessment
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_5" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../skills-tracks/aeg/chapter4/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Fairness & Bias Mitigation, Accountability, and Governance
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_4_5" id="__nav_3_4_5_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_4_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_5">
+            <span class="md-nav__icon md-icon"></span>
+            Fairness & Bias Mitigation, Accountability, and Governance
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/aeg/chapter4/fairness/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction to Fairness
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/aeg/chapter4/aifairness/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI Fairness
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/aeg/chapter4/bias/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bias Mitigation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/aeg/chapter4/accountability/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Accountability
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/aeg/chapter4/governance/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI Governance
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4_6" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../skills-tracks/aeg/chapter5/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Transparency, Explainability, and CARE and ACT Principles
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_4_6" id="__nav_3_4_6_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_4_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4_6">
+            <span class="md-nav__icon md-icon"></span>
+            Transparency, Explainability, and CARE and ACT Principles
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/aeg/chapter5/transparency/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Transparency & Explainability
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/aeg/chapter5/consider/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Consider Context
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/aeg/chapter5/anticipate/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Anticipate Impacts
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/aeg/chapter5/reflect/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reflect on Purpose, Positionality, and Power
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/aeg/chapter5/engage/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Engage Inclusively
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/aeg/chapter5/act/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Act Responsibly
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_5" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../skills-tracks/dj/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Data Justice
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3_5" id="__nav_3_5_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            Data Justice
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_5_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5_2" id="__nav_3_5_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Introduction to Data Justice
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_5_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5_2">
+            <span class="md-nav__icon md-icon"></span>
+            Introduction to Data Justice
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/dj/dj-100-index/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction to Data Justice
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/dj/dj-100-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    What is Data Justice?
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/dj/dj-100-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    A brief history of data justice literature
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/dj/dj-100-3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Second-Wave Data Justice Research and Practice
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5_3" id="__nav_3_5_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    The Six Pillars of Data Justice
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            The Six Pillars of Data Justice
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/dj/dj-101-index/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction to the Six Pillars of Data Justice
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/dj/dj-101-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Power
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/dj/dj-101-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Equity
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/dj/dj-101-3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Access
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/dj/dj-101-4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Identity
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/dj/dj-101-5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Participation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/dj/dj-101-6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Knowledge
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_5_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5_4" id="__nav_3_5_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Data Justice in Action
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_5_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5_4">
+            <span class="md-nav__icon md-icon"></span>
+            Data Justice in Action
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/dj/dj-102-index/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Data Justice in Action
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/dj-102-1.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Documentary series
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/dj-102-2.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introducing Data Justice
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/dj-102-3.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Uncovering Data Injustice
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../skills-tracks/dj-102-4.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mobilising for Data Justice
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../resources/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Resources
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4" id="__nav_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Resources
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../resources/gallery/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gallery
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../resources/bibliographies/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bibliographies
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../resources/case-studies/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Case Studies
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../resources/activities/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Activities
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Blog
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_5" id="__nav_5_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Blog
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_2" id="__nav_5_2_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Archive
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2">
+            <span class="md-nav__icon md-icon"></span>
+            Archive
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../archive/2024/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2024
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../archive/2023/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2023
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../archive/2022/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2022
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_3" id="__nav_5_3_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Categories
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            Categories
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../category/news/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    news
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#goals-and-objectives" class="md-nav__link">
+    <span class="md-ellipsis">
+      Goals and Objectives
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Goals and Objectives">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modular-and-tailored-resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modular and Tailored Resources
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#participatory-design-and-user-engagement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Participatory Design and User Engagement
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#building-an-open-infrastructure" class="md-nav__link">
+    <span class="md-ellipsis">
+      Building an Open Infrastructure
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#expanding-the-commons" class="md-nav__link">
+    <span class="md-ellipsis">
+      Expanding the Commons
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-can-you-get-involved" class="md-nav__link">
+    <span class="md-ellipsis">
+      How can you get involved?
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+  <div class="md-content md-content--post" data-md-component="content">
+    <div class="md-sidebar md-sidebar--post" data-md-component="sidebar" data-md-type="navigation">
+      <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner md-post">
+          <nav class="md-nav md-nav--primary">
+            <div class="md-post__back">
+              <div class="md-nav__title md-nav__container">
+                <a href="../" class="md-nav__link">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+                  <span class="md-ellipsis">
+                    Back to index
+                  </span>
+                </a>
+              </div>
+            </div>
+            
+              <div class="md-post__authors md-typeset">
+                
+                  <div class="md-profile md-post__profile">
+                    <span class="md-author md-author--long">
+                      <img src="https://github.com/chrisdburr.png" alt="Dr Christopher Burr">
+                    </span>
+                    <span class="md-profile__description">
+                      <strong>
+                        
+                          Dr Christopher Burr
+                        
+                      </strong>
+                      <br>
+                      Senior Researcher in Trustworthy Systems
+                    </span>
+                  </div>
+                
+              </div>
+            
+            <ul class="md-post__meta md-nav__list">
+              <li class="md-nav__item md-nav__item--section">
+                <div class="md-post__title">
+                  <span class="md-ellipsis">
+                    Metadata
+                  </span>
+                </div>
+                <nav class="md-nav">
+                  <ul class="md-nav__list">
+                    <li class="md-nav__item">
+                      <div class="md-nav__link">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H5V8h14m-3-7v2H8V1H6v2H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1V1m-1 11h-5v5h5z"/></svg>
+                        <time datetime="2022-11-14 00:00:00+00:00" class="md-ellipsis">Nov 14, 2022</time>
+                      </div>
+                    </li>
+                    
+                    
+                      <li class="md-nav__item">
+                        <div class="md-nav__link">
+                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 3v15h3V3zm3 2 4 13 3-1-4-13zM5 5v13h3V5zM3 19v2h18v-2z"/></svg>
+                          <span class="md-ellipsis">
+                            in
+                            
+                              <a href="../category/news/">news</a></span>
+                        </div>
+                      </li>
+                    
+                    
+                      
+                      <li class="md-nav__item">
+                        <div class="md-nav__link">
+                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 20a8 8 0 0 0 8-8 8 8 0 0 0-8-8 8 8 0 0 0-8 8 8 8 0 0 0 8 8m0-18a10 10 0 0 1 10 10 10 10 0 0 1-10 10C6.47 22 2 17.5 2 12A10 10 0 0 1 12 2m.5 5v5.25l4.5 2.67-.75 1.23L11 13V7z"/></svg>
+                          <span class="md-ellipsis">
+                            
+                              10 min read
+                            
+                          </span>
+                        </div>
+                      </li>
+                    
+                  </ul>
+                </nav>
+              </li>
+            </ul>
+            
+          </nav>
+          
+        </div>
+      </div>
+    </div>
+    <article class="md-content__inner md-typeset">
+      
+        
+  
+
+
+  <nav class="md-tags" >
+    
+      
+      
+      
+        <span class="md-tag">objectives</span>
+      
+    
+  </nav>
+
+
+  
+  
+
+
+<h1 id="turing-commons-roadmap">Turing Commons Roadmap<a class="headerlink" href="#turing-commons-roadmap" title="Permanent link">&para;</a></h1>
+<p>This blog post sets out a general roadmap and explores a series of objectives for the Turing Commons as we head into 2023.</p>
+<!-- more -->
+
+<p><a class="glightbox" href="https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/rri-cover.jpg" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Abstract illustration of two people making ethical decisions as they walk along a digital road towards a more responsible digital society. Illustration by Jonny Lighthands." src="https://raw.githubusercontent.com/alan-turing-institute/turing-commons/main/docs/assets/images/illustrations/rri-cover.jpg" /></a></p>
+<p>The Turing Commons started out, as all good projects do, with an idea and a name, presented to the Turing's Data Ethics Group in the Winter of 2019 (<img alt="🎩" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f3a9.svg" title=":tophat:" /> to David Leslie and Christina Hitrova).</p>
+<p>With the important decision out of the way, our plan was to build a community platform (the “commons”) to host and support a set of resources that were freely open and accessible to all people with an interest in the ways that data-driven technologies are changing society.</p>
+<p>Those who are familiar with Garret Hardin’s influential analysis of the ‘Tragedy of the Commons’<sup id="fnref:tragedy"><a class="footnote-ref" href="#fn:tragedy">2</a></sup>, will appreciate why the “commons” cannot be left unmanaged if it is to serve a sustainable and collective benefit. However, such governance or curation should not occur in the dark, in case it ends up serving the vested interests of a small minority.</p>
+<p>So, in the spirit of transparency and openness, this post sets out our current roadmap for how and where we plan to develop the Turing Commons, and how we will work with others to ensure that the resources are co-designed to serve genuine needs and challenges.</p>
+<h2 id="goals-and-objectives">Goals and Objectives<a class="headerlink" href="#goals-and-objectives" title="Permanent link">&para;</a></h2>
+<p>From the start of this project, a key goal has been to develop high-quality resources for academic researchers whose work involves the design, development, or evaluation or data-driven technologies, including machine learning or artificial intelligence. To that end, we have produced and delivered three courses on the following topics:</p>
+<ol>
+<li><a href="https://alan-turing-institute.github.io/turing-commons/rri/">Responsible Research and Innovation</a></li>
+<li><a href="https://alan-turing-institute.github.io/turing-commons/ped/">Public Engagement for Data Science and AI</a></li>
+<li><a href="https://alan-turing-institute.github.io/turing-commons/aeg/">AI Ethics and Governance</a></li>
+</ol>
+<p>For each course we started by hosting a series of workshops with 10-15 researchers to identify the topics, questions, and issues which were most important to them. The feedback we received from these workshops was used to develop our original courses.</p>
+<p>We have learned a lot from planning and delivering these courses. Following the delivery of our first course on <a href="https://alan-turing-institute.github.io/turing-commons/rri/">Responsible Research and Innovation</a>, we sought feedback from the participants, including a specific request for recommendations for improvements.</p>
+<p>Several participants suggested <em>more time</em> to explore the new ideas being presented. In response, we redesigned our second course to have a better balance between time spent delivering new material and time spent exploring the material during activities or group discussion. Others recommended <em>closer integration of our activities</em> with the core material. For this, we ensured that our next course has a clear thread which ran through each of the days, progressively building up to a capstone activity.<sup id="fnref:ped-course"><a class="footnote-ref" href="#fn:ped-course">1</a></sup></p>
+<p>The benefit of these small but important changes was clear in the feedback from our second course:</p>
+<div class="admonition quote">
+<p class="admonition-title">Participant Feedback</p>
+<p>The activities and group work helped understand the course content really well so I would say that the activities are the highlights.</p>
+</div>
+<p>Being responsive to the changing needs of our course participants is a key objective for us, and is central to the above goal of creating high quality (and needs driven) resources. However, designing content and resources that are valuable for <em>all of our participants</em> has been challenging given the multi-disciplinary setting of our courses. For example, if we provided an illustrative example to help explain a key concept, those participants who happened to have a background in the respective area (e.g. healthcare) were able to grasp the idea more readily. Addressing this challenge leads us to the first of our new objectives.</p>
+<p><a class="glightbox" href="https://raw.githubusercontent.com/alan-turing-institute/trustworthy-assurance/main/docs/assets/images/public-engagement-goals.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="People walking up a mountain, which is represented as a graph. Illustration by Jonny Lighthands." src="https://raw.githubusercontent.com/alan-turing-institute/trustworthy-assurance/main/docs/assets/images/public-engagement-goals.png" /></a></p>
+<h3 id="modular-and-tailored-resources">Modular and Tailored Resources<a class="headerlink" href="#modular-and-tailored-resources" title="Permanent link">&para;</a></h3>
+<p>At present, we are revisiting the content of our three courses and focusing on the following set of objectives:</p>
+<div class="admonition success">
+<p class="admonition-title">First Objectives</p>
+<ol>
+<li>Revise the content of each course based on what worked well, what did not, and what needs updating.</li>
+<li>Modularise the courses to allow more flexibility for participants who are unable or do not wish to take a 5-day long course.</li>
+<li>Design a more flexible set of materials and resources that can be tailored to different disciplines.</li>
+</ol>
+</div>
+<p>Let’s look at the (2) and (3).</p>
+<p>Asking researchers to block five days from their schedules to attend a course is demanding, and can also be exclusionary for some (e.g. those with parenting responsibilities, or part-time jobs). Designing our courses in this way allowed us to test our material as a whole, but our next step is to modularise the courses to enable a more flexible approach that supports different modes of learning.</p>
+<p>To this end, we have started splitting our original courses into three main components:</p>
+<ol>
+<li>Core modules: the primary topic areas covered in our courses</li>
+<li>Optional modules: additional content that can be brought across from other courses, or take specific concepts in different directions (e.g. data privacy and protection)</li>
+<li>Activities: the set of activities (both self-directed and group-based) that help users understand the module’s topics</li>
+<li>Case Studies: illustrative case studies that anchor the topics in concrete cases and practical examples</li>
+</ol>
+<p>Separating these components allows us to design and develop a modular approach where users can tailor our content and resources to their own skills and training needs. For example, a researcher in robotics could select 3 of our recommended (core) modules on public engagement, combine them with introductory modules on AI ethics (from a separate course) and supplement them with the recommended activities and domain-specific case studies to support their learning. This results in a modular approach to building ‘skills tracks’ depicted in Figure 1.</p>
+<p><a class="glightbox" href="https://i.imgur.com/gueH4Nt.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="A schematic depicting the modular approach to our skills tracks, comprising core modules, activities, and case studies" src="https://i.imgur.com/gueH4Nt.png" /></a>
+<em>Figure 1: a schematic depicting the modular approach to our skills tracks, comprising core (and optional) modules, activities, and case studies</em></p>
+<p>In addition to being more flexible and tailored, this also enables us to focus on novel approaches to self-directed learning, which has so far been absent on our platform (e.g. creating an online learning environment for individuals who cannot attend hosted courses).</p>
+<p>While this sets out our general approach, there is an important component missing... who is involved in the redesign and redevelopment?</p>
+<h3 id="participatory-design-and-user-engagement">Participatory Design and User Engagement<a class="headerlink" href="#participatory-design-and-user-engagement" title="Permanent link">&para;</a></h3>
+<p>Developing domain-specific case studies that can be used to tailor core modules to the needs of researchers in different disciplines requires domain-specific expertise. Therefore, the redesign and redevelopment of our content and resources has to be conducted in a participatory manner.</p>
+<p>Recently, we have started collaborating with the <a href="https://web.inf.ed.ac.uk/cdt/biomedical-ai">UKRI CDT in Biomedical AI</a> (University of Edinburgh) and the <a href="https://ai4er-cdt.esc.cam.ac.uk">UKRI CDT in AI for the study of Environmental Risks</a> (University of Cambridge) to develop and evaluate two of our newly designed core modules for Responsible Research and Innovation. This participatory design work will include the co-creation of tailored case studies for their respective domains (e.g. predictive diagnostics for healthcare, earth monitoring and surveillance technologies). It will also allow us to work with domain experts to identify the most pressing needs and challenges related to skills and training gaps in responsible research and innovation.</p>
+<p><a class="glightbox" href="https://i.imgur.com/p4oJZct.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Logos of our two pilot partners" src="https://i.imgur.com/p4oJZct.png" /></a></p>
+<p>A key output from our planned workshops will be to evaluate two core modules on ‘AI Fairness’ and ‘Explainable AI’, which will be adapted to the context of the two Centres for Doctoral Training (CDT). In addition, we will evaluate activities for self-directed learning and group activities. These activities will also make use of the case studies (to be co-developed) that will help ground the content in practical and domain-specific examples.</p>
+<p>Although limited to two domains during our pilot phase, we intend to explore further areas following our initial evaluations. However, scaling in this way can be time-consuming and slow, so we are also researching and developing a new technical infrastructure to support the process.</p>
+<h3 id="building-an-open-infrastructure">Building an Open Infrastructure<a class="headerlink" href="#building-an-open-infrastructure" title="Permanent link">&para;</a></h3>
+<p>Our current website is hosted by GitHub pages, and uses the fantastic <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a> as a static-site generator. This set-up has allowed us to focus on creating written content using Markdown, rather than worrying about web development. However, there are limitations to static sites, and some of these limitations also serve as barriers to our next objective:</p>
+<div class="admonition success">
+<p class="admonition-title">Second Objective</p>
+<p>Create an open platform that supports interactive and self-directed learning approaches that are customisable to different users and groups.</p>
+</div>
+<p>As mentioned in the previous section a key milestone on our project’s roadmap is the development of domain-specific case studies that enable users to tailor our core modules to their domain (e.g. robotics or journalism). Another milestone for our future roadmap is to develop a case study repository and API to build additional functionality into our website. Doing so will allow users to better tailor skills tracks to their needs by using the available case studies and modules that ground the content of the modules.</p>
+<p>And, where there are gaps in our resources, an open API will allow partners to more easily integrate their own contributions into the platform, in turn supporting and caring for the commons.</p>
+<p>This goal requires us to do two things:</p>
+<ol>
+<li>Develop a database (or data store) to serve case study data to our front-end</li>
+<li>Enable more interactivity in our website, which uses the database to present specific content to users based upon pre-specific information and preferences, such as<ul>
+<li>Disciplinary background</li>
+<li>Research priorities</li>
+<li>Prior knowledge of topics</li>
+<li>Time available for learning</li>
+</ul>
+</li>
+</ol>
+<p>Figure 2 shows how this could work if using something like a JSON file to dynamically adjust elements of a template for our case studies.</p>
+<p><a class="glightbox" href="https://i.imgur.com/dIRqRKO.jpg" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Proof of concept diagram showing how a JSON file could populate a HTML document for a case study on decision support systems" src="https://i.imgur.com/dIRqRKO.jpg" /></a>
+<em>Figure 2: an example of how a JSON file could populate a HTML document for a case study on decision support systems</em></p>
+<p>However, the modular design of these case studies will also allow for partial updating of additional parts of our website (e.g. information boxes in our online guidebooks). Meeting these two objectives can be achieved using our current infrastructure as a proof-of-concept. However, our longer term plans will require a more thorough redesign to add features such as the following:</p>
+<ul>
+<li>Public API access to allow users to submit new case studies to our repository (i.e. feeding into the “commons”)</li>
+<li>User authentication to allow individuals to keep track of their progress, store notes, and build new skills tracks that are customisable to their needs</li>
+<li>Improved interactivity for activities and learning that rely on modern web frameworks with state management functionality (e.g. React)</li>
+<li>Enabling communication and collaboration between users through our platform</li>
+</ul>
+<p>Implementing these features will take time and resources, and we hope to ensure our roadmap remains open to external collaborators who can steer the project in new an exciting directions. This brings us to our final objective.</p>
+<h3 id="expanding-the-commons">Expanding the Commons<a class="headerlink" href="#expanding-the-commons" title="Permanent link">&para;</a></h3>
+<p><a class="glightbox" href="https://raw.githubusercontent.com/alan-turing-institute/trustworthy-assurance/main/docs/assets/images/ch4-header.jpg" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="An illustration of a participatory design workshop. Illustration by Jonny Lighthands." src="https://raw.githubusercontent.com/alan-turing-institute/trustworthy-assurance/main/docs/assets/images/ch4-header.jpg" /></a></p>
+<div class="admonition success">
+<p class="admonition-title">Third Objective</p>
+<p>To further build on our current resources to meet the needs of additional groups and communities.</p>
+</div>
+<p>Many of the topics and issues we have explored in our courses so far have importance beyond the academic community. We know this from some of our own <a href="https://www.turing.ac.uk/blog/camdens-data-charter-why-good-data-governance-being-parent">public engagement work</a>, as well as from discussions we have had with partners from the public, private and third sectors. Although we have started with an academic audience, this is not our end point.</p>
+<p>The following list contains examples of groups who we also wish to build resources with and for:</p>
+<ol>
+<li>Regulators and Policy-Makers</li>
+<li>Journalists and Science Communicators</li>
+<li>Members of the Public</li>
+<li>Industry Professionals (e.g. developers and data analysts)</li>
+</ol>
+<p>While there are topics in our current resources that will be of interest to some of these groups (e.g. public engagement for journalists; AI fairness for regulators), we cannot assume that the needs of the academic community will be met by our current offerings. Therefore, in the near future we have plans to work with these groups to co-design materials and resources that make the ethical, social, and legal issues of data-driven technologies clear and accessible to all.</p>
+<p>We have also recently taken part in a workshop with the <a href="https://www.gov.uk/world/organisations/uk-science-and-innovation-network">UK Government’s Science and Innovation Network</a>, organised by the Turing’s International team. The purpose of this workshop was to identify ways that we can work with international partners to support the global community and in turn co-create bidirectional forms of value.</p>
+<p>By expanding the scope of the Turing Commons in the above ways, we hope that our first objective also feeds into a wider-reaching goal.</p>
+<div class="admonition success">
+<p class="admonition-title">Overarching Goal</p>
+<p>To equip diverse groups and communities with the knowledge and understanding of data-driven technologies so they are able to participate fully in democratic forms of deliberation about how these technologies should be used to benefit individuals and society.</p>
+</div>
+<p>We’re excited about these plans and developments, and especially to working with new partners who are passionate about creating a responsible and trustworthy ecosystem for data-driven technologies.</p>
+<h2 id="how-can-you-get-involved">How can you get involved?<a class="headerlink" href="#how-can-you-get-involved" title="Permanent link">&para;</a></h2>
+<p>At the moment, we are still working on creating structured forms of support to allow interested parties to get involved. For instance, we will be releasing updates on this blog and on social media over the coming weeks with details of how to contribute to this blog directly.</p>
+<p>For the time being, the best way to get involved is to just to reach out to us and start a conversation. Do you have an idea for a case study? Do you want to take part in one of our evaluations? Do you have time to help us maintain the current GitHub repository?</p>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:ped-course">
+<p>See this <a href="https://alan-turing-institute.github.io/turing-commons/blog/peeling-back-the-layers-of-science-and-technology/">blog post</a> for more information.&#160;<a class="footnote-backref" href="#fnref:ped-course" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+<li id="fn:tragedy">
+<p>Hardin, G. (1968). The Tragedy of the Commons. Science, 162(3859), 1243–1248. <a href="http://www.jstor.org/stable/1724745">http://www.jstor.org/stable/1724745</a>&#160;<a class="footnote-backref" href="#fnref:tragedy" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+  
+
+
+
+      
+    </article>
+  </div>
+
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+        
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../course-announcement-ai-ethics-and-governance/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Course Announcement: AI Ethics and Governance">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Course Announcement: AI Ethics and Governance
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../how-ordinary-residents-are-creating-camden-councils-data-charter/" class="md-footer__link md-footer__link--next" aria-label="Next: How ordinary residents are creating Camden Council’s Data Charter">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                How ordinary residents are creating Camden Council’s Data Charter
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2022 Alan Turing Institute
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["announce.dismiss", "content.code.annotate", "content.code.copy", "navigation.indexes", "navigation.footer", "navigation.instant", "navigation.sections", "navigation.path", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.tracking", "search.highlight", "search.share", "search.suggest", "toc.follow"], "search": "../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+        <script src="../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="../../javascripts/tablesort.js"></script>
+      
+    
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
+</html>
