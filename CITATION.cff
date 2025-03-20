@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Turing Commons"
+type: software
+authors:
+  - family-names: "Burr"
+    given-names: "Christopher"
+  - family-names: "Barlow"
+    given-names: "Nick"
+  - family-names: "Borda"
+    given-names: "Ann"
+  - family-names: "Ding"
+    given-names: "Jennifer"
+  - family-names: "Dominguez"
+    given-names: "Andres"
+  - family-names: "Fischer"
+    given-names: "Claudia"
+  - family-names: "Hadjiloizou"
+    given-names: "Semeli"
+  - family-names: "Hashem"
+    given-names: "Youmna"
+  - family-names: "Jaydeva"
+    given-names: "Smera"
+  - family-names: "Katell"
+    given-names: "Michael"
+  - family-names: "Leslie"
+    given-names: "David"
+  - family-names: "Powell"
+    given-names: "Rosamund"
+  - family-names: "Rincon"
+    given-names: "Cami"
+  - family-names: "Sharan"
+    given-names: "Malvika"
+url: "https://github.com/alan-turing-institute/turing-commons"
+doi: 10.5281/zenodo.15055925
+year: 2025
+date-released: 2025-03-20
