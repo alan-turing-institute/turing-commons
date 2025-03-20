@@ -18,6 +18,5 @@
   title = {Turing Commons},
   year = {2025},
   url = {https://github.com/alan-turing-institute/turing-commons},
-  doi = {},
-  note = {Accessed on [Date]}
+  doi = {10.5281/zenodo.15055925.svg}
 }
