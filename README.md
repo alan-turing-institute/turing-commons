@@ -1,5 +1,12 @@
 # Turing Commons
 
+> [!IMPORTANT]
+> **This repository is archived and is not currently maintained.** The Turing
+> Commons training materials remain available to read at
+> <https://alan-turing-institute.github.io/turing-commons/>, but the content is
+> no longer being updated. The project may be revived and reopened in the
+> future, though this is yet to be confirmed. (Archived June 2026)
+
 *Total Contributors:*
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
