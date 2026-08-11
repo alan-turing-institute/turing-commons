@@ -121,6 +121,8 @@ Therefore, this model also seeks to identify means for democratising science and
 Once we understand these different activities, it becomes clear that public participation is not about outsourcing decision-making authority to the public.
 In other words, the people that participate are not making decisions on behalf of researchers, but their voices should be listened to insofar as they are impacted by the consequences of a research or innovation project.
 
+This can even include cases where the participants may have other priorities than purusing research goals. Participatory methods have been used within the humanitarian and development sectors for research on topics such as poverty aliviation, improving food security or public health, land rights and others. In these cases participants might reasonably be more interested in improving their own and their comminities circumstancies, over abstract notions of furtherance of sciencific understanding. *Empowerment* can mean that a comminities uses whether and how to use Data Science and AI as a tool that helps them. It also requires reserachers to be accountable to the comminities that they are researching (expressed by consent to continue the research).
+
 This is because scientific research and the design, development, and deployment of technology embody particular values that may not be shared by those who are directly or indirectly affected by the consequences of such activities.
 Obvious examples include military science and technology. Can you think of others?
 
